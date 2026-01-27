@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/clients/clients-add",
+  "title": "Добавление клиента",
+  "description": "1. Если вы уже подготовили список клиентов в Excel, перейдите в Клиенты→Клиенты и нажмите на три точки в правом верхнем углу экрана. Откроется окно для загрузки файла.",
+  "source": "@site/docs/knowledge/clients/clients-add.md",
+  "sourceDirName": "knowledge/clients",
+  "slug": "/knowledge/clients/clients-add",
+  "permalink": "/docs/knowledge/clients/clients-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/clients/clients-add.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "clients-add",
+    "title": "Добавление клиента",
+    "sidebar_label": "Добавление клиентов",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Возврат товара поставщику",
+    "permalink": "/docs/knowledge/purchase/supplier-return"
+  },
+  "next": {
+    "title": "Создание заказа",
+    "permalink": "/docs/knowledge/clients/order-add"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "defaultLocale": "ru",
+  "locales": [
+    "ru",
+    "uz"
+  ],
+  "path": "i18n",
+  "currentLocale": "ru",
+  "localeConfigs": {
+    "ru": {
+      "label": "Русский",
+      "direction": "ltr",
+      "htmlLang": "ru",
+      "calendar": "gregory",
+      "path": "ru"
+    },
+    "uz": {
+      "label": "O‘zbekcha",
+      "direction": "ltr",
+      "htmlLang": "uz",
+      "calendar": "gregory",
+      "path": "uz"
+    }
+  }
+}

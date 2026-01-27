@@ -1,0 +1,30 @@
+{
+  "id": "quick-start/quick-start",
+  "title": "Tezkor boshlash",
+  "description": "Ishni boshlashdan oldin nimalarni bilish kerak",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/quick-start/quick-start.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/",
+  "permalink": "/uz/docs/quick-start/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quick-start/quick-start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "quick-start",
+    "title": "Tezkor boshlash",
+    "sidebar_label": "Kirish",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iBOX tizimi haqida",
+    "permalink": "/uz/docs/overview/product-overview"
+  },
+  "next": {
+    "title": "1-qism: Ro‘yxatdan o‘tish",
+    "permalink": "/uz/docs/quick-start/part1-registration"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/release-3-4",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-10-20-release-3-4.md",
+  "source": "@site/blog/2025-10-20-release-3-4.md",
+  "title": "Что нового в iBOX 3.4",
+  "description": "Добавлены отчёты и улучшена стабильность",
+  "date": "2025-10-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "релиз",
+      "permalink": "/blog/tags/релиз"
+    },
+    {
+      "inline": true,
+      "label": "обновление",
+      "permalink": "/blog/tags/обновление"
+    }
+  ],
+  "readingTime": 0.14,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Что нового в iBOX 3.4",
+    "description": "Добавлены отчёты и улучшена стабильность",
+    "slug": "release-3-4",
+    "tags": [
+      "релиз",
+      "обновление"
+    ]
+  },
+  "unlisted": false
+}

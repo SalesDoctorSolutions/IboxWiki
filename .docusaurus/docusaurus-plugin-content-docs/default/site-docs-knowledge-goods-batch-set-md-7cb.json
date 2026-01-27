@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/goods/batch-set",
+  "title": "Настройка партийного учета",
+  "description": "При создании товара",
+  "source": "@site/docs/knowledge/goods/batch-set.md",
+  "sourceDirName": "knowledge/goods",
+  "slug": "/knowledge/goods/batch-set",
+  "permalink": "/docs/knowledge/goods/batch-set",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/goods/batch-set.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "batch-set",
+    "title": "Настройка партийного учета",
+    "sidebar_label": "Настройка партийного учета",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Партийный учет в iBOX",
+    "permalink": "/docs/knowledge/goods/batch-tracking"
+  },
+  "next": {
+    "title": "Добавление прайс-листа",
+    "permalink": "/docs/knowledge/goods/pricelist-add"
+  }
+}

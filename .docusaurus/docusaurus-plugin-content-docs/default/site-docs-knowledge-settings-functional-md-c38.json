@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/settings/functional",
+  "title": "Функционал iBOX",
+  "description": "Функционал iBox позволяет гибко настроить систему под задачи вашей компании.",
+  "source": "@site/docs/knowledge/settings/functional.md",
+  "sourceDirName": "knowledge/settings",
+  "slug": "/knowledge/settings/functional",
+  "permalink": "/docs/knowledge/settings/functional",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/settings/functional.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 26,
+  "frontMatter": {
+    "id": "functional",
+    "title": "Функционал iBOX",
+    "sidebar_label": "Функционал iBOX",
+    "sidebar_position": 26
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Настройки по умолчанию",
+    "permalink": "/docs/knowledge/settings/default-settings"
+  },
+  "next": {
+    "title": "Организации и филиалы",
+    "permalink": "/docs/knowledge/settings/organizations"
+  }
+}

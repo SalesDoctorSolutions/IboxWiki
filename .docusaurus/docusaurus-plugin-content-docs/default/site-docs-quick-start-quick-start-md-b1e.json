@@ -1,0 +1,30 @@
+{
+  "id": "quick-start/quick-start",
+  "title": "Быстрый старт",
+  "description": "Что нужно знать перед началом работы",
+  "source": "@site/docs/quick-start/quick-start.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/",
+  "permalink": "/docs/quick-start/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quick-start/quick-start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "quick-start",
+    "title": "Быстрый старт",
+    "sidebar_label": "Введение",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "О системе iBOX",
+    "permalink": "/docs/overview/product-overview"
+  },
+  "next": {
+    "title": "Часть 1: Регистрация",
+    "permalink": "/docs/quick-start/part1-registration"
+  }
+}

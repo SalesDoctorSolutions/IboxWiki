@@ -1,0 +1,30 @@
+{
+  "id": "faq/faq",
+  "title": "Часто задаваемые вопросы",
+  "description": "Здесь вы найдете быстрые решения и ответы на вопросы по работе с системой.",
+  "source": "@site/docs/faq/faq.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/",
+  "permalink": "/docs/faq/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "faq",
+    "title": "Часто задаваемые вопросы",
+    "sidebar_label": "Ответы на вопросы пользователей",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Организации и филиалы",
+    "permalink": "/docs/knowledge/settings/organizations"
+  },
+  "next": {
+    "title": "Начало работы в iBOX",
+    "permalink": "/docs/faq/start"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "wiki-style",
+  "title": "Стайлгайд для вики",
+  "description": "Оглавление",
+  "source": "@site/docs/wiki-style.md",
+  "sourceDirName": ".",
+  "slug": "/wiki-style",
+  "permalink": "/docs/wiki-style",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki-style.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "id": "wiki-style",
+    "title": "Стайлгайд для вики",
+    "sidebar_position": 100,
+    "sidebar_label": "Стайлгайд"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Редакционная политика",
+    "permalink": "/docs/editorial-policy"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/reports/goods-profit",
+  "title": "Прибыльность по товарам",
+  "description": "Отчет показывает, сколько прибыли приносит каждый товар за выбранный период. Он помогает выявить:",
+  "source": "@site/docs/knowledge/reports/goods-profit.md",
+  "sourceDirName": "knowledge/reports",
+  "slug": "/knowledge/reports/goods-profit",
+  "permalink": "/docs/knowledge/reports/goods-profit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/reports/goods-profit.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 23,
+  "frontMatter": {
+    "id": "goods-profit",
+    "title": "Прибыльность по товарам",
+    "sidebar_label": "Прибыльность по товарам",
+    "sidebar_position": 23
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Отчеты по продажам",
+    "permalink": "/docs/knowledge/reports/sales-reports"
+  },
+  "next": {
+    "title": "Анализ остатков на складе",
+    "permalink": "/docs/knowledge/reports/stock-analysis"
+  }
+}

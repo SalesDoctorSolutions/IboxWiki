@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/purchase/supplier-add",
+  "title": "Добавление поставщиков",
+  "description": "Вы можете добавить поставщиков двумя способами",
+  "source": "@site/docs/knowledge/purchase/supplier-add.md",
+  "sourceDirName": "knowledge/purchase",
+  "slug": "/knowledge/purchase/supplier-add",
+  "permalink": "/docs/knowledge/purchase/supplier-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/purchase/supplier-add.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "supplier-add",
+    "title": "Добавление поставщиков",
+    "sidebar_label": "Добавление поставщиков",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Закупки товара в iBOX",
+    "permalink": "/docs/knowledge/purchase/"
+  },
+  "next": {
+    "title": "Закупочная цена",
+    "permalink": "/docs/knowledge/purchase/purchase-price"
+  }
+}

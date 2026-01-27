@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/access/access-workplace",
+  "title": "Настройка рабочего места",
+  "description": "Для работы сотрудника в мобильной версии достаточно настроить рабочее место и задать, какие действия сотрудник сможет выполнять.",
+  "source": "@site/docs/knowledge/access/access-workplace.md",
+  "sourceDirName": "knowledge/access",
+  "slug": "/knowledge/access/access-workplace",
+  "permalink": "/docs/knowledge/access/access-workplace",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/access/access-workplace.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "access-workplace",
+    "title": "Настройка рабочего места",
+    "sidebar_label": "Как создать рабочее место",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Как настроить роли в iBOX",
+    "permalink": "/docs/knowledge/access/access-role"
+  },
+  "next": {
+    "title": "Как ограничить доступ сотруднику",
+    "permalink": "/docs/knowledge/access/access-change"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/warehouse/inventory",
+  "title": "Управление остатками",
+  "description": "Разберемся, как использовать возможности системы, чтобы контролировать остатки и принимать взвешенные решения.",
+  "source": "@site/docs/knowledge/warehouse/inventory.md",
+  "sourceDirName": "knowledge/warehouse",
+  "slug": "/knowledge/warehouse/inventory",
+  "permalink": "/docs/knowledge/warehouse/inventory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/warehouse/inventory.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "id": "inventory",
+    "title": "Управление остатками",
+    "sidebar_label": "Управление остатками",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Статус заказа в iBOX",
+    "permalink": "/docs/knowledge/clients/order-status"
+  },
+  "next": {
+    "title": "Корректировка остатков",
+    "permalink": "/docs/knowledge/warehouse/stock-adjustment"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "intro",
+  "title": "Добро пожаловать",
+  "description": "Добро пожаловать в документацию iBox.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Добро пожаловать",
+    "sidebar_position": 1
+  }
+}

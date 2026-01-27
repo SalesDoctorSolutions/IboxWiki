@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/data/data-access",
+  "title": "Доступ к данным",
+  "description": "- Доступ есть только у сотрудников компании, которым вы выдали права через роли.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/data/data-access.md",
+  "sourceDirName": "knowledge/data",
+  "slug": "/knowledge/data/data-access",
+  "permalink": "/uz/docs/knowledge/data/data-access",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/data/data-access.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "data-access",
+    "title": "Доступ к данным",
+    "sidebar_label": "Кто имеет доступ к вашим данным",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Где хранятся данные в iBOX",
+    "permalink": "/uz/docs/knowledge/data/data-security"
+  },
+  "next": {
+    "title": "Владелец данных",
+    "permalink": "/uz/docs/knowledge/data/data-owner"
+  }
+}

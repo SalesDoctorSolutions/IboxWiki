@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/clients/shipment-add",
+  "title": "Создание отгрузки",
+  "description": "Отгрузка фиксирует факт передачи товара клиенту - с нее начинается контроль дебиторской задоженности и работа с оплатами.",
+  "source": "@site/docs/knowledge/clients/shipment-add.md",
+  "sourceDirName": "knowledge/clients",
+  "slug": "/knowledge/clients/shipment-add",
+  "permalink": "/docs/knowledge/clients/shipment-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/clients/shipment-add.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "shipment-add",
+    "title": "Создание отгрузки",
+    "sidebar_label": "Создание отгрузки",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Резервирование заказа",
+    "permalink": "/docs/knowledge/clients/item-reserve"
+  },
+  "next": {
+    "title": "Маршруты в iBOX",
+    "permalink": "/docs/knowledge/clients/routes"
+  }
+}

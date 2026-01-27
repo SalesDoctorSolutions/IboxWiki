@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/factory/factory",
+  "title": "Фабрика",
+  "description": "Модуль Фабрика позволяет собирать новые товары из имеющихся, рассчитывать их себестоимость и управлять производственными процессами. Решение подходит для компаний, которые производят продукцию из сырья: от пекарен до мебельных мастерских.",
+  "source": "@site/docs/knowledge/factory/factory.md",
+  "sourceDirName": "knowledge/factory",
+  "slug": "/knowledge/factory/",
+  "permalink": "/docs/knowledge/factory/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/factory/factory.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "id": "factory",
+    "title": "Фабрика",
+    "sidebar_label": "Фабрика",
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Создание перемещения",
+    "permalink": "/docs/knowledge/warehouse/new-transfer"
+  },
+  "next": {
+    "title": "Техкарта",
+    "permalink": "/docs/knowledge/factory/bom"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/reports/sales-reports",
+  "title": "Отчеты по продажам",
+  "description": "Они помогают узнать, какие товары и клиенты приносят больше всего прибыли. Вы сможете увидеть, как меняется поведение покупателей, и отследить эффективность сотрудников.",
+  "source": "@site/docs/knowledge/reports/sales-reports.md",
+  "sourceDirName": "knowledge/reports",
+  "slug": "/knowledge/reports/sales-reports",
+  "permalink": "/docs/knowledge/reports/sales-reports",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/reports/sales-reports.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "id": "sales-reports",
+    "title": "Отчеты по продажам",
+    "sidebar_label": "Отчеты по продажам",
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Дашборд iBox",
+    "permalink": "/docs/knowledge/reports/dashboard"
+  },
+  "next": {
+    "title": "Прибыльность по товарам",
+    "permalink": "/docs/knowledge/reports/goods-profit"
+  }
+}

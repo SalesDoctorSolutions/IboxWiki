@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/access/access-team",
+  "title": "Добавление сотрудников",
+  "description": "1. В разделе Сотрудники нажмите ➕ плюс — откроется окно для добавления сотрудника.",
+  "source": "@site/docs/knowledge/access/access-team.md",
+  "sourceDirName": "knowledge/access",
+  "slug": "/knowledge/access/access-team",
+  "permalink": "/docs/knowledge/access/access-team",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/access/access-team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "access-team",
+    "title": "Добавление сотрудников",
+    "sidebar_label": "Как добавить сотрудников в систему",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Доступ в iBOX",
+    "permalink": "/docs/knowledge/access/"
+  },
+  "next": {
+    "title": "Как настроить роли в iBOX",
+    "permalink": "/docs/knowledge/access/access-role"
+  }
+}

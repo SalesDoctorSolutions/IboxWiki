@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/purchase/order-purchase",
+  "title": "Закупка или заказ",
+  "description": "Быстро разобраться с системой поможет схема:",
+  "source": "@site/docs/knowledge/purchase/order-purchase.md",
+  "sourceDirName": "knowledge/purchase",
+  "slug": "/knowledge/purchase/order-purchase",
+  "permalink": "/docs/knowledge/purchase/order-purchase",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/purchase/order-purchase.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "order-purchase",
+    "title": "Закупка или заказ",
+    "sidebar_label": "Закупка или заказ",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Закупочная цена",
+    "permalink": "/docs/knowledge/purchase/purchase-price"
+  },
+  "next": {
+    "title": "Создание заказа поставщику",
+    "permalink": "/docs/knowledge/purchase/order-add"
+  }
+}

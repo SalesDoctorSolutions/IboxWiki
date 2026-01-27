@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/clients/return",
+  "title": "Возврат товара",
+  "description": "Речь о ситуации, когда покупатель возвращает товар полностью или частично: по причине брака, пересорта, отказа от покупки и так далее.",
+  "source": "@site/docs/knowledge/clients/return.md",
+  "sourceDirName": "knowledge/clients",
+  "slug": "/knowledge/clients/return",
+  "permalink": "/docs/knowledge/clients/return",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/clients/return.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "return",
+    "title": "Возврат товара",
+    "sidebar_label": "Возврат товара",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Заказ или отгрузка",
+    "permalink": "/docs/knowledge/clients/orders-shipments"
+  },
+  "next": {
+    "title": "Уведомления и заказы через Telegram",
+    "permalink": "/docs/knowledge/clients/telegram"
+  }
+}

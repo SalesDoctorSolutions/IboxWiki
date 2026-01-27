@@ -1,0 +1,70 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.1. Обзор продукта": {
+    "message": "1. Mahsulot sharhi",
+    "description": "The label for category 1. Обзор продукта in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.2. Быстрый старт": {
+    "message": "2. Tezkor boshlash",
+    "description": "The label for category 2. Быстрый старт in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3. База знаний": {
+    "message": "3. Bilimlar bazasi",
+    "description": "The label for category 3. База знаний in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Данные и безопасность": {
+    "message": "Ma’lumotlar va xavfsizlik",
+    "description": "The label for category Данные и безопасность in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Настройки доступа": {
+    "message": "Xodimlarni tizimga qanday qo‘shish mumkin",
+    "description": "The label for category Настройки доступа in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Товары и цены": {
+    "message": "Mahsulotlar va narxlar",
+    "description": "The label for category Товары и цены in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Закупки и поставщики": {
+    "message": "Xaridlar va yetkazib beruvchilar",
+    "description": "The label for category Закупки и поставщики in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Клиенты и заказы": {
+    "message": "Mijozlar va buyurtmalar",
+    "description": "The label for category Клиенты и заказы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Склад": {
+    "message": "Ombor",
+    "description": "The label for category Склад in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Фабрика": {
+    "message": "Fabrika",
+    "description": "The label for category Фабрика in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Финансы": {
+    "message": "Pullar",
+    "description": "The label for category Финансы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Отчеты": {
+    "message": "Hisobotlar",
+    "description": "The label for category Отчеты in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CRM": {
+    "message": "CRM",
+    "description": "The label for category CRM in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Основные настройки в iBOX": {
+    "message": "iBOX’dagi asosiy sozlamalar",
+    "description": "The label for category Основные настройки в iBOX in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4. FAQ": {
+    "message": "4. Ko‘p beriladigan savollar (FAQ)",
+    "description": "The label for category 4. FAQ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5. Для авторов": {
+    "message": "5. Mualliflar uchun",
+    "description": "The label for category 5. Для авторов in sidebar tutorialSidebar"
+  }
+}

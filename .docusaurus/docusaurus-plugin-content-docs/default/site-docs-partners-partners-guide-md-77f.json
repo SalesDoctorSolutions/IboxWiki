@@ -1,0 +1,21 @@
+{
+  "id": "partners/partners-guide",
+  "title": "Для партнеров и интеграторов",
+  "description": "Материалы для внедрения iBox и подготовки новых клиентов.",
+  "source": "@site/docs/partners/partners-guide.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/partners-guide",
+  "permalink": "/docs/partners/partners-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/partners/partners-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "partners-guide",
+    "title": "Для партнеров и интеграторов",
+    "sidebar_label": "Материалы для внедрения iBox",
+    "sidebar_position": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/settings/organizations",
+  "title": "Организации и филиалы",
+  "description": "В одном аккаунте вы можете управлять несколькими организациями или филиалами.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/settings/organizations.md",
+  "sourceDirName": "knowledge/settings",
+  "slug": "/knowledge/settings/organizations",
+  "permalink": "/uz/docs/knowledge/settings/organizations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/settings/organizations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 27,
+  "frontMatter": {
+    "id": "organizations",
+    "title": "Организации и филиалы",
+    "sidebar_label": "Организации и филиалы",
+    "sidebar_position": 27
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Функционал iBOX",
+    "permalink": "/uz/docs/knowledge/settings/functional"
+  },
+  "next": {
+    "title": "Foydalanuvchilar savollariga javoblar",
+    "permalink": "/uz/docs/faq/"
+  }
+}

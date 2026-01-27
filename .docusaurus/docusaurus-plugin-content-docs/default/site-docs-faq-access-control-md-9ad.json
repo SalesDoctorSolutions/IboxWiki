@@ -1,0 +1,30 @@
+{
+  "id": "faq/access-control",
+  "title": "Управление доступами и ролями",
+  "description": "Кто может видеть мои данные в iBox?",
+  "source": "@site/docs/faq/access-control.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/access-control",
+  "permalink": "/docs/faq/access-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/access-control.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "access-control",
+    "title": "Управление доступами и ролями",
+    "sidebar_label": "Управление доступами и ролями",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Начало работы в iBOX",
+    "permalink": "/docs/faq/start"
+  },
+  "next": {
+    "title": "Редакционная политика",
+    "permalink": "/docs/editorial-policy"
+  }
+}

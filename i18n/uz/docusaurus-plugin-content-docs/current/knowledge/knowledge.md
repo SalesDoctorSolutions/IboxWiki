@@ -1,0 +1,10 @@
+---
+id: knowledge
+title: Bilimlar bazasi
+sidebar_label: Tizim bilan ishlash bo‘yicha yo‘riqnomalar
+sidebar_position: 3
+---
+
+Инструкции по работе с функционалом iBox — от штрихкодов до настройки шаблонов и работы с Telegram-ботом. 
+
+Статьи помогут вам глубже понять возможности системы и использовать ее на 100%.

@@ -1,0 +1,475 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-d08": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-b-5-664"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/-d1a": {
+    "__comp": "__comp---site-src-pages-blog-index-js-0-b-6-eba",
+    "__context": {
+      "plugin": "plugin---blog-a-74-b12"
+    },
+    "config": "config---blog-5-e-9-b4e"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/authors/all-sebastien-lorber-articles-495": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "items": [],
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+  },
+  "/blog/authors/yangshun-7c6": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "items": [],
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+  },
+  "/blog/release-3-4-b0e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-release-3-4-ec-0-e15"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/обновление-9d7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-b-5-664"
+      }
+    ],
+    "__props": "__props---blog-tags-обновление-0-d-5-649"
+  },
+  "/blog/tags/релиз-e32": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-b-5-664"
+      }
+    ],
+    "__props": "__props---blog-tags-релизd-09-697"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---blog-a-74-b12"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-f2a": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-3a3": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-6a8": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/editorial-policy-d77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-editorial-policy-55-e-bcc"
+  },
+  "/docs/faq/-dcc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-faq-dfc-e4e"
+  },
+  "/docs/faq/access-control-305": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-faq-access-control-9-ad-797"
+  },
+  "/docs/faq/start-2d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-faq-startf-0-b-84d"
+  },
+  "/docs/intro-853": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/knowledge/-d37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-b-91-0b4"
+  },
+  "/docs/knowledge/access/-e15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-59-f-957"
+  },
+  "/docs/knowledge/access/access-change-814": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-change-9-c-1-da4"
+  },
+  "/docs/knowledge/access/access-role-eb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-role-8-de-a96"
+  },
+  "/docs/knowledge/access/access-team-5c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-team-998-199"
+  },
+  "/docs/knowledge/access/access-workplace-c2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-workplace-25-c-a02"
+  },
+  "/docs/knowledge/clients/clients-add-739": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-clients-add-7-b-3-303"
+  },
+  "/docs/knowledge/clients/item-reserve-430": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-item-reservee-13-e7a"
+  },
+  "/docs/knowledge/clients/order-add-673": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-order-add-12-c-aaa"
+  },
+  "/docs/knowledge/clients/order-status-cea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-order-status-737-fe3"
+  },
+  "/docs/knowledge/clients/orders-shipments-121": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-orders-shipmentsb-0-e-9a7"
+  },
+  "/docs/knowledge/clients/return-71b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-return-807-945"
+  },
+  "/docs/knowledge/clients/routes-06a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-routes-624-920"
+  },
+  "/docs/knowledge/clients/shipment-add-c94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-shipment-addb-0-c-3f1"
+  },
+  "/docs/knowledge/clients/telegram-888": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-telegram-1-b-0-910"
+  },
+  "/docs/knowledge/crm/crm-overview-bce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-crm-overview-3-fe-709"
+  },
+  "/docs/knowledge/crm/deals-b3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-deals-3-e-9-248"
+  },
+  "/docs/knowledge/crm/status-612": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-statusac-8-857"
+  },
+  "/docs/knowledge/crm/tasks-5cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-tasksb-23-452"
+  },
+  "/docs/knowledge/data/data-access-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-access-9-a-6-667"
+  },
+  "/docs/knowledge/data/data-owner-f40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-owner-582-945"
+  },
+  "/docs/knowledge/data/data-security-968": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-security-6-dc-523"
+  },
+  "/docs/knowledge/factory/-765": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-5-c-3-bd7"
+  },
+  "/docs/knowledge/factory/assembly-447": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-assemblydf-0-9c4"
+  },
+  "/docs/knowledge/factory/assembly-manual-b47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-assembly-manualeeb-3a2"
+  },
+  "/docs/knowledge/factory/assembly-proportions-730": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-assembly-proportionse-65-1f2"
+  },
+  "/docs/knowledge/factory/assembly-volume-cf4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-assembly-volumeab-6-a71"
+  },
+  "/docs/knowledge/factory/bom-d2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-bom-519-ef2"
+  },
+  "/docs/knowledge/finance/balance-adjustment-d79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-balance-adjustmentf-76-1e4"
+  },
+  "/docs/knowledge/finance/cash-register-a81": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-cash-register-8-cc-490"
+  },
+  "/docs/knowledge/finance/payment-add-c59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-payment-add-548-269"
+  },
+  "/docs/knowledge/finance/payment-purchase-ac5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-payment-purchase-116-077"
+  },
+  "/docs/knowledge/finance/salary-payroll-bdf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-salary-payroll-790-5ea"
+  },
+  "/docs/knowledge/goods/barcode-244": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-barcode-681-bfa"
+  },
+  "/docs/knowledge/goods/barcode-print-e60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-barcode-print-4-e-3-5b2"
+  },
+  "/docs/knowledge/goods/batch-set-e79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-batch-set-7-cb-026"
+  },
+  "/docs/knowledge/goods/batch-tracking-052": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-batch-tracking-232-847"
+  },
+  "/docs/knowledge/goods/goods-add-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-goods-add-700-c01"
+  },
+  "/docs/knowledge/goods/goods-organizations-328": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-goods-organizationsc-4-e-8c3"
+  },
+  "/docs/knowledge/goods/minimum-price-1eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-minimum-priceec-1-395"
+  },
+  "/docs/knowledge/goods/pricelist-add-2a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-pricelist-add-662-5a1"
+  },
+  "/docs/knowledge/goods/pricelist-delete-8ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-pricelist-delete-0-e-0-678"
+  },
+  "/docs/knowledge/goods/pricelist-edit-1d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-pricelist-edit-0-fb-070"
+  },
+  "/docs/knowledge/goods/purchase-price-dd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-purchase-priceb-96-ed5"
+  },
+  "/docs/knowledge/purchase/-38d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-006-3d6"
+  },
+  "/docs/knowledge/purchase/order-add-8bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-order-addfa-6-01d"
+  },
+  "/docs/knowledge/purchase/order-purchase-b8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-order-purchaseee-3-7f7"
+  },
+  "/docs/knowledge/purchase/purchase-add-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-purchase-add-487-a73"
+  },
+  "/docs/knowledge/purchase/purchase-price-7c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-purchase-price-942-912"
+  },
+  "/docs/knowledge/purchase/supplier-add-a12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-supplier-addee-3-ccc"
+  },
+  "/docs/knowledge/purchase/supplier-return-ac6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-supplier-return-91-e-b66"
+  },
+  "/docs/knowledge/reports/dashboard-67b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-reports-dashboard-0-ae-3d5"
+  },
+  "/docs/knowledge/reports/goods-profit-447": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-reports-goods-profit-723-5e2"
+  },
+  "/docs/knowledge/reports/sales-reports-b7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-reports-sales-reports-9-c-0-2dc"
+  },
+  "/docs/knowledge/reports/stock-analysis-35c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-reports-stock-analysis-177-a86"
+  },
+  "/docs/knowledge/settings/default-settings-345": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-settings-default-settings-445-979"
+  },
+  "/docs/knowledge/settings/functional-3c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-settings-functionalc-38-049"
+  },
+  "/docs/knowledge/settings/organizations-d24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-settings-organizations-2-f-0-b6a"
+  },
+  "/docs/knowledge/warehouse/inventory-626": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-inventoryce-2-dfd"
+  },
+  "/docs/knowledge/warehouse/new-transfer-937": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-new-transferfae-081"
+  },
+  "/docs/knowledge/warehouse/stock-adjustment-0fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-stock-adjustment-5-d-3-d02"
+  },
+  "/docs/knowledge/warehouse/stock-transfer-ddb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-stock-transferc-8-e-a87"
+  },
+  "/docs/overview/product-overview-913": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-overview-product-overview-7-f-1-dcb"
+  },
+  "/docs/partners/partners-guide-738": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-partners-partners-guide-77-f-195"
+  },
+  "/docs/quick-start/-eec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-b-1-e-ab8"
+  },
+  "/docs/quick-start/part1-registration-b35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-1-registration-6-a-7-a71"
+  },
+  "/docs/quick-start/part2-setup-380": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-2-setupfff-906"
+  },
+  "/docs/quick-start/part3-finance-5b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-3-financeef-5-0ca"
+  },
+  "/docs/wiki-style-045": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-wiki-styled-55-a6f"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---blog-a-74-b12"
+    },
+    "config": "config---blog-5-e-9-b4e"
+  }
+}

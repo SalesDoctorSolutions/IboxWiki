@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/access/access-change",
+  "title": "Ограничение доступа",
+  "description": "В iBox есть три способа ограничить доступ сотруднику.",
+  "source": "@site/docs/knowledge/access/access-change.md",
+  "sourceDirName": "knowledge/access",
+  "slug": "/knowledge/access/access-change",
+  "permalink": "/docs/knowledge/access/access-change",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/access/access-change.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "access-change",
+    "title": "Ограничение доступа",
+    "sidebar_label": "Как ограничить доступ сотруднику",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Как создать рабочее место",
+    "permalink": "/docs/knowledge/access/access-workplace"
+  },
+  "next": {
+    "title": "Добавление товара",
+    "permalink": "/docs/knowledge/goods/goods-add"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/finance/payment-add",
+  "title": "Добавление оплаты",
+  "description": "1. Перейдите в раздел Деньги → Приходы",
+  "source": "@site/docs/knowledge/finance/payment-add.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/payment-add",
+  "permalink": "/docs/knowledge/finance/payment-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/finance/payment-add.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "id": "payment-add",
+    "title": "Добавление оплаты",
+    "sidebar_label": "Добавление оплаты",
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Создание кассы",
+    "permalink": "/docs/knowledge/finance/cash-register"
+  },
+  "next": {
+    "title": "Начисление зарплаты",
+    "permalink": "/docs/knowledge/finance/salary-payroll"
+  }
+}

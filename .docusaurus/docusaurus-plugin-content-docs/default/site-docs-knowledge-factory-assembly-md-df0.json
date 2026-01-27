@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/factory/assembly",
+  "title": "Сборка с техкартой",
+  "description": "Перед началом работы",
+  "source": "@site/docs/knowledge/factory/assembly.md",
+  "sourceDirName": "knowledge/factory",
+  "slug": "/knowledge/factory/assembly",
+  "permalink": "/docs/knowledge/factory/assembly",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/factory/assembly.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "id": "assembly",
+    "title": "Сборка с техкартой",
+    "sidebar_label": "Сборка с техкартой",
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Техкарта",
+    "permalink": "/docs/knowledge/factory/bom"
+  },
+  "next": {
+    "title": "Сборка без техкарты",
+    "permalink": "/docs/knowledge/factory/assembly-manual"
+  }
+}

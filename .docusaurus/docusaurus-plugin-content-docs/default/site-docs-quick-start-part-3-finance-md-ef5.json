@@ -1,0 +1,30 @@
+{
+  "id": "quick-start/part3-finance",
+  "title": "Часть 3. Финансы и отчетность",
+  "description": "В этом разделе гайда вы узнаете, как управлять финансами и анализировать бизнес с помощью отчетов.",
+  "source": "@site/docs/quick-start/part3-finance.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/part3-finance",
+  "permalink": "/docs/quick-start/part3-finance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quick-start/part3-finance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "part3-finance",
+    "title": "Часть 3. Финансы и отчетность",
+    "sidebar_label": "Часть 3: Финансы",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Часть 2: Товары и клиенты",
+    "permalink": "/docs/quick-start/part2-setup"
+  },
+  "next": {
+    "title": "Инструкции по работе с системой",
+    "permalink": "/docs/knowledge/"
+  }
+}

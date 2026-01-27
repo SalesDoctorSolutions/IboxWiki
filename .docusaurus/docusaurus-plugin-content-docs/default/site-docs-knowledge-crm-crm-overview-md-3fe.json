@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/crm/crm-overview",
+  "title": "Обзор CRM-модуля",
+  "description": "Модуль CRM (Customer Relationship Management) помогает управлять взаимоотношениями с клиентами, контролировать продажи, маркетинг и сервис:",
+  "source": "@site/docs/knowledge/crm/crm-overview.md",
+  "sourceDirName": "knowledge/crm",
+  "slug": "/knowledge/crm/crm-overview",
+  "permalink": "/docs/knowledge/crm/crm-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/crm/crm-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "id": "crm-overview",
+    "title": "Обзор CRM-модуля",
+    "sidebar_label": "Обзор CRM-модуля",
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Анализ остатков на складе",
+    "permalink": "/docs/knowledge/reports/stock-analysis"
+  },
+  "next": {
+    "title": "Задачи",
+    "permalink": "/docs/knowledge/crm/tasks"
+  }
+}

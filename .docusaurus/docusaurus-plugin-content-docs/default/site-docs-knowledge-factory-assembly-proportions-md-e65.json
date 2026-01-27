@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/factory/assembly-proportions",
+  "title": "Пропорции себестоимости",
+  "description": "При сборке в модуле Фабрика система рассчитывает себестоимость готовой продукции на основе стоимости использованного сырья.",
+  "source": "@site/docs/knowledge/factory/assembly-proportions.md",
+  "sourceDirName": "knowledge/factory",
+  "slug": "/knowledge/factory/assembly-proportions",
+  "permalink": "/docs/knowledge/factory/assembly-proportions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/factory/assembly-proportions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "id": "assembly-proportions",
+    "title": "Пропорции себестоимости",
+    "sidebar_label": "Распределение себестоимости сырья",
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сборка без техкарты",
+    "permalink": "/docs/knowledge/factory/assembly-manual"
+  },
+  "next": {
+    "title": "Объем сборки",
+    "permalink": "/docs/knowledge/factory/assembly-volume"
+  }
+}

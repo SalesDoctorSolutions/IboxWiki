@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/finance/salary-payroll",
+  "title": "Начисление зарплаты",
+  "description": "1. Перейдите в раздел Деньги → Начисления зарплаты",
+  "source": "@site/docs/knowledge/finance/salary-payroll.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/salary-payroll",
+  "permalink": "/docs/knowledge/finance/salary-payroll",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/finance/salary-payroll.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "id": "salary-payroll",
+    "title": "Начисление зарплаты",
+    "sidebar_label": "Начисление зарплаты",
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Добавление оплаты",
+    "permalink": "/docs/knowledge/finance/payment-add"
+  },
+  "next": {
+    "title": "Корректировка баланса кассы",
+    "permalink": "/docs/knowledge/finance/balance-adjustment"
+  }
+}

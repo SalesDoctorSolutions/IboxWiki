@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/goods/goods-add",
+  "title": "Добавление товара вручную",
+  "description": "Вы можете сделать это в разделе Товары.",
+  "source": "@site/docs/knowledge/goods/goods-add.md",
+  "sourceDirName": "knowledge/goods",
+  "slug": "/knowledge/goods/goods-add",
+  "permalink": "/docs/knowledge/goods/goods-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/goods/goods-add.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "goods-add",
+    "title": "Добавление товара вручную",
+    "sidebar_label": "Добавление товара",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Как ограничить доступ сотруднику",
+    "permalink": "/docs/knowledge/access/access-change"
+  },
+  "next": {
+    "title": "Добавление товаров из других организаций",
+    "permalink": "/docs/knowledge/goods/goods-organizations"
+  }
+}

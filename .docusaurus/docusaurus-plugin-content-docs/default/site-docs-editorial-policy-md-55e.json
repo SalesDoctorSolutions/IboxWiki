@@ -1,0 +1,30 @@
+{
+  "id": "editorial-policy",
+  "title": "Редакционная политика",
+  "description": "Документ о написании текстов компании.",
+  "source": "@site/docs/editorial-policy.md",
+  "sourceDirName": ".",
+  "slug": "/editorial-policy",
+  "permalink": "/docs/editorial-policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/editorial-policy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "id": "editorial-policy",
+    "title": "Редакционная политика",
+    "sidebar_position": 99,
+    "sidebar_label": "Редакционная политика"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Управление доступами и ролями",
+    "permalink": "/docs/faq/access-control"
+  },
+  "next": {
+    "title": "Стайлгайд",
+    "permalink": "/docs/wiki-style"
+  }
+}

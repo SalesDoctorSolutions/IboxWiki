@@ -1,0 +1,30 @@
+{
+  "id": "quick-start/part1-registration",
+  "title": "Часть 1. Регистрация и настройка",
+  "description": "Настройка рабочего пространства",
+  "source": "@site/docs/quick-start/part1-registration.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/part1-registration",
+  "permalink": "/docs/quick-start/part1-registration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quick-start/part1-registration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "part1-registration",
+    "title": "Часть 1. Регистрация и настройка",
+    "sidebar_label": "Часть 1: Регистрация",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Введение",
+    "permalink": "/docs/quick-start/"
+  },
+  "next": {
+    "title": "Часть 2: Товары и клиенты",
+    "permalink": "/docs/quick-start/part2-setup"
+  }
+}

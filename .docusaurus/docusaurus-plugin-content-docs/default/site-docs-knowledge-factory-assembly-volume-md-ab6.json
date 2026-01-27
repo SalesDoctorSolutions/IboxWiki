@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/factory/assembly-volume",
+  "title": "Объем сборки",
+  "description": "При создании сборки по техкарте в модуле Фабрика можно производить больше или меньше готовой продукции, чем указано в шаблоне.",
+  "source": "@site/docs/knowledge/factory/assembly-volume.md",
+  "sourceDirName": "knowledge/factory",
+  "slug": "/knowledge/factory/assembly-volume",
+  "permalink": "/docs/knowledge/factory/assembly-volume",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/factory/assembly-volume.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "id": "assembly-volume",
+    "title": "Объем сборки",
+    "sidebar_label": "Объем сборки",
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Распределение себестоимости сырья",
+    "permalink": "/docs/knowledge/factory/assembly-proportions"
+  },
+  "next": {
+    "title": "Создание кассы",
+    "permalink": "/docs/knowledge/finance/cash-register"
+  }
+}

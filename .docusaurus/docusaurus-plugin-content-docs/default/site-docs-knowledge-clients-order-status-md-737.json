@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/clients/order-status",
+  "title": "Статус заказа в iBOX",
+  "description": "Чтобы проверить, какие заказы отгружены, перейдите в раздел Продажи → Заказы.",
+  "source": "@site/docs/knowledge/clients/order-status.md",
+  "sourceDirName": "knowledge/clients",
+  "slug": "/knowledge/clients/order-status",
+  "permalink": "/docs/knowledge/clients/order-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/clients/order-status.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "id": "order-status",
+    "title": "Статус заказа в iBOX",
+    "sidebar_label": "Статус заказа в iBOX",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Уведомления и заказы через Telegram",
+    "permalink": "/docs/knowledge/clients/telegram"
+  },
+  "next": {
+    "title": "Управление остатками",
+    "permalink": "/docs/knowledge/warehouse/inventory"
+  }
+}

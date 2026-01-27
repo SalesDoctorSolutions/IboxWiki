@@ -1,0 +1,30 @@
+{
+  "id": "quick-start/part2-setup",
+  "title": "Часть 2. Работа с товарами, клиентами, складом",
+  "description": "В этом разделе гайда вы узнаете:",
+  "source": "@site/docs/quick-start/part2-setup.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/part2-setup",
+  "permalink": "/docs/quick-start/part2-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quick-start/part2-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "part2-setup",
+    "title": "Часть 2. Работа с товарами, клиентами, складом",
+    "sidebar_label": "Часть 2: Товары и клиенты",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Часть 1: Регистрация",
+    "permalink": "/docs/quick-start/part1-registration"
+  },
+  "next": {
+    "title": "Часть 3: Финансы",
+    "permalink": "/docs/quick-start/part3-finance"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/clients/orders-shipments",
+  "title": "Заказ или отгрузка",
+  "description": "Понимание разницы между заказами и отгрузками поможет организовать работу продаж и склада более эффективно.",
+  "source": "@site/docs/knowledge/clients/orders-shipments.md",
+  "sourceDirName": "knowledge/clients",
+  "slug": "/knowledge/clients/orders-shipments",
+  "permalink": "/docs/knowledge/clients/orders-shipments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/clients/orders-shipments.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "orders-shipments",
+    "title": "Заказ или отгрузка",
+    "sidebar_label": "Заказ или отгрузка",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Маршруты в iBOX",
+    "permalink": "/docs/knowledge/clients/routes"
+  },
+  "next": {
+    "title": "Возврат товара",
+    "permalink": "/docs/knowledge/clients/return"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/data/data-owner",
+  "title": "Владелец данных",
+  "description": "Владелец данных — это сотрудник, который отвечает за конкретную информацию в системе.",
+  "source": "@site/docs/knowledge/data/data-owner.md",
+  "sourceDirName": "knowledge/data",
+  "slug": "/knowledge/data/data-owner",
+  "permalink": "/docs/knowledge/data/data-owner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/data/data-owner.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "data-owner",
+    "title": "Владелец данных",
+    "sidebar_label": "Владелец данных",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Кто имеет доступ к вашим данным",
+    "permalink": "/docs/knowledge/data/data-access"
+  },
+  "next": {
+    "title": "Доступ в iBOX",
+    "permalink": "/docs/knowledge/access/"
+  }
+}

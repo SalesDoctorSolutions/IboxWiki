@@ -1,0 +1,30 @@
+{
+  "id": "faq/start",
+  "title": "Начало работы в iBOX",
+  "description": "Как купить лицензию и начать работу в iBox",
+  "source": "@site/docs/faq/start.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/start",
+  "permalink": "/docs/faq/start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "start",
+    "title": "Начало работы в iBOX",
+    "sidebar_label": "Начало работы в iBOX",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ответы на вопросы пользователей",
+    "permalink": "/docs/faq/"
+  },
+  "next": {
+    "title": "Управление доступами и ролями",
+    "permalink": "/docs/faq/access-control"
+  }
+}

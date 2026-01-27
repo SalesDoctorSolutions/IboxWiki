@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/warehouse/stock-transfer",
+  "title": "Перемещение остатков",
+  "description": "Перемещение — это операция, при которой товар переносится с одного склада на другой без списания или продажи. В системе фиксируется, откуда и куда был перемещен товар, в каком количестве и когда.",
+  "source": "@site/docs/knowledge/warehouse/stock-transfer.md",
+  "sourceDirName": "knowledge/warehouse",
+  "slug": "/knowledge/warehouse/stock-transfer",
+  "permalink": "/docs/knowledge/warehouse/stock-transfer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/warehouse/stock-transfer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "stock-transfer",
+    "title": "Перемещение остатков",
+    "sidebar_label": "Перемещение остатков",
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Корректировка остатков",
+    "permalink": "/docs/knowledge/warehouse/stock-adjustment"
+  },
+  "next": {
+    "title": "Создание перемещения",
+    "permalink": "/docs/knowledge/warehouse/new-transfer"
+  }
+}

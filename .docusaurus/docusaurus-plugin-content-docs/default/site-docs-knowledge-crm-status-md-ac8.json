@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/crm/status",
+  "title": "Статус сделки",
+  "description": "На главной странице модуля сделки сгруппированы по статусам. Каждый этап показывает общее количество сделок и их сумму.",
+  "source": "@site/docs/knowledge/crm/status.md",
+  "sourceDirName": "knowledge/crm",
+  "slug": "/knowledge/crm/status",
+  "permalink": "/docs/knowledge/crm/status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/crm/status.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "id": "status",
+    "title": "Статус сделки",
+    "sidebar_label": "Статус сделки",
+    "sidebar_position": 24
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сделки",
+    "permalink": "/docs/knowledge/crm/deals"
+  },
+  "next": {
+    "title": "Настройки по умолчанию",
+    "permalink": "/docs/knowledge/settings/default-settings"
+  }
+}

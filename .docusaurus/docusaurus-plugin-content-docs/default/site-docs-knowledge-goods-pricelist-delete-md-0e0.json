@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/goods/pricelist-delete",
+  "title": "Удаление прайс-листа",
+  "description": "1. Перейдите в раздел Прайс-листы",
+  "source": "@site/docs/knowledge/goods/pricelist-delete.md",
+  "sourceDirName": "knowledge/goods",
+  "slug": "/knowledge/goods/pricelist-delete",
+  "permalink": "/docs/knowledge/goods/pricelist-delete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/goods/pricelist-delete.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "pricelist-delete",
+    "title": "Удаление прайс-листа",
+    "sidebar_label": "Удаление прайс-листа",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Редактирование прайс-листа",
+    "permalink": "/docs/knowledge/goods/pricelist-edit"
+  },
+  "next": {
+    "title": "Штрихкод - как выбрать и сгенерировать",
+    "permalink": "/docs/knowledge/goods/barcode"
+  }
+}

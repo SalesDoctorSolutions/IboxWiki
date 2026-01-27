@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/purchase/order-add",
+  "title": "Добавление заказа",
+  "description": "Заказ поставщику помогает зафиксировать намерение закупить товар и контролировать будущие поступления.",
+  "source": "@site/docs/knowledge/purchase/order-add.md",
+  "sourceDirName": "knowledge/purchase",
+  "slug": "/knowledge/purchase/order-add",
+  "permalink": "/docs/knowledge/purchase/order-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/purchase/order-add.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "order-add",
+    "title": "Добавление заказа",
+    "sidebar_label": "Создание заказа поставщику",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Закупка или заказ",
+    "permalink": "/docs/knowledge/purchase/order-purchase"
+  },
+  "next": {
+    "title": "Создание закупки",
+    "permalink": "/docs/knowledge/purchase/purchase-add"
+  }
+}
