@@ -1,6 +1,6 @@
 {
   "id": "quick-start/part1-registration",
-  "title": "Часть 1. Регистрация и настройка",
+  "title": "Часть 1. Настройка",
   "description": "Настройка рабочего пространства",
   "source": "@site/docs/quick-start/part1-registration.md",
   "sourceDirName": "quick-start",
@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 2,
   "frontMatter": {
     "id": "part1-registration",
-    "title": "Часть 1. Регистрация и настройка",
-    "sidebar_label": "Часть 1: Регистрация",
-    "sidebar_position": 3
+    "title": "Часть 1. Настройка",
+    "sidebar_label": "Часть 1: Настройка",
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
