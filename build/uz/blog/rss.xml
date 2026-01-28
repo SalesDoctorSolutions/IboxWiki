@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
+        <title>iBOX Blog</title>
         <link>https://your-docusaurus-site.example.com/uz/blog</link>
-        <description>My Site Blog</description>
-        <lastBuildDate>Mon, 20 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <description>iBOX Blog</description>
+        <lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>uz</language>
         <item>
-            <title><![CDATA[Что нового в iBOX 3.4]]></title>
-            <link>https://your-docusaurus-site.example.com/uz/blog/release-3-4</link>
-            <guid>https://your-docusaurus-site.example.com/uz/blog/release-3-4</guid>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Добавлены отчёты и улучшена стабильность]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="новое">Новое<a href="https://your-docusaurus-site.example.com/uz/blog/release-3-4#%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5" class="hash-link" aria-label="Direct link to Новое" title="Direct link to Новое">​</a></h3>
+            <title><![CDATA[Обновление iBOX]]></title>
+            <link>https://your-docusaurus-site.example.com/uz/blog/release-1-0</link>
+            <guid>https://your-docusaurus-site.example.com/uz/blog/release-1-0</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="новое">Новое<a href="https://your-docusaurus-site.example.com/uz/blog/release-1-0#%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5" class="hash-link" aria-label="Direct link to Новое" title="Direct link to Новое">​</a></h3>
 <ul>
-<li>Добавлен отчет <strong>Прибыльность по товарам</strong></li>
-<li>Новый фильтр по категориям в «Кассе»</li>
+<li>Добавлена опция выбирать товары в связанных <strong>Прайс листах</strong></li>
+<li>Введены владельцы данных в <strong>Товарах</strong></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="улучшения">Улучшения<a href="https://your-docusaurus-site.example.com/uz/blog/release-3-4#%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Direct link to Улучшения" title="Direct link to Улучшения">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="улучшения">Улучшения<a href="https://your-docusaurus-site.example.com/uz/blog/release-1-0#%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Direct link to Улучшения" title="Direct link to Улучшения">​</a></h3>
 <ul>
-<li>Ускорена загрузка вкладки «Поставки»</li>
-<li>Улучшено отображение названий товаров</li>
+<li>Ускорена загрузка вкладки «Товары»</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="исправления">Исправления<a href="https://your-docusaurus-site.example.com/uz/blog/release-3-4#%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Direct link to Исправления" title="Direct link to Исправления">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="исправления">Исправления<a href="https://your-docusaurus-site.example.com/uz/blog/release-1-0#%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Direct link to Исправления" title="Direct link to Исправления">​</a></h3>
 <ul>
-<li>Исправлена ошибка при печати ценников</li>
+<li>Исправлены ошибки в прайс листах</li>
 </ul>]]></content:encoded>
             <category>релиз</category>
             <category>обновление</category>

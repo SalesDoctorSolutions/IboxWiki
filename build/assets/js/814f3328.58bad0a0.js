@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_temp=self.webpackChunkdocusaurus_temp||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0427\u0442\u043e \u043d\u043e\u0432\u043e\u0433\u043e \u0432 iBOX 3.4","permalink":"/blog/release-3-4","unlisted":false,"date":"2025-10-20T00:00:00.000Z"}]}')}}]);

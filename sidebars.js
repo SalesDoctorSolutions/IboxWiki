@@ -19,10 +19,10 @@ module.exports = {
       ],
     },
     {
-  type: 'category',
-  label: '3. База знаний',
-  items: [
-    'knowledge/knowledge',
+      type: 'category',
+      label: '3. База знаний',
+      items: [
+        'knowledge/knowledge',
     {
       type: 'category',
       label: 'Данные и безопасность',
