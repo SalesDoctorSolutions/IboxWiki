@@ -2,7 +2,7 @@
 id: quick-start
 title: Быстрый старт
 sidebar_label: Введение
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Гайд по запуску iBox
 ## Что нужно знать перед началом работы 
