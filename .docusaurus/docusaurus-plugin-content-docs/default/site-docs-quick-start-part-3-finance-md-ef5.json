@@ -1,7 +1,7 @@
 {
   "id": "quick-start/part3-finance",
-  "title": "Часть 3. Финансы и отчетность",
-  "description": "В этом разделе гайда вы узнаете, как управлять финансами и анализировать бизнес с помощью отчетов.",
+  "title": "Часть 3. Клиенты, поставщики и балансы",
+  "description": "В этом разделе вы добавите контрагентов и внесете стартовые финансовые данные.",
   "source": "@site/docs/quick-start/part3-finance.md",
   "sourceDirName": "quick-start",
   "slug": "/quick-start/part3-finance",
@@ -13,13 +13,13 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "part3-finance",
-    "title": "Часть 3. Финансы и отчетность",
-    "sidebar_label": "Часть 3: Финансы",
+    "title": "Часть 3. Клиенты, поставщики и балансы",
+    "sidebar_label": "Часть 3: Клиенты, поставщики и балансы",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Часть 2: Товары и клиенты",
+    "title": "Часть 2: Товары, цены и остатки",
     "permalink": "/docs/quick-start/part2-setup"
   },
   "next": {

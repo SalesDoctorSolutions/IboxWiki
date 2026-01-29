@@ -1,7 +1,7 @@
 {
   "id": "quick-start/part2-setup",
-  "title": "Часть 2. Работа с товарами, клиентами, складом",
-  "description": "В этом разделе гайда вы узнаете:",
+  "title": "Часть 2. Товары, цены и остатки",
+  "description": "В этом разделе вы узнаете, как:",
   "source": "@site/docs/quick-start/part2-setup.md",
   "sourceDirName": "quick-start",
   "slug": "/quick-start/part2-setup",
@@ -13,8 +13,8 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "id": "part2-setup",
-    "title": "Часть 2. Работа с товарами, клиентами, складом",
-    "sidebar_label": "Часть 2: Товары и клиенты",
+    "title": "Часть 2. Товары, цены и остатки",
+    "sidebar_label": "Часть 2: Товары, цены и остатки",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/docs/quick-start/part1-registration"
   },
   "next": {
-    "title": "Часть 3: Финансы",
+    "title": "Часть 3: Клиенты, поставщики и балансы",
     "permalink": "/docs/quick-start/part3-finance"
   }
 }

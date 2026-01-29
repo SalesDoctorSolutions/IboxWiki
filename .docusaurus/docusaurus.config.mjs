@@ -29,7 +29,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "baseUrl": "/uz/",
   "organizationName": "iBOX",
   "projectName": "iBOX docs",
   "onBrokenLinks": "throw",
@@ -83,7 +83,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Главная",
+      "title": "Asosiy sahifa",
       "logo": {
         "alt": "Логотип iBOX",
         "src": "img/logo.svg"
@@ -93,11 +93,11 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Документация"
+          "label": "Hujjatlar"
         },
         {
           "to": "/blog",
-          "label": "Что нового в iBOX",
+          "label": "iBOX’dagi yangiliklar",
           "position": "left"
         },
         {
@@ -140,7 +140,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2026 iBox."
+      "copyright": "Copyright © 2026 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
