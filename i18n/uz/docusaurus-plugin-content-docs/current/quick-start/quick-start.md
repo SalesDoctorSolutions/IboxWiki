@@ -2,40 +2,35 @@
 id: quick-start
 title: Tezkor boshlash
 sidebar_label: Kirish
-sidebar_position: 2
+sidebar_position: 1
 ---
-# iBox’ni ishga tushirish bo‘yicha qo‘llanma
-## Ishni boshlashdan oldin nimalarni bilish kerak 
+# iBOX’ni ishga tushirish bo‘yicha qo‘llanma
+## Ishni boshlashdan oldin nimalarni bilish kerak
 
-iBOX — bu savdo, xarid, ombor va moliya jarayonlarini kompleks boshqarish uchun mo‘ljallangan onlayn tizim.
+iBOX — bu savdo, xaridlar, ombor va moliyani boshqarish uchun mo‘ljallangan kompleks onlayn tizim.
+
 iBOX yordamida siz:
-- Omborda qancha tovar borligini va u qaysi omborda ekanini aniq bilasiz
-- Ortiqcha qoldiq yoki tanqisliksiz xaridlarni rejalashtira olasiz
-- Excel va qo‘lda hisob-kitoblarsiz biznes bo‘yicha real vaqt tahlilini olasiz
+- Omborda qancha mahsulot borligini va u qaysi omborda joylashganini aniq bilasiz
+- Ortiqcha zaxira yoki tanqisliksiz xaridlarni rejalashtirasiz
+- Excel va qo‘lda hisob-kitobsiz, biznes bo‘yicha real vaqt rejimidagi tahlilni olasiz
 
 ---
 
-### Kelajakda xatolarga yo‘l qo‘ymaslik uchun bir nechta muhim qoidalar:
+### Kelajakda xatolardan qochishga yordam beradigan bir nechta qoidalar:
 
-- 🧾 Har bir savdo sotuv va to‘lovni o‘z ichiga oladi — ularsiz operatsiya to‘liq hisoblanmaydi
-
-- 💳 Mijoz balansi avtomatik tarzda hisoblanadi — qo‘lda yuritish talab etilmaydi
-- 🌍 Valyuta va sanalar muhim — ayniqsa turli valyutalarda ishlaganda ularni to‘g‘ri ko‘rsating
-- 📦 Mahsulotlar omborga kelish ketma-ketligiga ko‘ra chiqariladi (FIFO) — birinchi kelgan mahsulot birinchi sotiladi
+- 🧾 Har bir savdo operatsiyasi sotuv va to‘lovni o‘z ichiga oladi — ularsiz operatsiya to‘liq hisoblanmaydi
+- 💳 Mijoz balansi avtomatik hisoblanadi — qo‘lda hisob yuritish shart emas
+- 🌍 Valyuta va sanalar muhim — ayniqsa turli valyutalar bilan ishlaganda ularni to‘g‘ri ko‘rsating
+- 📦 Mahsulotlar omborga kelish tartibida hisobdan chiqariladi (FIFO) — birinchi kelgan mahsulot birinchi sotiladi
 
 ## Ishga tayyorgarlik
-Agar siz ilgari hisob-kitob tizimlari bilan ishlamagan bo‘lsangiz, ishni boshlashdan oldin quyidagilarni tayyorlab qo‘ying:
-
-- 📦 Ombor qoldiqlari — mahsulotlar ro‘yxati va ularning joriy miqdori (Excel formatida bo‘lishi mumkin)
+Agar siz ilgari hisob-kitob tizimlarida ishlamagan bo‘lsangiz, ishni boshlashdan oldin quyidagilarni tayyorlab oling:
+- 📦 Ombor qoldiqlari — mahsulotlar ro‘yxati va ularning joriy miqdori (Excel’da bo‘lishi mumkin)
 - 💰 Pul qoldiqlari — kassalar va hisob raqamlaridagi summalar
-- 👥 Mijozlar va ta’minotchilar ro‘yxati
-- 💳 Mijozlar va ta’minotchilar balansi — kim va qancha qarzdor, hamda siz kimga qancha qarzdorsiz
+- 👥 Mijozlar va ta'minotchilar ro‘yxati
+- 💳 Mijozlar va ta'minotchilar balansi — kim va qancha qarzdor, kimga qancha qarzingiz bor
 - 👨‍💻 Tizimda ishlaydigan xodimlar ro‘yxati (kirish huquqlarini sozlash uchun)
 
-Dastur sotib olingandan so‘ng siz iBox’dagi ishchi hududingizga kirish huquqiga ega bo‘lasiz — havola, login va parol taqdim etiladi.
+Dastur sotib olingandan so‘ng siz iBOX’dagi ishchi muhitingizga kirish ma’lumotlarini olasiz — havola, login va parol.
 
-Chalkashmaslik uchun sozlashga tayyorgarlikni quyidagi sxema bo‘yicha tekshiring:
-iBox bilan ishni boshlashga tayyorgarlik  →Kirish ma’lumotlarini olish: havola, login, parol →Ta’minotchilar va mijozlar ro‘yxatini Excel’da tayyorlash →Ombor qoldiqlarini Excel’da tayyorlash →Kim kimga va qancha qarzdorligini aniqlashtirish →Qaysi xodimlar tizimda ishlashini belgilash →Siz sozlashga tayyorsiz
-
-
-
+**Sozlashga tayyor ekaningizni quyidagi sxema orqali tekshiring:**

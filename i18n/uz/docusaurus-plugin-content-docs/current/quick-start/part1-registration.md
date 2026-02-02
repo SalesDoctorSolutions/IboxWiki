@@ -1,112 +1,123 @@
 ---
 id: part1-registration
-title: "1-qism: Ro‘yxatdan o‘tish"
-sidebar_label: "1-qism: Ro‘yxatdan o‘tish"
-sidebar_position: 3
+title: "1-qism. Sozlash"
+sidebar_label: "1-qism: Sozlash"
+sidebar_position: 2
 ---
-# 1-qism. Ro‘yxatdan o‘tish
-Ishchi muhitni sozlash
-iBox biznesingiz uchun qulay raqamli ofisga aylanishi uchun uni o‘z vazifalaringizga moslab sozlash kerak. Eng asosiy qadamdan — profil va asosiy sozlamalardan boshlaymiz.
+# 1-qism. Sozlash
+## Ishchi muhitni sozlash
+iBOX biznesingiz uchun qulay raqamli ofisga aylanishi uchun uni vazifalaringizga moslab sozlash kerak. Eng asosiy qismdan — profil va asosiy sozlamalardan boshlaymiz.
 
-Profilni to‘ldirish
-Avvalo, tizimda kim ekaningizni va undan qanday foydalanishingizni ko‘rsatamiz.
-Ekranning o‘chap pastki burchagida ⚙️ sozlamalar ikonkasini bosing
-O‘ng tomonda ochilgan yon menyudan Sozlamalar bo‘limini toping va Profilni bosing
-Profilni to‘ldirish
-Quyidagi maydonlarni to‘ldiring:
-ism
-telefon raqami
-login
-tizim tili (rus, o‘zbek, ingliz, arab yoki turk)
+### Profilni to‘ldirish
+Avval tizimdan kim sifatida va qanday foydalanishingizni ko‘rsatamiz.
 
-Asosiy sozlamalar
-Yuqoriga ko‘tarilib, Sozlamalar bo‘limini oching. Siz Standart sozlamalar va Funksional yorliqlarini ko‘rasiz.
+1. Chap pastki burchakdagi sozlamalar belgisi ⚙️ ustiga bosing.
+2. O‘ng tomondagi yon menyudan **Tashkilot sozlamalari** → **Profil** bo‘limini oching.
+<img src="/img/quick-start/profile_screen_qs.png" alt="Profilni to‘ldirish" width="600" />
+3. Quyidagi maydonlarni to‘ldiring:
+    - Ism  
+    - Login  
+    - Tizim tili: rus, o‘zbek, ingliz, arab yoki turk  
+    - Telefon raqami  
+    - Elektron pochta  
+4. Telefon raqami va elektron pochtani tasdiqlang.
 
-iBOX asosiy sozlamalari
-Bu yerda tizimning muhim parametrlari belgilanadi:
-Valyuta — hujjatlar va hisobotlar uchun asosiy valyuta
-Ombor — mahsulotlarni qabul qilinadiganda asosiy ombor (qolganlarini keyin qo‘shamiz)
-Kassa — moliyaviy operatsiyalar uchun asosiy kassa (qo‘shimcha kassalarni keyin ulaymiz)
-Tizimda valyutani o‘zgartirish uchun:
-Asosiy valyutani toping
-Valyuta yonidagi qalamcha belgisini bosing — saqlash (✔️) va bekor qilish (✖️) ikonkalari paydo bo‘ladi
-Ochiladigan ro‘yxatdan valyutani tanlang
-O‘zgarishlarni ✔️ tugmasi bilan tasdiqlang. Agar fikringizdan qaytsangiz, ✖️ ni bosing
-Xuddi shu tarzda asosiy ombor va kassani tanlang — ular hujjatlar va operatsiyalarda sukut bo‘yicha ishlatiladi. Bu sozlamalarni istalgan vaqtda o‘zgartirish mumkin.
+---
+### Valyutalar va kurslar
+Ishlash va hisobotlar uchun valyutalarni qo‘shing va asosiy valyutani tanlang.
 
-Logistika bo‘yicha asosiy sozlamalar
-Buyurtmalar to‘g‘ri qayta ishlanishi uchun quyidagilarni belgilang:
-Omborga yetkazib berish vaqtini belgilang— buyurtmadan keyin mahsulot necha kundan so‘ng kelishini belgilang. Ekran pastiga o‘ting va Standart yetib kelish vaqtini, masalan, 5 kun qilib belgilang
-Sozlamalar → Funksionallik bo‘limiga o‘ting va Omborlar bo‘yicha sotuvlarni ajratish funksiyasini yoqing — bu turli omborlardagi mahsulotlarni bitta sotuvga birlashib ketishini oldini oladi
+1. Chap pastki burchakdagi sozlamalar belgisi ⚙️ ustiga bosing.
+2. **Umumiy sozlamalar** → **Valyutalar** bo‘limiga o‘ting.
+3. Yuqori o‘ng burchakdagi plus tugmasini bosing.
+4. Valyutani qo‘shing va uning kursini kiriting.
+5. **Kurs** ustuniga sichqonchani olib boring va asosiy valyutani tanlang.
+<img src="/img/quick-start/base_currency_selection.png" alt="Asosiy valyutani tanlash" width="600"/>
 
-Asosiy elementlarni qo‘shish
-Endi har kuni ishlaydigan obyektlarni qo‘shish mumkin: kassalar, omborlar va xodimlar.
+:::warning Ogohlantirish
+Foyda bo‘yicha hisobotlar asosiy valyutada shakllantiriladi. Tizimda faol ishlashni boshlashdan oldin uni tanlang.
+:::
 
-Kassalar
-Menyudan Korxona sozlamalari bo‘limiga o‘ting, so‘ng Kassalarni tanlang
-Yangi kassa qo‘shish uchun ekranning yuqori qismidagi ➕ tugmasini bosing — forma ochiladi
-iBOX’da kassa yaratish
-Kassa haqidagi ma’lumotlarni kiriting:
-Nomi (masalan, naqd kassa yoki bank)
-To‘lov usuli (naqd pul, bank o‘tkazmasi, karta va boshqalar)
-Tartib raqami — ro‘yxatda qaysi o‘rinda turishini belgilaydi (raqam qanchalik katta bo‘lsa, kassa shunchalik yuqorida chiqadi)
-Ma’lumotlar egasi — kassani kim boshqaradi
-Saqlash tugmasini bosing.
+---
+### To‘lov usullari
+Mijozlar buyurtmalarni qanday usulda to‘lashini qo‘shing.
 
-Omborlar
-Sozlamalar ichidan Omborlar bo‘limiga o‘ting
-Ekranning yuqori burchagidagi ➕ belgisini bosing — ombor qo‘shish oynasi ochiladi
-Har bir ombor uchun quyidagilarni kiriting:
-Nomi (masalan, markaziy ombor)
-Manzil — ayniqsa bir nechta ombor bo‘lsa, ularni ajratish uchun qulay
-Mas’ul shaxs — tovarlarni boshqarish va saqlanishi uchun javobgar xodim
-Tartib raqami — raqam qanchalik katta bo‘lsa, ombor ro‘yxatda shunchalik yuqorida chiqadi
-Saqlash tugmasini bosing.
+1. Sozlamalar belgisi ⚙️ ustiga bosing.
+2. **Umumiy sozlamalar** → **To‘lov usullari** bo‘limiga o‘ting.
+3. Yuqori o‘ng burchakdagi plus tugmasini bosing.
+4. To‘lov usulini kiriting — masalan, naqd pul, karta yoki bank o‘tkazmasi.
+5. **Saqlash** tugmasini bosing.
+<img src="/img/quick-start/payment_type.png" alt="To‘lov usullarini qo‘shish" width="600"/>
 
-Xodimlar va rollar
-Bu bosqichda siz kompaniyangiz tuzilmasini tizimda shakllantirasiz. Sozlamalar qanchalik aniq bo‘lsa, xodimlar ishlashi shunchalik oson bo‘ladi.
-Tizimda ishlaydigan xodimlarni qo‘shish:
-Xodimlar bo‘limida ➕ tugmasini bosing — xodim qo‘shish oynasi ochiladi
-Xodimga kerakli kirish huquqlariga ega rolni belgilang — bu uning mas’uliyat doirasini aniqlaydi (masalan, kassir, omborchi, administrator)
-Saqlash tugmasini bosing
-Ma’lumot
-Agar xodim iBox’ning mobil versiyasida ishlasa, unga Ish joyi qo‘shing. Buning uchun Ish joylari bo‘limiga o‘ting.
+---
+## Asosiy elementlarni qo‘shish
+Endi har kuni ishlaydigan obyektlarni qo‘shamiz: kassalar va omborlar.
 
-Rollarni sozlash
-iBox’da har bir xodimga rolni darhol belgilash juda muhim. Agar rol berilmasa, xodim tizimga kira olmaydi. Agar rol yaratilgan bo‘lsa-yu, lekin ruxsatlar sozlanmagan bo‘lsa, xodim tizimga kiradi, ammo bo‘sh oynani ko‘radi — hech qanday amal bajara olmaydi.
-Rollar kirish huquqlarini aniq chegaralash va jamoa ishini tartibga solishga yordam beradi.
-Sozlash tartibi:
-Sozlamalar ichidan Rollar bo‘limini oching
-Qo‘shish tugmasi orqali yangi rol yarating
-iBOX’da rolni sozlash
-Rol haqidagi ma’lumotlarni to‘ldiring:
-Nomi (masalan, omborchi yoki buxgalter)
-Tavsif — ushbu rolga tegishli vazifalar va huquqlar
-Hujjatlar va operatsiyalar bo‘yicha ruxsatlarni sozlang:
-Xodim nimani qila olishini belgilang: ko‘rish, yaratish, tahrirlash yoki o‘chirish. Masalan, omborchiga ombor bo‘yicha to‘liq ruxsat berib, moliya bo‘yicha faqat ko‘rish huquqini qoldirish mumkin
-Saqlash tugmasini bosing.
-Bu sozlama kelajakda muhim funksiyalarga ruxsatsiz kirish va ish jarayonidagi xatolarning oldini oladi.
+### Kassalar
+1. **Sozlamalar** → **Kassalar** bo‘limini oching.
+2. Ekranning yuqori qismidagi plus tugmasini bosing.
+<img src="/img/quick-start/add_cashbox.png" alt="iBOX’da kassa yaratish" width="600" />
+3. Kassa ma’lumotlarini kiriting:
+    - Nomi — masalan, Naqd kassa yoki Bank  
+    - To‘lov usuli — naqd, karta, bank o‘tkazmasi  
+    - Tartiblash soni — qiymat qanchalik katta bo‘lsa, ro‘yxatda shunchalik yuqorida ko‘rinadi  
+4. **Saqlash** tugmasini bosing.
 
-Umumiy sozlamalar va funksionallikni yoqish
-Endi kassalar, omborlar va xodimlar qo‘shilgach, valyuta, to‘lov usullari va kerakli funksiyalarni sozlaymiz.
+---
+### Omborlar
+1. **Sozlamalar** → **Omborlar** bo‘limiga o‘ting.
+2. Yuqori burchakdagi plus belgisi ustiga bosing.
+<img src="/img/quick-start/add_warehouse.png" alt="iBOX’da ombor yaratish" width="600" />
+3. Ombor uchun quyidagilarni ko‘rsating:
+    - Nomi — masalan, Markaziy ombor  
+    - Manzil — omborning haqiqiy joylashuvi  
+    - Tartiblash soni — son qanchalik katta bo‘lsa, ro‘yxatda shunchalik yuqorida bo‘ladi  
+4. **Saqlash** tugmasini bosing.
 
-Valyuta va kursni sozlash
-Umumiy sozlamalar bo‘limiga o‘ting va quyidagilarni belgilang:
-Barcha hujjatlar va hisobotlar shakllanadigan asosiy valyuta
-Valyuta kursi — bir marta belgilanadi, keyinchalik qo‘lda o‘zgartirish mumkin
+---
+## Funksiyalarni yoqish
+Kassalar va omborlar qo‘shilgach, ish uchun kerakli funksiyalarni yoqamiz.
 
-To‘lov usullarini qo‘shish
-To‘lov usullari bo‘limiga o‘ting va kerakli hisob-kitob turlarini qo‘shing: naqd pul, o‘tkazma, karta va boshqalar. Ular kassalar va to‘lovlarni sozlashda ishlatiladi.
+iBOX’da tizimni biznesingizga moslash imkonini beradigan moslashuvchan sozlamalar mavjud. **Sozlamalar → Funksional** bo‘limiga o‘ting va biznesingizga mos modullarni tanlang. Yangi foydalanuvchilar uchun ayniqsa foydali funksiyalar:
+- Sotuvlar, xaridlar va to‘lovlar uchun qo‘shimcha statuslar — bajarilish bosqichlarini kuzatish uchun
+- To‘lovni hujjatlar bo‘yicha taqsimlash — har bir hujjat bo‘yicha to‘lov holatini ko‘rish uchun
+- Boshqa valyutada to'lovlarni amalga oshirish — boshqa valyutalarda to‘lov qabul qilish imkonini beradi
+- Partiyali hisob, qadoqlar va xizmatlar — assortiment boshqarishni osonlashtiradi
 
-Modullarni ulash
-iBox’da biznesingizga moslash imkonini beruvchi moslashuvchan sozlamalar mavjud.
-Kerakli modullarni tanlash uchun Sozlamalar → Funksional bo‘limiga o‘ting. Boshlovchilar uchun ayniqsa foydali bo‘lgan funksiyalar:
-Sotuvlar, buyurtmalar va to‘lovlar uchun qo‘shimcha statuslar — bajarilish bosqichlarini kuzatish uchun
-Ombor va kassalarda mas’ul shaxslar — nazorat va shaffoflikni oshiradi
-Boshqa valyutali to‘lovlar, xizmatlar, shartnomalar — turli davlatlar, yetkazib berish yoki B2B bilan ishlaganda qulay
-Partiyaviy hisob, tarmoqli mijozla, mahsulot to’plamlari — assortiment va mijozlarni boshqarishni osonlashtiradi
-Filtrlar, shtrix-kodlar, ma’lumotlarga egalik — qidiruv va xavfsizlikni yaxshilaydi
+:::tip Maslahat
+Bu bosqichda barcha funksiyalarni yoqish shart emas, ammo har bir bandni ko‘rib chiqib, sozlamalarni imkon qadar batafsil to‘ldirishni tavsiya qilamiz.
+:::
 
-Maslahat
-Bu bosqichda barcha funksiyalarni darhol yoqish shart emas. Ammo har bir bandni ko‘zdan kechirish va sozlamalarni imkon qadar batafsil to‘ldirishni tavsiya qilamiz.
-Bu sozlamalar — poydevor kabi: hozir qanchalik puxta sozlasangiz, kelajakda ishlash shunchalik oson bo‘ladi. Agar nimanidir unutib qoldirsangiz — uni keyin bir necha bosishda o‘zgartirish mumkin.
+---
+## Rollar va xodimlar
+Rollar xodimlar tizimda qaysi amallarni bajarishi mumkinligini belgilaydi. Rol biriktirilmagan xodim iBOX’da ishlay olmaydi.
+
+### Rol yaratish
+1. **Sozlamalar** → **Rollar** bo‘limini oching.
+2. Yangi rol qo‘shish tugmasini bosing.
+<img src="/img/quick-start/roles.png" alt="iBOX’da rol sozlash" width="600" />
+3. Quyidagilarni kiriting:
+    - Rol nomi — masalan, Omborchi yoki Buxgalter  
+    - Tavsif — vazifalar va javobgarlik sohasi  
+4. Kirish huquqlarini sozlang:
+    - Qaysi hujjatlarni ko‘rish, yaratish, tahrirlash yoki o‘chirish mumkinligini belgilang  
+    - Zarurat bo‘lsa, moliya va boshqa sezgir ma’lumotlarga kirishni cheklang  
+5. **Saqlash** tugmasini bosing.
+
+Rollarni to‘g‘ri sozlash xatolar va muhim funksiyalarga ruxsatsiz kirishning oldini oladi.
+
+---
+### Xodimlar
+Tizimda ishlaydigan xodimlarni qo‘shing.
+
+1. **Xodimlar** bo‘limiga o‘ting va plus tugmasini bosing.
+2. Xodimning ismi va telefon raqamini kiriting.
+3. Xodim tizimga kira olishi uchun:
+    - **Tizimga kirishga ruxsat berish** bandini belgilang  
+    - Kerakli huquqlarga ega rolni biriktiring  
+    - Login kiriting  
+<img src="/img/quick-start/create_user.png" alt="iBOX’da xodim qo‘shish" width="600" />
+4. **Saqlash va taklif yuborish** tugmasini bosing.
+
+:::info Ma’lumot
+Agar xodimga iBOX mobil ilovasi yoki POS tizimi orqali kirish huquqini bermoqchi bo‘lsangiz, u uchun ish joyi qo‘shing. Buning uchun **Ish joylari** bo‘limiga o‘ting.
+:::

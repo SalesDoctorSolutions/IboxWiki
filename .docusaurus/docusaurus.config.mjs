@@ -113,34 +113,34 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Документация",
+          "title": "Hujjatlar",
           "items": [
             {
-              "label": "Больше Информации",
+              "label": "Batafsil Ma'lumot",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Сообщество",
+          "title": "Jamiyat",
           "items": [
             {
-              "label": "Телеграм Канал",
+              "label": "Telegram KanalI",
               "href": "https://t.me/ibox_app"
             }
           ]
         },
         {
-          "title": "Дополнительно",
+          "title": "Qo'shimcha",
           "items": [
             {
-              "label": "Блог",
+              "label": "Blog",
               "to": "/blog"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2026 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2026 iBox."
     },
     "prism": {
       "theme": {

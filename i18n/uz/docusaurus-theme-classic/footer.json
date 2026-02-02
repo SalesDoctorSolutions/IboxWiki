@@ -8,11 +8,11 @@
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.Дополнительно": {
-    "message": "Дополнительно",
+    "message": "Qo'shimcha",
     "description": "The title of the footer links column with title=Дополнительно in the footer"
   },
   "link.item.label.Документация": {
-    "message": "Документация",
+    "message": "Hujjatlar",
     "description": "The label of footer link with label=Документация linking to /docs/intro"
   },
   "link.item.label.Stack Overflow": {
@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=X linking to https://x.com/docusaurus"
   },
   "link.item.label.Блог": {
-    "message": "Блог",
+    "message": "Blog",
     "description": "The label of footer link with label=Блог linking to /blog"
   },
   "link.item.label.GitHub": {
@@ -36,23 +36,23 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/facebook/docusaurus"
   },
   "copyright": {
-    "message": "Copyright © 2026 My Project, Inc. Built with Docusaurus.",
+    "message": "Copyright © 2026 iBox.",
     "description": "The footer copyright"
   },
   "link.title.Документация": {
-    "message": "Документация",
+    "message": "Hujjatlar",
     "description": "The title of the footer links column with title=Документация in the footer"
   },
   "link.title.Сообщество": {
-    "message": "Сообщество",
+    "message": "Jamiyat",
     "description": "The title of the footer links column with title=Сообщество in the footer"
   },
   "link.item.label.Больше Информации": {
-    "message": "Больше Информации",
+    "message": "Batafsil Ma'lumot",
     "description": "The label of footer link with label=Больше Информации linking to /docs/intro"
   },
   "link.item.label.Телеграм Канал": {
-    "message": "Телеграм Канал",
+    "message": "Telegram KanalI",
     "description": "The label of footer link with label=Телеграм Канал linking to https://t.me/ibox_app"
   }
 }
