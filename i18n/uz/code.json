@@ -321,5 +321,26 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
-  }
+  },
+  "Добро пожаловать в iBox Docs!": {
+  "message": "iBox Docs’ga xush kelibsiz!"
+},
+"Здесь собраны инструкции, гайды и документация по продуктам и внутренним процессам iBox.": {
+  "message": "Bu yerda iBox mahsulotlari va ichki jarayonlari bo‘yicha yo‘riqnomalar, qo‘llanmalar va hujjatlar jamlangan."
+},
+"🌐 веб-версия системы": {
+  "message": "🌐 tizimning veb-versiyasi"
+},
+"📱 мобильное приложение POS": {
+  "message": "📱 POS mobil ilovasi"
+},
+"💻 POS-терминал для Windows": {
+  "message": "💻 Windows uchun POS-terminal"
+},
+"Хотите начать работу с iBox?": {
+  "message": "iBox bilan ishlashni boshlamoqchimisiz?"
+},
+"Свяжитесь с нашей командой — мы подключим и поможем настроиться.": {
+  "message": "Bizning jamoamiz bilan bog‘laning — biz tizimni ulab beramiz va sozlashda yordam beramiz."
+}
 }

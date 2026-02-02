@@ -79,5 +79,12 @@
   "theme.contentVisibility.draftBanner.message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
   "theme.ErrorPageContent.tryAgain": "Try again",
   "theme.common.skipToMainContent": "Skip to main content",
-  "theme.tags.tagsPageTitle": "Tags"
+  "theme.tags.tagsPageTitle": "Tags",
+  "Добро пожаловать в iBox Docs!": "iBox Docs’ga xush kelibsiz!",
+  "Здесь собраны инструкции, гайды и документация по продуктам и внутренним процессам iBox.": "Bu yerda iBox mahsulotlari va ichki jarayonlari bo‘yicha yo‘riqnomalar, qo‘llanmalar va hujjatlar jamlangan.",
+  "🌐 веб-версия системы": "🌐 tizimning veb-versiyasi",
+  "📱 мобильное приложение POS": "📱 POS mobil ilovasi",
+  "💻 POS-терминал для Windows": "💻 Windows uchun POS-terminal",
+  "Хотите начать работу с iBox?": "iBox bilan ishlashni boshlamoqchimisiz?",
+  "Свяжитесь с нашей командой — мы подключим и поможем настроиться.": "Bizning jamoamiz bilan bog‘laning — biz tizimni ulab beramiz va sozlashda yordam beramiz."
 }
