@@ -1,0 +1,29 @@
+{
+  "id": "quick-start/part4-operations",
+  "title": "Часть 4. Основные операции: Закупки, отгрузки и оплаты",
+  "description": "Теперь, когда товары, клиенты и поставщики добавлены, можно переходить к ежедневной работе в системе. В этом разделе вы узнаете, как:",
+  "source": "@site/docs/quick-start/part4-operations.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/part4-operations",
+  "permalink": "/uz/docs/quick-start/part4-operations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "part4-operations",
+    "title": "Часть 4. Основные операции: Закупки, отгрузки и оплаты",
+    "sidebar_label": "Часть 4: Закупки, отгрузки и оплаты",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3-qism: Pullar",
+    "permalink": "/uz/docs/quick-start/part3-finance"
+  },
+  "next": {
+    "title": "Часть 5: Работа с отчетностью",
+    "permalink": "/uz/docs/quick-start/part5-reports"
+  }
+}

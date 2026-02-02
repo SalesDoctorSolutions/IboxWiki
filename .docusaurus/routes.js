@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'd4d'),
+    component: ComponentCreator('/uz/docs', '509'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '95f'),
+        component: ComponentCreator('/uz/docs', '84f'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'd6f'),
+            component: ComponentCreator('/uz/docs', '6d1'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -497,6 +497,18 @@ export default [
               {
                 path: '/uz/docs/quick-start/part3-finance',
                 component: ComponentCreator('/uz/docs/quick-start/part3-finance', '942'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/quick-start/part4-operations',
+                component: ComponentCreator('/uz/docs/quick-start/part4-operations', '4ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/quick-start/part5-reports',
+                component: ComponentCreator('/uz/docs/quick-start/part5-reports', '868'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

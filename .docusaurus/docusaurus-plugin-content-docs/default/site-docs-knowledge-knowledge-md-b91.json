@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Часть 3: Клиенты, поставщики и балансы",
-    "permalink": "/docs/quick-start/part3-finance"
+    "title": "Часть 5: Работа с отчетностью",
+    "permalink": "/docs/quick-start/part5-reports"
   },
   "next": {
     "title": "Где хранятся данные в iBOX",

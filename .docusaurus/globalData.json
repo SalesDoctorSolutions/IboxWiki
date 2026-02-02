@@ -369,6 +369,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "quick-start/part4-operations",
+              "path": "/uz/docs/quick-start/part4-operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quick-start/part5-reports",
+              "path": "/uz/docs/quick-start/part5-reports",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "quick-start/quick-start",
               "path": "/uz/docs/quick-start/",
               "sidebar": "tutorialSidebar"

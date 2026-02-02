@@ -101,17 +101,17 @@
     },
     "content": "393be207"
   },
-  "/uz/docs-d4d": {
+  "/uz/docs-509": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-95f": {
+  "/uz/docs-84f": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-d6f": {
+  "/uz/docs-6d1": {
     "__comp": "a94703ab"
   },
   "/uz/docs/editorial-policy-ea1": {
@@ -405,6 +405,14 @@
   "/uz/docs/quick-start/part3-finance-942": {
     "__comp": "17896441",
     "content": "1f544054"
+  },
+  "/uz/docs/quick-start/part4-operations-4ec": {
+    "__comp": "17896441",
+    "content": "a598201f"
+  },
+  "/uz/docs/quick-start/part5-reports-868": {
+    "__comp": "17896441",
+    "content": "f7343595"
   },
   "/uz/docs/wiki-style-9dc": {
     "__comp": "17896441",
