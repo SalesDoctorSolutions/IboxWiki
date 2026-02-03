@@ -12,7 +12,7 @@ iBOX — bu savdo, xaridlar, ombor va moliyani boshqarish uchun mo‘ljallangan 
 iBOX yordamida siz:
 - Omborda qancha mahsulot borligini va u qaysi omborda joylashganini aniq bilasiz
 - Ortiqcha zaxira yoki tanqisliksiz xaridlarni rejalashtirasiz
-- Excel va qo‘lda hisob-kitobsiz, biznes bo‘yicha real vaqt rejimidagi tahlilni olasiz
+- Excel va qo‘lda hisob-kitobsiz, biznes bo‘yicha ayni paytdagi (real vaqt) tahlilni olasiz
 
 ---
 
@@ -28,7 +28,7 @@ Agar siz ilgari hisob-kitob tizimlarida ishlamagan bo‘lsangiz, ishni boshlashd
 - 📦 Ombor qoldiqlari — mahsulotlar ro‘yxati va ularning joriy miqdori (Excel’da bo‘lishi mumkin)
 - 💰 Pul qoldiqlari — kassalar va hisob raqamlaridagi summalar
 - 👥 Mijozlar va ta'minotchilar ro‘yxati
-- 💳 Mijozlar va ta'minotchilar balansi — kim va qancha qarzdor, kimga qancha qarzingiz bor
+- 💳 Mijozlar va ta'minotchilar balansi — sizdan kim va qancha qarzdor, sizning kimga qancha qarzingiz bor
 - 👨‍💻 Tizimda ishlaydigan xodimlar ro‘yxati (kirish huquqlarini sozlash uchun)
 
 Dastur sotib olingandan so‘ng siz iBOX’dagi ishchi muhitingizga kirish ma’lumotlarini olasiz — havola, login va parol.

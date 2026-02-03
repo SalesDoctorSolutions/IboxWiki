@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '509'),
+    component: ComponentCreator('/uz/docs', '3da'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '84f'),
+        component: ComponentCreator('/uz/docs', 'f96'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '6d1'),
+            component: ComponentCreator('/uz/docs', '5ea'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -502,13 +502,13 @@ export default [
               },
               {
                 path: '/uz/docs/quick-start/part4-operations',
-                component: ComponentCreator('/uz/docs/quick-start/part4-operations', '4ec'),
+                component: ComponentCreator('/uz/docs/quick-start/part4-operations', '46b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/quick-start/part5-reports',
-                component: ComponentCreator('/uz/docs/quick-start/part5-reports', '868'),
+                component: ComponentCreator('/uz/docs/quick-start/part5-reports', '67a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

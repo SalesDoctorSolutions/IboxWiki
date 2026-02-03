@@ -6,18 +6,23 @@ sidebar_position: 1
 ---
 
 ## 1. Mahsulot sharhi
- Mahsulot haqida umumiy ma’lumot
-iBOX — bu asosiy biznes jarayonlarini boshqarishga yordam beruvchi bulutli, modulli ERP tizimidir. U ombor hisobidan tortib, tahlil va analitikagacha bo‘lgan jarayonlarni qamrab oladi.
-Tizim turli miqyos va faoliyat turlariga moslashadi: chakana savdo, ulgurji savdo, distribyutsiya, ishlab chiqarish hamda xizmat ko‘rsatish sohasi.
+**iBOX** — bu ombor hisobi, operatsiyalar va tahlilgacha bo‘lgan asosiy biznes jarayonlarini boshqarishga yordam beradigan bulutli, modulli ERP-tizim.
+
+Tizim turli miqyos va yo‘nalishdagi bizneslarga moslashadi: chakana savdo, ulgurji savdo, distributsiya, ishlab chiqarish va xizmatlar sohasi.
+
 Platforma sozlanadigan modullardan iborat — siz faqat biznesingiz uchun haqiqatan zarur bo‘lgan funksiyalarni faollashtirasiz.
-Bu esa iBOX’ni yakuniy foydalanuvchilar, hamkorlar va integratorlar uchun moslashuvchan hamda qulay vositaga aylantiradi.
-iBOX bulutli yechim sifatida ko‘rinishda mavjud: 
-- istalgan qurilmadan, istalgan vaqtda foydalanish mumkin.
-iBOX’ning asosiy afzalliklari:
+
+Bu iBOX’ni oxirgi foydalanuvchilar, hamkorlar va integratorlar uchun moslashuvchan va qulay vositaga aylantiradi.
+
+iBOX quyidagi shaklda mavjud:
+- bulutli yechim sifatida — istalgan qurilmadan, istalgan vaqtda foydalanish mumkin
+
+**iBOX’ning asosiy afzalliklari:**
 - ko‘p valyutali ishlash imkoniyati
-- bir nechta korxona bilan ishlash
-- rollar asosida kirish huquqlarini boshqarish
-API orqali qo‘shimcha sozlash va integratsiya qilish imkoniyati
-mobil telefon orqali tizim bilan tezkor ishlash uchun Telegram-bot
-Bizning maqsadimiz — biznes uchun sodda, ishonchli va foydalanishni boshlagan zahoti tushunarli hamda foydali bo‘lgan boshqaruv vositasini taqdim etishdir.
- 
+- bir nechta tashkilot bilan ishlash
+- rollar orqali kirish huquqlarini boshqarish
+- API orqali moslashtirish va integratsiya imkoniyati
+- tizim bilan tez ishlash uchun mobil ilova va POS tizimi
+- buyurtmalar va xabarlar uchun Telegram-bot
+
+Bizning maqsadimiz — biznes uchun oddiy, ishonchli va birinchi kundan boshlab tushunarli bo‘lgan boshqaruv vositasini taqdim etish.

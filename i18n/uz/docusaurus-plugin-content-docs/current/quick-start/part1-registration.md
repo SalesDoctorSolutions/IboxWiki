@@ -11,8 +11,8 @@ iBOX biznesingiz uchun qulay raqamli ofisga aylanishi uchun uni vazifalaringizga
 ### Profilni to‘ldirish
 Avval tizimdan kim sifatida va qanday foydalanishingizni ko‘rsatamiz.
 
-1. Chap pastki burchakdagi sozlamalar belgisi ⚙️ ustiga bosing.
-2. O‘ng tomondagi yon menyudan **Tashkilot sozlamalari** → **Profil** bo‘limini oching.
+1. Chap pastki burchakdagi **Sozlamalar** belgisi ⚙️ ustiga bosing.
+2. O‘ng tomondagi yon menyudan **Sozlamalar** → **Profil** bo‘limini oching.
 <img src="/img/quick-start/profile_screen_qs.png" alt="Profilni to‘ldirish" width="600" />
 3. Quyidagi maydonlarni to‘ldiring:
     - Ism  
@@ -23,12 +23,12 @@ Avval tizimdan kim sifatida va qanday foydalanishingizni ko‘rsatamiz.
 4. Telefon raqami va elektron pochtani tasdiqlang.
 
 ---
-### Valyutalar va kurslar
+### Valyutalar
 Ishlash va hisobotlar uchun valyutalarni qo‘shing va asosiy valyutani tanlang.
 
-1. Chap pastki burchakdagi sozlamalar belgisi ⚙️ ustiga bosing.
+1. Chap pastki burchakdagi **Sozlamalar** belgisi ⚙️ ustiga bosing.
 2. **Umumiy sozlamalar** → **Valyutalar** bo‘limiga o‘ting.
-3. Yuqori o‘ng burchakdagi plus tugmasini bosing.
+3. Yuqori o‘ng burchakdagi ➕plus tugmasini bosing.
 4. Valyutani qo‘shing va uning kursini kiriting.
 5. **Kurs** ustuniga sichqonchani olib boring va asosiy valyutani tanlang.
 <img src="/img/quick-start/base_currency_selection.png" alt="Asosiy valyutani tanlash" width="600"/>
@@ -77,7 +77,9 @@ Endi har kuni ishlaydigan obyektlarni qo‘shamiz: kassalar va omborlar.
 ## Funksiyalarni yoqish
 Kassalar va omborlar qo‘shilgach, ish uchun kerakli funksiyalarni yoqamiz.
 
-iBOX’da tizimni biznesingizga moslash imkonini beradigan moslashuvchan sozlamalar mavjud. **Sozlamalar → Funksional** bo‘limiga o‘ting va biznesingizga mos modullarni tanlang. Yangi foydalanuvchilar uchun ayniqsa foydali funksiyalar:
+iBOX’da tizimni biznesingizga moslash imkonini beradigan moslashuvchan sozlamalar mavjud. **Sozlamalar → Funksional** bo‘limiga o‘ting va biznesingizga mos modullarni tanlang.
+
+**Yangi foydalanuvchilar uchun foydali funksiyalar**:
 - Sotuvlar, xaridlar va to‘lovlar uchun qo‘shimcha statuslar — bajarilish bosqichlarini kuzatish uchun
 - To‘lovni hujjatlar bo‘yicha taqsimlash — har bir hujjat bo‘yicha to‘lov holatini ko‘rish uchun
 - Boshqa valyutada to'lovlarni amalga oshirish — boshqa valyutalarda to‘lov qabul qilish imkonini beradi
@@ -89,7 +91,10 @@ Bu bosqichda barcha funksiyalarni yoqish shart emas, ammo har bir bandni ko‘ri
 
 ---
 ## Rollar va xodimlar
-Rollar xodimlar tizimda qaysi amallarni bajarishi mumkinligini belgilaydi. Rol biriktirilmagan xodim iBOX’da ishlay olmaydi.
+Rollar xodimlar tizimda qaysi amallarni bajarishi mumkinligini belgilaydi. 
+:::warning Ogohlantirish
+Rol biriktirilmagan xodim iBOX’da ishlay olmaydi.
+:::
 
 ### Rol yaratish
 1. **Sozlamalar** → **Rollar** bo‘limini oching.
@@ -100,7 +105,7 @@ Rollar xodimlar tizimda qaysi amallarni bajarishi mumkinligini belgilaydi. Rol b
     - Tavsif — vazifalar va javobgarlik sohasi  
 4. Kirish huquqlarini sozlang:
     - Qaysi hujjatlarni ko‘rish, yaratish, tahrirlash yoki o‘chirish mumkinligini belgilang  
-    - Zarurat bo‘lsa, moliya va boshqa sezgir ma’lumotlarga kirishni cheklang  
+    - Zarurat bo‘lsa, moliya va boshqa maxfiy ma’lumotlarga kirishni cheklang  
 5. **Saqlash** tugmasini bosing.
 
 Rollarni to‘g‘ri sozlash xatolar va muhim funksiyalarga ruxsatsiz kirishning oldini oladi.

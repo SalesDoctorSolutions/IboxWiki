@@ -1,7 +1,7 @@
 {
   "id": "quick-start/part3-finance",
-  "title": "3-qism: Pullar",
-  "description": "\"Ushbu qo‘llanmaning bu bo‘limida siz moliyani qanday boshqarish va hisobotlar yordamida biznesni tahlil qilishni o‘rganasiz.",
+  "title": "3-qism. Mijozlar, ta'minotchilar va balanslar",
+  "description": "Ushbu bo‘limda siz kontragentlarni qo‘shasiz va boshlang‘ich moliyaviy ma’lumotlarni kiritasiz.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/quick-start/part3-finance.md",
   "sourceDirName": "quick-start",
   "slug": "/quick-start/part3-finance",
@@ -13,17 +13,17 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "part3-finance",
-    "title": "3-qism: Pullar",
-    "sidebar_label": "3-qism: Pullar",
+    "title": "3-qism. Mijozlar, ta'minotchilar va balanslar",
+    "sidebar_label": "3-qism: Mijozlar, ta'minotchilar va balanslar",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "2-qism: Mahsulotlar va mijozlar",
+    "title": "2-qism: Mahsulotlar, narxlar va qoldiqlar",
     "permalink": "/uz/docs/quick-start/part2-setup"
   },
   "next": {
-    "title": "Часть 4: Закупки, отгрузки и оплаты",
+    "title": "4-qism: Xaridlar, Sotuvlar va to‘lovlar",
     "permalink": "/uz/docs/quick-start/part4-operations"
   }
 }

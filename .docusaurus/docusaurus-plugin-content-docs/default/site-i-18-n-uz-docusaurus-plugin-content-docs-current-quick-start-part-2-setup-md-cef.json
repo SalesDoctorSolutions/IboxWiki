@@ -1,7 +1,7 @@
 {
   "id": "quick-start/part2-setup",
-  "title": "2-qism: Mahsulotlar va mijozlar",
-  "description": "\"Ushbu qo‘llanmaning bu bo‘limida siz quyidagilarni o‘rganasiz:",
+  "title": "2-qism. Mahsulotlar, narxlar va qoldiqlar",
+  "description": "Ushbu bo‘limda siz quyidagilarni o‘rganasiz:",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/quick-start/part2-setup.md",
   "sourceDirName": "quick-start",
   "slug": "/quick-start/part2-setup",
@@ -13,8 +13,8 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "id": "part2-setup",
-    "title": "2-qism: Mahsulotlar va mijozlar",
-    "sidebar_label": "2-qism: Mahsulotlar va mijozlar",
+    "title": "2-qism. Mahsulotlar, narxlar va qoldiqlar",
+    "sidebar_label": "2-qism: Mahsulotlar, narxlar va qoldiqlar",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/quick-start/part1-registration"
   },
   "next": {
-    "title": "3-qism: Pullar",
+    "title": "3-qism: Mijozlar, ta'minotchilar va balanslar",
     "permalink": "/uz/docs/quick-start/part3-finance"
   }
 }
