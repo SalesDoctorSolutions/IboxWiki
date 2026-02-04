@@ -14,7 +14,7 @@ Platforma sozlanadigan modullardan iborat — siz faqat biznesingiz uchun haqiqa
 
 Bu iBOX’ni oxirgi foydalanuvchilar, hamkorlar va integratorlar uchun moslashuvchan va qulay vositaga aylantiradi.
 
-iBOX quyidagi shaklda mavjud:
+**iBOX quyidagi shaklda mavjud:**
 - bulutli yechim sifatida — istalgan qurilmadan, istalgan vaqtda foydalanish mumkin
 
 **iBOX’ning asosiy afzalliklari:**
