@@ -354,13 +354,13 @@
               "path": "/docs/partners/partners-guide"
             },
             {
-              "id": "quick-start/part1-registration",
-              "path": "/docs/quick-start/part1-registration",
+              "id": "quick-start/part1-setup",
+              "path": "/docs/quick-start/part1-setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "quick-start/part2-setup",
-              "path": "/docs/quick-start/part2-setup",
+              "id": "quick-start/part2-products",
+              "path": "/docs/quick-start/part2-products",
               "sidebar": "tutorialSidebar"
             },
             {

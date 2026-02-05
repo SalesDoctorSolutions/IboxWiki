@@ -20,7 +20,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Часть 2: Товары, цены и остатки",
-    "permalink": "/docs/quick-start/part2-setup"
+    "permalink": "/docs/quick-start/part2-products"
   },
   "next": {
     "title": "Часть 4: Закупки, отгрузки и оплаты",

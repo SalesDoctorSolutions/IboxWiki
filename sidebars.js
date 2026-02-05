@@ -13,8 +13,8 @@ module.exports = {
       label: '2. Быстрый старт',
       items: [
         'quick-start/quick-start',
-        'quick-start/part1-registration',
-        'quick-start/part2-setup',
+        'quick-start/part1-setup',
+        'quick-start/part2-products',
         'quick-start/part3-finance',
         'quick-start/part4-operations',
         'quick-start/part5-reports',

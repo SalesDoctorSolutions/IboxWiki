@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '61f'),
+    component: ComponentCreator('/docs', 'ecf'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '9c0'),
+        component: ComponentCreator('/docs', 'ec8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c27'),
+            component: ComponentCreator('/docs', '2b9'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -518,14 +518,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/quick-start/part1-registration',
-                component: ComponentCreator('/docs/quick-start/part1-registration', 'b35'),
+                path: '/docs/quick-start/part1-setup',
+                component: ComponentCreator('/docs/quick-start/part1-setup', 'dd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/quick-start/part2-setup',
-                component: ComponentCreator('/docs/quick-start/part2-setup', '380'),
+                path: '/docs/quick-start/part2-products',
+                component: ComponentCreator('/docs/quick-start/part2-products', '6db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
