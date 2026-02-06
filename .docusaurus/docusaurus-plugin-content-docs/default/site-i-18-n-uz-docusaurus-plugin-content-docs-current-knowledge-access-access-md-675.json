@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access",
   "title": "Настройка доступа",
-  "description": "Для настройки доступов сначала нужно создать профили сотрудников в системе, а затем назначить им роли.",
+  "description": "Настройки доступа в iBOX",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/",

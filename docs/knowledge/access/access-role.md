@@ -2,7 +2,7 @@
 id: access-role
 title: Настройка ролей
 sidebar_label: Как настроить роли в iBOX
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Как настроить роли в iBox
 Роль — это набор прав доступа, которые определяют возможности сотрудника в системе. 

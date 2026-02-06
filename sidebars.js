@@ -38,8 +38,8 @@ module.exports = {
       label: 'Настройки доступа',
       items: [
         'knowledge/access/access',
-        'knowledge/access/access-team',
         'knowledge/access/access-role',
+        'knowledge/access/access-team',
         'knowledge/access/access-workplace',
         'knowledge/access/access-change',
 
