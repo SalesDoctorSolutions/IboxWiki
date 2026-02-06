@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ecf'),
+    component: ComponentCreator('/docs', 'b22'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ec8'),
+        component: ComponentCreator('/docs', '15f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2b9'),
+            component: ComponentCreator('/docs', '6e0'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -250,9 +250,8 @@ export default [
               },
               {
                 path: '/docs/knowledge/data/data-owner',
-                component: ComponentCreator('/docs/knowledge/data/data-owner', 'f40'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/knowledge/data/data-owner', 'd3d'),
+                exact: true
               },
               {
                 path: '/docs/knowledge/data/data-security',

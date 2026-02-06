@@ -131,8 +131,7 @@
             },
             {
               "id": "knowledge/data/data-owner",
-              "path": "/docs/knowledge/data/data-owner",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/knowledge/data/data-owner"
             },
             {
               "id": "knowledge/data/data-security",

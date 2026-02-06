@@ -31,7 +31,6 @@ module.exports = {
       items: [
         'knowledge/data/data-security',
         'knowledge/data/data-access',
-        'knowledge/data/data-owner',
       ],
     },
     {

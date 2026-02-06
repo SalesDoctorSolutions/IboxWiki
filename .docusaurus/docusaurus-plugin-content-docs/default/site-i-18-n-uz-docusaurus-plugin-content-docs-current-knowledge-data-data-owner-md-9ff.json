@@ -16,14 +16,5 @@
     "title": "Владелец данных",
     "sidebar_label": "Владелец данных",
     "sidebar_position": 3
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Кто имеет доступ к вашим данным",
-    "permalink": "/uz/docs/knowledge/data/data-access"
-  },
-  "next": {
-    "title": "Доступ в iBOX",
-    "permalink": "/uz/docs/knowledge/access/"
   }
 }

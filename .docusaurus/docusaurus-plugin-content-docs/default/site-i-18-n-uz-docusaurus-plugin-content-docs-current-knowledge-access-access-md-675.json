@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Владелец данных",
-    "permalink": "/uz/docs/knowledge/data/data-owner"
+    "title": "Кто имеет доступ к вашим данным",
+    "permalink": "/uz/docs/knowledge/data/data-access"
   },
   "next": {
     "title": "Как добавить сотрудников в систему",
