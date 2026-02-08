@@ -244,11 +244,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/products-organizations",
-              "path": "/docs/knowledge/products/products-organizations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "knowledge/products/purchase-price",
               "path": "/docs/knowledge/products/purchase-price",
               "sidebar": "tutorialSidebar"

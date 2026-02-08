@@ -50,7 +50,6 @@ module.exports = {
       label: 'Товары и цены',
       items: [           
         'knowledge/products/products-add',
-        'knowledge/products/products-organizations',
         'knowledge/products/purchase-price',
         'knowledge/products/batch-tracking',
         'knowledge/products/batch-set',
