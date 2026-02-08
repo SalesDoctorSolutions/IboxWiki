@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Как добавить сотрудников в систему",
-    "permalink": "/docs/knowledge/access/access-team"
+    "title": "Доступ в iBOX",
+    "permalink": "/docs/knowledge/access/"
   },
   "next": {
-    "title": "POS-система и мобильное приложение",
-    "permalink": "/docs/knowledge/access/access-workplace"
+    "title": "Как добавить сотрудников в систему",
+    "permalink": "/docs/knowledge/access/access-team"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "knowledge/goods/goods-add",
   "title": "Добавление товара вручную",
-  "description": "Вы можете сделать это в разделе Товары.",
+  "description": "Как добавить товар вручную",
   "source": "@site/docs/knowledge/goods/goods-add.md",
   "sourceDirName": "knowledge/goods",
   "slug": "/knowledge/goods/goods-add",

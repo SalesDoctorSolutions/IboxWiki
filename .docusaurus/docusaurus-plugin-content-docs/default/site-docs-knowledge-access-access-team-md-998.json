@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Доступ в iBOX",
-    "permalink": "/docs/knowledge/access/"
-  },
-  "next": {
     "title": "Как настроить роли в iBOX",
     "permalink": "/docs/knowledge/access/access-role"
+  },
+  "next": {
+    "title": "POS-система и мобильное приложение",
+    "permalink": "/docs/knowledge/access/access-workplace"
   }
 }
