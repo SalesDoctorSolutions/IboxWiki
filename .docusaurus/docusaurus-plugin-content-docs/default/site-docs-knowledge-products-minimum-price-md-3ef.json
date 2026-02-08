@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Печать штрихкода",
-    "permalink": "/docs/knowledge/products/barcode-print"
+    "title": "Штрихкоды",
+    "permalink": "/docs/knowledge/products/barcode"
   },
   "next": {
     "title": "Закупки товара в iBOX",

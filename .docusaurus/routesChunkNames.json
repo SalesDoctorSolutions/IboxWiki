@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-4e1": {
+  "/docs-c42": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-0ec": {
+  "/docs-273": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-51a": {
+  "/docs-db3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -313,41 +313,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-products-barcode-3-b-8-363"
   },
-  "/docs/knowledge/products/barcode-print-35b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-barcode-print-513-15c"
-  },
-  "/docs/knowledge/products/batch-set-429": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-batch-set-60-b-efd"
-  },
-  "/docs/knowledge/products/batch-tracking-e64": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-batch-tracking-5-eb-77c"
-  },
   "/docs/knowledge/products/minimum-price-2e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-products-minimum-price-3-ef-0b9"
   },
-  "/docs/knowledge/products/pricelist-add-934": {
+  "/docs/knowledge/products/pricelist-242": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-pricelist-add-8-c-7-38f"
-  },
-  "/docs/knowledge/products/pricelist-delete-64a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-pricelist-delete-301-773"
-  },
-  "/docs/knowledge/products/pricelist-edit-eb2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-pricelist-editd-03-f05"
+    "content": "content---docs-knowledge-products-pricelistf-72-ccd"
   },
   "/docs/knowledge/products/products-add-018": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-products-products-addd-1-e-01f"
-  },
-  "/docs/knowledge/products/purchase-price-f7a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-products-purchase-pricecff-f24"
   },
   "/docs/knowledge/purchase/-38d": {
     "__comp": "__comp---theme-doc-item-178-a40",

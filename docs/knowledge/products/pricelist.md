@@ -1,5 +1,5 @@
 ---
-id: pricelist-add
+id: pricelist
 title: Добавление прайс-листа
 sidebar_label: Добавление прайс-листа
 sidebar_position: 8

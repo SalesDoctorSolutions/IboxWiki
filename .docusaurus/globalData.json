@@ -204,48 +204,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/barcode-print",
-              "path": "/docs/knowledge/products/barcode-print",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/products/batch-set",
-              "path": "/docs/knowledge/products/batch-set",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/products/batch-tracking",
-              "path": "/docs/knowledge/products/batch-tracking",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "knowledge/products/minimum-price",
               "path": "/docs/knowledge/products/minimum-price",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/pricelist-add",
-              "path": "/docs/knowledge/products/pricelist-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/products/pricelist-delete",
-              "path": "/docs/knowledge/products/pricelist-delete",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/products/pricelist-edit",
-              "path": "/docs/knowledge/products/pricelist-edit",
+              "id": "knowledge/products/pricelist",
+              "path": "/docs/knowledge/products/pricelist",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/products-add",
               "path": "/docs/knowledge/products/products-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/products/purchase-price",
-              "path": "/docs/knowledge/products/purchase-price",
               "sidebar": "tutorialSidebar"
             },
             {
