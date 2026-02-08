@@ -1,11 +1,11 @@
 {
-  "id": "knowledge/goods/barcode-print",
+  "id": "knowledge/products/barcode-print",
   "title": "Печать штрихкода",
   "description": "Вы можете быстро напечатать этикетки со штрихкодами — это ускорит работу на складе и снизит количество ошибок.",
-  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/goods/barcode-print.md",
-  "sourceDirName": "knowledge/goods",
-  "slug": "/knowledge/goods/barcode-print",
-  "permalink": "/uz/docs/knowledge/goods/barcode-print",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/barcode-print.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/barcode-print",
+  "permalink": "/uz/docs/knowledge/products/barcode-print",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Штрихкод - как выбрать и сгенерировать",
-    "permalink": "/uz/docs/knowledge/goods/barcode"
+    "permalink": "/uz/docs/knowledge/products/barcode"
   },
   "next": {
     "title": "Минимальная цена товара",
-    "permalink": "/uz/docs/knowledge/goods/minimum-price"
+    "permalink": "/uz/docs/knowledge/products/minimum-price"
   }
 }

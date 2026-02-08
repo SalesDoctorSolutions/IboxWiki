@@ -34,7 +34,7 @@ sidebar_position: 11
 При заполнении формы нового товара:
 1. В окне добавления товара найдите поле **Штрихкод**
 
-<img src="/img/knowledge/goods/goods2.png" alt="Штрихкод" width="400" />
+<img src="/img/knowledge/products/products2.png" alt="Штрихкод" width="400" />
 
 
 

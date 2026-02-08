@@ -1,11 +1,11 @@
 {
-  "id": "knowledge/goods/purchase-price",
+  "id": "knowledge/products/purchase-price",
   "title": "Закупочная цена",
   "description": "Закупочная цена — это фактическая стоимость, по которой вы приобрели товар у поставщика. Она играет ключевую роль в работе всей системы iBox.",
-  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/goods/purchase-price.md",
-  "sourceDirName": "knowledge/goods",
-  "slug": "/knowledge/goods/purchase-price",
-  "permalink": "/uz/docs/knowledge/goods/purchase-price",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/purchase-price.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/purchase-price",
+  "permalink": "/uz/docs/knowledge/products/purchase-price",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Добавление товаров из других организаций",
-    "permalink": "/uz/docs/knowledge/goods/goods-organizations"
+    "permalink": "/uz/docs/knowledge/products/products-organizations"
   },
   "next": {
     "title": "Партийный учет в iBOX",
-    "permalink": "/uz/docs/knowledge/goods/batch-tracking"
+    "permalink": "/uz/docs/knowledge/products/batch-tracking"
   }
 }

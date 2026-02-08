@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-b22": {
+  "/docs-d20": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-15f": {
+  "/docs-a4c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-6e0": {
+  "/docs-bea": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -309,49 +309,49 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-finance-salary-payroll-790-5ea"
   },
-  "/docs/knowledge/goods/barcode-244": {
+  "/docs/knowledge/products/barcode-c4f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-barcode-681-bfa"
+    "content": "content---docs-knowledge-products-barcode-3-b-8-363"
   },
-  "/docs/knowledge/goods/barcode-print-e60": {
+  "/docs/knowledge/products/barcode-print-35b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-barcode-print-4-e-3-5b2"
+    "content": "content---docs-knowledge-products-barcode-print-513-15c"
   },
-  "/docs/knowledge/goods/batch-set-e79": {
+  "/docs/knowledge/products/batch-set-429": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-batch-set-7-cb-026"
+    "content": "content---docs-knowledge-products-batch-set-60-b-efd"
   },
-  "/docs/knowledge/goods/batch-tracking-052": {
+  "/docs/knowledge/products/batch-tracking-e64": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-batch-tracking-232-847"
+    "content": "content---docs-knowledge-products-batch-tracking-5-eb-77c"
   },
-  "/docs/knowledge/goods/goods-add-28e": {
+  "/docs/knowledge/products/minimum-price-2e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-goods-add-700-c01"
+    "content": "content---docs-knowledge-products-minimum-price-3-ef-0b9"
   },
-  "/docs/knowledge/goods/goods-organizations-328": {
+  "/docs/knowledge/products/pricelist-add-934": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-goods-organizationsc-4-e-8c3"
+    "content": "content---docs-knowledge-products-pricelist-add-8-c-7-38f"
   },
-  "/docs/knowledge/goods/minimum-price-1eb": {
+  "/docs/knowledge/products/pricelist-delete-64a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-minimum-priceec-1-395"
+    "content": "content---docs-knowledge-products-pricelist-delete-301-773"
   },
-  "/docs/knowledge/goods/pricelist-add-2a6": {
+  "/docs/knowledge/products/pricelist-edit-eb2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-pricelist-add-662-5a1"
+    "content": "content---docs-knowledge-products-pricelist-editd-03-f05"
   },
-  "/docs/knowledge/goods/pricelist-delete-8ca": {
+  "/docs/knowledge/products/products-add-018": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-pricelist-delete-0-e-0-678"
+    "content": "content---docs-knowledge-products-products-addd-1-e-01f"
   },
-  "/docs/knowledge/goods/pricelist-edit-1d1": {
+  "/docs/knowledge/products/products-organizations-bbb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-pricelist-edit-0-fb-070"
+    "content": "content---docs-knowledge-products-products-organizationsffd-49a"
   },
-  "/docs/knowledge/goods/purchase-price-dd8": {
+  "/docs/knowledge/products/purchase-price-f7a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-purchase-priceb-96-ed5"
+    "content": "content---docs-knowledge-products-purchase-pricecff-f24"
   },
   "/docs/knowledge/purchase/-38d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -385,9 +385,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-reports-dashboard-0-ae-3d5"
   },
-  "/docs/knowledge/reports/goods-profit-447": {
+  "/docs/knowledge/reports/products-profit-dfa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-reports-goods-profit-723-5e2"
+    "content": "content---docs-knowledge-reports-products-profit-48-f-c14"
   },
   "/docs/knowledge/reports/sales-reports-b7d": {
     "__comp": "__comp---theme-doc-item-178-a40",

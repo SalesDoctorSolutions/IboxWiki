@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b22'),
+    component: ComponentCreator('/docs', 'd20'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '15f'),
+        component: ComponentCreator('/docs', 'a4c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6e0'),
+            component: ComponentCreator('/docs', 'bea'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -326,68 +326,68 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/barcode',
-                component: ComponentCreator('/docs/knowledge/goods/barcode', '244'),
+                path: '/docs/knowledge/products/barcode',
+                component: ComponentCreator('/docs/knowledge/products/barcode', 'c4f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/barcode-print',
-                component: ComponentCreator('/docs/knowledge/goods/barcode-print', 'e60'),
+                path: '/docs/knowledge/products/barcode-print',
+                component: ComponentCreator('/docs/knowledge/products/barcode-print', '35b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/batch-set',
-                component: ComponentCreator('/docs/knowledge/goods/batch-set', 'e79'),
+                path: '/docs/knowledge/products/batch-set',
+                component: ComponentCreator('/docs/knowledge/products/batch-set', '429'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/batch-tracking',
-                component: ComponentCreator('/docs/knowledge/goods/batch-tracking', '052'),
+                path: '/docs/knowledge/products/batch-tracking',
+                component: ComponentCreator('/docs/knowledge/products/batch-tracking', 'e64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/goods-add',
-                component: ComponentCreator('/docs/knowledge/goods/goods-add', '28e'),
+                path: '/docs/knowledge/products/minimum-price',
+                component: ComponentCreator('/docs/knowledge/products/minimum-price', '2e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/goods-organizations',
-                component: ComponentCreator('/docs/knowledge/goods/goods-organizations', '328'),
+                path: '/docs/knowledge/products/pricelist-add',
+                component: ComponentCreator('/docs/knowledge/products/pricelist-add', '934'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/minimum-price',
-                component: ComponentCreator('/docs/knowledge/goods/minimum-price', '1eb'),
+                path: '/docs/knowledge/products/pricelist-delete',
+                component: ComponentCreator('/docs/knowledge/products/pricelist-delete', '64a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/pricelist-add',
-                component: ComponentCreator('/docs/knowledge/goods/pricelist-add', '2a6'),
+                path: '/docs/knowledge/products/pricelist-edit',
+                component: ComponentCreator('/docs/knowledge/products/pricelist-edit', 'eb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/pricelist-delete',
-                component: ComponentCreator('/docs/knowledge/goods/pricelist-delete', '8ca'),
+                path: '/docs/knowledge/products/products-add',
+                component: ComponentCreator('/docs/knowledge/products/products-add', '018'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/pricelist-edit',
-                component: ComponentCreator('/docs/knowledge/goods/pricelist-edit', '1d1'),
+                path: '/docs/knowledge/products/products-organizations',
+                component: ComponentCreator('/docs/knowledge/products/products-organizations', 'bbb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/purchase-price',
-                component: ComponentCreator('/docs/knowledge/goods/purchase-price', 'dd8'),
+                path: '/docs/knowledge/products/purchase-price',
+                component: ComponentCreator('/docs/knowledge/products/purchase-price', 'f7a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -440,8 +440,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/reports/goods-profit',
-                component: ComponentCreator('/docs/knowledge/reports/goods-profit', '447'),
+                path: '/docs/knowledge/reports/products-profit',
+                component: ComponentCreator('/docs/knowledge/reports/products-profit', 'dfa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

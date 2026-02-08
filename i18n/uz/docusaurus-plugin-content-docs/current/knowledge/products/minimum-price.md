@@ -19,7 +19,7 @@ sidebar_position: 13
  - Выберите валюту
  - Установите цену вручную
 
-<img src="/img/knowledge/goods/minimum-price.png" alt="Минимальная цена" width="600" />
+<img src="/img/knowledge/products/minimum-price.png" alt="Минимальная цена" width="600" />
 
 ### На основе прайс-листа
 1. На вкладке **Информация** выберите метод *На основе прайс-листа*
@@ -63,7 +63,7 @@ sidebar_position: 13
 3. Перейдите во вкладку **Прочее**
 4. Отметьте опцию **Установить минимальную цену для товаров**
 
-<img src="/img/knowledge/goods/minimum-price2.png" alt="Минимальная цена" width="600" />
+<img src="/img/knowledge/products/minimum-price2.png" alt="Минимальная цена" width="600" />
 
 
 

@@ -1,18 +1,18 @@
 {
-  "id": "knowledge/goods/goods-add",
+  "id": "knowledge/products/products-add",
   "title": "Добавление товара вручную",
   "description": "Вы можете сделать это в разделе Товары.",
-  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/goods/goods-add.md",
-  "sourceDirName": "knowledge/goods",
-  "slug": "/knowledge/goods/goods-add",
-  "permalink": "/uz/docs/knowledge/goods/goods-add",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/products-add.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/products-add",
+  "permalink": "/uz/docs/knowledge/products/products-add",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "id": "goods-add",
+    "id": "products-add",
     "title": "Добавление товара вручную",
     "sidebar_label": "Добавление товара",
     "sidebar_position": 3
@@ -24,6 +24,6 @@
   },
   "next": {
     "title": "Добавление товаров из других организаций",
-    "permalink": "/uz/docs/knowledge/goods/goods-organizations"
+    "permalink": "/uz/docs/knowledge/products/products-organizations"
   }
 }

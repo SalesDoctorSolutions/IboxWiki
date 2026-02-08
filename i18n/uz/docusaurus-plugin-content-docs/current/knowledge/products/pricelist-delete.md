@@ -10,7 +10,7 @@ sidebar_position: 10
 1. Найдите нужный прайс-лист в таблице
 1. Нажмите **⋯** (три точки) в правом верхнем углу и выберите **Удалить** 
 
-<img src="/img/knowledge/goods/pricelist-delete.png" alt="Редактирование прайс-листа" width="600" />
+<img src="/img/knowledge/products/pricelist-delete.png" alt="Редактирование прайс-листа" width="600" />
 
 4. Подтвердите удаление
 

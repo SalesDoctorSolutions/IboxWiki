@@ -1,11 +1,11 @@
 {
-  "id": "knowledge/goods/batch-set",
+  "id": "knowledge/products/batch-set",
   "title": "Настройка партийного учета",
   "description": "При создании товара",
-  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/goods/batch-set.md",
-  "sourceDirName": "knowledge/goods",
-  "slug": "/knowledge/goods/batch-set",
-  "permalink": "/uz/docs/knowledge/goods/batch-set",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/batch-set.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/batch-set",
+  "permalink": "/uz/docs/knowledge/products/batch-set",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Партийный учет в iBOX",
-    "permalink": "/uz/docs/knowledge/goods/batch-tracking"
+    "permalink": "/uz/docs/knowledge/products/batch-tracking"
   },
   "next": {
     "title": "Добавление прайс-листа",
-    "permalink": "/uz/docs/knowledge/goods/pricelist-add"
+    "permalink": "/uz/docs/knowledge/products/pricelist-add"
   }
 }

@@ -1,5 +1,5 @@
 ---
-id: goods-profit
+id: products-profit
 title: Прибыльность по товарам
 sidebar_label: Прибыльность по товарам
 sidebar_position: 23
@@ -19,7 +19,7 @@ sidebar_position: 23
 ## Как сформировать отчет о прибыльности
 1. Перейдите в **Отчеты → Продажи → Прибыльность по товарам**
 
-<img src="/img/knowledge/reports/profit-goods.png" alt="Прибыльность товара" width="600" />
+<img src="/img/knowledge/reports/profit-products.png" alt="Прибыльность товара" width="600" />
 
 1. Выберите нужный период: за прошлый месяц, год или задайте конкретные даты
 1. Используйте фильтры

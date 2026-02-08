@@ -1,5 +1,5 @@
 ---
-id: goods-add
+id: products-add
 title: Добавление товара вручную
 sidebar_label: Добавление товара
 sidebar_position: 3
