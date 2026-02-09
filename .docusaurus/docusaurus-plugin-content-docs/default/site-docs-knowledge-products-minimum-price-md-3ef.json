@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/minimum-price",
   "title": "Минимальная цена товара",
-  "description": "Минимальная цена — это порог, ниже которого нельзя продать товар. Это защищает компанию от убытков и нарушений ценовой политики.",
+  "description": "Минимальная цена — это порог, ниже которого нельзя продать товар.",
   "source": "@site/docs/knowledge/products/minimum-price.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/minimum-price",
@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 13,
+  "sidebarPosition": 5,
   "frontMatter": {
     "id": "minimum-price",
     "title": "Минимальная цена товара",
     "sidebar_label": "Минимальная цена товара",
-    "sidebar_position": 13
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {

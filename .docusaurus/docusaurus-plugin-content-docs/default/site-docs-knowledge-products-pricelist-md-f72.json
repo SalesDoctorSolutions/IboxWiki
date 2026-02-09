@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/pricelist",
-  "title": "Добавление прайс-листа",
-  "description": "1. Перейдите в раздел Прайс-листы в меню Товары",
+  "title": "Прайс-листы",
+  "description": "Прайс-листы позволяют работать с разными ценами — например, для разных клиентов, каналов продаж или типов операций.",
   "source": "@site/docs/knowledge/products/pricelist.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/pricelist",
@@ -10,17 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 8,
+  "sidebarPosition": 4,
   "frontMatter": {
     "id": "pricelist",
-    "title": "Добавление прайс-листа",
-    "sidebar_label": "Добавление прайс-листа",
-    "sidebar_position": 8
+    "title": "Прайс-листы",
+    "sidebar_label": "Прайс-листы",
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Добавление товара",
-    "permalink": "/docs/knowledge/products/products-add"
+    "title": "Удаление и деактивация товаров",
+    "permalink": "/docs/knowledge/products/products-remove"
   },
   "next": {
     "title": "Штрихкоды",

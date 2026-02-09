@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c42'),
+    component: ComponentCreator('/docs', '20e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '273'),
+        component: ComponentCreator('/docs', '0c6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'db3'),
+            component: ComponentCreator('/docs', 'e7f'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -346,6 +346,18 @@ export default [
               {
                 path: '/docs/knowledge/products/products-add',
                 component: ComponentCreator('/docs/knowledge/products/products-add', '018'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/products/products-management',
+                component: ComponentCreator('/docs/knowledge/products/products-management', 'b53'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/products/products-remove',
+                component: ComponentCreator('/docs/knowledge/products/products-remove', '490'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

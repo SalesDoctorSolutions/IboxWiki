@@ -10,16 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 11,
+  "sidebarPosition": 6,
   "frontMatter": {
     "id": "barcode",
     "title": "Штрихкоды",
     "sidebar_label": "Штрихкоды",
-    "sidebar_position": 11
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Добавление прайс-листа",
+    "title": "Прайс-листы",
     "permalink": "/docs/knowledge/products/pricelist"
   },
   "next": {

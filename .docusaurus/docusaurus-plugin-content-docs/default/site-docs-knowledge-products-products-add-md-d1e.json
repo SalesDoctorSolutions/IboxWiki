@@ -1,6 +1,6 @@
 {
   "id": "knowledge/products/products-add",
-  "title": "Добавление товара вручную",
+  "title": "Добавление товара",
   "description": "Как добавить товар вручную",
   "source": "@site/docs/knowledge/products/products-add.md",
   "sourceDirName": "knowledge/products",
@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 1,
   "frontMatter": {
     "id": "products-add",
-    "title": "Добавление товара вручную",
+    "title": "Добавление товара",
     "sidebar_label": "Добавление товара",
-    "sidebar_position": 3
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -23,7 +23,7 @@
     "permalink": "/docs/knowledge/access/access-change"
   },
   "next": {
-    "title": "Добавление прайс-листа",
-    "permalink": "/docs/knowledge/products/pricelist"
+    "title": "Управление товарами",
+    "permalink": "/docs/knowledge/products/products-management"
   }
 }

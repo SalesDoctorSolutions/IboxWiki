@@ -219,6 +219,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/products/products-management",
+              "path": "/docs/knowledge/products/products-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/products/products-remove",
+              "path": "/docs/knowledge/products/products-remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/purchase/order-add",
               "path": "/docs/knowledge/purchase/order-add",
               "sidebar": "tutorialSidebar"

@@ -2,7 +2,7 @@
 id: barcode
 title: Штрихкоды
 sidebar_label: Штрихкоды
-sidebar_position: 11
+sidebar_position: 6
 ---
 
 # Штрихкод — как выбрать, сгенерировать и распечатать

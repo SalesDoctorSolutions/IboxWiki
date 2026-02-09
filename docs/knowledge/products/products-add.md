@@ -1,8 +1,8 @@
 ---
 id: products-add
-title: Добавление товара вручную
+title: Добавление товара 
 sidebar_label: Добавление товара
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 ## Как добавить товар вручную
