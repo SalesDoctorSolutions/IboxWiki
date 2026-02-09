@@ -1,7 +1,7 @@
 {
   "id": "knowledge/customers/customer-add",
   "title": "Добавление клиентов",
-  "description": "",
+  "description": "Добавление клиентов",
   "source": "@site/docs/knowledge/customers/customer-add.md",
   "sourceDirName": "knowledge/customers",
   "slug": "/knowledge/customers/customer-add",

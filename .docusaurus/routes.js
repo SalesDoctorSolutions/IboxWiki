@@ -3,224 +3,259 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/uz/blog',
-    component: ComponentCreator('/uz/blog', 'dd3'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/uz/blog/',
-    component: ComponentCreator('/uz/blog/', '28c'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
-    path: '/uz/blog/archive',
-    component: ComponentCreator('/uz/blog/archive', 'd95'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
-    path: '/uz/blog/authors',
-    component: ComponentCreator('/uz/blog/authors', 'cb9'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
-    path: '/uz/blog/authors/all-mansur-articles',
-    component: ComponentCreator('/uz/blog/authors/all-mansur-articles', 'a31'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
-    path: '/uz/blog/release-1-0',
-    component: ComponentCreator('/uz/blog/release-1-0', '90b'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
-    path: '/uz/blog/tags',
-    component: ComponentCreator('/uz/blog/tags', '035'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
-    path: '/uz/blog/tags/обновление',
-    component: ComponentCreator('/uz/blog/tags/обновление', '4d0'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '7c0'),
     exact: true
   },
   {
-    path: '/uz/blog/tags/релиз',
-    component: ComponentCreator('/uz/blog/tags/релиз', 'c33'),
+    path: '/blog/',
+    component: ComponentCreator('/blog/', 'd1a'),
     exact: true
   },
   {
-    path: '/uz/markdown-page',
-    component: ComponentCreator('/uz/markdown-page', 'a50'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
-    path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '861'),
+    path: '/blog/authors',
+    component: ComponentCreator('/blog/authors', '0b7'),
+    exact: true
+  },
+  {
+    path: '/blog/authors/all-mansur-articles',
+    component: ComponentCreator('/blog/authors/all-mansur-articles', '931'),
+    exact: true
+  },
+  {
+    path: '/blog/release-1-0',
+    component: ComponentCreator('/blog/release-1-0', '869'),
+    exact: true
+  },
+  {
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '287'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/обновление',
+    component: ComponentCreator('/blog/tags/обновление', 'f6f'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/релиз',
+    component: ComponentCreator('/blog/tags/релиз', '532'),
+    exact: true
+  },
+  {
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
+    exact: true
+  },
+  {
+    path: '/docs',
+    component: ComponentCreator('/docs', '542'),
     routes: [
       {
-        path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'd7e'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '88b'),
         routes: [
           {
-            path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'e16'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '0fc'),
             routes: [
               {
-                path: '/uz/docs/editorial-policy',
-                component: ComponentCreator('/uz/docs/editorial-policy', 'ea1'),
+                path: '/docs/editorial-policy',
+                component: ComponentCreator('/docs/editorial-policy', 'd77'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/faq/',
-                component: ComponentCreator('/uz/docs/faq/', 'be8'),
+                path: '/docs/faq/',
+                component: ComponentCreator('/docs/faq/', 'dcc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/intro',
-                component: ComponentCreator('/uz/docs/intro', '381'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '853'),
                 exact: true
               },
               {
-                path: '/uz/docs/knowledge/',
-                component: ComponentCreator('/uz/docs/knowledge/', '008'),
+                path: '/docs/knowledge/',
+                component: ComponentCreator('/docs/knowledge/', 'd37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/access/',
-                component: ComponentCreator('/uz/docs/knowledge/access/', '7ed'),
+                path: '/docs/knowledge/access/',
+                component: ComponentCreator('/docs/knowledge/access/', 'e15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/access/access-change',
-                component: ComponentCreator('/uz/docs/knowledge/access/access-change', '5cc'),
+                path: '/docs/knowledge/access/access-change',
+                component: ComponentCreator('/docs/knowledge/access/access-change', '814'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/access/access-role',
-                component: ComponentCreator('/uz/docs/knowledge/access/access-role', '2d8'),
+                path: '/docs/knowledge/access/access-role',
+                component: ComponentCreator('/docs/knowledge/access/access-role', 'eb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/access/access-team',
-                component: ComponentCreator('/uz/docs/knowledge/access/access-team', 'df9'),
+                path: '/docs/knowledge/access/access-team',
+                component: ComponentCreator('/docs/knowledge/access/access-team', '5c4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/access/access-workplace',
-                component: ComponentCreator('/uz/docs/knowledge/access/access-workplace', '5b6'),
+                path: '/docs/knowledge/access/access-workplace',
+                component: ComponentCreator('/docs/knowledge/access/access-workplace', 'c2e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/customers/customer-add',
-                component: ComponentCreator('/uz/docs/knowledge/customers/customer-add', 'd7b'),
+                path: '/docs/knowledge/customers/customer-add',
+                component: ComponentCreator('/docs/knowledge/customers/customer-add', '2b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/data/data-access',
-                component: ComponentCreator('/uz/docs/knowledge/data/data-access', 'e3e'),
+                path: '/docs/knowledge/data/data-access',
+                component: ComponentCreator('/docs/knowledge/data/data-access', '4f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/data/data-security',
-                component: ComponentCreator('/uz/docs/knowledge/data/data-security', '34f'),
+                path: '/docs/knowledge/data/data-security',
+                component: ComponentCreator('/docs/knowledge/data/data-security', '968'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/products/barcode',
-                component: ComponentCreator('/uz/docs/knowledge/products/barcode', '2fc'),
+                path: '/docs/knowledge/products/barcode',
+                component: ComponentCreator('/docs/knowledge/products/barcode', 'c4f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/products/minimal-price',
-                component: ComponentCreator('/uz/docs/knowledge/products/minimal-price', 'b12'),
+                path: '/docs/knowledge/products/minimal-price',
+                component: ComponentCreator('/docs/knowledge/products/minimal-price', '121'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/products/pricelist',
-                component: ComponentCreator('/uz/docs/knowledge/products/pricelist', '8e0'),
+                path: '/docs/knowledge/products/pricelist',
+                component: ComponentCreator('/docs/knowledge/products/pricelist', '242'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/products/product-add',
-                component: ComponentCreator('/uz/docs/knowledge/products/product-add', '93d'),
+                path: '/docs/knowledge/products/product-add',
+                component: ComponentCreator('/docs/knowledge/products/product-add', '11b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/products/product-management',
-                component: ComponentCreator('/uz/docs/knowledge/products/product-management', '142'),
+                path: '/docs/knowledge/products/product-management',
+                component: ComponentCreator('/docs/knowledge/products/product-management', '03b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/knowledge/products/product-remove',
-                component: ComponentCreator('/uz/docs/knowledge/products/product-remove', '81f'),
+                path: '/docs/knowledge/products/product-remove',
+                component: ComponentCreator('/docs/knowledge/products/product-remove', 'fb4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/overview/product-overview',
-                component: ComponentCreator('/uz/docs/overview/product-overview', 'ea0'),
+                path: '/docs/overview/product-overview',
+                component: ComponentCreator('/docs/overview/product-overview', '913'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/partners/partners-guide',
-                component: ComponentCreator('/uz/docs/partners/partners-guide', '545'),
+                path: '/docs/partners/partners-guide',
+                component: ComponentCreator('/docs/partners/partners-guide', '738'),
                 exact: true
               },
               {
-                path: '/uz/docs/quick-start/',
-                component: ComponentCreator('/uz/docs/quick-start/', 'd41'),
+                path: '/docs/quick-start/',
+                component: ComponentCreator('/docs/quick-start/', 'eec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/quick-start/part1-setup',
-                component: ComponentCreator('/uz/docs/quick-start/part1-setup', '820'),
+                path: '/docs/quick-start/part1-setup',
+                component: ComponentCreator('/docs/quick-start/part1-setup', 'dd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/quick-start/part2-products',
-                component: ComponentCreator('/uz/docs/quick-start/part2-products', '63c'),
+                path: '/docs/quick-start/part2-products',
+                component: ComponentCreator('/docs/quick-start/part2-products', '6db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/quick-start/part3-finance',
-                component: ComponentCreator('/uz/docs/quick-start/part3-finance', '942'),
+                path: '/docs/quick-start/part3-finance',
+                component: ComponentCreator('/docs/quick-start/part3-finance', '5b6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/quick-start/part4-operations',
-                component: ComponentCreator('/uz/docs/quick-start/part4-operations', '46b'),
+                path: '/docs/quick-start/part4-operations',
+                component: ComponentCreator('/docs/quick-start/part4-operations', '8d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/quick-start/part5-reports',
-                component: ComponentCreator('/uz/docs/quick-start/part5-reports', '67a'),
+                path: '/docs/quick-start/part5-reports',
+                component: ComponentCreator('/docs/quick-start/part5-reports', '836'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/wiki-style',
-                component: ComponentCreator('/uz/docs/wiki-style', '9dc'),
+                path: '/docs/wiki-style',
+                component: ComponentCreator('/docs/wiki-style', '045'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -231,8 +266,8 @@ export default [
     ]
   },
   {
-    path: '/uz/',
-    component: ComponentCreator('/uz/', 'd50'),
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {
