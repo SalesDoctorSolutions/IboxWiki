@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/customers/customer-management",
+  "title": "Управление клиентами",
+  "description": "Редактирование клиента",
+  "source": "@site/docs/knowledge/customers/customer-management.md",
+  "sourceDirName": "knowledge/customers",
+  "slug": "/knowledge/customers/customer-management",
+  "permalink": "/docs/knowledge/customers/customer-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "customer-management",
+    "title": "Управление клиентами",
+    "sidebar_label": "Управление клиентами",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Добавление клиентов",
+    "permalink": "/docs/knowledge/customers/customer-add"
+  },
+  "next": {
+    "title": "Удаление и деактивация клиентов",
+    "permalink": "/docs/knowledge/customers/customer-remove"
+  }
+}

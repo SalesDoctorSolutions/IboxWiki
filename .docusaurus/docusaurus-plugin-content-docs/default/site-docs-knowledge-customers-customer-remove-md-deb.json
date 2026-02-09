@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/customers/customer-remove",
+  "title": "Удаление и деактивация клиентов",
+  "description": "В iBox есть несколько способов убрать клиента из списков: удалить его, деактивировать или добавить в чёрный список.",
+  "source": "@site/docs/knowledge/customers/customer-remove.md",
+  "sourceDirName": "knowledge/customers",
+  "slug": "/knowledge/customers/customer-remove",
+  "permalink": "/docs/knowledge/customers/customer-remove",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "customer-remove",
+    "title": "Удаление и деактивация клиентов",
+    "sidebar_label": "Удаление и деактивация клиентов",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Управление клиентами",
+    "permalink": "/docs/knowledge/customers/customer-management"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/docs/faq/"
+  }
+}

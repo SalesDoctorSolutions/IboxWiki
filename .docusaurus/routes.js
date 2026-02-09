@@ -89,21 +89,20 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '542'),
+    component: ComponentCreator('/docs', '4b2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '88b'),
+        component: ComponentCreator('/docs', '632'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0fc'),
+            component: ComponentCreator('/docs', '261'),
             routes: [
               {
                 path: '/docs/editorial-policy',
-                component: ComponentCreator('/docs/editorial-policy', 'd77'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/editorial-policy', 'f0b'),
+                exact: true
               },
               {
                 path: '/docs/faq/',
@@ -155,6 +154,18 @@ export default [
               {
                 path: '/docs/knowledge/customers/customer-add',
                 component: ComponentCreator('/docs/knowledge/customers/customer-add', '2b9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/customer-management',
+                component: ComponentCreator('/docs/knowledge/customers/customer-management', '25b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/customer-remove',
+                component: ComponentCreator('/docs/knowledge/customers/customer-remove', '598'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -255,9 +266,8 @@ export default [
               },
               {
                 path: '/docs/wiki-style',
-                component: ComponentCreator('/docs/wiki-style', '045'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/wiki-style', 'e15'),
+                exact: true
               }
             ]
           }

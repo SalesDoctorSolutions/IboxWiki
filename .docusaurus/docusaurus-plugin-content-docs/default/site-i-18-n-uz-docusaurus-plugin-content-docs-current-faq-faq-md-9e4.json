@@ -19,11 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Добавление клиентов",
-    "permalink": "/uz/docs/knowledge/customers/customer-add"
-  },
-  "next": {
-    "title": "Tahririyat siyosati",
-    "permalink": "/uz/docs/editorial-policy"
+    "title": "Управление клиентами",
+    "permalink": "/uz/docs/knowledge/customers/customer-management"
   }
 }

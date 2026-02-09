@@ -62,6 +62,8 @@ module.exports = {
       label: 'Клиенты и продажи',
       items: [            
         'knowledge/customers/customer-add',
+        'knowledge/customers/customer-management',
+        'knowledge/customers/customer-remove',
       ],
     },
   ],
@@ -78,13 +80,13 @@ module.exports = {
       //label: '5. Партнерам и интеграторам',
       //items: ['partners/partners-guide'],
     //},
-    {
+    /*{
       type: 'category',
       label: '5. Для авторов',
       items: [
         'editorial-policy',
         'wiki-style',
       ],
-    },
+    },*/
   ],
 };

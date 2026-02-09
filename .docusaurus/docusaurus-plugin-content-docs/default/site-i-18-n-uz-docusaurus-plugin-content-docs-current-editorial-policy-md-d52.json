@@ -16,14 +16,5 @@
     "title": "Tahririyat siyosati",
     "sidebar_position": 99,
     "sidebar_label": "Tahririyat siyosati"
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "faq",
-    "permalink": "/uz/docs/faq/"
-  },
-  "next": {
-    "title": "Uslubiy qo‘llanma (Style guide)",
-    "permalink": "/uz/docs/wiki-style"
   }
 }

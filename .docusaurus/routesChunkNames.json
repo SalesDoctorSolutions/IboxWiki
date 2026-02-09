@@ -144,20 +144,20 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-542": {
+  "/docs-4b2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-88b": {
+  "/docs-632": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0fc": {
+  "/docs-261": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/editorial-policy-d77": {
+  "/docs/editorial-policy-f0b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-editorial-policy-55-e-bcc"
   },
@@ -196,6 +196,14 @@
   "/docs/knowledge/customers/customer-add-2b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-customers-customer-addb-23-c6b"
+  },
+  "/docs/knowledge/customers/customer-management-25b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-customer-management-290-f6a"
+  },
+  "/docs/knowledge/customers/customer-remove-598": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-customer-removedeb-d2b"
   },
   "/docs/knowledge/data/data-access-4f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -261,7 +269,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-quick-start-part-5-reportsf-73-5d5"
   },
-  "/docs/wiki-style-045": {
+  "/docs/wiki-style-e15": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-wiki-styled-55-a6f"
   },

@@ -12,8 +12,7 @@
           "docs": [
             {
               "id": "editorial-policy",
-              "path": "/docs/editorial-policy",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/editorial-policy"
             },
             {
               "id": "faq/faq",
@@ -52,6 +51,16 @@
             {
               "id": "knowledge/customers/customer-add",
               "path": "/docs/knowledge/customers/customer-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/customer-management",
+              "path": "/docs/knowledge/customers/customer-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/customer-remove",
+              "path": "/docs/knowledge/customers/customer-remove",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -140,8 +149,7 @@
             },
             {
               "id": "wiki-style",
-              "path": "/docs/wiki-style",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/wiki-style"
             }
           ],
           "draftIds": [],

@@ -19,11 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Добавление клиентов",
-    "permalink": "/docs/knowledge/customers/customer-add"
-  },
-  "next": {
-    "title": "Редакционная политика",
-    "permalink": "/docs/editorial-policy"
+    "title": "Удаление и деактивация клиентов",
+    "permalink": "/docs/knowledge/customers/customer-remove"
   }
 }

@@ -16,14 +16,5 @@
     "title": "Редакционная политика",
     "sidebar_position": 99,
     "sidebar_label": "Редакционная политика"
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "faq",
-    "permalink": "/docs/faq/"
-  },
-  "next": {
-    "title": "Стайлгайд",
-    "permalink": "/docs/wiki-style"
   }
 }

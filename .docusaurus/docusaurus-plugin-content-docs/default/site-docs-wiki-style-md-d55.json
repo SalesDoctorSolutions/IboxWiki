@@ -16,10 +16,5 @@
     "title": "Стайлгайд для вики",
     "sidebar_position": 100,
     "sidebar_label": "Стайлгайд"
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Редакционная политика",
-    "permalink": "/docs/editorial-policy"
   }
 }
