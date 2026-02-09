@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/customers/order-status",
+  "title": "Статус заказа в iBOX",
+  "description": "Чтобы проверить, какие заказы отгружены, перейдите в раздел Продажи → Заказы.",
+  "source": "@site/docs/knowledge/customers/order-status.md",
+  "sourceDirName": "knowledge/customers",
+  "slug": "/knowledge/customers/order-status",
+  "permalink": "/docs/knowledge/customers/order-status",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "id": "order-status",
+    "title": "Статус заказа в iBOX",
+    "sidebar_label": "Статус заказа в iBOX",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Уведомления и заказы через Telegram",
+    "permalink": "/docs/knowledge/customers/telegram"
+  },
+  "next": {
+    "title": "Закупки товара в iBOX",
+    "permalink": "/docs/knowledge/purchase/"
+  }
+}

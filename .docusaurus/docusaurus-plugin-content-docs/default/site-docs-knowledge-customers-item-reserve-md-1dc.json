@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/customers/item-reserve",
+  "title": "Резервирование заказа",
+  "description": "При создании заказа вы можете включить опцию Резервировать товары. Это значит, что система забронирует нужное количество товара на складе под этот заказ, чтобы его не мог купить кто-то другой.",
+  "source": "@site/docs/knowledge/customers/item-reserve.md",
+  "sourceDirName": "knowledge/customers",
+  "slug": "/knowledge/customers/item-reserve",
+  "permalink": "/docs/knowledge/customers/item-reserve",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "item-reserve",
+    "title": "Резервирование заказа",
+    "sidebar_label": "Резервирование заказа",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Создание заказа",
+    "permalink": "/docs/knowledge/customers/order-add"
+  },
+  "next": {
+    "title": "Создание отгрузки",
+    "permalink": "/docs/knowledge/customers/shipment-add"
+  }
+}

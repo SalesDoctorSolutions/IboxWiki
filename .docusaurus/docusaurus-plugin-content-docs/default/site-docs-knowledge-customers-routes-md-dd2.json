@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/customers/routes",
+  "title": " Маршруты для клиентов",
+  "description": "Маршрут в iBox — это способ объединить клиентов в группу, чтобы ограничить к ним доступ и упростить работу торговых представителей.",
+  "source": "@site/docs/knowledge/customers/routes.md",
+  "sourceDirName": "knowledge/customers",
+  "slug": "/knowledge/customers/routes",
+  "permalink": "/docs/knowledge/customers/routes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "routes",
+    "title": " Маршруты для клиентов",
+    "sidebar_label": "Маршруты в iBOX",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Создание отгрузки",
+    "permalink": "/docs/knowledge/customers/shipment-add"
+  },
+  "next": {
+    "title": "Заказ или отгрузка",
+    "permalink": "/docs/knowledge/customers/orders-shipments"
+  }
+}

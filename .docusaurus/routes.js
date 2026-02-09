@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '7c0'),
     exact: true
@@ -89,15 +54,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '48e'),
+    component: ComponentCreator('/docs', 'f35'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd83'),
+        component: ComponentCreator('/docs', 'a0f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'dab'),
+            component: ComponentCreator('/docs', 'b74'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -165,60 +130,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/clients/clients-add',
-                component: ComponentCreator('/docs/knowledge/clients/clients-add', '739'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/item-reserve',
-                component: ComponentCreator('/docs/knowledge/clients/item-reserve', '430'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/order-add',
-                component: ComponentCreator('/docs/knowledge/clients/order-add', '673'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/order-status',
-                component: ComponentCreator('/docs/knowledge/clients/order-status', 'cea'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/orders-shipments',
-                component: ComponentCreator('/docs/knowledge/clients/orders-shipments', '121'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/return',
-                component: ComponentCreator('/docs/knowledge/clients/return', '71b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/routes',
-                component: ComponentCreator('/docs/knowledge/clients/routes', '06a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/shipment-add',
-                component: ComponentCreator('/docs/knowledge/clients/shipment-add', 'c94'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge/clients/telegram',
-                component: ComponentCreator('/docs/knowledge/clients/telegram', '888'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/knowledge/crm/crm-overview',
                 component: ComponentCreator('/docs/knowledge/crm/crm-overview', 'bce'),
                 exact: true,
@@ -239,6 +150,60 @@ export default [
               {
                 path: '/docs/knowledge/crm/tasks',
                 component: ComponentCreator('/docs/knowledge/crm/tasks', '5cd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/customers-add',
+                component: ComponentCreator('/docs/knowledge/customers/customers-add', '962'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/item-reserve',
+                component: ComponentCreator('/docs/knowledge/customers/item-reserve', '2d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/order-add',
+                component: ComponentCreator('/docs/knowledge/customers/order-add', 'afe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/order-status',
+                component: ComponentCreator('/docs/knowledge/customers/order-status', 'ca7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/orders-shipments',
+                component: ComponentCreator('/docs/knowledge/customers/orders-shipments', '48e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/return',
+                component: ComponentCreator('/docs/knowledge/customers/return', '132'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/routes',
+                component: ComponentCreator('/docs/knowledge/customers/routes', '14b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/shipment-add',
+                component: ComponentCreator('/docs/knowledge/customers/shipment-add', '150'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/customers/telegram',
+                component: ComponentCreator('/docs/knowledge/customers/telegram', '516'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

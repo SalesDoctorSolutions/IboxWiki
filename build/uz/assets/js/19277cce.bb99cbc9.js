@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_temp=self.webpackChunkdocusaurus_temp||[]).push([[4150],{4107:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/uz/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

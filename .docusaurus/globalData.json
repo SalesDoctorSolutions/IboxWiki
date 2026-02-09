@@ -60,51 +60,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/clients/clients-add",
-              "path": "/docs/knowledge/clients/clients-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/item-reserve",
-              "path": "/docs/knowledge/clients/item-reserve",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/order-add",
-              "path": "/docs/knowledge/clients/order-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/order-status",
-              "path": "/docs/knowledge/clients/order-status",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/orders-shipments",
-              "path": "/docs/knowledge/clients/orders-shipments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/return",
-              "path": "/docs/knowledge/clients/return",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/routes",
-              "path": "/docs/knowledge/clients/routes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/shipment-add",
-              "path": "/docs/knowledge/clients/shipment-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/clients/telegram",
-              "path": "/docs/knowledge/clients/telegram",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "knowledge/crm/crm-overview",
               "path": "/docs/knowledge/crm/crm-overview",
               "sidebar": "tutorialSidebar"
@@ -122,6 +77,51 @@
             {
               "id": "knowledge/crm/tasks",
               "path": "/docs/knowledge/crm/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/customers-add",
+              "path": "/docs/knowledge/customers/customers-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/item-reserve",
+              "path": "/docs/knowledge/customers/item-reserve",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/order-add",
+              "path": "/docs/knowledge/customers/order-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/order-status",
+              "path": "/docs/knowledge/customers/order-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/orders-shipments",
+              "path": "/docs/knowledge/customers/orders-shipments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/return",
+              "path": "/docs/knowledge/customers/return",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/routes",
+              "path": "/docs/knowledge/customers/routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/shipment-add",
+              "path": "/docs/knowledge/customers/shipment-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/telegram",
+              "path": "/docs/knowledge/customers/telegram",
               "sidebar": "tutorialSidebar"
             },
             {
