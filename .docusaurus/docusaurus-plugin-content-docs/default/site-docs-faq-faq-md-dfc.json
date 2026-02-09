@@ -1,7 +1,7 @@
 {
   "id": "faq/faq",
-  "title": "Часто задаваемые вопросы",
-  "description": "Здесь вы найдете быстрые решения и ответы на вопросы по работе с системой.",
+  "title": "faq",
+  "description": "",
   "source": "@site/docs/faq/faq.md",
   "sourceDirName": "faq",
   "slug": "/faq/",
@@ -10,20 +10,20 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 1,
   "frontMatter": {
     "id": "faq",
-    "title": "Часто задаваемые вопросы",
-    "sidebar_label": "Ответы на вопросы пользователей",
-    "sidebar_position": 4
+    "title": "faq",
+    "sidebar_label": "faq",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Организации и филиалы",
-    "permalink": "/docs/knowledge/settings/organizations"
+    "title": "Добавление клиентов",
+    "permalink": "/docs/knowledge/customers/customer-add"
   },
   "next": {
-    "title": "Начало работы в iBOX",
-    "permalink": "/docs/faq/start"
+    "title": "Редакционная политика",
+    "permalink": "/docs/editorial-policy"
   }
 }

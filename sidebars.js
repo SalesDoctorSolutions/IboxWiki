@@ -59,97 +59,9 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Клиенты и заказы',
+      label: 'Клиенты и продажи',
       items: [            
-        'knowledge/customers/customers-add',
-        'knowledge/customers/order-add',
-        'knowledge/customers/item-reserve',
-        'knowledge/customers/shipment-add',
-        'knowledge/customers/routes',
-        'knowledge/customers/orders-shipments',
-        'knowledge/customers/return',
-        'knowledge/customers/telegram',
-        'knowledge/customers/order-status',
-
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Закупки и поставщики',
-      items: [            
-        'knowledge/purchase/purchase',
-        'knowledge/purchase/supplier-add',
-        'knowledge/purchase/purchase-price',
-        'knowledge/purchase/order-purchase',
-        'knowledge/purchase/order-add',
-        'knowledge/purchase/purchase-add',
-        'knowledge/purchase/supplier-return',
-
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Склад',
-      items: [
-        'knowledge/warehouse/inventory',
-        'knowledge/warehouse/stock-adjustment',
-        'knowledge/warehouse/stock-transfer',
-        'knowledge/warehouse/new-transfer',
-
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Фабрика',
-      items: [
-        'knowledge/factory/factory',
-        'knowledge/factory/bom',
-        'knowledge/factory/assembly',
-        'knowledge/factory/assembly-manual',
-        'knowledge/factory/assembly-proportions',
-        'knowledge/factory/assembly-volume',
-
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Финансы',
-      items: [
-        'knowledge/finance/cash-register',
-        'knowledge/finance/payment-add',
-        'knowledge/finance/salary-payroll',
-        'knowledge/finance/balance-adjustment',
-        'knowledge/finance/payment-purchase',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Отчеты',
-      items: [
-        'knowledge/reports/dashboard',
-        'knowledge/reports/sales-reports',
-        'knowledge/reports/products-profit',
-        'knowledge/reports/stock-analysis',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'CRM',
-      items: [            
-        'knowledge/crm/crm-overview',
-        'knowledge/crm/tasks',
-        'knowledge/crm/deals',
-        'knowledge/crm/status',
-
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Основные настройки в iBOX',
-      items: [
-        'knowledge/settings/default-settings',
-        'knowledge/settings/functional',
-        'knowledge/settings/organizations',
+        'knowledge/customers/customer-add',
       ],
     },
   ],
@@ -159,8 +71,6 @@ module.exports = {
       label: '4. FAQ',
       items: [
         'faq/faq',
-        'faq/start',
-        'faq/access-control',
       ],
     },
     //{

@@ -1,8 +1,6 @@
 ---
 id: faq
-title: "Ko‘p beriladigan savollar (FAQ)"
-sidebar_label: "Foydalanuvchilar savollariga javoblar"
-sidebar_position: 4
+title: faq
+sidebar_label: faq
+sidebar_position: 1
 ---
-
-Здесь вы найдете быстрые решения и ответы на вопросы по работе с системой.

@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/barcode",
-  "title": "Штрихкод",
-  "description": "При создании или редактировании товара в iBox вы можете указать или сгенерировать штрихкод. Штрихкод используется для быстрой идентификации товара при продаже, приемке или инвентаризации.",
+  "title": "Штрихкоды",
+  "description": "При создании или редактировании товара в iBox вы можете указать или сгенерировать штрихкод.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/barcode.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/barcode",
@@ -10,20 +10,20 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 11,
+  "sidebarPosition": 6,
   "frontMatter": {
     "id": "barcode",
-    "title": "Штрихкод",
-    "sidebar_label": "Штрихкод - как выбрать и сгенерировать",
-    "sidebar_position": 11
+    "title": "Штрихкоды",
+    "sidebar_label": "Штрихкоды",
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Удаление прайс-листа",
-    "permalink": "/uz/docs/knowledge/products/pricelist-delete"
+    "title": "Прайс-листы",
+    "permalink": "/uz/docs/knowledge/products/pricelist"
   },
   "next": {
-    "title": "Печать штрихкода",
-    "permalink": "/uz/docs/knowledge/products/barcode-print"
+    "title": "Минимальная цена товара",
+    "permalink": "/uz/docs/knowledge/products/minimal-price"
   }
 }

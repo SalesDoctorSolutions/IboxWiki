@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/products/product-management",
+  "title": "Управление товарами",
+  "description": "В iBox вы можете в любой момент отредактировать товар, проверить его остатки и посмотреть полную историю движения. Это помогает поддерживать порядок в данных и контролировать склад.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/product-management.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/product-management",
+  "permalink": "/uz/docs/knowledge/products/product-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "product-management",
+    "title": "Управление товарами",
+    "sidebar_label": "Управление товарами",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Добавление товара",
+    "permalink": "/uz/docs/knowledge/products/product-add"
+  },
+  "next": {
+    "title": "Удаление и деактивация товаров",
+    "permalink": "/uz/docs/knowledge/products/product-remove"
+  }
+}

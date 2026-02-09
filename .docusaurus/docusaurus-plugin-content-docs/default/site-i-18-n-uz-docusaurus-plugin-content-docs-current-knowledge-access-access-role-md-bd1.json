@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 2,
   "frontMatter": {
     "id": "access-role",
     "title": "Настройка ролей",
     "sidebar_label": "Как настроить роли в iBOX",
-    "sidebar_position": 3
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {

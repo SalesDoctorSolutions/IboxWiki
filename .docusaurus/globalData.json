@@ -1,365 +1,146 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/uz/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/uz/docs",
           "mainDocId": "overview/product-overview",
           "docs": [
             {
               "id": "editorial-policy",
-              "path": "/docs/editorial-policy",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faq/access-control",
-              "path": "/docs/faq/access-control",
+              "path": "/uz/docs/editorial-policy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/faq",
-              "path": "/docs/faq/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faq/start",
-              "path": "/docs/faq/start",
+              "path": "/uz/docs/faq/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro"
+              "path": "/uz/docs/intro"
             },
             {
               "id": "knowledge/access/access",
-              "path": "/docs/knowledge/access/",
+              "path": "/uz/docs/knowledge/access/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/access/access-change",
-              "path": "/docs/knowledge/access/access-change",
+              "path": "/uz/docs/knowledge/access/access-change",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/access/access-role",
-              "path": "/docs/knowledge/access/access-role",
+              "path": "/uz/docs/knowledge/access/access-role",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/access/access-team",
-              "path": "/docs/knowledge/access/access-team",
+              "path": "/uz/docs/knowledge/access/access-team",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/access/access-workplace",
-              "path": "/docs/knowledge/access/access-workplace",
+              "path": "/uz/docs/knowledge/access/access-workplace",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/crm/crm-overview",
-              "path": "/docs/knowledge/crm/crm-overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/crm/deals",
-              "path": "/docs/knowledge/crm/deals",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/crm/status",
-              "path": "/docs/knowledge/crm/status",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/crm/tasks",
-              "path": "/docs/knowledge/crm/tasks",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/customers-add",
-              "path": "/docs/knowledge/customers/customers-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/item-reserve",
-              "path": "/docs/knowledge/customers/item-reserve",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/order-add",
-              "path": "/docs/knowledge/customers/order-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/order-status",
-              "path": "/docs/knowledge/customers/order-status",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/orders-shipments",
-              "path": "/docs/knowledge/customers/orders-shipments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/return",
-              "path": "/docs/knowledge/customers/return",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/routes",
-              "path": "/docs/knowledge/customers/routes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/shipment-add",
-              "path": "/docs/knowledge/customers/shipment-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/customers/telegram",
-              "path": "/docs/knowledge/customers/telegram",
+              "id": "knowledge/customers/customer-add",
+              "path": "/uz/docs/knowledge/customers/customer-add",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/data/data-access",
-              "path": "/docs/knowledge/data/data-access",
+              "path": "/uz/docs/knowledge/data/data-access",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/data/data-owner",
-              "path": "/docs/knowledge/data/data-owner"
             },
             {
               "id": "knowledge/data/data-security",
-              "path": "/docs/knowledge/data/data-security",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/factory/assembly",
-              "path": "/docs/knowledge/factory/assembly",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/factory/assembly-manual",
-              "path": "/docs/knowledge/factory/assembly-manual",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/factory/assembly-proportions",
-              "path": "/docs/knowledge/factory/assembly-proportions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/factory/assembly-volume",
-              "path": "/docs/knowledge/factory/assembly-volume",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/factory/bom",
-              "path": "/docs/knowledge/factory/bom",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/factory/factory",
-              "path": "/docs/knowledge/factory/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/finance/balance-adjustment",
-              "path": "/docs/knowledge/finance/balance-adjustment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/finance/cash-register",
-              "path": "/docs/knowledge/finance/cash-register",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/finance/payment-add",
-              "path": "/docs/knowledge/finance/payment-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/finance/payment-purchase",
-              "path": "/docs/knowledge/finance/payment-purchase",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/finance/salary-payroll",
-              "path": "/docs/knowledge/finance/salary-payroll",
+              "path": "/uz/docs/knowledge/data/data-security",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/knowledge",
-              "path": "/docs/knowledge/",
+              "path": "/uz/docs/knowledge/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/barcode",
-              "path": "/docs/knowledge/products/barcode",
+              "path": "/uz/docs/knowledge/products/barcode",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/minimal-price",
-              "path": "/docs/knowledge/products/minimal-price",
+              "path": "/uz/docs/knowledge/products/minimal-price",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/pricelist",
-              "path": "/docs/knowledge/products/pricelist",
+              "path": "/uz/docs/knowledge/products/pricelist",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/product-add",
-              "path": "/docs/knowledge/products/product-add",
+              "path": "/uz/docs/knowledge/products/product-add",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/product-management",
-              "path": "/docs/knowledge/products/product-management",
+              "path": "/uz/docs/knowledge/products/product-management",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/products/product-remove",
-              "path": "/docs/knowledge/products/product-remove",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/order-add",
-              "path": "/docs/knowledge/purchase/order-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/order-purchase",
-              "path": "/docs/knowledge/purchase/order-purchase",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/purchase",
-              "path": "/docs/knowledge/purchase/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/purchase-add",
-              "path": "/docs/knowledge/purchase/purchase-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/purchase-price",
-              "path": "/docs/knowledge/purchase/purchase-price",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/supplier-add",
-              "path": "/docs/knowledge/purchase/supplier-add",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/purchase/supplier-return",
-              "path": "/docs/knowledge/purchase/supplier-return",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/reports/dashboard",
-              "path": "/docs/knowledge/reports/dashboard",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/reports/products-profit",
-              "path": "/docs/knowledge/reports/products-profit",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/reports/sales-reports",
-              "path": "/docs/knowledge/reports/sales-reports",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/reports/stock-analysis",
-              "path": "/docs/knowledge/reports/stock-analysis",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/settings/default-settings",
-              "path": "/docs/knowledge/settings/default-settings",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/settings/functional",
-              "path": "/docs/knowledge/settings/functional",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/settings/organizations",
-              "path": "/docs/knowledge/settings/organizations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/warehouse/inventory",
-              "path": "/docs/knowledge/warehouse/inventory",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/warehouse/new-transfer",
-              "path": "/docs/knowledge/warehouse/new-transfer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/warehouse/stock-adjustment",
-              "path": "/docs/knowledge/warehouse/stock-adjustment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge/warehouse/stock-transfer",
-              "path": "/docs/knowledge/warehouse/stock-transfer",
+              "path": "/uz/docs/knowledge/products/product-remove",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "overview/product-overview",
-              "path": "/docs/overview/product-overview",
+              "path": "/uz/docs/overview/product-overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "partners/partners-guide",
-              "path": "/docs/partners/partners-guide"
+              "path": "/uz/docs/partners/partners-guide"
             },
             {
               "id": "quick-start/part1-setup",
-              "path": "/docs/quick-start/part1-setup",
+              "path": "/uz/docs/quick-start/part1-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quick-start/part2-products",
-              "path": "/docs/quick-start/part2-products",
+              "path": "/uz/docs/quick-start/part2-products",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quick-start/part3-finance",
-              "path": "/docs/quick-start/part3-finance",
+              "path": "/uz/docs/quick-start/part3-finance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quick-start/part4-operations",
-              "path": "/docs/quick-start/part4-operations",
+              "path": "/uz/docs/quick-start/part4-operations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quick-start/part5-reports",
-              "path": "/docs/quick-start/part5-reports",
+              "path": "/uz/docs/quick-start/part5-reports",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quick-start/quick-start",
-              "path": "/docs/quick-start/",
+              "path": "/uz/docs/quick-start/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wiki-style",
-              "path": "/docs/wiki-style",
+              "path": "/uz/docs/wiki-style",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -367,7 +148,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/overview/product-overview",
+                "path": "/uz/docs/overview/product-overview",
                 "label": "overview/product-overview"
               }
             }

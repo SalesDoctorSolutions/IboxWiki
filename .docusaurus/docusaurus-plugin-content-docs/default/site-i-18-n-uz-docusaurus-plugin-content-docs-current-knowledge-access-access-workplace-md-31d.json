@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-workplace",
-  "title": "Настройка рабочего места",
-  "description": "Для работы сотрудника в мобильной версии достаточно настроить рабочее место и задать, какие действия сотрудник сможет выполнять.",
+  "title": "Доступ к POS-системе и мобильному приложению",
+  "description": "Чтобы сотрудник мог работать в POS-системе или мобильном приложении iBOX, создайте для него рабочее место и настройте права доступа. Рабочее место определяет, какие действия сотрудник сможет выполнять и с какими складами и кассами он будет работать.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access-workplace.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-workplace",
@@ -13,8 +13,8 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "access-workplace",
-    "title": "Настройка рабочего места",
-    "sidebar_label": "Как создать рабочее место",
+    "title": "Доступ к POS-системе и мобильному приложению",
+    "sidebar_label": "POS-система и мобильное приложение",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",

@@ -1,8 +1,6 @@
 ---
 id: faq
-title: Часто задаваемые вопросы
-sidebar_label: Ответы на вопросы пользователей
-sidebar_position: 4
+title: faq
+sidebar_label: faq
+sidebar_position: 1
 ---
-
-Здесь вы найдете быстрые решения и ответы на вопросы по работе с системой.

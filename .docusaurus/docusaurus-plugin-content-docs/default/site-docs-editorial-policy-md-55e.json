@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Управление доступами и ролями",
-    "permalink": "/docs/faq/access-control"
+    "title": "faq",
+    "permalink": "/docs/faq/"
   },
   "next": {
     "title": "Стайлгайд",

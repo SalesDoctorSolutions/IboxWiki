@@ -23,42 +23,6 @@
     "message": "Xodimlarni tizimga qanday qo‘shish mumkin",
     "description": "The label for category Настройки доступа in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Товары и цены": {
-    "message": "Mahsulotlar va narxlar",
-    "description": "The label for category Товары и цены in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Закупки и поставщики": {
-    "message": "Xaridlar va Ta'minotchilar",
-    "description": "The label for category Закупки и поставщики in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Клиенты и заказы": {
-    "message": "Mijozlar va buyurtmalar",
-    "description": "The label for category Клиенты и заказы in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Склад": {
-    "message": "Ombor",
-    "description": "The label for category Склад in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Фабрика": {
-    "message": "Fabrika",
-    "description": "The label for category Фабрика in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Финансы": {
-    "message": "Pullar",
-    "description": "The label for category Финансы in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Отчеты": {
-    "message": "Hisobotlar",
-    "description": "The label for category Отчеты in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.CRM": {
-    "message": "CRM",
-    "description": "The label for category CRM in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Основные настройки в iBOX": {
-    "message": "iBOX’dagi asosiy sozlamalar",
-    "description": "The label for category Основные настройки в iBOX in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.4. FAQ": {
     "message": "4. Ko‘p beriladigan savollar (FAQ)",
     "description": "The label for category 4. FAQ in sidebar tutorialSidebar"
@@ -66,5 +30,13 @@
   "sidebar.tutorialSidebar.category.5. Для авторов": {
     "message": "5. Mualliflar uchun",
     "description": "The label for category 5. Для авторов in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Клиенты и продажи": {
+    "message": "Mijozlar va sotuvlar",
+    "description": "The label for category Клиенты и продажи in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Товары и цены": {
+    "message": "Mahsulotlar va narxlar",
+    "description": "The label for category Товары и цены in sidebar tutorialSidebar"
   }
 }

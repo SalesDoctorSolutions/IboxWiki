@@ -1,7 +1,7 @@
 {
   "id": "faq/faq",
-  "title": "Ko‘p beriladigan savollar (FAQ)",
-  "description": "Здесь вы найдете быстрые решения и ответы на вопросы по работе с системой.",
+  "title": "faq",
+  "description": "",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/faq/faq.md",
   "sourceDirName": "faq",
   "slug": "/faq/",
@@ -10,20 +10,20 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 1,
   "frontMatter": {
     "id": "faq",
-    "title": "Ko‘p beriladigan savollar (FAQ)",
-    "sidebar_label": "Foydalanuvchilar savollariga javoblar",
-    "sidebar_position": 4
+    "title": "faq",
+    "sidebar_label": "faq",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Организации и филиалы",
-    "permalink": "/uz/docs/knowledge/settings/organizations"
+    "title": "Добавление клиентов",
+    "permalink": "/uz/docs/knowledge/customers/customer-add"
   },
   "next": {
-    "title": "iBOX’da ishni boshlash",
-    "permalink": "/uz/docs/faq/start"
+    "title": "Tahririyat siyosati",
+    "permalink": "/uz/docs/editorial-policy"
   }
 }

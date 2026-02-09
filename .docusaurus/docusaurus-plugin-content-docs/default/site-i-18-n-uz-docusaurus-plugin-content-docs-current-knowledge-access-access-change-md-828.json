@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Как создать рабочее место",
+    "title": "POS-система и мобильное приложение",
     "permalink": "/uz/docs/knowledge/access/access-workplace"
   },
   "next": {
     "title": "Добавление товара",
-    "permalink": "/uz/docs/knowledge/products/products-add"
+    "permalink": "/uz/docs/knowledge/products/product-add"
   }
 }
