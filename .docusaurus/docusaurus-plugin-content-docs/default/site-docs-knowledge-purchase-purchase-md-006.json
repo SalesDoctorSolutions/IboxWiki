@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Минимальная цена товара",
-    "permalink": "/docs/knowledge/products/minimum-price"
+    "title": "Статус заказа в iBOX",
+    "permalink": "/docs/knowledge/clients/order-status"
   },
   "next": {
     "title": "Добавление поставщиков",

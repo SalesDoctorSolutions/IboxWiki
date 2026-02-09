@@ -23,7 +23,7 @@
     "permalink": "/docs/knowledge/clients/telegram"
   },
   "next": {
-    "title": "Управление остатками",
-    "permalink": "/docs/knowledge/warehouse/inventory"
+    "title": "Закупки товара в iBOX",
+    "permalink": "/docs/knowledge/purchase/"
   }
 }

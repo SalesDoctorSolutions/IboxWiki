@@ -23,7 +23,7 @@
     "permalink": "/docs/knowledge/purchase/purchase-add"
   },
   "next": {
-    "title": "Добавление клиентов",
-    "permalink": "/docs/knowledge/clients/clients-add"
+    "title": "Управление остатками",
+    "permalink": "/docs/knowledge/warehouse/inventory"
   }
 }

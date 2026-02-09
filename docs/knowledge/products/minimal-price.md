@@ -1,5 +1,5 @@
 ---
-id: minimum-price
+id: minimal-price
 title: Минимальная цена товара
 sidebar_label: Минимальная цена товара
 sidebar_position: 5

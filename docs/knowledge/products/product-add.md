@@ -1,5 +1,5 @@
 ---
-id: products-add
+id: product-add
 title: Добавление товара 
 sidebar_label: Добавление товара
 sidebar_position: 1

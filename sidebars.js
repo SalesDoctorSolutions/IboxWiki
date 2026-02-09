@@ -49,26 +49,12 @@ module.exports = {
       type: 'category',
       label: 'Товары и цены',
       items: [           
-        'knowledge/products/products-add',
-        'knowledge/products/products-management',
-        'knowledge/products/products-remove',
+        'knowledge/products/product-add',
+        'knowledge/products/product-management',
+        'knowledge/products/product-remove',
         'knowledge/products/pricelist',
         'knowledge/products/barcode',
-        'knowledge/products/minimum-price',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Закупки и поставщики',
-      items: [            
-        'knowledge/purchase/purchase',
-        'knowledge/purchase/supplier-add',
-        'knowledge/purchase/purchase-price',
-        'knowledge/purchase/order-purchase',
-        'knowledge/purchase/order-add',
-        'knowledge/purchase/purchase-add',
-        'knowledge/purchase/supplier-return',
-
+        'knowledge/products/minimal-price',
       ],
     },
     {
@@ -84,6 +70,20 @@ module.exports = {
         'knowledge/clients/return',
         'knowledge/clients/telegram',
         'knowledge/clients/order-status',
+
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Закупки и поставщики',
+      items: [            
+        'knowledge/purchase/purchase',
+        'knowledge/purchase/supplier-add',
+        'knowledge/purchase/purchase-price',
+        'knowledge/purchase/order-purchase',
+        'knowledge/purchase/order-add',
+        'knowledge/purchase/purchase-add',
+        'knowledge/purchase/supplier-return',
 
       ],
     },

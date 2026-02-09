@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '20e'),
+    component: ComponentCreator('/docs', '48e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '0c6'),
+        component: ComponentCreator('/docs', 'd83'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e7f'),
+            component: ComponentCreator('/docs', 'dab'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -332,8 +332,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/products/minimum-price',
-                component: ComponentCreator('/docs/knowledge/products/minimum-price', '2e2'),
+                path: '/docs/knowledge/products/minimal-price',
+                component: ComponentCreator('/docs/knowledge/products/minimal-price', '121'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -344,20 +344,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/products/products-add',
-                component: ComponentCreator('/docs/knowledge/products/products-add', '018'),
+                path: '/docs/knowledge/products/product-add',
+                component: ComponentCreator('/docs/knowledge/products/product-add', '11b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/products/products-management',
-                component: ComponentCreator('/docs/knowledge/products/products-management', 'b53'),
+                path: '/docs/knowledge/products/product-management',
+                component: ComponentCreator('/docs/knowledge/products/product-management', '03b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/products/products-remove',
-                component: ComponentCreator('/docs/knowledge/products/products-remove', '490'),
+                path: '/docs/knowledge/products/product-remove',
+                component: ComponentCreator('/docs/knowledge/products/product-remove', 'fb4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

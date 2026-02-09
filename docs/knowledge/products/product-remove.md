@@ -1,5 +1,5 @@
 ---
-id: products-remove
+id: product-remove
 title: Удаление и деактивация товаров
 sidebar_label: Удаление и деактивация товаров
 sidebar_position: 3

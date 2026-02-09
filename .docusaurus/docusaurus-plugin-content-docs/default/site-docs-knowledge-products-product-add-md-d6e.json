@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/products/product-add",
+  "title": "Добавление товара",
+  "description": "Как добавить товар вручную",
+  "source": "@site/docs/knowledge/products/product-add.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/product-add",
+  "permalink": "/docs/knowledge/products/product-add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "product-add",
+    "title": "Добавление товара",
+    "sidebar_label": "Добавление товара",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Как ограничить доступ сотруднику",
+    "permalink": "/docs/knowledge/access/access-change"
+  },
+  "next": {
+    "title": "Управление товарами",
+    "permalink": "/docs/knowledge/products/product-management"
+  }
+}

@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Возврат товара поставщику",
-    "permalink": "/docs/knowledge/purchase/supplier-return"
+    "title": "Минимальная цена товара",
+    "permalink": "/docs/knowledge/products/minimal-price"
   },
   "next": {
     "title": "Создание заказа",

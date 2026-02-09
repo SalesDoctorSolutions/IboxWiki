@@ -1,5 +1,5 @@
 ---
-id: products-management
+id: product-management
 title: Управление товарами
 sidebar_label: Управление товарами
 sidebar_position: 2

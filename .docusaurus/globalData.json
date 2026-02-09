@@ -204,8 +204,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/minimum-price",
-              "path": "/docs/knowledge/products/minimum-price",
+              "id": "knowledge/products/minimal-price",
+              "path": "/docs/knowledge/products/minimal-price",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -214,18 +214,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/products-add",
-              "path": "/docs/knowledge/products/products-add",
+              "id": "knowledge/products/product-add",
+              "path": "/docs/knowledge/products/product-add",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/products-management",
-              "path": "/docs/knowledge/products/products-management",
+              "id": "knowledge/products/product-management",
+              "path": "/docs/knowledge/products/product-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/products/products-remove",
-              "path": "/docs/knowledge/products/products-remove",
+              "id": "knowledge/products/product-remove",
+              "path": "/docs/knowledge/products/product-remove",
               "sidebar": "tutorialSidebar"
             },
             {
