@@ -64,6 +64,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/customers/shipments",
+              "path": "/docs/knowledge/customers/shipments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/data/data-access",
               "path": "/docs/knowledge/data/data-access",
               "sidebar": "tutorialSidebar"
