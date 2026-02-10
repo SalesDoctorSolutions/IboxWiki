@@ -64,6 +64,15 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/customers/orders",
+              "path": "/docs/knowledge/customers/orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/customers/returns",
+              "path": "/docs/knowledge/customers/returns"
+            },
+            {
               "id": "knowledge/customers/shipments",
               "path": "/docs/knowledge/customers/shipments",
               "sidebar": "tutorialSidebar"

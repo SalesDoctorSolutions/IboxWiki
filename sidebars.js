@@ -65,6 +65,8 @@ module.exports = {
         'knowledge/customers/customer-management',
         'knowledge/customers/customer-remove',
         'knowledge/customers/shipments',
+        'knowledge/customers/orders',
+        'knowledge/customers/returns',
       ],
     },
   ],
