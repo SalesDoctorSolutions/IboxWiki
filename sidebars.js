@@ -77,6 +77,7 @@ module.exports = {
         'knowledge/suppliers/supplier-management',
         'knowledge/suppliers/supplier-remove',
         'knowledge/suppliers/purchases',
+        'knowledge/suppliers/purchase-orders',
       ],
     },
   ],
