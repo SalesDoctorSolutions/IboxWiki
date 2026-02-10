@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/suppliers/purchase-orders",
+  "title": "Заказы поставщикам",
+  "description": "Заказ поставщику помогает зафиксировать намерение закупить товар и контролировать будущие поступления.",
+  "source": "@site/docs/knowledge/suppliers/purchase-orders.md",
+  "sourceDirName": "knowledge/suppliers",
+  "slug": "/knowledge/suppliers/purchase-orders",
+  "permalink": "/docs/knowledge/suppliers/purchase-orders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "purchase-orders",
+    "title": "Заказы поставщикам",
+    "sidebar_label": "Заказы поставщикам",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Закупки",
+    "permalink": "/docs/knowledge/suppliers/purchases"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/docs/faq/"
+  }
+}
