@@ -129,6 +129,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/suppliers/supplier-management",
+              "path": "/docs/knowledge/suppliers/supplier-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/suppliers/supplier-remove",
+              "path": "/docs/knowledge/suppliers/supplier-remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "overview/product-overview",
               "path": "/docs/overview/product-overview",
               "sidebar": "tutorialSidebar"

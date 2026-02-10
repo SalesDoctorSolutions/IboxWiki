@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/suppliers/supplier-management",
+  "title": "Управление поставщиками",
+  "description": "Редактирование поставщика",
+  "source": "@site/docs/knowledge/suppliers/supplier-management.md",
+  "sourceDirName": "knowledge/suppliers",
+  "slug": "/knowledge/suppliers/supplier-management",
+  "permalink": "/docs/knowledge/suppliers/supplier-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "supplier-management",
+    "title": "Управление поставщиками",
+    "sidebar_label": "Управление поставщиками",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Добавление поставщиков",
+    "permalink": "/docs/knowledge/suppliers/supplier-add"
+  },
+  "next": {
+    "title": "Удаление и деактивация поставщиков",
+    "permalink": "/docs/knowledge/suppliers/supplier-remove"
+  }
+}

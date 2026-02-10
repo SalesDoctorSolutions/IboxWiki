@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Добавление поставщиков",
-    "permalink": "/docs/knowledge/suppliers/supplier-add"
+    "title": "Удаление и деактивация поставщиков",
+    "permalink": "/docs/knowledge/suppliers/supplier-remove"
   }
 }

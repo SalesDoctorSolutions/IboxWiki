@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'cdf'),
+    component: ComponentCreator('/docs', 'd9c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '096'),
+        component: ComponentCreator('/docs', 'f82'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '871'),
+            component: ComponentCreator('/docs', 'd26'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -238,6 +238,18 @@ export default [
               {
                 path: '/docs/knowledge/suppliers/supplier-add',
                 component: ComponentCreator('/docs/knowledge/suppliers/supplier-add', 'b5c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/suppliers/supplier-management',
+                component: ComponentCreator('/docs/knowledge/suppliers/supplier-management', '20a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/suppliers/supplier-remove',
+                component: ComponentCreator('/docs/knowledge/suppliers/supplier-remove', '86c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

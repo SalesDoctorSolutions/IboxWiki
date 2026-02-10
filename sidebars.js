@@ -74,6 +74,8 @@ module.exports = {
       label: 'Поставщики и закупки',
       items: [            
         'knowledge/suppliers/supplier-add',
+        'knowledge/suppliers/supplier-management',
+        'knowledge/suppliers/supplier-remove',
       ],
     },
   ],

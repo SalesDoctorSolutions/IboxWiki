@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/suppliers/supplier-remove",
+  "title": "Удаление и деактивация поставщиков",
+  "description": "В iBox есть несколько способов убрать поставщика из списков: удалить его, деактивировать или добавить в чёрный список.",
+  "source": "@site/docs/knowledge/suppliers/supplier-remove.md",
+  "sourceDirName": "knowledge/suppliers",
+  "slug": "/knowledge/suppliers/supplier-remove",
+  "permalink": "/docs/knowledge/suppliers/supplier-remove",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "supplier-remove",
+    "title": "Удаление и деактивация поставщиков",
+    "sidebar_label": "Удаление и деактивация поставщиков",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Управление поставщиками",
+    "permalink": "/docs/knowledge/suppliers/supplier-management"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/docs/faq/"
+  }
+}
