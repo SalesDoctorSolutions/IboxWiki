@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/suppliers/purchases",
+  "title": "Закупки",
+  "description": "Закупка фиксирует факт приёма товара от поставщика — с неё начинается контроль кредиторской задолженности и работа с платежами.",
+  "source": "@site/docs/knowledge/suppliers/purchases.md",
+  "sourceDirName": "knowledge/suppliers",
+  "slug": "/knowledge/suppliers/purchases",
+  "permalink": "/docs/knowledge/suppliers/purchases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "purchases",
+    "title": "Закупки",
+    "sidebar_label": "Закупки",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Удаление и деактивация поставщиков",
+    "permalink": "/docs/knowledge/suppliers/supplier-remove"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/docs/faq/"
+  }
+}

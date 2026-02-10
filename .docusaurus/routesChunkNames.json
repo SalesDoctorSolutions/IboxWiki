@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d9c": {
+  "/docs-b6e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-f82": {
+  "/docs-b6f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-d26": {
+  "/docs-b77": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -248,6 +248,10 @@
   "/docs/knowledge/products/product-remove-fb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-products-product-remove-676-1dd"
+  },
+  "/docs/knowledge/suppliers/purchases-949": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-suppliers-purchases-206-80a"
   },
   "/docs/knowledge/suppliers/supplier-add-b5c": {
     "__comp": "__comp---theme-doc-item-178-a40",

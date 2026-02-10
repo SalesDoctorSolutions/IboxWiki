@@ -27,7 +27,7 @@ module.exports = {
         'knowledge/knowledge',
     {
       type: 'category',
-      label: 'Данные и безопасность',
+      label: '3.1. Данные и безопасность',
       items: [
         'knowledge/data/data-security',
         'knowledge/data/data-access',
@@ -35,7 +35,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Настройки доступа',
+      label: '3.2. Настройки доступа',
       items: [
         'knowledge/access/access',
         'knowledge/access/access-role',
@@ -47,7 +47,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Товары и цены',
+      label: '3.3. Товары и цены',
       items: [           
         'knowledge/products/product-add',
         'knowledge/products/product-management',
@@ -59,7 +59,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Клиенты и продажи',
+      label: '3.4. Клиенты и продажи',
       items: [            
         'knowledge/customers/customer-add',
         'knowledge/customers/customer-management',
@@ -71,11 +71,12 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Поставщики и закупки',
+      label: '3.5. Поставщики и закупки',
       items: [            
         'knowledge/suppliers/supplier-add',
         'knowledge/suppliers/supplier-management',
         'knowledge/suppliers/supplier-remove',
+        'knowledge/suppliers/purchases',
       ],
     },
   ],

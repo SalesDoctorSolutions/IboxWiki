@@ -124,6 +124,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/suppliers/purchases",
+              "path": "/docs/knowledge/suppliers/purchases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/suppliers/supplier-add",
               "path": "/docs/knowledge/suppliers/supplier-add",
               "sidebar": "tutorialSidebar"

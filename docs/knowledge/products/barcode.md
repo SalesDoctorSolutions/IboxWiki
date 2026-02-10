@@ -1,7 +1,7 @@
 ---
 id: barcode
 title: Штрихкоды
-sidebar_label: Штрихкоды
+sidebar_label: ' Штрихкоды'
 sidebar_position: 6
 ---
 
