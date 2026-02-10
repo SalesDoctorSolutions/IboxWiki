@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/customers/returns.md",
   "sourceDirName": "knowledge/customers",
   "slug": "/knowledge/customers/returns",
-  "permalink": "/docs/knowledge/customers/returns",
+  "permalink": "/uz/docs/knowledge/customers/returns",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,5 +16,14 @@
     "title": "Возвраты",
     "sidebar_label": "Возвраты",
     "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Заказы",
+    "permalink": "/uz/docs/knowledge/customers/orders"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/uz/docs/faq/"
   }
 }
