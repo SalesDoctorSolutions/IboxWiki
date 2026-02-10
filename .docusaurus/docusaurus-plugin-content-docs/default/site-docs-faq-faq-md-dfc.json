@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Заказы поставщикам",
-    "permalink": "/docs/knowledge/suppliers/purchase-orders"
+    "title": "Возвраты поставщикам",
+    "permalink": "/docs/knowledge/suppliers/purchase-returns"
   }
 }

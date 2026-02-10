@@ -129,6 +129,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/suppliers/purchase-returns",
+              "path": "/docs/knowledge/suppliers/purchase-returns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/suppliers/purchases",
               "path": "/docs/knowledge/suppliers/purchases",
               "sidebar": "tutorialSidebar"

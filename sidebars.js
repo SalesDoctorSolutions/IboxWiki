@@ -78,6 +78,7 @@ module.exports = {
         'knowledge/suppliers/supplier-remove',
         'knowledge/suppliers/purchases',
         'knowledge/suppliers/purchase-orders',
+        'knowledge/suppliers/purchase-returns',
       ],
     },
   ],
