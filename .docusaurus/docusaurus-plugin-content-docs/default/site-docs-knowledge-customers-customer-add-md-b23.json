@@ -1,7 +1,7 @@
 {
   "id": "knowledge/customers/customer-add",
   "title": "Добавление клиентов",
-  "description": "Добавление клиентов",
+  "description": "В iBox вы можете добавить клиентов вручную, импортировать их из Excel или прикрепить из другой организации.",
   "source": "@site/docs/knowledge/customers/customer-add.md",
   "sourceDirName": "knowledge/customers",
   "slug": "/knowledge/customers/customer-add",

@@ -1,252 +1,299 @@
 {
-  "/uz/blog-dd3": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "f15406a7"
-      }
-    ],
-    "__props": "19277cce"
-  },
-  "/uz/blog/-28c": {
-    "__comp": "0b6a65b7",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "config": "5e9f5e1a"
-  },
-  "/uz/blog/archive-d95": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "b135d55d"
-  },
-  "/uz/blog/authors-cb9": {
-    "__comp": "621db11d",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "5a13baa4"
-  },
-  "/uz/blog/authors/all-mansur-articles-a31": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [],
-    "sidebar": "814f3328",
-    "__props": "6d04f639"
-  },
-  "/uz/blog/release-1-0-90b": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "f5ff679d"
-  },
-  "/uz/blog/tags-035": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "087a1d0d"
-  },
-  "/uz/blog/tags/обновление-4d0": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "f15406a7"
-      }
-    ],
-    "__props": "c6df41f3"
-  },
-  "/uz/blog/tags/релиз-c33": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "f15406a7"
-      }
-    ],
-    "__props": "97702180"
-  },
-  "/uz/markdown-page-a50": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/uz/docs-87a": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/uz/docs-8f2": {
-    "__comp": "a7bd4aaa",
-    "__props": "43315e98"
-  },
-  "/uz/docs-94c": {
-    "__comp": "a94703ab"
-  },
-  "/uz/docs/editorial-policy-71f": {
-    "__comp": "17896441",
-    "content": "d52a043c"
-  },
-  "/uz/docs/faq/-be8": {
-    "__comp": "17896441",
-    "content": "9e4de7c3"
-  },
-  "/uz/docs/intro-381": {
-    "__comp": "17896441",
-    "content": "93bad04b"
-  },
-  "/uz/docs/knowledge/-008": {
-    "__comp": "17896441",
-    "content": "a0e7aa0b"
-  },
-  "/uz/docs/knowledge/access/-7ed": {
-    "__comp": "17896441",
-    "content": "67571073"
-  },
-  "/uz/docs/knowledge/access/access-change-5cc": {
-    "__comp": "17896441",
-    "content": "8281a5fc"
-  },
-  "/uz/docs/knowledge/access/access-role-2d8": {
-    "__comp": "17896441",
-    "content": "bd1ac181"
-  },
-  "/uz/docs/knowledge/access/access-team-df9": {
-    "__comp": "17896441",
-    "content": "1ebc8442"
-  },
-  "/uz/docs/knowledge/access/access-workplace-5b6": {
-    "__comp": "17896441",
-    "content": "31d6a39b"
-  },
-  "/uz/docs/knowledge/customers/customer-add-d7b": {
-    "__comp": "17896441",
-    "content": "699f59f3"
-  },
-  "/uz/docs/knowledge/customers/customer-management-a78": {
-    "__comp": "17896441",
-    "content": "290592f8"
-  },
-  "/uz/docs/knowledge/customers/customer-remove-591": {
-    "__comp": "17896441",
-    "content": "debe828e"
-  },
-  "/uz/docs/knowledge/customers/orders-c05": {
-    "__comp": "17896441",
-    "content": "dbc91d5f"
-  },
-  "/uz/docs/knowledge/customers/returns-3b3": {
-    "__comp": "17896441",
-    "content": "2d6f9298"
-  },
-  "/uz/docs/knowledge/customers/shipments-c98": {
-    "__comp": "17896441",
-    "content": "262c2302"
-  },
-  "/uz/docs/knowledge/data/data-access-e3e": {
-    "__comp": "17896441",
-    "content": "529d576c"
-  },
-  "/uz/docs/knowledge/data/data-security-34f": {
-    "__comp": "17896441",
-    "content": "285990b7"
-  },
-  "/uz/docs/knowledge/products/barcode-2fc": {
-    "__comp": "17896441",
-    "content": "01e2ccd1"
-  },
-  "/uz/docs/knowledge/products/minimal-price-b12": {
-    "__comp": "17896441",
-    "content": "1089fb20"
-  },
-  "/uz/docs/knowledge/products/pricelist-8e0": {
-    "__comp": "17896441",
-    "content": "10e17495"
-  },
-  "/uz/docs/knowledge/products/product-add-93d": {
-    "__comp": "17896441",
-    "content": "ac67c5e7"
-  },
-  "/uz/docs/knowledge/products/product-management-142": {
-    "__comp": "17896441",
-    "content": "872a640d"
-  },
-  "/uz/docs/knowledge/products/product-remove-81f": {
-    "__comp": "17896441",
-    "content": "278c9f3d"
-  },
-  "/uz/docs/overview/product-overview-ea0": {
-    "__comp": "17896441",
-    "content": "f77a9dc6"
-  },
-  "/uz/docs/partners/partners-guide-545": {
-    "__comp": "17896441",
-    "content": "0f0cb7b4"
-  },
-  "/uz/docs/quick-start/-d41": {
-    "__comp": "17896441",
-    "content": "ee3ce483"
-  },
-  "/uz/docs/quick-start/part1-setup-820": {
-    "__comp": "17896441",
-    "content": "e04e6037"
-  },
-  "/uz/docs/quick-start/part2-products-63c": {
-    "__comp": "17896441",
-    "content": "0496fe77"
-  },
-  "/uz/docs/quick-start/part3-finance-942": {
-    "__comp": "17896441",
-    "content": "1f544054"
-  },
-  "/uz/docs/quick-start/part4-operations-46b": {
-    "__comp": "17896441",
-    "content": "95a5f975"
-  },
-  "/uz/docs/quick-start/part5-reports-67a": {
-    "__comp": "17896441",
-    "content": "96b3ec23"
-  },
-  "/uz/docs/wiki-style-867": {
-    "__comp": "17896441",
-    "content": "d13ea7de"
-  },
-  "/uz/-d50": {
-    "__comp": "c4f5d8e4",
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "config": "5e9f5e1a"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-7c0": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-15-29a"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/-d1a": {
+    "__comp": "__comp---site-src-pages-blog-index-js-0-b-6-eba",
+    "__context": {
+      "plugin": "plugin---blog-a-74-b12"
+    },
+    "config": "config---blog-5-e-9-b4e"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/authors/all-mansur-articles-931": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "items": [],
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authors-all-mansur-articlesd-6-b-f15"
+  },
+  "/blog/release-1-0-869": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-release-1-0-f-5-f-077"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/обновление-f6f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-15-29a"
+      }
+    ],
+    "__props": "__props---blog-tags-обновление-0-d-5-649"
+  },
+  "/blog/tags/релиз-532": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-15-29a"
+      }
+    ],
+    "__props": "__props---blog-tags-релизd-09-697"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---blog-a-74-b12"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-cdf": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-096": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-871": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/editorial-policy-f0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-editorial-policy-55-e-bcc"
+  },
+  "/docs/faq/-dcc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-faq-dfc-e4e"
+  },
+  "/docs/intro-853": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/knowledge/-d37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-b-91-0b4"
+  },
+  "/docs/knowledge/access/-e15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-59-f-957"
+  },
+  "/docs/knowledge/access/access-change-814": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-change-9-c-1-da4"
+  },
+  "/docs/knowledge/access/access-role-eb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-role-8-de-a96"
+  },
+  "/docs/knowledge/access/access-team-5c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-team-998-199"
+  },
+  "/docs/knowledge/access/access-workplace-c2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-workplace-25-c-a02"
+  },
+  "/docs/knowledge/customers/customer-add-2b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-customer-addb-23-c6b"
+  },
+  "/docs/knowledge/customers/customer-management-25b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-customer-management-290-f6a"
+  },
+  "/docs/knowledge/customers/customer-remove-598": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-customer-removedeb-d2b"
+  },
+  "/docs/knowledge/customers/orders-b85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-ordersdbc-777"
+  },
+  "/docs/knowledge/customers/returns-f30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-returns-2-d-6-f59"
+  },
+  "/docs/knowledge/customers/shipments-464": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-customers-shipments-262-587"
+  },
+  "/docs/knowledge/data/data-access-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-access-9-a-6-667"
+  },
+  "/docs/knowledge/data/data-security-968": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-security-6-dc-523"
+  },
+  "/docs/knowledge/products/barcode-c4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-products-barcode-3-b-8-363"
+  },
+  "/docs/knowledge/products/minimal-price-121": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-products-minimal-priceb-5-f-e4c"
+  },
+  "/docs/knowledge/products/pricelist-242": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-products-pricelistf-72-ccd"
+  },
+  "/docs/knowledge/products/product-add-11b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-products-product-addd-6-e-c46"
+  },
+  "/docs/knowledge/products/product-management-03b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-products-product-management-988-c4b"
+  },
+  "/docs/knowledge/products/product-remove-fb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-products-product-remove-676-1dd"
+  },
+  "/docs/knowledge/suppliers/supplier-add-b5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-suppliers-supplier-add-983-40f"
+  },
+  "/docs/overview/product-overview-913": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-overview-product-overview-7-f-1-dcb"
+  },
+  "/docs/partners/partners-guide-738": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-partners-partners-guide-77-f-195"
+  },
+  "/docs/quick-start/-eec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-b-1-e-ab8"
+  },
+  "/docs/quick-start/part1-setup-dd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-1-setupe-14-a99"
+  },
+  "/docs/quick-start/part2-products-6db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-2-products-5-ad-d42"
+  },
+  "/docs/quick-start/part3-finance-5b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-3-financeef-5-0ca"
+  },
+  "/docs/quick-start/part4-operations-8d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-4-operationsa-59-a4e"
+  },
+  "/docs/quick-start/part5-reports-836": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-5-reportsf-73-5d5"
+  },
+  "/docs/wiki-style-e15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-wiki-styled-55-a6f"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---blog-a-74-b12"
+    },
+    "config": "config---blog-5-e-9-b4e"
   }
 }

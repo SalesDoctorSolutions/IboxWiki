@@ -69,6 +69,13 @@ module.exports = {
         'knowledge/customers/returns',
       ],
     },
+    {
+      type: 'category',
+      label: 'Поставщики и закупки',
+      items: [            
+        'knowledge/suppliers/supplier-add',
+      ],
+    },
   ],
 },
     {
