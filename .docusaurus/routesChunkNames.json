@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-561": {
+  "/docs-fc8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-121": {
+  "/docs-a00": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-5c9": {
+  "/docs-33a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -272,6 +272,18 @@
   "/docs/knowledge/suppliers/supplier-remove-86c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-suppliers-supplier-remove-0-d-4-afc"
+  },
+  "/docs/knowledge/warehouse/stock-adjustments-2d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-stock-adjustments-755-d4d"
+  },
+  "/docs/knowledge/warehouse/stock-management-7ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-stock-management-97-a-bd4"
+  },
+  "/docs/knowledge/warehouse/transfers-9af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-transfers-8-f-2-714"
   },
   "/docs/overview/product-overview-913": {
     "__comp": "__comp---theme-doc-item-178-a40",

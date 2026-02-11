@@ -81,6 +81,15 @@ module.exports = {
         'knowledge/suppliers/purchase-returns',
       ],
     },
+    {
+      type: 'category',
+      label: '3.6. Склад',
+      items: [  
+        'knowledge/warehouse/stock-management',          
+        'knowledge/warehouse/stock-adjustments',
+        'knowledge/warehouse/transfers',
+      ],
+    },
   ],
 },
     {

@@ -154,6 +154,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/warehouse/stock-adjustments",
+              "path": "/docs/knowledge/warehouse/stock-adjustments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/warehouse/stock-management",
+              "path": "/docs/knowledge/warehouse/stock-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/warehouse/transfers",
+              "path": "/docs/knowledge/warehouse/transfers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "overview/product-overview",
               "path": "/docs/overview/product-overview",
               "sidebar": "tutorialSidebar"

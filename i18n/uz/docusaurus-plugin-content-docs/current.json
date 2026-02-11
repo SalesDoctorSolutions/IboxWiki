@@ -38,5 +38,29 @@
   "sidebar.tutorialSidebar.category.Товары и цены": {
     "message": "Mahsulotlar va narxlar",
     "description": "The label for category Товары и цены in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.1. Данные и безопасность": {
+    "message": "3.1. Данные и безопасность",
+    "description": "The label for category 3.1. Данные и безопасность in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.2. Настройки доступа": {
+    "message": "3.2. Настройки доступа",
+    "description": "The label for category 3.2. Настройки доступа in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.3. Товары и цены": {
+    "message": "3.3. Товары и цены",
+    "description": "The label for category 3.3. Товары и цены in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.4. Клиенты и продажи": {
+    "message": "3.4. Клиенты и продажи",
+    "description": "The label for category 3.4. Клиенты и продажи in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.5. Поставщики и закупки": {
+    "message": "3.5. Поставщики и закупки",
+    "description": "The label for category 3.5. Поставщики и закупки in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.6. Склад": {
+    "message": "3.6. Склад",
+    "description": "The label for category 3.6. Склад in sidebar tutorialSidebar"
   }
 }

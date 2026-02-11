@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '561'),
+    component: ComponentCreator('/docs', 'fc8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '121'),
+        component: ComponentCreator('/docs', 'a00'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5c9'),
+            component: ComponentCreator('/docs', '33a'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -268,6 +268,24 @@ export default [
               {
                 path: '/docs/knowledge/suppliers/supplier-remove',
                 component: ComponentCreator('/docs/knowledge/suppliers/supplier-remove', '86c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/stock-adjustments',
+                component: ComponentCreator('/docs/knowledge/warehouse/stock-adjustments', '2d0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/stock-management',
+                component: ComponentCreator('/docs/knowledge/warehouse/stock-management', '7ce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/transfers',
+                component: ComponentCreator('/docs/knowledge/warehouse/transfers', '9af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
