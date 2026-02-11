@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-4df": {
+  "/docs-f3e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-420": {
+  "/docs-4a7": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-479": {
+  "/docs-151": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -228,6 +228,10 @@
   "/docs/knowledge/finance/finance-management-61b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-finance-finance-management-47-c-96c"
+  },
+  "/docs/knowledge/finance/payments-made-49e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-payments-made-0-f-6-c5e"
   },
   "/docs/knowledge/finance/payments-received-818": {
     "__comp": "__comp---theme-doc-item-178-a40",

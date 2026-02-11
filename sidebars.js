@@ -95,7 +95,8 @@ module.exports = {
       label: '3.7. Финансы',
       items: [  
         'knowledge/finance/finance-management',   
-        'knowledge/finance/payments-received',       
+        'knowledge/finance/payments-received',   
+        'knowledge/finance/payments-made',    
       ],
     },
   ],

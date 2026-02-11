@@ -94,6 +94,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/finance/payments-made",
+              "path": "/docs/knowledge/finance/payments-made",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/finance/payments-received",
               "path": "/docs/knowledge/finance/payments-received",
               "sidebar": "tutorialSidebar"

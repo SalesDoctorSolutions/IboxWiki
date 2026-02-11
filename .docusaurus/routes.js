@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4df'),
+    component: ComponentCreator('/docs', 'f3e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '420'),
+        component: ComponentCreator('/docs', '4a7'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '479'),
+            component: ComponentCreator('/docs', '151'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -202,6 +202,12 @@ export default [
               {
                 path: '/docs/knowledge/finance/finance-management',
                 component: ComponentCreator('/docs/knowledge/finance/finance-management', '61b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/finance/payments-made',
+                component: ComponentCreator('/docs/knowledge/finance/payments-made', '49e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
