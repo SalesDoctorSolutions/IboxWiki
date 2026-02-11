@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/finance/finance-management",
+  "title": "Управление финансами",
+  "description": "",
+  "source": "@site/docs/knowledge/finance/finance-management.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/finance-management",
+  "permalink": "/docs/knowledge/finance/finance-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "finance-management",
+    "title": "Управление финансами",
+    "sidebar_label": "Управление финансами",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Перемещения товаров",
+    "permalink": "/docs/knowledge/warehouse/transfers"
+  },
+  "next": {
+    "title": "Приходы",
+    "permalink": "/docs/knowledge/finance/payments-received"
+  }
+}

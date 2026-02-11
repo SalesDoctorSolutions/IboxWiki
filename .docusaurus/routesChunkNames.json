@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-fc8": {
+  "/docs-4df": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-a00": {
+  "/docs-420": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-33a": {
+  "/docs-479": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -224,6 +224,14 @@
   "/docs/knowledge/data/data-security-968": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-data-data-security-6-dc-523"
+  },
+  "/docs/knowledge/finance/finance-management-61b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-finance-management-47-c-96c"
+  },
+  "/docs/knowledge/finance/payments-received-818": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-payments-receiveda-53-ea4"
   },
   "/docs/knowledge/products/barcode-c4f": {
     "__comp": "__comp---theme-doc-item-178-a40",

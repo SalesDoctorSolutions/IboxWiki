@@ -90,6 +90,14 @@ module.exports = {
         'knowledge/warehouse/transfers',
       ],
     },
+    {
+      type: 'category',
+      label: '3.7. Финансы',
+      items: [  
+        'knowledge/finance/finance-management',   
+        'knowledge/finance/payments-received',       
+      ],
+    },
   ],
 },
     {

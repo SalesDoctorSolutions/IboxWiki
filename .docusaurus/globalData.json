@@ -89,6 +89,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/finance/finance-management",
+              "path": "/docs/knowledge/finance/finance-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/finance/payments-received",
+              "path": "/docs/knowledge/finance/payments-received",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/knowledge",
               "path": "/docs/knowledge/",
               "sidebar": "tutorialSidebar"
