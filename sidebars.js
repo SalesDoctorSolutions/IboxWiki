@@ -117,6 +117,7 @@ module.exports = {
       items: [    
         'knowledge/organization-settings/default-values',  
         'knowledge/organization-settings/core-elements',
+        'knowledge/organization-settings/closing-period',
       ],
     },
   ],
