@@ -1,0 +1,20 @@
+{
+  "id": "knowledge/finance/money-transfers",
+  "title": "Перемещения денег",
+  "description": "Перемещения денег в iBOX используются для учета переноса средств с одной кассы на другую.",
+  "source": "@site/docs/knowledge/finance/money-transfers.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/money-transfers",
+  "permalink": "/docs/knowledge/finance/money-transfers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "money-transfers",
+    "title": "Перемещения денег",
+    "sidebar_label": "Перемещения денег",
+    "sidebar_position": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/finance/balance-adjustments",
+  "title": "Корректировки баланса",
+  "description": "Корректировки баланса помогают привести учет в порядок, если данные в системе не совпадают с реальными.",
+  "source": "@site/docs/knowledge/finance/balance-adjustments.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/balance-adjustments",
+  "permalink": "/uz/docs/knowledge/finance/balance-adjustments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "balance-adjustments",
+    "title": "Корректировки баланса",
+    "sidebar_label": "Корректировки баланса",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Выплата зарплаты",
+    "permalink": "/uz/docs/knowledge/finance/salary"
+  },
+  "next": {
+    "title": "Управление финансами",
+    "permalink": "/uz/docs/knowledge/finance/finance-management"
+  }
+}

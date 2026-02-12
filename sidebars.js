@@ -93,10 +93,12 @@ module.exports = {
     {
       type: 'category',
       label: '3.7. Финансы',
-      items: [  
-        'knowledge/finance/finance-management',   
+      items: [    
         'knowledge/finance/payments-received',   
-        'knowledge/finance/payments-made',    
+        'knowledge/finance/payments-made',   
+        'knowledge/finance/salary', 
+        'knowledge/finance/balance-adjustments',
+        'knowledge/finance/finance-management', 
       ],
     },
   ],
