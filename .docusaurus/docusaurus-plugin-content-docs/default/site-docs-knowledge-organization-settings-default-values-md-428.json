@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organization-settings/default-values",
+  "title": "Значения по умолчанию",
+  "description": "Чтобы не вводить одни и те же данные при создании каждого документа, можно задать значения по умолчанию.",
+  "source": "@site/docs/knowledge/organization-settings/default-values.md",
+  "sourceDirName": "knowledge/organization-settings",
+  "slug": "/knowledge/organization-settings/default-values",
+  "permalink": "/uz/docs/knowledge/organization-settings/default-values",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "default-values",
+    "title": "Значения по умолчанию",
+    "sidebar_label": "Значения по умолчанию",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Межорг. Платежи",
+    "permalink": "/uz/docs/knowledge/organizations/intercompany-payments"
+  },
+  "next": {
+    "title": "Добавление базовых элементов",
+    "permalink": "/uz/docs/knowledge/organization-settings/core-elements"
+  }
+}

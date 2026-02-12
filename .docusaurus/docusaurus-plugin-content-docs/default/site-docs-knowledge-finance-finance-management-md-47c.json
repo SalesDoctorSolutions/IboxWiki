@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/finance/finance-management.md",
   "sourceDirName": "knowledge/finance",
   "slug": "/knowledge/finance/finance-management",
-  "permalink": "/docs/knowledge/finance/finance-management",
+  "permalink": "/uz/docs/knowledge/finance/finance-management",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Корректировки баланса",
-    "permalink": "/docs/knowledge/finance/balance-adjustments"
+    "permalink": "/uz/docs/knowledge/finance/balance-adjustments"
   },
   "next": {
     "title": "Организации",
-    "permalink": "/docs/knowledge/organizations/"
+    "permalink": "/uz/docs/knowledge/organizations/"
   }
 }

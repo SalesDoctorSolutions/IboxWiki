@@ -111,6 +111,14 @@ module.exports = {
         'knowledge/organizations/intercompany-payments',
       ],
     },
+    {
+      type: 'category',
+      label: '3.9. Настройки организации',
+      items: [    
+        'knowledge/organization-settings/default-values',  
+        'knowledge/organization-settings/core-elements',
+      ],
+    },
   ],
 },
     {
