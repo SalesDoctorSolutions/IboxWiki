@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organizations/intercompany-requests",
+  "title": "Межорг. Запросы",
+  "description": "Запросы между организациями работают по похожему принципу, что и заказы поставщикам.",
+  "source": "@site/docs/knowledge/organizations/intercompany-requests.md",
+  "sourceDirName": "knowledge/organizations",
+  "slug": "/knowledge/organizations/intercompany-requests",
+  "permalink": "/docs/knowledge/organizations/intercompany-requests",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "intercompany-requests",
+    "title": "Межорг. Запросы",
+    "sidebar_label": "Межорг. Запросы",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Межорг. Отгрузки",
+    "permalink": "/docs/knowledge/organizations/intercompany-shipments"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/docs/faq/"
+  }
+}

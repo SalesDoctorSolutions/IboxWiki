@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/finance/balance-adjustments.md",
   "sourceDirName": "knowledge/finance",
   "slug": "/knowledge/finance/balance-adjustments",
-  "permalink": "/uz/docs/knowledge/finance/balance-adjustments",
+  "permalink": "/docs/knowledge/finance/balance-adjustments",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Выплата зарплаты",
-    "permalink": "/uz/docs/knowledge/finance/salary"
+    "title": "Зарплаты",
+    "permalink": "/docs/knowledge/finance/salary"
   },
   "next": {
     "title": "Управление финансами",
-    "permalink": "/uz/docs/knowledge/finance/finance-management"
+    "permalink": "/docs/knowledge/finance/finance-management"
   }
 }

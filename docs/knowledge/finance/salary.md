@@ -1,7 +1,7 @@
 ---
 id: salary 
-title: Выплата зарплаты
-sidebar_label: Выплата зарплаты
+title: Зарплаты
+sidebar_label: Зарплаты
 sidebar_position: 3
 ---
 

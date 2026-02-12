@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/finance/payments-made.md",
   "sourceDirName": "knowledge/finance",
   "slug": "/knowledge/finance/payments-made",
-  "permalink": "/uz/docs/knowledge/finance/payments-made",
+  "permalink": "/docs/knowledge/finance/payments-made",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Приходы",
-    "permalink": "/uz/docs/knowledge/finance/payments-received"
+    "permalink": "/docs/knowledge/finance/payments-received"
   },
   "next": {
-    "title": "Выплата зарплаты",
-    "permalink": "/uz/docs/knowledge/finance/salary"
+    "title": "Зарплаты",
+    "permalink": "/docs/knowledge/finance/salary"
   }
 }

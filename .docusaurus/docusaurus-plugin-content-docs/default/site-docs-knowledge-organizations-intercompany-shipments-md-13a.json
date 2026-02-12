@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organizations/intercompany-shipments",
+  "title": "Межорг. Отгрузки",
+  "description": "Отгрузки между организациями проходят в два этапа:",
+  "source": "@site/docs/knowledge/organizations/intercompany-shipments.md",
+  "sourceDirName": "knowledge/organizations",
+  "slug": "/knowledge/organizations/intercompany-shipments",
+  "permalink": "/docs/knowledge/organizations/intercompany-shipments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "intercompany-shipments",
+    "title": "Межорг. Отгрузки",
+    "sidebar_label": "Межорг. Отгрузки",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Организации",
+    "permalink": "/docs/knowledge/organizations/"
+  },
+  "next": {
+    "title": "Межорг. Запросы",
+    "permalink": "/docs/knowledge/organizations/intercompany-requests"
+  }
+}

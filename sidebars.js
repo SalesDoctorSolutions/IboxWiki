@@ -101,6 +101,15 @@ module.exports = {
         'knowledge/finance/finance-management', 
       ],
     },
+    {
+      type: 'category',
+      label: '3.8. Организации',
+      items: [    
+        'knowledge/organizations/organizations',  
+        'knowledge/organizations/intercompany-shipments', 
+        'knowledge/organizations/intercompany-requests',
+      ],
+    },
   ],
 },
     {

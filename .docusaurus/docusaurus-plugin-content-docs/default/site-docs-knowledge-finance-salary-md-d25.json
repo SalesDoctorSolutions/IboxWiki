@@ -1,11 +1,11 @@
 {
   "id": "knowledge/finance/salary",
-  "title": "Выплата зарплаты",
+  "title": "Зарплаты",
   "description": "Выплата заработной платы сотрудникам делится на два этапа:",
   "source": "@site/docs/knowledge/finance/salary.md",
   "sourceDirName": "knowledge/finance",
   "slug": "/knowledge/finance/salary",
-  "permalink": "/uz/docs/knowledge/finance/salary",
+  "permalink": "/docs/knowledge/finance/salary",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -13,17 +13,17 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "id": "salary",
-    "title": "Выплата зарплаты",
-    "sidebar_label": "Выплата зарплаты",
+    "title": "Зарплаты",
+    "sidebar_label": "Зарплаты",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Расходы",
-    "permalink": "/uz/docs/knowledge/finance/payments-made"
+    "permalink": "/docs/knowledge/finance/payments-made"
   },
   "next": {
     "title": "Корректировки баланса",
-    "permalink": "/uz/docs/knowledge/finance/balance-adjustments"
+    "permalink": "/docs/knowledge/finance/balance-adjustments"
   }
 }
