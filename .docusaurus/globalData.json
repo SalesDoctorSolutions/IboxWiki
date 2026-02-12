@@ -119,6 +119,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/organizations/intercompany-payments",
+              "path": "/docs/knowledge/organizations/intercompany-payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/organizations/intercompany-requests",
               "path": "/docs/knowledge/organizations/intercompany-requests",
               "sidebar": "tutorialSidebar"

@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f71'),
+    component: ComponentCreator('/docs', '38e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '27a'),
+        component: ComponentCreator('/docs', '442'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5e3'),
+            component: ComponentCreator('/docs', 'd3a'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -232,6 +232,12 @@ export default [
               {
                 path: '/docs/knowledge/organizations/',
                 component: ComponentCreator('/docs/knowledge/organizations/', 'bda'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/organizations/intercompany-payments',
+                component: ComponentCreator('/docs/knowledge/organizations/intercompany-payments', '6f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

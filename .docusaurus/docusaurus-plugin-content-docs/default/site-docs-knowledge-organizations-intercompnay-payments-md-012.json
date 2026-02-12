@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organizations/intercompany-payments",
+  "title": "Межорг. Платежи",
+  "description": "Как оформить отправку платежа другой организации",
+  "source": "@site/docs/knowledge/organizations/intercompnay-payments.md",
+  "sourceDirName": "knowledge/organizations",
+  "slug": "/knowledge/organizations/intercompany-payments",
+  "permalink": "/docs/knowledge/organizations/intercompany-payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "intercompany-payments",
+    "title": "Межорг. Платежи",
+    "sidebar_label": "Межорг. Платежи",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Межорг. Запросы",
+    "permalink": "/docs/knowledge/organizations/intercompany-requests"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/docs/faq/"
+  }
+}

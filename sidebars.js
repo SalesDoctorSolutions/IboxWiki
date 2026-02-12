@@ -108,6 +108,7 @@ module.exports = {
         'knowledge/organizations/organizations',  
         'knowledge/organizations/intercompany-shipments', 
         'knowledge/organizations/intercompany-requests',
+        'knowledge/organizations/intercompany-payments',
       ],
     },
   ],
