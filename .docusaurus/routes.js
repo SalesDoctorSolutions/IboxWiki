@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '805'),
+    component: ComponentCreator('/docs', '1f2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e2a'),
+        component: ComponentCreator('/docs', '0c4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '774'),
+            component: ComponentCreator('/docs', 'ca0'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -244,6 +244,24 @@ export default [
               {
                 path: '/docs/knowledge/organization-settings/default-values',
                 component: ComponentCreator('/docs/knowledge/organization-settings/default-values', '360'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/organization-settings/print-templates',
+                component: ComponentCreator('/docs/knowledge/organization-settings/print-templates', '9ff'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/organization-settings/telegram-employee-bot',
+                component: ComponentCreator('/docs/knowledge/organization-settings/telegram-employee-bot', '7cb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/organization-settings/telegram-order-bot',
+                component: ComponentCreator('/docs/knowledge/organization-settings/telegram-order-bot', '21f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

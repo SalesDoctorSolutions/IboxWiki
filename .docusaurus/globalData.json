@@ -134,6 +134,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/organization-settings/print-templates",
+              "path": "/docs/knowledge/organization-settings/print-templates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/organization-settings/telegram-employee-bot",
+              "path": "/docs/knowledge/organization-settings/telegram-employee-bot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/organization-settings/telegram-order-bot",
+              "path": "/docs/knowledge/organization-settings/telegram-order-bot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/organizations/intercompany-payments",
               "path": "/docs/knowledge/organizations/intercompany-payments",
               "sidebar": "tutorialSidebar"

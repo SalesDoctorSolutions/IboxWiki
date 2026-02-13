@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organization-settings/telegram-order-bot",
+  "title": "Телеграм-бот для заказов",
+  "description": "Для чего нужен телеграм-бот",
+  "source": "@site/docs/knowledge/organization-settings/telegram-order-bot.md",
+  "sourceDirName": "knowledge/organization-settings",
+  "slug": "/knowledge/organization-settings/telegram-order-bot",
+  "permalink": "/docs/knowledge/organization-settings/telegram-order-bot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "telegram-order-bot",
+    "title": "Телеграм-бот для заказов",
+    "sidebar_label": "Телеграм-бот для заказов",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Шаблоны для печати",
+    "permalink": "/docs/knowledge/organization-settings/print-templates"
+  },
+  "next": {
+    "title": "Телеграм-бот для сотрудников",
+    "permalink": "/docs/knowledge/organization-settings/telegram-employee-bot"
+  }
+}
