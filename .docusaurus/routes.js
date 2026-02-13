@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '122'),
+    component: ComponentCreator('/docs', 'c0c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '841'),
+        component: ComponentCreator('/docs', 'b25'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e32'),
+            component: ComponentCreator('/docs', '18c'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -238,6 +238,24 @@ export default [
               {
                 path: '/docs/knowledge/global-settings/currencies',
                 component: ComponentCreator('/docs/knowledge/global-settings/currencies', '661'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/global-settings/customer-categories',
+                component: ComponentCreator('/docs/knowledge/global-settings/customer-categories', '37d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/global-settings/payment-methods',
+                component: ComponentCreator('/docs/knowledge/global-settings/payment-methods', 'cb4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/global-settings/product-categories',
+                component: ComponentCreator('/docs/knowledge/global-settings/product-categories', 'bb0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

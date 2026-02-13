@@ -130,6 +130,9 @@ module.exports = {
       items: [    
         'knowledge/global-settings/global-settings',  
         'knowledge/global-settings/currencies',
+        'knowledge/global-settings/product-categories',
+        'knowledge/global-settings/customer-categories',
+        'knowledge/global-settings/payment-methods',
       ],
     },
   ],

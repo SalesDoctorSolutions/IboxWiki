@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-122": {
+  "/docs-c0c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-841": {
+  "/docs-b25": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e32": {
+  "/docs-18c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -252,6 +252,18 @@
   "/docs/knowledge/global-settings/currencies-661": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-global-settings-currencies-849-9bb"
+  },
+  "/docs/knowledge/global-settings/customer-categories-37d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-global-settings-customer-categoriese-82-098"
+  },
+  "/docs/knowledge/global-settings/payment-methods-cb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-global-settings-payment-methods-111-30d"
+  },
+  "/docs/knowledge/global-settings/product-categories-bb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-global-settings-product-categories-432-dc7"
   },
   "/docs/knowledge/organization-settings/cashback-ff9": {
     "__comp": "__comp---theme-doc-item-178-a40",

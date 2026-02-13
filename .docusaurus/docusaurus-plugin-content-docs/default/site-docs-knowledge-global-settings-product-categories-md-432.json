@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/global-settings/product-categories",
+  "title": "Бренды, группы и категории товаров",
+  "description": "Бренды, группы и категории используются для структурирования товаров. Это помогает быстрее находить нужные позиции, настраивать отчёты и анализировать продажи.",
+  "source": "@site/docs/knowledge/global-settings/product-categories.md",
+  "sourceDirName": "knowledge/global-settings",
+  "slug": "/knowledge/global-settings/product-categories",
+  "permalink": "/docs/knowledge/global-settings/product-categories",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "product-categories",
+    "title": "Бренды, группы и категории товаров",
+    "sidebar_label": "Бренды, группы и категории товаров",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Валюты и курсы",
+    "permalink": "/docs/knowledge/global-settings/currencies"
+  },
+  "next": {
+    "title": "Категории клиентов",
+    "permalink": "/docs/knowledge/global-settings/customer-categories"
+  }
+}

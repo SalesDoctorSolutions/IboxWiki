@@ -119,8 +119,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/global-settings/customer-categories",
+              "path": "/docs/knowledge/global-settings/customer-categories",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/global-settings/global-settings",
               "path": "/docs/knowledge/global-settings/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/global-settings/payment-methods",
+              "path": "/docs/knowledge/global-settings/payment-methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/global-settings/product-categories",
+              "path": "/docs/knowledge/global-settings/product-categories",
               "sidebar": "tutorialSidebar"
             },
             {
