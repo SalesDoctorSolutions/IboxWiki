@@ -114,8 +114,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/global-settings/currencies",
+              "path": "/docs/knowledge/global-settings/currencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/global-settings/global-settings",
+              "path": "/docs/knowledge/global-settings/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/knowledge",
               "path": "/docs/knowledge/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/organization-settings/cashback",
+              "path": "/docs/knowledge/organization-settings/cashback",
               "sidebar": "tutorialSidebar"
             },
             {

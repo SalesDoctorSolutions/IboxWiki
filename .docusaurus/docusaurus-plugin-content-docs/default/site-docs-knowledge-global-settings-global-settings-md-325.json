@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/global-settings/global-settings",
+  "title": "Общие настройки",
+  "description": "Что такое общие настройки",
+  "source": "@site/docs/knowledge/global-settings/global-settings.md",
+  "sourceDirName": "knowledge/global-settings",
+  "slug": "/knowledge/global-settings/",
+  "permalink": "/docs/knowledge/global-settings/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "global-settings",
+    "title": "Общие настройки",
+    "sidebar_label": "Общие настройки",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Кешбек",
+    "permalink": "/docs/knowledge/organization-settings/cashback"
+  },
+  "next": {
+    "title": "Валюты и курсы",
+    "permalink": "/docs/knowledge/global-settings/currencies"
+  }
+}

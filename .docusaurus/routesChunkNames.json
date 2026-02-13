@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-1f2": {
+  "/docs-122": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-0c4": {
+  "/docs-841": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-ca0": {
+  "/docs-e32": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -244,6 +244,18 @@
   "/docs/knowledge/finance/salary-bb0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-finance-salaryd-25-d16"
+  },
+  "/docs/knowledge/global-settings/-de0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-global-settings-325-fdc"
+  },
+  "/docs/knowledge/global-settings/currencies-661": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-global-settings-currencies-849-9bb"
+  },
+  "/docs/knowledge/organization-settings/cashback-ff9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-organization-settings-cashback-84-f-859"
   },
   "/docs/knowledge/organization-settings/closing-period-4d2": {
     "__comp": "__comp---theme-doc-item-178-a40",

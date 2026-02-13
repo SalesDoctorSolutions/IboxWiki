@@ -121,6 +121,15 @@ module.exports = {
         'knowledge/organization-settings/print-templates',
         'knowledge/organization-settings/telegram-order-bot',
         'knowledge/organization-settings/telegram-employee-bot',
+        'knowledge/organization-settings/cashback',
+      ],
+    },
+    {
+      type: 'category',
+      label: '3.10. Общие настройки',
+      items: [    
+        'knowledge/global-settings/global-settings',  
+        'knowledge/global-settings/currencies',
       ],
     },
   ],

@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1f2'),
+    component: ComponentCreator('/docs', '122'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '0c4'),
+        component: ComponentCreator('/docs', '841'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ca0'),
+            component: ComponentCreator('/docs', 'e32'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -226,6 +226,24 @@ export default [
               {
                 path: '/docs/knowledge/finance/salary',
                 component: ComponentCreator('/docs/knowledge/finance/salary', 'bb0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/global-settings/',
+                component: ComponentCreator('/docs/knowledge/global-settings/', 'de0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/global-settings/currencies',
+                component: ComponentCreator('/docs/knowledge/global-settings/currencies', '661'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/organization-settings/cashback',
+                component: ComponentCreator('/docs/knowledge/organization-settings/cashback', 'ff9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
