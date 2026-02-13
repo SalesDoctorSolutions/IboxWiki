@@ -135,6 +135,13 @@ module.exports = {
         'knowledge/global-settings/payment-methods',
       ],
     },
+    {
+      type: 'category',
+      label: '3.11. Панель администратора',
+      items: [    
+        'knowledge/admin-panel/admin-panel',  
+      ],
+    },
   ],
 },
     {

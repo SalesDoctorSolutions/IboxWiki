@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/organization-settings/default-values.md",
   "sourceDirName": "knowledge/organization-settings",
   "slug": "/knowledge/organization-settings/default-values",
-  "permalink": "/docs/knowledge/organization-settings/default-values",
+  "permalink": "/uz/docs/knowledge/organization-settings/default-values",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Межорг. Платежи",
-    "permalink": "/docs/knowledge/organizations/intercompany-payments"
+    "permalink": "/uz/docs/knowledge/organizations/intercompany-payments"
   },
   "next": {
     "title": "Добавление базовых элементов",
-    "permalink": "/docs/knowledge/organization-settings/core-elements"
+    "permalink": "/uz/docs/knowledge/organization-settings/core-elements"
   }
 }

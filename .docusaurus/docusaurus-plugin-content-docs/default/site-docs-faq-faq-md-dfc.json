@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Способы оплаты",
-    "permalink": "/docs/knowledge/global-settings/payment-methods"
+    "title": "Панель администратора",
+    "permalink": "/docs/knowledge/admin-panel/"
   }
 }
