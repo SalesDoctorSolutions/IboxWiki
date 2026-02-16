@@ -16,10 +16,5 @@
     "title": "faq",
     "sidebar_label": "faq",
     "sidebar_position": 1
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Отчеты по всем организациям",
-    "permalink": "/docs/knowledge/admin-panel/total-reports"
   }
 }

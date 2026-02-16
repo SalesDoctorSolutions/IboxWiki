@@ -16,8 +16,7 @@
             },
             {
               "id": "faq/faq",
-              "path": "/uz/docs/faq/",
-              "sidebar": "tutorialSidebar"
+              "path": "/uz/docs/faq/"
             },
             {
               "id": "intro",

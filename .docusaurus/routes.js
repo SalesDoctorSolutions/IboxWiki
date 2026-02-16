@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '27f'),
+    component: ComponentCreator('/uz/docs', 'a10'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '466'),
+        component: ComponentCreator('/uz/docs', 'd50'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '289'),
+            component: ComponentCreator('/uz/docs', 'bee'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -71,9 +71,8 @@ export default [
               },
               {
                 path: '/uz/docs/faq/',
-                component: ComponentCreator('/uz/docs/faq/', 'be8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/uz/docs/faq/', '0e2'),
+                exact: true
               },
               {
                 path: '/uz/docs/intro',

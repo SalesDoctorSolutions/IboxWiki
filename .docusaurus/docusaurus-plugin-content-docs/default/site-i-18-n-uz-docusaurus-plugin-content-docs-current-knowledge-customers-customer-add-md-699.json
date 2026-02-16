@@ -1,7 +1,7 @@
 {
   "id": "knowledge/customers/customer-add",
-  "title": "Добавление клиентов",
-  "description": "",
+  "title": "Mijozlarni qo‘shish",
+  "description": "iBOX tizimida mijozlarni qo‘lda qo‘shishingiz, Excel dan yuklashingiz yoki boshqa korxonadan biriktirishingiz mumkin.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/customers/customer-add.md",
   "sourceDirName": "knowledge/customers",
   "slug": "/knowledge/customers/customer-add",
@@ -13,8 +13,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "customer-add",
-    "title": "Добавление клиентов",
-    "sidebar_label": "Добавление клиентов",
+    "title": "Mijozlarni qo‘shish",
+    "sidebar_label": "Mijozlarni qo‘shish",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",

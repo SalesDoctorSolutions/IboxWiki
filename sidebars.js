@@ -147,13 +147,13 @@ module.exports = {
     },
   ],
 },
-    {
+   /* {
       type: 'category',
       label: '4. FAQ',
       items: [
         'faq/faq',
       ],
-    },
+    }, */
     //{
       //type: 'category',
       //label: '5. Партнерам и интеграторам',
