@@ -1,15 +1,16 @@
 ---
 id: data-access
-title: Доступ к данным
-sidebar_label: Кто имеет доступ к вашим данным
+title: Ma’lumotlarga kirish huquqi
+sidebar_label: Ma’lumotlaringizga kim kirishi mumkin
 sidebar_position: 2
 ---
 
-- Доступ есть только у сотрудников компании, которым вы выдали права через роли. 
-- Сотрудники iBox не имеют доступа к вашим данным без вашего разрешения.
-- Все действия в системе записываются в журнал активности — вы всегда можете проверить, кто и когда что делал.
+- Ma’lumotlarga faqat siz rollar orqali ruxsat bergan kompaniya xodimlari kira oladi  
+- iBOX xodimlari sizning ruxsatingizsiz ma’lumotlaringizga kira olmaydi  
+- Tizimdagi barcha harakatlar faollik jurnalida yozib boriladi — siz har doim kim, qachon va nima qilganini tekshirishingiz mumkin  
 
-:::info Информация
-Назначить роли можно в разделе **Настройки → Сотрудники** ([Гайд по быстрому старту, часть 1](/docs/quick-start/part1-setup), и раздел [Настройки ролей в iBOX](/docs/knowledge/access/access-role))
+:::info Ma’lumot
+Rollarni **Sozlamalar → Xodimlar** bo‘limida biriktirish mumkin  
+([Tezkor ishga tushirish qo‘llanmasi — 1-qism](/docs/quick-start/part1-setup) va  
+[iBOX’da rollarni sozlash](/docs/knowledge/access/access-role))
 :::
-

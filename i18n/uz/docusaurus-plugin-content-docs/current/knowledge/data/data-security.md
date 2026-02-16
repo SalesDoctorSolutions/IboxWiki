@@ -1,26 +1,26 @@
 ---
 id: data-security
-title: Безопасность данных
-sidebar_label: Где хранятся данные в iBOX
+title: Ma’lumotlar xavfsizligi
+sidebar_label: iBOX’da ma’lumotlar qayerda saqlanadi
 sidebar_position: 1
 ---
-# Безопасность данных
 
-Все данные в iBox хранятся и обрабатываются в облаке — на серверах DigitalOcean в Германии.
+# Ma’lumotlar xavfsizligi
 
-Дата-центр соответствует стандартам GDPR (General Data Protection Regulation — Общий регламент по защите данных) и требованиям европейской безопасности.
+Barcha ma’lumotlar iBOX’da bulutli muhitda saqlanadi va qayta ishlanadi — Germaniyadagi DigitalOcean serverlarida.
 
-### Почему облако — безопаснее локальных решений
+Ma’lumotlar markazi GDPR (General Data Protection Regulation — Ma’lumotlarni himoyalash umumiy reglamenti) standartlariga va Yevropa xavfsizlik talablariga mos keladi.
 
-**Постоянная защита.** Облачный провайдер обеспечивает физическую безопасность и круглосуточную техническую поддержку — даже если в вашей компании нет собственного IT-специалиста.
+---
 
- **Доступ с любого устройства**. В отличие от программ, установленных на один компьютер (например, 1С), iBox работает через интернет. Вы можете зайти с любого устройства — данные не зависят от конкретного компьютера и не потеряются, если он выйдет из строя.
+### Nima uchun bulutli tizimlar lokal yechimlardan xavfsizroq
 
- **Резервное копирование.** Резервные копии создаются регулярно и хранятся в нескольких местах. Если что-то случится, данные можно быстро восстановить.
+**Doimiy himoya.** Bulut provayderi jismoniy xavfsizlikni va 24/7 texnik qo‘llab-quvvatlashni ta’minlaydi — hatto kompaniyangizda IT mutaxassis bo‘lmasa ham.
 
+**Har qanday qurilmadan kirish.** Bitta kompyuterga o‘rnatiladigan dasturlardan (masalan, 1C) farqli o‘laroq, iBOX internet orqali ishlaydi. Siz istalgan qurilmadan tizimga kira olasiz — ma’lumotlar alohida kompyuterga bog‘liq bo‘lmaydi va u ishdan chiqsa ham yo‘qolmaydi.
 
- **Минимум рисков утечки.** Большинство случаев кражи данных связано с локальными компьютерами и флешками — облако в этом смысле надежнее.
+**Zaxira nusxalar.** Ma’lumotlar muntazam ravishda zaxiralanadi va bir nechta joyda saqlanadi. Favqulodda holatlarda ularni tezda tiklash mumkin.
 
- **Автообновления.** Вы всегда работаете с актуальной и защищенной версией системы.
- 
- 
+**Ma’lumot sizib chiqishi xavfining kamligi.** Ma’lumot o‘g‘irlanishining ko‘p hollari lokal kompyuterlar va fleshkalar bilan bog‘liq — bulutli muhit esa bu borada ishonchliroq.
+
+**Avtomatik yangilanishlar.** Siz har doim tizimning eng so‘nggi va himoyalangan versiyasidan foydalanasiz.

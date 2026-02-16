@@ -1,7 +1,7 @@
 {
   "id": "knowledge/data/data-access",
-  "title": "Доступ к данным",
-  "description": "- Доступ есть только у сотрудников компании, которым вы выдали права через роли.",
+  "title": "Ma’lumotlarga kirish huquqi",
+  "description": "- Ma’lumotlarga faqat siz rollar orqali ruxsat bergan kompaniya xodimlari kira oladi",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/data/data-access.md",
   "sourceDirName": "knowledge/data",
   "slug": "/knowledge/data/data-access",
@@ -13,13 +13,13 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "id": "data-access",
-    "title": "Доступ к данным",
-    "sidebar_label": "Кто имеет доступ к вашим данным",
+    "title": "Ma’lumotlarga kirish huquqi",
+    "sidebar_label": "Ma’lumotlaringizga kim kirishi mumkin",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Где хранятся данные в iBOX",
+    "title": "iBOX’da ma’lumotlar qayerda saqlanadi",
     "permalink": "/uz/docs/knowledge/data/data-security"
   },
   "next": {
