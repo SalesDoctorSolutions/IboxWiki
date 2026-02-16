@@ -141,6 +141,7 @@ module.exports = {
       items: [    
         'knowledge/admin-panel/admin-panel',  
         'knowledge/admin-panel/product-settings',
+        'knowledge/admin-panel/outlet-settings',
       ],
     },
   ],

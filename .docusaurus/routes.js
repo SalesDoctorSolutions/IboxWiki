@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '69c'),
+    component: ComponentCreator('/docs', 'bc2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2b6'),
+        component: ComponentCreator('/docs', '412'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '809'),
+            component: ComponentCreator('/docs', '507'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -159,14 +159,20 @@ export default [
               },
               {
                 path: '/docs/knowledge/admin-panel/outlet-settings',
-                component: ComponentCreator('/docs/knowledge/admin-panel/outlet-settings', '894'),
-                exact: true
+                component: ComponentCreator('/docs/knowledge/admin-panel/outlet-settings', '384'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/knowledge/admin-panel/product-settings',
                 component: ComponentCreator('/docs/knowledge/admin-panel/product-settings', 'd70'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/admin-panel/total-reports',
+                component: ComponentCreator('/docs/knowledge/admin-panel/total-reports', 'e63'),
+                exact: true
               },
               {
                 path: '/docs/knowledge/customers/customer-add',

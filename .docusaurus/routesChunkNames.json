@@ -144,17 +144,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-69c": {
+  "/docs-bc2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-2b6": {
+  "/docs-412": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-809": {
+  "/docs-507": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-f0b": {
@@ -197,13 +197,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-admin-panel-edd-4f0"
   },
-  "/docs/knowledge/admin-panel/outlet-settings-894": {
+  "/docs/knowledge/admin-panel/outlet-settings-384": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-admin-panel-outlet-settings-866-121"
   },
   "/docs/knowledge/admin-panel/product-settings-d70": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-admin-panel-product-settings-2-ac-472"
+  },
+  "/docs/knowledge/admin-panel/total-reports-e63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-admin-panel-total-reports-62-f-27f"
   },
   "/docs/knowledge/customers/customer-add-2b9": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -55,12 +55,17 @@
             },
             {
               "id": "knowledge/admin-panel/outlet-settings",
-              "path": "/docs/knowledge/admin-panel/outlet-settings"
+              "path": "/docs/knowledge/admin-panel/outlet-settings",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/admin-panel/product-settings",
               "path": "/docs/knowledge/admin-panel/product-settings",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/admin-panel/total-reports",
+              "path": "/docs/knowledge/admin-panel/total-reports"
             },
             {
               "id": "knowledge/customers/customer-add",
