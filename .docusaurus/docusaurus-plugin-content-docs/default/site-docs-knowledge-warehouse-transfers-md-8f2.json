@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/warehouse/transfers.md",
   "sourceDirName": "knowledge/warehouse",
   "slug": "/knowledge/warehouse/transfers",
-  "permalink": "/uz/docs/knowledge/warehouse/transfers",
+  "permalink": "/docs/knowledge/warehouse/transfers",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Корректировки остатков",
-    "permalink": "/uz/docs/knowledge/warehouse/stock-adjustments"
+    "permalink": "/docs/knowledge/warehouse/stock-adjustments"
   },
   "next": {
     "title": "Приходы",
-    "permalink": "/uz/docs/knowledge/finance/payments-received"
+    "permalink": "/docs/knowledge/finance/payments-received"
   }
 }

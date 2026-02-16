@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/global-settings/global-settings.md",
   "sourceDirName": "knowledge/global-settings",
   "slug": "/knowledge/global-settings/",
-  "permalink": "/uz/docs/knowledge/global-settings/",
+  "permalink": "/docs/knowledge/global-settings/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Кешбек",
-    "permalink": "/uz/docs/knowledge/organization-settings/cashback"
+    "permalink": "/docs/knowledge/organization-settings/cashback"
   },
   "next": {
     "title": "Валюты и курсы",
-    "permalink": "/uz/docs/knowledge/global-settings/currencies"
+    "permalink": "/docs/knowledge/global-settings/currencies"
   }
 }

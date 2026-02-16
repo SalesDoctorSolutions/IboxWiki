@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/organizations/intercompany-shipments.md",
   "sourceDirName": "knowledge/organizations",
   "slug": "/knowledge/organizations/intercompany-shipments",
-  "permalink": "/uz/docs/knowledge/organizations/intercompany-shipments",
+  "permalink": "/docs/knowledge/organizations/intercompany-shipments",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Организации",
-    "permalink": "/uz/docs/knowledge/organizations/"
+    "permalink": "/docs/knowledge/organizations/"
   },
   "next": {
     "title": "Межорг. Запросы",
-    "permalink": "/uz/docs/knowledge/organizations/intercompany-requests"
+    "permalink": "/docs/knowledge/organizations/intercompany-requests"
   }
 }

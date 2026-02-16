@@ -140,6 +140,7 @@ module.exports = {
       label: '3.11. Панель администратора',
       items: [    
         'knowledge/admin-panel/admin-panel',  
+        'knowledge/admin-panel/product-settings',
       ],
     },
   ],

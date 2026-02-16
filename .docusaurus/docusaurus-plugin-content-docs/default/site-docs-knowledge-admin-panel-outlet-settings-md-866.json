@@ -1,0 +1,14 @@
+{
+  "id": "knowledge/admin-panel/outlet-settings",
+  "title": "outlet-settings",
+  "description": "",
+  "source": "@site/docs/knowledge/admin-panel/outlet-settings.md",
+  "sourceDirName": "knowledge/admin-panel",
+  "slug": "/knowledge/admin-panel/outlet-settings",
+  "permalink": "/docs/knowledge/admin-panel/outlet-settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

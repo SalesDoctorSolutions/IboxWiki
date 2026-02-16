@@ -1,11 +1,11 @@
 {
   "id": "knowledge/admin-panel/admin-panel",
   "title": "Панель администратора",
-  "description": "",
+  "description": "Панель администратора — это центр управления, где настраиваются параметры для всех организаций.",
   "source": "@site/docs/knowledge/admin-panel/admin-panel.md",
   "sourceDirName": "knowledge/admin-panel",
   "slug": "/knowledge/admin-panel/",
-  "permalink": "/uz/docs/knowledge/admin-panel/",
+  "permalink": "/docs/knowledge/admin-panel/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Способы оплаты",
-    "permalink": "/uz/docs/knowledge/global-settings/payment-methods"
+    "permalink": "/docs/knowledge/global-settings/payment-methods"
   },
   "next": {
-    "title": "faq",
-    "permalink": "/uz/docs/faq/"
+    "title": "Товары и цены в организациях",
+    "permalink": "/docs/knowledge/admin-panel/product-settings"
   }
 }

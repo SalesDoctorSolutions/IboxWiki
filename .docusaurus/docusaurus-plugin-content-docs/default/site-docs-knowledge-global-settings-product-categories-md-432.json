@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/global-settings/product-categories.md",
   "sourceDirName": "knowledge/global-settings",
   "slug": "/knowledge/global-settings/product-categories",
-  "permalink": "/uz/docs/knowledge/global-settings/product-categories",
+  "permalink": "/docs/knowledge/global-settings/product-categories",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Валюты и курсы",
-    "permalink": "/uz/docs/knowledge/global-settings/currencies"
+    "permalink": "/docs/knowledge/global-settings/currencies"
   },
   "next": {
     "title": "Категории клиентов",
-    "permalink": "/uz/docs/knowledge/global-settings/customer-categories"
+    "permalink": "/docs/knowledge/global-settings/customer-categories"
   }
 }

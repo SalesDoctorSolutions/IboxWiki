@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/suppliers/supplier-remove.md",
   "sourceDirName": "knowledge/suppliers",
   "slug": "/knowledge/suppliers/supplier-remove",
-  "permalink": "/uz/docs/knowledge/suppliers/supplier-remove",
+  "permalink": "/docs/knowledge/suppliers/supplier-remove",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Управление поставщиками",
-    "permalink": "/uz/docs/knowledge/suppliers/supplier-management"
+    "permalink": "/docs/knowledge/suppliers/supplier-management"
   },
   "next": {
     "title": "Закупки",
-    "permalink": "/uz/docs/knowledge/suppliers/purchases"
+    "permalink": "/docs/knowledge/suppliers/purchases"
   }
 }
