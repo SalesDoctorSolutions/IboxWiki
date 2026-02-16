@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/minimal-price",
-  "title": "Минимальная цена товара",
-  "description": "Минимальная цена — это порог, ниже которого нельзя продать товар.",
+  "title": "Mahsulotning minimal narxi",
+  "description": "Minimal narx — bu mahsulotni sotish mumkin bo‘lmagan eng past chegara.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/minimal-price.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/minimal-price",
@@ -13,13 +13,13 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "id": "minimal-price",
-    "title": "Минимальная цена товара",
-    "sidebar_label": "Минимальная цена товара",
+    "title": "Mahsulotning minimal narxi",
+    "sidebar_label": "Mahsulotning minimal narxi",
     "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Штрихкоды",
+    "title": "Shtrixkodlar",
     "permalink": "/uz/docs/knowledge/products/barcode"
   },
   "next": {

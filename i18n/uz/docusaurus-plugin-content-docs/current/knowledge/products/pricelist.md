@@ -1,70 +1,72 @@
 ---
 id: pricelist
-title: Прайс-листы
-sidebar_label: Прайс-листы
+title: Prays-listlar
+sidebar_label: Prays-listlar
 sidebar_position: 4
 ---
-# Прайс-листы
 
-Прайс-листы позволяют работать с разными ценами — например, для разных клиентов, каналов продаж или типов операций.
+# Prays-listlar
 
-## Как добавить прайс-лист
+Prays-listlar turli narxlar bilan ishlash imkonini beradi — masalan, turli mijozlar, savdo kanallari yoki amallar turlari uchun.
 
-1. Перейдите в раздел **Прайс-листы** в модуле **Товары**.
-2. Нажмите **+ Прайс-лист** в правом верхнем углу. Откроется форма.
-3. Введите **название** (например, «Закупочный» или «Розничный»).
-4. Укажите **сортировочный номер** — он влияет на порядок отображения прайс-листа.
-5. Отметьте, где будет использоваться прайс-лист:
-   - **В продажах** — для отгрузок и заказов клиентов
-   - **В закупках** — для закупок у поставщиков
-6. Введите цену для каждого товара в колонке **Цена за ед.** и выберите валюту.
-7. Нажмите **Сохранить**.
+iBOX tizimida prays-listlar narx siyosatini moslashuvchan boshqarishga yordam beradi.
 
----
+## Prays-listni qanday qo‘shish mumkin
 
-## Как редактировать прайс-лист
-
-1. Перейдите в раздел **Прайс-листы** в модуле **Товары**.
-2. Нажмите на **три точки** справа от нужного прайс-листа.
-3. Выберите **Редактировать**.
-4. Внесите изменения.
-5. Нажмите **Сохранить**.
+1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
+2. Yuqori o‘ng burchakda **+ Prays-list** tugmasini bosing. Forma ochiladi.
+3. **Nomini** kiriting (masalan, Xarid yoki Chakana).
+4. **Tartiblash sonini** belgilang — u prays-listlar ko‘rinish tartibiga ta’sir qiladi.
+5. Prays-list qayerda ishlatilishini belgilang:
+   - **Sotuvlarda** — mijoz buyurtmalari va sotuvlar uchun
+   - **Xaridlarda** — ta'minotchilardan xarid qilish uchun
+6. Har bir mahsulot uchun **Birlik narxi** ustunida narxni kiriting va valyutani tanlang.
+7. **Saqlash** tugmasini bosing.
 
 ---
 
-## Как удалить прайс-лист
+## Prays-listni tahrirlash
 
-Удаление используйте только если прайс-лист был создан по ошибке и нигде не применялся.
-
-1. Перейдите в раздел **Прайс-листы** в модуле **Товары**.
-2. Нажмите на **три точки** справа от нужного прайс-листа.
-3. Выберите **Удалить**.
-4. Подтвердите действие.
+1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
+2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
+3. **Tahrirlash** ni tanlang.
+4. O‘zgartirishlarni kiriting.
+5. **Saqlash** tugmasini bosing.
 
 ---
 
-## Деактивация прайс-листа
+## Prays-listni o‘chirish
 
-Если прайс-лист имеет историю или его нужно временно скрыть из списков, используйте деактивацию.
+Prays-listni o‘chirish faqat u xato bilan yaratilgan va hech qayerda ishlatilmagan bo‘lsa tavsiya etiladi.
 
-1. Перейдите в раздел **Прайс-листы** в модуле **Товары**.
-2. Нажмите на **три точки** справа от нужного прайс-листа.
-3. Выберите **Сделать неактивным**.
+1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
+2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
+3. **O‘chirish** ni tanlang.
+4. Amalni tasdiqlang.
 
-:::warning **Важно**  
-Если нужно ограничить использование прайс-листа только в одной организации, настройте организации прайс-листа через **панель администратора**.
+---
+
+## Prays-listni faolligini o'chirish
+
+Agar prays-listda tarix mavjud bo‘lsa yoki uni vaqtincha ro‘yxatlardan yashirish kerak bo‘lsa, faollikni o'chirishdan foydalaning.
+
+1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
+2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
+3. **Faollikni o'chirish** opsiyasini tanlang.
+
+:::warning **Muhim**  
+Agar prays-listdan faqat bitta korxonada foydalanishni cheklamoqchi bo‘lsangiz, prays-list korxonalarini **administrator paneli** orqali sozlang.
 :::
 
-## Как скачать прайс-лист
+## Prays-listni qanday yuklab olish mumkin
 
-Вы можете быстро выгрузить прайс-лист в удобном формате для отправки клиентам или внутреннего использования.
+Siz prays-listni mijozlarga yuborish yoki ichki foydalanish uchun qulay formatda tezda yuklab olishingiz mumkin.
 
-Чтобы скачать прайс-лист:
+Prays-listni yuklab olish uchun:
 
-1. Перейдите в раздел **Прайс-листы** в модуле **Товары**.
-2. Нажмите на **три точки** справа от нужного прайс-листа.
-3. Выберите подходящий вариант экспорта:
-   - **Экспорт в Excel** — стандартный файл с товарами и ценами
-   - **Экспорт в Excel с фото** — файл с ценами и изображениями товаров
-   - **Экспорт в PDF** — готовый прайс-лист для отправки клиентам или печати
-
+1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
+2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
+3. Mos yuklab olish turini tanlang:
+   - **Excel’ga yuklab olish** — mahsulotlar va narxlar bilan standart fayl
+   - **Excel’ga rasm bilan yuklab olish** — narxlar va mahsulot rasmlari bilan fayl
+   - **PDF’ga yuklab olish** — mijozlarga yuborish yoki chop etish uchun tayyor prays-list

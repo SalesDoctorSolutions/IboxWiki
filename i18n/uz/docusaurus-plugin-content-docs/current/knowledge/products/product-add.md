@@ -1,96 +1,96 @@
 ---
 id: product-add
-title: Добавление товара 
-sidebar_label: Добавление товара
+title: Mahsulot qo‘shish
+sidebar_label: Mahsulot qo‘shish
 sidebar_position: 1
 ---
 
-## Как добавить товар вручную
+## Mahsulotni qo‘lda qanday qo‘shish mumkin
 
-Вы можете добавить товар в разделе **Товары**.
+Siz mahsulotni **Mahsulotlar** bo‘limida qo‘shishingiz mumkin.
 
-1. Перейдите в раздел **Товары** из бокового меню.
-2. Нажмите на **плюс** в правом верхнем углу.
-3. В открывшейся форме укажите:
-   - Название товара
-   - Единицу измерения
-   - Артикул
-   - Категорию
-   - Загрузите фото товара
-4. Откройте вкладку **Цены** и укажите цены и валюты в прайс-листах.
-5. Откройте вкладку **Штрихкоды**:
-   - Выберите нужный тип штрихкода
-   - Введите штрихкод  
-     или сгенерируйте его, нажав на иконку с тремя точками → **Сгенерировать**
-6. Откройте вкладку **Минимальный остаток** и укажите его по каждому складу или по общему остатку.
-7. Перейдите во вкладку **Прочее**, чтобы указать:
-   - Группу
-   - Бренд
-   - Основного поставщика
-   - Время на логистику (например, срок доставки на склад)
-   - Сортировочный номер  
-     (чем больше число, тем выше товар будет в списке)
-8. Если вы продаете товар на развес, поставьте галочку **«Это весовой товар»**.
-9. Если товар не предназначен для продажи (например, сырье или для внутреннего использования), поставьте галочку **«Товар не для продажи»**.
-10. Нажмите **Сохранить**.
-
----
-
-## Как добавить товары из другой организации
-
-Если в системе несколько организаций, их списки товаров могут отличаться.  
-Некоторые товары могут быть доступны только в одной организации и скрыты в другой.
-
-iBox позволяет управлять видимостью товаров между организациями.
-
-### Почему нельзя создать товар заново
-
-Иногда пользователи пытаются создать товар вручную во второй организации и получают ошибку.  
-Это происходит потому, что товар уже существует в базе данных, даже если он не отображается в списке другой организации. Повторное создание приводит к дублированию и ошибкам в расчетах.
-
-### Как добавить товары из другой организации
-
-1. Перейдите в модуль **Товары** и откройте список.
-2. В правом верхнем углу нажмите **⋯ Больше → Добавить из других организаций**.
-3. В окне **Добавить (прикрепить) товары и услуги** выберите нужные товары.
-4. Нажмите **Применить**.
+1. Yon menyudan **Mahsulotlar** bo‘limiga o‘ting.
+2. Yuqori o‘ng burchakdagi **plyus** tugmasini bosing.
+3. Ochilgan shaklda quyidagilarni kiriting:
+   - Mahsulot nomi
+   - Saqlash birligi
+   - Artikul
+   - Kategoriya
+   - Mahsulot rasmini yuklang
+4. **Narxlar** yorlig‘ini ochib, prays-listlar bo‘yicha narxlar va valyutalarni kiriting.
+5. **Shtrixkodlar** yorlig‘ini oching:
+   - Kerakli shtrixkod turini tanlang
+   - Shtrixkodni kiriting  
+     yoki uch nuqta belgisi → **Shtrix-kod yaratish** tugmasini bosib, uni avtomatik yarating
+6. **Minimal qoldiq** yorlig‘ini ochib, har bir ombor bo‘yicha yoki umumiy qoldiq uchun minimal miqdorni belgilang.
+7. **Boshqa** yorlig‘iga o‘ting va quyidagilarni to'ldiring:
+   - Guruh
+   - Brend
+   - Asosiy ta'minotchi
+   - Yetib kelish vaqti (masalan, omboringizga yetkazib berish muddati)
+   - Tartiblash soni  
+     (raqam qancha katta bo‘lsa, mahsulot ro‘yxatda shuncha yuqorida bo‘ladi)
+8. Agar siz mahsulotni vazn bo‘yicha sotsangiz, **Tarozida o'lchanadigan mahsulot** belgisini qo‘ying.
+9. Agar mahsulot sotuv uchun mo‘ljallanmagan bo‘lsa (masalan, xomashyo yoki ichki foydalanish uchun), **Sotuv uchun mo'ljallanmagan mahsulot** belgisini qo‘ying.
+10. **Saqlash** tugmasini bosing.
 
 ---
 
-## Как загрузить товары из Excel
+## Boshqa korxonalardan mahsulotlarni qanday qo‘shish mumkin
 
-Если у вас уже есть список товаров, вы можете загрузить его в систему.
+Agar tizimda bir nechta korxona bo‘lsa, ularning mahsulot ro‘yxatlari farq qilishi mumkin.  
+Ba’zi mahsulotlar faqat bitta korxonada mavjud bo‘lib, boshqasida yashirilgan bo‘lishi mumkin.
 
-### Обязательные поля в Excel
+iBOX tizimi korxonalar o‘rtasida mahsulotlar ko‘rinishini boshqarish imkonini beradi.
 
-- Название товара
-- Единица хранения
+### Nega mahsulotni qaytadan yaratib bo‘lmaydi
 
-### Дополнительные поля
+Ba’zan foydalanuvchilar ikkinchi korxonada mahsulotni qo‘lda yaratishga harakat qilishadi va xatoga duch kelishadi.  
+Bu mahsulot ma’lumotlar bazasida allaqachon mavjud bo‘lgani sababli yuz beradi, hatto u boshqa korxona ro‘yxatida ko‘rinmasa ham. Qayta yaratish dublikatlarga va hisob-kitoblarda xatolarga olib keladi.
 
-- Артикул
-- Штрихкод и тип штрихкода (в отдельных колонках)
-- Категория
-- Группа
-- Бренд
-- Основной поставщик
-- Время на логистику
-- Начальные остатки (по каждому складу)
-- Минимальные остатки (по складам или общий)
-- Цены и валюты (по каждому прайс-листу)
-- Сортировочный номер
-- Примечание
+### Boshqa korxonalardan mahsulotlarni qanday qo‘shish mumkin
 
-:::warning **Важно**  
-Категории, группы, бренды и валюты в Excel должны совпадать с данными в системе.  
-Если их нет, сначала добавьте их в разделе **Настройки → Глобальные настройки**.
+1. **Mahsulotlar** moduliga o‘ting va ro‘yxatni oching.
+2. Yuqori o‘ng burchakda **⋯ Ko‘proq → Boshqa korxonalardan qo‘shish** ni bosing.
+3. **Mahsulot va xizmatlarni qo‘shish (biriktirish)** oynasida kerakli mahsulotlarni tanlang.
+4. **Qo‘llash** tugmasini bosing.
+
+---
+
+## Mahsulotlarni Excel orqali yuklash
+
+Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklashingiz mumkin.
+
+### Excel faylidagi majburiy maydonlar
+
+- Mahsulot nomi
+- Saqlash birligi
+
+### Qo‘shimcha maydonlar
+
+- Artikul
+- Shtrixkod va shtrixkod turi (alohida ustunlarda)
+- Kategoriya
+- Guruh
+- Brend
+- Asosiy ta'minotchi
+- Yetib kelish vaqti
+- Boshlang‘ich qoldiqlar (har bir ombor bo‘yicha)
+- Minimal qoldiqlar (omborlar bo‘yicha yoki umumiy)
+- Narxlar va valyutalar (har bir prays-list bo‘yicha)
+- Tartiblash soni
+- Izoh
+
+:::warning **Muhim**  
+Excel faylidagi kategoriyalar, guruhlar, brendlar va valyutalar tizimdagi ma’lumotlar bilan mos bo‘lishi kerak.  
+Agar ular mavjud bo‘lmasa, avval **Sozlamalar → Global sozlamalar** bo‘limida qo‘shing.
 :::
 
-### Как выполнить импорт
+### Tizimga yuklashni qanday bajarish mumkin
 
-1. Перейдите в раздел **Товары**.
-2. Нажмите на три точки в правом верхнем углу.
-3. Выберите **Импорт**.
-4. Перетащите файл в окно импорта или выберите его на компьютере.
-5. Сопоставьте столбцы из файла с полями системы.
-6. Нажмите **Начать импорт**.
+1. **Mahsulotlar** bo‘limiga o‘ting.
+2. Yuqori o‘ng burchakdagi uch nuqta belgisini bosing.
+3. **Excel dan yuklash** ni tanlang.
+4. Faylni yuklash oynasiga sudrab olib keling yoki kompyuterdan tanlang.
+5. Fayldagi ustunlarni tizim maydonlari bilan moslang.
+6. **Yuklashni boshlash** tugmasini bosing.

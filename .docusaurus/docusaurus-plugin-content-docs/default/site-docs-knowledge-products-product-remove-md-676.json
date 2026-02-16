@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/product-remove",
   "title": "Удаление и деактивация товаров",
-  "description": "В iBox есть два способа убрать товар из работы: удалить его или деактивировать.",
+  "description": "В iBox есть два основных способа убрать товар из работы: удалить его или деактивировать.",
   "source": "@site/docs/knowledge/products/product-remove.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/product-remove",

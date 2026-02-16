@@ -1,66 +1,66 @@
 ---
 id: product-management
-title: Управление товарами
-sidebar_label: Управление товарами
+title: Mahsulotlarni boshqarish
+sidebar_label: Mahsulotlarni boshqarish
 sidebar_position: 2
 ---
 
-# Управление товарами: редактирование, остатки и история
+# Mahsulotlarni boshqarish: tahrirlash, qoldiqlar va harakatlar
 
-В iBox вы можете в любой момент отредактировать товар, проверить его остатки и посмотреть полную историю движения. Это помогает поддерживать порядок в данных и контролировать склад.
-
----
-
-## Редактирование товара
-
-Если при создании товара были допущены ошибки или данные изменились, вы можете легко их исправить.
-
-1. Перейдите в раздел **Товары**.
-2. Наведите курсор мыши на правую часть строки с нужным товаром.
-3. Нажмите на иконку ✏️ **карандаша**.
-4. Внесите необходимые изменения.
-5. Нажмите **Сохранить**.
+iBOX tizimida siz istalgan vaqtda mahsulotni tahrirlashingiz, uning qoldiqlarini tekshirishingiz va barcha harakatlar tarixini ko‘rishingiz mumkin. Bu ma’lumotlarda tartibni saqlashga va omborni nazorat qilishga yordam beradi.
 
 ---
 
-## Просмотр остатков товара
+## Mahsulotni tahrirlash
 
-В списке товаров отображается общий остаток.  
-Чтобы увидеть подробные остатки по каждому складу:
+Agar mahsulot yaratilganda xatolarga yo‘l qo‘yilgan bo‘lsa yoki ma’lumotlar o‘zgargan bo‘lsa, ularni osonlik bilan tuzatishingiz mumkin.
 
-1. В разделе **Товары** найдите нужный товар.
-2. Нажмите на **название товара**.
-3. Откроется карточка товара с общей информацией и остатками по складам.
+1. **Mahsulotlar** bo‘limiga o‘ting.
+2. Kerakli mahsulot joylashgan qatordagi o‘ng tomonga sichqoncha kursorini olib boring.
+3. ✏️ **Qalam** ikonkasini bosing.
+4. Kerakli o‘zgartirishlarni kiriting.
+5. **Saqlash** tugmasini bosing.
 
-:::info **Информация**  
-Подробные остатки по всем товарам и складам доступны в разделе  
-**Отчеты → Остатки по складам**.
+---
+
+## Mahsulot qoldiqlarini ko‘rish
+
+Mahsulotlar ro‘yxatida umumiy qoldiq ko‘rsatiladi.  
+Har bir ombor bo‘yicha batafsil qoldiqlarni ko‘rish uchun:
+
+1. **Mahsulotlar** bo‘limida kerakli mahsulotni toping.
+2. **Mahsulot nomi** ustiga bosing.
+3. Mahsulot haqqida ma'lumot ochiladi — unda umumiy ma’lumotlar va omborlar bo‘yicha qoldiqlar ko‘rsatiladi.
+
+:::info **Ma’lumot**  
+Barcha mahsulotlar va omborlar bo‘yicha batafsil qoldiqlar  
+**Hisobotlar → Omborlar bo‘yicha qoldiqlar** bo‘limida mavjud.
 :::
 
 ---
 
-## История товара (движение товара)
+## Mahsulot harakati 
 
-История товара показывает все операции: закупки, отгрузки, перемещения и корректировки.
+Mahsulot harakati barcha amallarni ko‘rsatadi: xaridlar, sotuvlar, ko‘chirishlar va korektirovkalar.
 
-Чтобы посмотреть историю:
+Mahsulot harakatini ko‘rish uchun:
 
-1. В разделе **Товары** выберите нужный товар.
-2. Нажмите на его **название**.
-3. В карточке товара в левой части экрана выберите **Движение товара**.
+1. **Mahsulotlar** bo‘limida kerakli mahsulotni tanlang.
+2. Uning **nomi** ustiga bosing.
+3. Mahsulot haqqida ma'lumot chap qismida **Mahsulot harakati** bo‘limini tanlang.
 
 ---
 
-## Экспорт списка товаров в Excel
+## Mahsulotlar ro‘yxatini Excel’ga eksport qilish
 
-Вы можете скачать список товаров для анализа или отчетности.
+Siz tahlil yoki hisobotlar uchun mahsulotlar ro‘yxatini yuklab olishingiz mumkin.
 
-1. Перейдите в раздел **Товары**.
-2. Нажмите на иконку ⚙️ **шестеренки** справа и выберите поля:
-   - включите нужные,
-   - отключите лишние,
-   - нажмите **Сохранить**.
-3. В правом верхнем углу нажмите на **три точки**.
-4. Выберите **Экспорт в Excel**.
+1. **Mahsulotlar** bo‘limiga o‘ting.
+2. O‘ng tomondagi ⚙️ **sozlamalar** ikonkasini bosing va maydonlarni sozlang:
+   - keraklilarini yoqing,
+   - ortiqchalarini o‘chiring,
+   - **Saqlash** tugmasini bosing.
+3. Yuqori o‘ng burchakda **uch nuqta** belgisini bosing.
+4. **Excel’ga yuklab olish** ni tanlang.
 
-Файл будет скачан с учетом выбранных полей.
+Fayl tanlangan maydonlar asosida yuklab olinadi.

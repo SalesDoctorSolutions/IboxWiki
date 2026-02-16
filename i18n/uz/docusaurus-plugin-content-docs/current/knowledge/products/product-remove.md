@@ -1,54 +1,54 @@
 ---
 id: product-remove
-title: Удаление и деактивация товаров
-sidebar_label: Удаление и деактивация товаров
+title: Mahsulotlarni o‘chirish va faolsizlantirish
+sidebar_label: Mahsulotlarni o‘chirish va faolsizlantirish
 sidebar_position: 3
 ---
 
-# Удаление и деактивация товаров
+# Mahsulotlarni o‘chirish va faolsizlantirish
 
-В iBox есть два способа убрать товар из работы: удалить его или деактивировать.  
-Выбор зависит от того, есть ли у товара история операций.
-
----
-
-## Как удалить товар
-
-Удаление используется только в том случае, если товар был создан по ошибке.
-
-Если у товара уже есть история (закупки, продажи, перемещения), система не позволит его удалить. Очистка истории может привести к ошибкам в отчетах.
-
-Чтобы удалить товар:
-
-1. Перейдите в раздел **Товары**.
-2. Наведите курсор на правую часть строки нужного товара.
-3. Нажмите на иконку 🗑 **корзины**.
-4. Подтвердите удаление.
+iBOX tizimida mahsulotni ish jarayonidan chiqarishning aosiy ikki yo‘li mavjud: uni o‘chirish yoki faolligini o'chirish.  
+Qaysi variantni tanlash mahsulotda amallar tarixi mavjud yoki yo‘qligiga bog‘liq.
 
 ---
 
-## Как деактивировать товар
+## Mahsulotni qanday o‘chirish mumkin
 
-Если у товара есть история, но вы больше не работаете с ним, его можно деактивировать.  
-Такой товар исчезнет из рабочих списков, но сохранится в отчетах.
+Mahsulotni o‘chirish faqat u xato bilan yaratilgan holatlarda qo‘llaniladi.
 
-Чтобы деактивировать товар:
+Agar mahsulotda allaqachon harakat mavjud bo‘lsa (xaridlar, sotuvlar, ko‘chirishlar), tizim uni o‘chirishga ruxsat bermaydi. Harakatlarni o'chirish hisobotlarda xatolarga olib kelishi mumkin.
 
-1. Перейдите в раздел **Товары**.
-2. Выберите один или несколько товаров.
-3. Нажмите на **три точки** в верхней части экрана.
-4. Выберите опцию **Сделать неактивным**.
+Mahsulotni o‘chirish uchun:
 
-:::warning **Важно**  
-Если нужно убрать товар только из одной организации, но продолжать использовать его в других, настройте организации товара через **панель администратора**.
+1. **Mahsulotlar** bo‘limiga o‘ting.
+2. Kerakli mahsulot joylashgan qatordagi o‘ng tomonga kursorni olib boring.
+3. 🗑 **Savat** ikonkasini bosing.
+4. O‘chirishni tasdiqlang.
+
+---
+
+## Mahsulotni qanday faolsizlantirish mumkin
+
+Agar mahsulotda tarix mavjud bo‘lsa, lekin siz u bilan endi ishlamasangiz, uni faolsizlantirishingiz mumkin.  
+Bunday mahsulot ishchi ro‘yxatlardan yo‘qoladi, ammo hisobotlarda saqlanib qoladi.
+
+Mahsulotni faolligini o'chirish uchun:
+
+1. **Mahsulotlar** bo‘limiga o‘ting.
+2. Bitta yoki bir nechta mahsulotni tanlang.
+3. Ekranning yuqori qismidagi **uch nuqta** tugmasini bosing.
+4. **Faollikni o'chirish** opsiyasini tanlang.
+
+:::warning **Muhim**  
+Agar mahsulotni faqat bitta korxonada yashirib, boshqa korxonalarda ishlatishda davom etmoqchi bo‘lsangiz, mahsulot korxonalarini **administrator paneli** orqali sozlang.
 :::
 
 ---
 
-## Что выбрать
+## Qaysi variantni tanlash kerak
 
-| Ситуация | Действие |
-|---------|----------|
-| Товар создан по ошибке | Удаление товара |
-| Не работаете с товаром в одной организации, но используете в других | Настройка организаций товара |
-| Товар больше не используется, но у него есть история | Деактивация товара |
+| Vaziyat | Amal |
+|--------|------|
+| Mahsulot xato bilan yaratilgan | Mahsulotni o‘chirish |
+| Mahsulot bir korxonada ishlatilmaydi, lekin boshqalarida ishlatiladi | Mahsulot korxonalarini sozlash |
+| Mahsulot endi ishlatilmaydi, lekin unda harakatlar mavjud | Mahsulotni faolligini o'chirish |

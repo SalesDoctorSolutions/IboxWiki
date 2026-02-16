@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/pricelist",
-  "title": "Прайс-листы",
-  "description": "Прайс-листы позволяют работать с разными ценами — например, для разных клиентов, каналов продаж или типов операций.",
+  "title": "Prays-listlar",
+  "description": "Prays-listlar turli narxlar bilan ishlash imkonini beradi — masalan, turli mijozlar, savdo kanallari yoki amallar turlari uchun.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/pricelist.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/pricelist",
@@ -13,17 +13,17 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "pricelist",
-    "title": "Прайс-листы",
-    "sidebar_label": "Прайс-листы",
+    "title": "Prays-listlar",
+    "sidebar_label": "Prays-listlar",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Удаление и деактивация товаров",
+    "title": "Mahsulotlarni o‘chirish va faolsizlantirish",
     "permalink": "/uz/docs/knowledge/products/product-remove"
   },
   "next": {
-    "title": "Штрихкоды",
+    "title": "Shtrixkodlar",
     "permalink": "/uz/docs/knowledge/products/barcode"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/product-add",
-  "title": "Добавление товара",
-  "description": "Как добавить товар вручную",
+  "title": "Mahsulot qo‘shish",
+  "description": "Mahsulotni qo‘lda qanday qo‘shish mumkin",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/product-add.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/product-add",
@@ -13,8 +13,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "product-add",
-    "title": "Добавление товара",
-    "sidebar_label": "Добавление товара",
+    "title": "Mahsulot qo‘shish",
+    "sidebar_label": "Mahsulot qo‘shish",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/knowledge/access/access-change"
   },
   "next": {
-    "title": "Управление товарами",
+    "title": "Mahsulotlarni boshqarish",
     "permalink": "/uz/docs/knowledge/products/product-management"
   }
 }

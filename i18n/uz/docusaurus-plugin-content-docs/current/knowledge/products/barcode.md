@@ -1,82 +1,83 @@
 ---
 id: barcode
-title: Штрихкоды
-sidebar_label: Штрихкоды
+title: Shtrixkodlar
+sidebar_label: Shtrixkodlar
 sidebar_position: 6
 ---
 
-# Штрихкод — как выбрать, сгенерировать и распечатать
+# Shtrixkod — qanday tanlash, yaratish va chop etish
 
-При создании или редактировании товара в iBox вы можете указать или сгенерировать штрихкод.  
-Штрихкод используется для быстрой идентификации товара при продаже, приемке или инвентаризации.
+Mahsulotni yaratish yoki tahrirlash jarayonida iBOX tizimida shtrixkodni kiritishingiz yoki avtomatik yaratishingiz mumkin.  
+Shtrixkod sotuv, qabul qilish yoki inventarizatsiya vaqtida mahsulotni tez aniqlash uchun ishlatiladi.
 
 ---
 
-## Виды поддерживаемых штрихкодов
+## Qo‘llab-quvvatlanadigan shtrixkod turlari
 
 **EAN-13**  
-Стандартный европейский штрихкод. Подходит для международной торговли и соответствует требованиям большинства торговых сетей и поставщиков. Рекомендуется для товаров, которые продаются на внешнем рынке.
+Yevropada keng tarqalgan standart shtrixkod. Xalqaro savdo uchun mos va ko‘pchilik savdo tarmoqlari hamda ta'minotchilar talablariga javob beradi. Tashqi bozorda sotiladigan mahsulotlar uchun tavsiya etiladi.
 
 **EAN-8**  
-Укороченная версия европейского штрихкода. Используется в локальной торговле и для небольших товаров с ограниченным местом на упаковке. Не подходит для международного рынка.
+Yevropa shtrixkodining qisqartirilgan ko‘rinishi. Mahalliy savdoda va qadoqlash joyi cheklangan kichik mahsulotlar uchun ishlatiladi. Xalqaro bozor uchun mos emas.
 
 **Code 128**  
-Универсальный линейный штрихкод, который поддерживает буквы, цифры и специальные символы.  
-Подходит для внутреннего учета, складов и нестандартной маркировки, если EAN-код не используется.
+Harf, raqam va maxsus belgilarni qo‘llab-quvvatlaydigan universal chiziqli shtrixkod.  
+EAN kodi ishlatilmaydigan holatlarda ichki hisob, omborlar va nostandart markirovka uchun mos keladi.
 
 ---
 
-:::info **Информация**  
-В iBox можно привязать несколько штрихкодов к одному товару.  
+:::info **Ma’lumot**  
+iBOX tizimida bitta mahsulotga bir nechta shtrixkod biriktirish mumkin.
 :::
----
-
-## Как добавить или отредактировать штрихкод
-
-Штрихкод можно указать при создании товара или добавить позже в карточке товара.
-
-### Добавление штрихкода
-
-1. Откройте вкладку **Штрихкод** при добавлении или редактировании товара.
-2. В поле **Тип** выберите формат (EAN-13, EAN-8 или Code 128).
-3. Введите штрихкод вручную  
-   или нажмите на иконку с тремя точками → **Сгенерировать**.
-4. Нажмите **Сохранить**.
 
 ---
 
-## Печать штрихкодов
+## Shtrixkodni qanday qo‘shish yoki tahrirlash mumkin
 
-Вы можете быстро распечатать этикетки со штрихкодами.  
-Это ускоряет работу на складе и снижает количество ошибок.
+Shtrixkodni mahsulotni yaratish paytida yoki keyinchalik mahsulot kartochkasida qo‘shish mumkin.
 
-При печати можно вывести:
-- название товара
-- артикул
-- цену
-- дополнительный текст
+### Shtrixkod qo‘shish
 
-### Зачем это нужно
-
-- Упрощает инвентаризацию и приемку
-- Позволяет быстро находить и списывать товар
-- Подходит для работы с кассами и сканерами
+1. Mahsulotni qo‘shish yoki tahrirlashda **Shtrixkod** yorlig‘ini oching.
+2. **Turi** maydonida formatni tanlang (EAN-13, EAN-8 yoki Code 128).
+3. Shtrixkodni qo‘lda kiriting  
+   yoki uch nuqta ikonkasini bosib → **Shtrix-kod Yaratish** ni tanlang.
+4. **Saqlash** tugmasini bosing.
 
 ---
 
-### Как распечатать штрихкод
+## Shtrixkodlarni chop etish
 
-1. Перейдите в раздел **Товары → Печать штрихкода**.
-2. Добавьте товары в список.
-3. Укажите количество этикеток.
-4. Выберите размер наклейки  
-   (по умолчанию 65×40 мм — подходит для большинства товаров).
-5. Выберите нужные опции:
-   - Включить название
-   - Включить артикул
-   - Включить цену (укажите прайс-лист)
-   - Включить текст
-   - Печатать несколько штрихкодов на одной странице
-6. Нажмите **Печать штрихкода**.
-7. В окне предпросмотра выберите принтер и проверьте настройки.
-8. Нажмите **Print** для начала печати.
+Siz shtrixkodli yorliqlarni tezda chop etishingiz mumkin.  
+Bu omborda ishni tezlashtiradi va xatolar sonini kamaytiradi.
+
+Chop etishda quyidagilarni chiqarish mumkin:
+- mahsulot nomi
+- artikul
+- narx
+- qo‘shimcha matn
+
+### Nima uchun bu kerak
+
+- Inventarizatsiya va qabul qilishni soddalashtiradi
+- Mahsulotni tez topish va hisobdan chiqarishga yordam beradi
+- Kassalar va skanerlar bilan ishlash uchun qulay
+
+---
+
+### Shtrixkodni qanday chop etish mumkin
+
+1. **Mahsulotlar → Shtrix-kod chop etish** bo‘limiga o‘ting.
+2. Mahsulotlarni ro‘yxatga qo‘shing.
+3. Yorliqlar sonini belgilang.
+4. Yopishtirma o‘lchamini tanlang  
+   (standart holatda 65×40 mm — ko‘pchilik mahsulotlar uchun mos).
+5. Kerakli opsiyalarni belgilang:
+   - Nomini qo‘shish
+   - Artikulni qo‘shish
+   - Narxni qo‘shish (prays-listni tanlang)
+   - Matn qo‘shish
+   - Bir sahifada bir nechta shtrix-kodlar
+6. **Shtrixkodni chop etish** tugmasini bosing.
+7. Oldindan ko‘rish oynasida printerni tanlang va sozlamalarni tekshiring.
+8. Chop etishni boshlash uchun **Print** tugmasini bosing.

@@ -1,55 +1,57 @@
 ---
 id: minimal-price
-title: Минимальная цена товара
-sidebar_label: Минимальная цена товара
+title: Mahsulotning minimal narxi
+sidebar_label: Mahsulotning minimal narxi
 sidebar_position: 5
 ---
 
-# Минимальная цена товара
+# Mahsulotning minimal narxi
 
-Минимальная цена — это порог, ниже которого нельзя продать товар.  
-Она защищает компанию от убытков и помогает соблюдать ценовую политику.
+Minimal narx — bu mahsulotni sotish mumkin bo‘lmagan eng past chegara.  
+U kompaniyani zarar ko‘rishdan himoya qiladi va narx siyosatiga rioya etishga yordam beradi.
+
+iBOX tizimida minimal narx savdo jarayonini qat’iy nazorat qilish imkonini beradi.
 
 ---
 
-## Как задать минимальную цену
+## Minimal narxni qanday o'rnatish mumkin
 
-1. Перейдите в раздел **Товары**.
-2. Выберите один или несколько товаров.
-3. В верхней панели нажмите **Установить минимальную цену**.
-4. Выберите способ назначения:
+1. **Mahsulotlar** bo‘limiga o‘ting.
+2. Bitta yoki bir nechta mahsulotni tanlang.
+3. Yuqori panelda **Minimal narxni o'rnatish** tugmasini bosing.
+4. Belgilash usulini tanlang:
 
-    - **Вручную** — введите цену и валюту самостоятельно.
-    - **На основе прайс-листа** — выберите прайс-лист и укажите наценку в процентах (например, 15%).
-    - **На основе последней закупочной цены** — укажите наценку в процентах.
+    - **Qo‘lda kiritish** — narx va valyutani mustaqil kiriting.
+    - **Prays-listga asoslangan** — prays-listni tanlang va foizda ustama belgilang (masalan, 15%).
+    - **Oxirgi xarid narxiga asoslangan** — foizda ustama kiriting.
 
-5. Нажмите **Сохранить**.
+5. **Saqlash** tugmasini bosing.
 
-:::info **Информация**  
-Чтобы задать скидку, используйте знак минус.  
-Например: **–10%**.
+:::info **Ma’lumot**  
+Chegirma belgilash uchun minus belgisidan foydalaning.  
+Masalan: **–10%**.
 :::
 
 ---
 
-## Как работает ограничение
+## Cheklov qanday ishlaydi
 
-Система не позволит сотрудникам продать товар ниже минимальной цены:
+Tizim xodimlarga mahsulotni minimal narxdan pastga sotishga ruxsat bermaydi:
 
-- при ручном вводе цены,
-- при использовании другого прайс-листа,
-- при применении скидки.
+- narx qo‘lda kiritilganda,
+- boshqa prays-listdan foydalanilganda,
+- chegirma qo‘llanganda.
 
 ---
 
-## Кто может назначать минимальные цены
+## Kimlar minimal narx belgilashi mumkin
 
-- Администраторы
-- Сотрудники с правом **Устанавливать минимальную цену**
+- Administratorlar
+- **Minimal narxni o'rnatish** huquqiga ega xodimlar
 
-### Как выдать это право сотруднику
+### Xodimga bu huquqni qanday berish mumkin
 
-1. Перейдите в **Настройки → Роли**.
-2. Выберите нужную роль и нажмите иконку ✏️ **редактирования**.
-3. Откройте вкладку **Прочее**.
-4. Включите опцию **Установить минимальную цену для товаров**.
+1. **Sozlamalar → Rollar** bo‘limiga o‘ting.
+2. Kerakli rolni tanlab, ✏️ **tahrirlash** ikonkasini bosing.
+3. **Boshqa** yorlig‘ini oching.
+4. **Mahsulotlar uchun minimal narxni o'rnatish** opsiyasini yoqing.

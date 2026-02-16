@@ -11,6 +11,6 @@ sidebar_position: 2
 
 :::info Ma’lumot
 Rollarni **Sozlamalar → Xodimlar** bo‘limida biriktirish mumkin  
-([Tezkor ishga tushirish qo‘llanmasi — 1-qism](/docs/quick-start/part1-setup) va  
+([Tezkor boshlash qo‘llanmasi — 1-qism](/docs/quick-start/part1-setup) va  
 [iBOX’da rollarni sozlash](/docs/knowledge/access/access-role))
 :::
