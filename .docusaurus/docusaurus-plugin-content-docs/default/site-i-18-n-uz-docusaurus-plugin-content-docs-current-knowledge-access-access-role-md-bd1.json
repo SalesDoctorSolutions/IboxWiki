@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-role",
-  "title": "Настройка ролей",
-  "description": "Роль — это набор прав доступа, которые определяют возможности сотрудника в системе.",
+  "title": "Rollarni sozlash",
+  "description": "Rol — bu xodimning tizimdagi imkoniyatlarini belgilovchi kirish huquqlari to‘plamidir.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access-role.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-role",
@@ -13,17 +13,17 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "id": "access-role",
-    "title": "Настройка ролей",
-    "sidebar_label": "Как настроить роли в iBOX",
+    "title": "Rollarni sozlash",
+    "sidebar_label": "iBOX’da rollarni qanday sozlash",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Доступ в iBOX",
+    "title": "iBOX’da kirish huquqi",
     "permalink": "/uz/docs/knowledge/access/"
   },
   "next": {
-    "title": "Как добавить сотрудников в систему",
+    "title": "Tizimga xodim qo‘shish",
     "permalink": "/uz/docs/knowledge/access/access-team"
   }
 }

@@ -15,14 +15,6 @@
     "message": "3. Bilimlar bazasi",
     "description": "The label for category 3. База знаний in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Данные и безопасность": {
-    "message": "Ma’lumotlar va xavfsizlik",
-    "description": "The label for category Данные и безопасность in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Настройки доступа": {
-    "message": "Xodimlarni tizimga qanday qo‘shish mumkin",
-    "description": "The label for category Настройки доступа in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.4. FAQ": {
     "message": "4. Ko‘p beriladigan savollar (FAQ)",
     "description": "The label for category 4. FAQ in sidebar tutorialSidebar"
@@ -31,36 +23,48 @@
     "message": "5. Mualliflar uchun",
     "description": "The label for category 5. Для авторов in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Клиенты и продажи": {
-    "message": "Mijozlar va sotuvlar",
-    "description": "The label for category Клиенты и продажи in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Товары и цены": {
-    "message": "Mahsulotlar va narxlar",
-    "description": "The label for category Товары и цены in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.3.1. Данные и безопасность": {
-    "message": "3.1. Данные и безопасность",
+    "message": "3.1. Ma’lumotlar va xavfsizlik",
     "description": "The label for category 3.1. Данные и безопасность in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.3.2. Настройки доступа": {
-    "message": "3.2. Настройки доступа",
+    "message": "3.2. Kirish huquqlarini sozlash",
     "description": "The label for category 3.2. Настройки доступа in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.3.3. Товары и цены": {
-    "message": "3.3. Товары и цены",
+    "message": "3.3. Mahsulotlar va narxlar",
     "description": "The label for category 3.3. Товары и цены in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.3.4. Клиенты и продажи": {
-    "message": "3.4. Клиенты и продажи",
+    "message": "3.4. Mijozlar va sotuvlar",
     "description": "The label for category 3.4. Клиенты и продажи in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.3.5. Поставщики и закупки": {
-    "message": "3.5. Поставщики и закупки",
+    "message": "3.5. Ta'minotchilar va xaridlar",
     "description": "The label for category 3.5. Поставщики и закупки in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.3.6. Склад": {
-    "message": "3.6. Склад",
+    "message": "3.6. Ombor",
     "description": "The label for category 3.6. Склад in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.7. Финансы": {
+    "message": "3.7. Moliya",
+    "description": "The label for category 3.7. Финансы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.8. Организации": {
+    "message": "3.8. Korxonalar",
+    "description": "The label for category 3.8. Организации in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.9. Настройки организации": {
+    "message": "3.9. Korxona sozlamalari",
+    "description": "The label for category 3.9. Настройки организации in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.10. Общие настройки": {
+    "message": "3.10. Umumiy sozlamalar",
+    "description": "The label for category 3.10. Общие настройки in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3.11. Панель администратора": {
+    "message": "3.11. Administrator paneli",
+    "description": "The label for category 3.11. Панель администратора in sidebar tutorialSidebar"
   }
 }

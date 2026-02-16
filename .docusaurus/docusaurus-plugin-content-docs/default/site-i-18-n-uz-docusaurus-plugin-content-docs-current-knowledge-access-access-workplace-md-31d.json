@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-workplace",
-  "title": "Доступ к POS-системе и мобильному приложению",
-  "description": "Чтобы сотрудник мог работать в POS-системе или мобильном приложении iBOX, создайте для него рабочее место и настройте права доступа. Рабочее место определяет, какие действия сотрудник сможет выполнять и с какими складами и кассами он будет работать.",
+  "title": "POS tizimi va mobil ilovaga kirish huquqi",
+  "description": "Xodim POS tizimi yoki iBOX mobil ilovasi orqali ishlashi uchun unga ish joyi yarating va kirish huquqlarini belgilang. Ish joyi xodim qaysi amallarni bajarishi va qaysi omborlar hamda kassalar bilan ishlashini aniqlaydi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access-workplace.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-workplace",
@@ -13,17 +13,17 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "access-workplace",
-    "title": "Доступ к POS-системе и мобильному приложению",
-    "sidebar_label": "POS-система и мобильное приложение",
+    "title": "POS tizimi va mobil ilovaga kirish huquqi",
+    "sidebar_label": "POS tizimi va mobil ilova",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Как добавить сотрудников в систему",
+    "title": "Tizimga xodim qo‘shish",
     "permalink": "/uz/docs/knowledge/access/access-team"
   },
   "next": {
-    "title": "Как ограничить доступ сотруднику",
+    "title": "Xodimga kirishni qanday cheklash",
     "permalink": "/uz/docs/knowledge/access/access-change"
   }
 }

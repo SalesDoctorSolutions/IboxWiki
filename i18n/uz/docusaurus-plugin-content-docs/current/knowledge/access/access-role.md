@@ -1,47 +1,51 @@
 ---
 id: access-role
-title: Настройка ролей
-sidebar_label: Как настроить роли в iBOX
+title: Rollarni sozlash
+sidebar_label: iBOX’da rollarni qanday sozlash
 sidebar_position: 2
 ---
-# Как настроить роли в iBox
-Роль — это набор прав доступа, которые определяют возможности сотрудника в системе. 
 
-Например:
-- **Кладовщик** — полный доступ к складу, но ограниченный к финансам
-- **Кассир** — работа с кассой, но без доступа к складу
-- **Администратор** — полный доступ ко всем модулям и функциям
+# iBOX’da rollarni qanday sozlash kerak
 
-:::warning Предупреждение 
- - Если не назначить сотруднику роль, он не сможет войти в систему.
- - Если создать новую роль и не настроить доступ, сотрудник войдет, но увидит пустое окно — без возможности что-либо сделать.
- :::
+Rol — bu xodimning tizimdagi imkoniyatlarini belgilovchi kirish huquqlari to‘plamidir.
 
+Masalan:
+- **Omborchi** — omborga to‘liq kirish huquqi, moliyaga cheklangan  
+- **Kassir** — kassa bilan ishlaydi, lekin omborga kira olmaydi  
+- **Administrator** — barcha modullar va funksiyalarga to‘liq kirish huquqiga ega
+
+:::warning Ogohlantirish
+- Agar xodimga rol biriktirilmasa, u tizimga kira olmaydi  
+- Agar yangi rol yaratilsa-yu, unga huquqlar berilmasa, xodim tizimga kiradi, ammo bo‘sh sahifani ko‘radi — hech qanday amal bajara olmaydi  
+:::
 
 ---
 
-## Как создать роль в iBox
-1. Перейдите **Настройки» → Роли** 
-1. Нажмите  ➕ плюс, чтобы создать новую роль. Откроется окно для добавления информации
-<img src="/img/knowledge/access/role.png" alt="Настройка роли" width="600" />
-3. Введите информацию о роли:
+## iBOX’da rol yaratish
 
-- Название: например, кассир или менеджер по продажам
-- Описание: краткое описание обязанностей и прав
+1. **Sozlamalar** → **Rollar** bo‘limiga o‘ting  
+2. Yangi rol yaratish uchun ➕ tugmasini bosing. Ma’lumot kiritish oynasi ochiladi  
+3. Rol haqidagi ma’lumotlarni kiriting:
 
-4. Настройте права доступа:
--  Определите, к каким операциям сотрудник имеет доступ ( например, *Заказы поставщикам*)
+- Nomi: masalan, kassir yoki savdo menejeri  
+- Tavsifi: vazifalar va huquqlarning qisqa izohi  
 
-5. Укажите, что именно сотрудник может делать:
-- Просматривать данные
-- Создавать документы
-- Редактировать данные
-- Удалять документы
+4. Kirish huquqlarini belgilang:
+- Xodim qaysi operatsiyalarga kirishi mumkinligini tanlang (masalan, *Xarid buyurtmalari*)
 
-6. Нажмите **Сохранить**
+5. Xodim nima qila olishini belgilang:
+- Ma’lumotlarni ko‘rish  
+- Hujjatlar yaratish  
+- Ma’lumotlarni tahrirlash  
+- Hujjatlarni o‘chirish  
 
-## Советы по управлению ролями
- - Назначайте роли сразу при создании профиля сотрудника — иначе он не сможет войти
- - Убедитесь, что у роли есть доступ хотя бы к одному модулю — иначе сотрудник ничего не увидит
- - Используйте понятные названия ролей, чтобы было ясно, кто за что отвечает
- - Не давайте доступ к критически важным данным тем, кто с ними не работает
+6. **Saqlash** tugmasini bosing  
+
+---
+
+## Rollarni boshqarish bo‘yicha maslahatlar
+
+- Xodim profilini yaratishda darhol rol biriktiring — aks holda u tizimga kira olmaydi  
+- Rol kamida bitta modulga kirish huquqiga ega ekanini tekshiring — bo‘lmasa xodim hech narsani ko‘rmaydi  
+- Rollarga tushunarli nomlar bering — kim nimaga javobgar ekani aniq bo‘lsin  
+- Muhim ma’lumotlarga ular bilan ishlamaydigan xodimlarga kirish huquqi bermang  

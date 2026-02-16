@@ -1,7 +1,7 @@
 {
   "id": "knowledge/knowledge",
   "title": "Bilimlar bazasi",
-  "description": "Инструкции по работе с функционалом iBox — от штрихкодов до настройки шаблонов и работы с Telegram-ботом.",
+  "description": "iBOX funksiyalari bilan ishlash bo‘yicha qo‘llanmalar — shtrix-kodlardan boshlab, hujjat shablonlarini sozlash va Telegram-bot bilan ishlashgacha.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/knowledge.md",
   "sourceDirName": "knowledge",
   "slug": "/knowledge/",

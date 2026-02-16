@@ -5,6 +5,6 @@ sidebar_label: Tizim bilan ishlash bo‘yicha yo‘riqnomalar
 sidebar_position: 3
 ---
 
-Инструкции по работе с функционалом iBox — от штрихкодов до настройки шаблонов и работы с Telegram-ботом. 
+iBOX funksiyalari bilan ishlash bo‘yicha qo‘llanmalar — shtrix-kodlardan boshlab, hujjat shablonlarini sozlash va Telegram-bot bilan ishlashgacha.
 
-Статьи помогут вам глубже понять возможности системы и использовать ее на 100%.
+Maqolalar tizim imkoniyatlarini chuqurroq tushunishga va undan 100% samarali foydalanishga yordam beradi.

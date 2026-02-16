@@ -1,90 +1,91 @@
 ---
 id: access-workplace
-title: Доступ к POS-системе и мобильному приложению
-sidebar_label: POS-система и мобильное приложение
+title: POS tizimi va mobil ilovaga kirish huquqi
+sidebar_label: POS tizimi va mobil ilova
 sidebar_position: 4
 ---
-# Настройка доступа к POS-системе и мобильному приложению
 
-Чтобы сотрудник мог работать в POS-системе или мобильном приложении iBOX, создайте для него рабочее место и настройте права доступа. Рабочее место определяет, какие действия сотрудник сможет выполнять и с какими складами и кассами он будет работать.
+# POS tizimi va mobil ilovaga kirishni sozlash
 
----
-
-## Как создать рабочее место
-
-1. Перейдите в **Настройки** → **Рабочие места**.
-2. Нажмите на плюс в правом верхнем углу — **Добавить рабочее место**.
-3. Укажите название рабочего места и выберите сотрудников из списка.
-4. Выберите склады, кассы и цены.
-5. Пролистайте страницу вниз и настройте права доступа.
-6. Нажмите **Сохранить**.
+Xodim POS tizimi yoki iBOX mobil ilovasi orqali ishlashi uchun unga ish joyi yarating va kirish huquqlarini belgilang. Ish joyi xodim qaysi amallarni bajarishi va qaysi omborlar hamda kassalar bilan ishlashini aniqlaydi.
 
 ---
 
-## Настройка прав доступа рабочего места
+## Ish joyini qanday yaratish
 
-Вы можете отдельно настроить доступ к разделам и действиям: просмотр, создание, редактирование, удаление, изменение статусов и меток.
-
----
-
-### Товары и клиенты
-
-Настройте доступ к справочникам:
-
-- **Товары** — просмотр, создание, отображение закупочной цены  
-- **Клиенты** — просмотр, создание, просмотр баланса и должников  
-- **Поставщики** — аналогичные права, если раздел включен  
+1. **Sozlamalar** → **Ish joylari** bo‘limiga o‘ting.
+2. Yuqori o‘ng burchakdagi ➕ tugmasini bosing — **Ish joyi qo‘shish**.
+3. Ish joyi nomini kiriting va ro‘yxatdan xodimlarni tanlang.
+4. Omborlar, kassalar va narxlarni belgilang.
+5. Sahifani pastga aylantirib, kirish huquqlarini sozlang.
+6. **Saqlash** tugmasini bosing.
 
 ---
 
-### Продажи и отгрузки
+## Ish joyi uchun kirish huquqlarini sozlash
 
-Настройте права для работы с продажами:
-
-- **Отгрузки** — просмотр, создание, редактирование, удаление, управление статусами и метками  
-- **Возвраты клиентов** — просмотр, создание, статус по умолчанию, изменение статусов и меток  
-- **Заказы клиентов** — просмотр, создание, статус и метка по умолчанию, права на изменение  
+Bo‘limlar va amallar bo‘yicha alohida huquqlarni belgilash mumkin: ko‘rish, yaratish, tahrirlash, o‘chirish, statuslarni o‘zgartirish.
 
 ---
 
-### Закупки
+### Mahsulotlar va mijozlar
 
-Права для работы с поставщиками:
+Ma’lumotnomalarga kirish huquqlarini sozlang:
 
-- **Закупки** и **возвраты поставщикам** — просмотр, создание, редактирование, управление статусами и метками  
-- **Заказы поставщикам** — аналогичные права, включая статус и метку по умолчанию  
-
----
-
-### Перемещения
-
-Права на перемещение товаров и денег:
-
-- **Межорганизационные отправки** — просмотр, создание, изменение статусов и меток  
-- **Перемещения между складами** — просмотр, создание, изменение статусов и меток  
-- **Перемещения денег между кассами** — просмотр, создание, выбор доступных касс  
+- **Mahsulotlar** — ko‘rish, yaratish, xarid narxini ko‘rish  
+- **Mijozlar** — ko‘rish, yaratish, balans va qarzdorlarni ko‘rish  
+- **Ta'minothcilar** — agar bo‘lim yoqilgan bo‘lsa, shunga o‘xshash huquqlar  
 
 ---
 
-### Финансовые операции
+### Sotuvlar 
 
-Настройте доступ к денежным операциям:
+Sotuvlar bilan ishlash huquqlari:
 
-- **Поступления и расходы** — просмотр, создание, статус по умолчанию, изменение статусов и меток  
-- **Корректировки остатков** — просмотр, создание, изменение меток  
-
----
-
-### Отчеты
-
-1. Выберите доступные отчеты:
-   - Отчет по остаткам  
-   - Отчет по кассе  
-   - Отчет по поступлениям  
-   - Отчет по продажам  
-   - Дневной отчет  
-2. Укажите склады и кассы, данные по которым сотрудник сможет просматривать.
+- **Sotuvlar** — ko‘rish, yaratish, tahrirlash, o‘chirish, holat va belgilarni boshqarish  
+- **Korxonalararo sotuvlar** — ko‘rish, yaratish, holat va belgilarni o‘zgartirish  
+- **Mijoz qaytarishlar** — ko‘rish, yaratish, standart holat, holat va belgilarni o‘zgartirish  
+- **Buyurtmalar** — ko‘rish, yaratish, standart holat va belgi, o‘zgartirish huquqlari  
 
 ---
 
-Рабочее место особенно важно для сотрудников, которые работают через мобильное приложение или обслуживают кассу. Правильная настройка доступов помогает избежать ошибок и повысить безопасность работы.
+### Xaridlar
+
+Yetkazib beruvchilar bilan ishlash uchun:
+
+- **Xaridlar** va **Ta'minotchilarga qaytarishlar** — ko‘rish, yaratish, tahrirlash, holat va belgilarni boshqarish  
+- **Xarid buyurtmalar** — shu jumladan standart holat va belgi bilan  
+
+---
+
+### Ko‘chirishlar
+
+Mahsulot va pul harakatlari uchun:
+
+- **Ombordan omborga ko'chirishlar** — ko‘rish, yaratish, holat va belgilarni o‘zgartirish  
+- **Kassadan kassaga o'tkazmalar** — ko‘rish, yaratish, ruxsat etilgan kassalarni tanlash  
+
+---
+
+### Moliyaviy amaliyotlar
+
+Pul bilan bog‘liq amallarni sozlang:
+
+- **Kirimlar va chiqimlar** — ko‘rish, yaratish, standart holat, holat va belgilarni o‘zgartirish  
+- **Ombor korrektirovkalar** — ko‘rish, yaratish, belgilarni o‘zgartirish  
+
+---
+
+### Hisobotlar
+
+1. Ruxsat etilgan hisobotlarni tanlang:
+   - Ombor hisoboti  
+   - Kassa hisoboti  
+   - Kirim hisoboti  
+   - Sotuvlar hisoboti  
+   - Kunlik hisobot  
+2. Xodim ko‘ra oladigan omborlar va kassalarni belgilang.
+
+---
+
+Ish joyi ayniqsa mobil ilova yoki POS tizim bilan ishlovchi xodimlar uchun muhim. Kirish huquqlarini to‘g‘ri sozlash xatolarni kamaytiradi va tizim xavfsizligini oshiradi.

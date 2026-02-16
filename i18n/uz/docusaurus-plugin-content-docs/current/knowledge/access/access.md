@@ -1,31 +1,31 @@
 ---
 id: access
-title: Настройка доступа
-sidebar_label: Доступ в iBOX
+title: Kirish huquqlarini sozlash
+sidebar_label: iBOX’da kirish huquqi
 sidebar_position: 1
 ---
 
-## Настройки доступа в iBOX
+## iBOX’da kirish huquqlarini sozlash
 
-Доступ сотрудников к системе настраивается через роли. Сначала создайте и настройте роль, затем добавьте сотрудников и назначьте им нужные роли.
-
----
-
-## Почему важно настроить роли
-
-Роль определяет, какие действия сотрудник может выполнять в системе.
-
-- Если сотруднику не назначить роль, он не сможет войти в систему
-- Если роль настроена неправильно, сотрудник может получить доступ к лишним данным и операциям.
-
-Корректная настройка ролей помогает избежать ошибок и защитить важную информацию.
+Xodimlarning tizimga kirishi rollar orqali boshqariladi. Avval rol yarating va sozlang, so‘ng xodimlarni qo‘shib, ularga kerakli rollarni biriktiring.
 
 ---
 
-## Работа через мобильное приложение и POS-систему
+## Nima uchun rollarni sozlash muhim
 
-Чтобы сотрудник мог работать через мобильное приложение iBOX или POS-систему, настройте для него рабочее место.
+Rol xodim tizimda qaysi amallarni bajarishi mumkinligini belgilaydi.
 
-:::warning **Важно**  
-Даже если сотрудник будет работать только через мобильное приложение, роль все равно нужно назначить — хотя бы пустую. Без роли сотрудник не сможет войти в систему и авторизоваться в приложении.
+- Agar xodimga rol biriktirilmasa, u tizimga kira olmaydi  
+- Agar rol noto‘g‘ri sozlansa, xodim ortiqcha ma’lumotlar va operatsiyalarga kirish huquqiga ega bo‘lishi mumkin  
+
+Rollarni to‘g‘ri sozlash xatolarning oldini oladi va muhim ma’lumotlarni himoyalaydi.
+
+---
+
+## Mobil ilova va POS tizimi orqali ishlash
+
+Xodim mobil ilova yoki POS tizimi orqali ishlashi uchun unga ish joyi sozlab berilishi kerak.
+
+:::warning Muhim  
+Agar xodim faqat mobil ilova yoki POS-tizim orqali ishlasa ham, unga baribir rol biriktirilishi shart — hech bo‘lmaganda bo‘sh rol. Rol bo‘lmasa, xodim tizimga kira olmaydi va ilovada avtorizatsiyadan o‘ta olmaydi.
 :::

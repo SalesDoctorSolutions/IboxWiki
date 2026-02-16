@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/organizations/intercompnay-payments.md",
   "sourceDirName": "knowledge/organizations",
   "slug": "/knowledge/organizations/intercompany-payments",
-  "permalink": "/docs/knowledge/organizations/intercompany-payments",
+  "permalink": "/uz/docs/knowledge/organizations/intercompany-payments",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Межорг. Запросы",
-    "permalink": "/docs/knowledge/organizations/intercompany-requests"
+    "permalink": "/uz/docs/knowledge/organizations/intercompany-requests"
   },
   "next": {
     "title": "Значения по умолчанию",
-    "permalink": "/docs/knowledge/organization-settings/default-values"
+    "permalink": "/uz/docs/knowledge/organization-settings/default-values"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-change",
-  "title": "Ограничение доступа",
-  "description": "В iBox есть три способа ограничить доступ сотруднику.",
+  "title": "Kirish huquqini cheklash",
+  "description": "iBOX’da xodim kirishini cheklashning uchta usuli mavjud:",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access-change.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-change",
@@ -13,13 +13,13 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "id": "access-change",
-    "title": "Ограничение доступа",
-    "sidebar_label": "Как ограничить доступ сотруднику",
+    "title": "Kirish huquqini cheklash",
+    "sidebar_label": "Xodimga kirishni qanday cheklash",
     "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "POS-система и мобильное приложение",
+    "title": "POS tizimi va mobil ilova",
     "permalink": "/uz/docs/knowledge/access/access-workplace"
   },
   "next": {

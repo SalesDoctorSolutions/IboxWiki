@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/admin-panel/product-settings.md",
   "sourceDirName": "knowledge/admin-panel",
   "slug": "/knowledge/admin-panel/product-settings",
-  "permalink": "/docs/knowledge/admin-panel/product-settings",
+  "permalink": "/uz/docs/knowledge/admin-panel/product-settings",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Панель администратора",
-    "permalink": "/docs/knowledge/admin-panel/"
+    "permalink": "/uz/docs/knowledge/admin-panel/"
   },
   "next": {
     "title": "Клиенты и поставщики в организациях",
-    "permalink": "/docs/knowledge/admin-panel/outlet-settings"
+    "permalink": "/uz/docs/knowledge/admin-panel/outlet-settings"
   }
 }

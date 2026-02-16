@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Клиенты и поставщики в организациях",
-    "permalink": "/docs/knowledge/admin-panel/outlet-settings"
+    "title": "Отчеты по всем организациям",
+    "permalink": "/docs/knowledge/admin-panel/total-reports"
   }
 }

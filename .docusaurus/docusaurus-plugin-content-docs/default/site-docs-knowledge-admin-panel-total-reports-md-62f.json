@@ -1,14 +1,29 @@
 {
   "id": "knowledge/admin-panel/total-reports",
-  "title": "total-reports",
-  "description": "",
+  "title": "Отчеты по всем организациям",
+  "description": "Отгрузки по всем организациям",
   "source": "@site/docs/knowledge/admin-panel/total-reports.md",
   "sourceDirName": "knowledge/admin-panel",
   "slug": "/knowledge/admin-panel/total-reports",
-  "permalink": "/docs/knowledge/admin-panel/total-reports",
+  "permalink": "/uz/docs/knowledge/admin-panel/total-reports",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "total-reports",
+    "title": "Отчеты по всем организациям",
+    "sidebar_label": "Отчеты по всем организациям",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Клиенты и поставщики в организациях",
+    "permalink": "/uz/docs/knowledge/admin-panel/outlet-settings"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/uz/docs/faq/"
+  }
 }

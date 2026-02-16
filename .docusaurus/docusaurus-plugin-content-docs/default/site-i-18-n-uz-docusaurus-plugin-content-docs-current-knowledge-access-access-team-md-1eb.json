@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-team",
-  "title": "Добавление сотрудников",
-  "description": "В iBOX можно добавлять сотрудников, которые работают в системе, и сотрудников, которые нужны только для учета. Порядок действий зависит от того, будет ли сотрудник входить в систему.",
+  "title": "Xodimlarni qo‘shish",
+  "description": "iBOX’da tizimda ishlaydigan xodimlarni ham, faqat hisob-kitob uchun kerak bo‘lgan xodimlarni ham qo‘shish mumkin. Amal tartibi xodim tizimga kiradimi yoki yo‘qmi — shunga bog‘liq.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access-team.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-team",
@@ -13,17 +13,17 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "id": "access-team",
-    "title": "Добавление сотрудников",
-    "sidebar_label": "Как добавить сотрудников в систему",
+    "title": "Xodimlarni qo‘shish",
+    "sidebar_label": "Tizimga xodim qo‘shish",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Как настроить роли в iBOX",
+    "title": "iBOX’da rollarni qanday sozlash",
     "permalink": "/uz/docs/knowledge/access/access-role"
   },
   "next": {
-    "title": "POS-система и мобильное приложение",
+    "title": "POS tizimi va mobil ilova",
     "permalink": "/uz/docs/knowledge/access/access-workplace"
   }
 }
