@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '519'),
+    component: ComponentCreator('/uz/docs', 'a6b'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '5cf'),
+        component: ComponentCreator('/uz/docs', 'ae3'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '5bf'),
+            component: ComponentCreator('/uz/docs', '7da'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -387,19 +387,19 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/warehouse/stock-adjustments',
-                component: ComponentCreator('/uz/docs/knowledge/warehouse/stock-adjustments', '6e5'),
+                component: ComponentCreator('/uz/docs/knowledge/warehouse/stock-adjustments', '77c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/warehouse/stock-management',
-                component: ComponentCreator('/uz/docs/knowledge/warehouse/stock-management', '915'),
+                component: ComponentCreator('/uz/docs/knowledge/warehouse/stock-management', '425'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/warehouse/transfers',
-                component: ComponentCreator('/uz/docs/knowledge/warehouse/transfers', '2b7'),
+                component: ComponentCreator('/uz/docs/knowledge/warehouse/transfers', '17c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
