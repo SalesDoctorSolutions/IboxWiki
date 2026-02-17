@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/suppliers/supplier-management",
+  "title": "Ta'minotchilarni boshqarish",
+  "description": "Ta'minotchilarni tahrirlash",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/suppliers/supplier-management.md",
+  "sourceDirName": "knowledge/suppliers",
+  "slug": "/knowledge/suppliers/supplier-management",
+  "permalink": "/uz/docs/knowledge/suppliers/supplier-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "supplier-management",
+    "title": "Ta'minotchilarni boshqarish",
+    "sidebar_label": "Ta'minotchilarni boshqarish",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ta'minotchilarni qo‘shish",
+    "permalink": "/uz/docs/knowledge/suppliers/supplier-add"
+  },
+  "next": {
+    "title": "Ta'minotchilarni o‘chirish va faolsizlantirish",
+    "permalink": "/uz/docs/knowledge/suppliers/supplier-remove"
+  }
+}

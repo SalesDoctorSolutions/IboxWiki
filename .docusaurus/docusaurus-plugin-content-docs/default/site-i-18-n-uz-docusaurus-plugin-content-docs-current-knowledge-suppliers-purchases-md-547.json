@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/suppliers/purchases",
+  "title": "Xaridlar",
+  "description": "iBOX tizimida xarid ta'minotchidan tovar qabul qilinganini rasmiylashtiradi — aynan shu hujjatdan kreditorlik qarzdorligini nazorat qilish va to‘lovlar bilan ishlash boshlanadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/suppliers/purchases.md",
+  "sourceDirName": "knowledge/suppliers",
+  "slug": "/knowledge/suppliers/purchases",
+  "permalink": "/uz/docs/knowledge/suppliers/purchases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "purchases",
+    "title": "Xaridlar",
+    "sidebar_label": "Xaridlar",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ta'minotchilarni o‘chirish va faolsizlantirish",
+    "permalink": "/uz/docs/knowledge/suppliers/supplier-remove"
+  },
+  "next": {
+    "title": "Xarid buyurtmalar",
+    "permalink": "/uz/docs/knowledge/suppliers/purchase-orders"
+  }
+}

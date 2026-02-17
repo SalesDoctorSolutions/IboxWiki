@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '6cf'),
+    component: ComponentCreator('/uz/docs', '519'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '925'),
+        component: ComponentCreator('/uz/docs', '5cf'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'b32'),
+            component: ComponentCreator('/uz/docs', '5bf'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -351,37 +351,37 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/suppliers/purchase-orders',
-                component: ComponentCreator('/uz/docs/knowledge/suppliers/purchase-orders', '062'),
+                component: ComponentCreator('/uz/docs/knowledge/suppliers/purchase-orders', '671'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/suppliers/purchase-returns',
-                component: ComponentCreator('/uz/docs/knowledge/suppliers/purchase-returns', 'b5b'),
+                component: ComponentCreator('/uz/docs/knowledge/suppliers/purchase-returns', '344'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/suppliers/purchases',
-                component: ComponentCreator('/uz/docs/knowledge/suppliers/purchases', '781'),
+                component: ComponentCreator('/uz/docs/knowledge/suppliers/purchases', 'bdb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/suppliers/supplier-add',
-                component: ComponentCreator('/uz/docs/knowledge/suppliers/supplier-add', 'c28'),
+                component: ComponentCreator('/uz/docs/knowledge/suppliers/supplier-add', 'fb9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/suppliers/supplier-management',
-                component: ComponentCreator('/uz/docs/knowledge/suppliers/supplier-management', '64e'),
+                component: ComponentCreator('/uz/docs/knowledge/suppliers/supplier-management', '8e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/suppliers/supplier-remove',
-                component: ComponentCreator('/uz/docs/knowledge/suppliers/supplier-remove', 'd56'),
+                component: ComponentCreator('/uz/docs/knowledge/suppliers/supplier-remove', 'd72'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

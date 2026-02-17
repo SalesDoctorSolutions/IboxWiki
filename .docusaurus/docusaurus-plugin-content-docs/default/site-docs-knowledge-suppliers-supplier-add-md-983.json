@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/suppliers/supplier-add.md",
   "sourceDirName": "knowledge/suppliers",
   "slug": "/knowledge/suppliers/supplier-add",
-  "permalink": "/uz/docs/knowledge/suppliers/supplier-add",
+  "permalink": "/docs/knowledge/suppliers/supplier-add",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mijozdan qaytishlar",
-    "permalink": "/uz/docs/knowledge/customers/returns"
+    "title": "Возвраты",
+    "permalink": "/docs/knowledge/customers/returns"
   },
   "next": {
     "title": "Управление поставщиками",
-    "permalink": "/uz/docs/knowledge/suppliers/supplier-management"
+    "permalink": "/docs/knowledge/suppliers/supplier-management"
   }
 }
