@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '3b4'),
+    component: ComponentCreator('/uz/docs', '71c'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '2be'),
+        component: ComponentCreator('/uz/docs', '37b'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '6cb'),
+            component: ComponentCreator('/uz/docs', '800'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -291,25 +291,25 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/organizations/',
-                component: ComponentCreator('/uz/docs/knowledge/organizations/', '60e'),
+                component: ComponentCreator('/uz/docs/knowledge/organizations/', 'fd0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organizations/intercompany-payments',
-                component: ComponentCreator('/uz/docs/knowledge/organizations/intercompany-payments', 'f23'),
+                component: ComponentCreator('/uz/docs/knowledge/organizations/intercompany-payments', '85d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organizations/intercompany-requests',
-                component: ComponentCreator('/uz/docs/knowledge/organizations/intercompany-requests', 'd78'),
+                component: ComponentCreator('/uz/docs/knowledge/organizations/intercompany-requests', '714'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organizations/intercompany-shipments',
-                component: ComponentCreator('/uz/docs/knowledge/organizations/intercompany-shipments', '264'),
+                component: ComponentCreator('/uz/docs/knowledge/organizations/intercompany-shipments', '938'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organizations/intercompany-payments",
+  "title": "Korxonalaro to‘lovlar",
+  "description": "Boshqa korxonaga to‘lov jo‘natish",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/organizations/intercompnay-payments.md",
+  "sourceDirName": "knowledge/organizations",
+  "slug": "/knowledge/organizations/intercompany-payments",
+  "permalink": "/uz/docs/knowledge/organizations/intercompany-payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "intercompany-payments",
+    "title": "Korxonalaro to‘lovlar",
+    "sidebar_label": "Korxonalaro to‘lovlar",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Korxonalaro buyurtmalar",
+    "permalink": "/uz/docs/knowledge/organizations/intercompany-requests"
+  },
+  "next": {
+    "title": "Значения по умолчанию",
+    "permalink": "/uz/docs/knowledge/organization-settings/default-values"
+  }
+}

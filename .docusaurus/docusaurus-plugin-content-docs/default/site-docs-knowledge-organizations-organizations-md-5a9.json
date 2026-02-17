@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/organizations/organizations.md",
   "sourceDirName": "knowledge/organizations",
   "slug": "/knowledge/organizations/",
-  "permalink": "/uz/docs/knowledge/organizations/",
+  "permalink": "/docs/knowledge/organizations/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Moliyani boshqarish",
-    "permalink": "/uz/docs/knowledge/finance/finance-management"
+    "title": "Управление финансами",
+    "permalink": "/docs/knowledge/finance/finance-management"
   },
   "next": {
     "title": "Межорг. Отгрузки",
-    "permalink": "/uz/docs/knowledge/organizations/intercompany-shipments"
+    "permalink": "/docs/knowledge/organizations/intercompany-shipments"
   }
 }
