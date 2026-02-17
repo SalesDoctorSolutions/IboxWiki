@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/customers/shipments",
+  "title": "Sotuvlar",
+  "description": "Sotuvlar mahsulotning mijozga topshirilganini qayd etadi — aynan shu bosqichdan debitorlik qarzini nazorat qilish va to‘lovlar bilan ishlash boshlanadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/customers/shipments.md",
+  "sourceDirName": "knowledge/customers",
+  "slug": "/knowledge/customers/shipments",
+  "permalink": "/uz/docs/knowledge/customers/shipments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "shipments",
+    "title": "Sotuvlar",
+    "sidebar_label": "Sotuvlar",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mijozlarni o‘chirish va faolsizlantirish",
+    "permalink": "/uz/docs/knowledge/customers/customer-remove"
+  },
+  "next": {
+    "title": "Buyurtmalar",
+    "permalink": "/uz/docs/knowledge/customers/orders"
+  }
+}

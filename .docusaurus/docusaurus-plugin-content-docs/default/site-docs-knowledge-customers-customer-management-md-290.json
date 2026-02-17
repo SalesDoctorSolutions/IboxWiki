@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/customers/customer-management.md",
   "sourceDirName": "knowledge/customers",
   "slug": "/knowledge/customers/customer-management",
-  "permalink": "/uz/docs/knowledge/customers/customer-management",
+  "permalink": "/docs/knowledge/customers/customer-management",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mijozlarni qo‘shish",
-    "permalink": "/uz/docs/knowledge/customers/customer-add"
+    "title": "Добавление клиентов",
+    "permalink": "/docs/knowledge/customers/customer-add"
   },
   "next": {
     "title": "Удаление и деактивация клиентов",
-    "permalink": "/uz/docs/knowledge/customers/customer-remove"
+    "permalink": "/docs/knowledge/customers/customer-remove"
   }
 }

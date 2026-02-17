@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'a10'),
+    component: ComponentCreator('/uz/docs', '6cf'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'd50'),
+        component: ComponentCreator('/uz/docs', '925'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'bee'),
+            component: ComponentCreator('/uz/docs', 'b32'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -147,31 +147,31 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/customers/customer-management',
-                component: ComponentCreator('/uz/docs/knowledge/customers/customer-management', 'a78'),
+                component: ComponentCreator('/uz/docs/knowledge/customers/customer-management', '140'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/customers/customer-remove',
-                component: ComponentCreator('/uz/docs/knowledge/customers/customer-remove', '591'),
+                component: ComponentCreator('/uz/docs/knowledge/customers/customer-remove', '819'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/customers/orders',
-                component: ComponentCreator('/uz/docs/knowledge/customers/orders', 'c05'),
+                component: ComponentCreator('/uz/docs/knowledge/customers/orders', 'd7b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/customers/returns',
-                component: ComponentCreator('/uz/docs/knowledge/customers/returns', '3b3'),
+                component: ComponentCreator('/uz/docs/knowledge/customers/returns', '026'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/customers/shipments',
-                component: ComponentCreator('/uz/docs/knowledge/customers/shipments', 'c98'),
+                component: ComponentCreator('/uz/docs/knowledge/customers/shipments', 'e1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
