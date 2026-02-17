@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/finance/finance-management",
+  "title": "Moliyani boshqarish",
+  "description": "Kassalardagi pullarni ko‘rish",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/finance/finance-management.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/finance-management",
+  "permalink": "/uz/docs/knowledge/finance/finance-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "finance-management",
+    "title": "Moliyani boshqarish",
+    "sidebar_label": "Moliyani boshqarish",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Balans korektirovkalari",
+    "permalink": "/uz/docs/knowledge/finance/balance-adjustments"
+  },
+  "next": {
+    "title": "Организации",
+    "permalink": "/uz/docs/knowledge/organizations/"
+  }
+}

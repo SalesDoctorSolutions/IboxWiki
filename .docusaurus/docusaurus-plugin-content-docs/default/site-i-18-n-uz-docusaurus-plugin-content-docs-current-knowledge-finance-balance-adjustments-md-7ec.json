@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/finance/balance-adjustments",
+  "title": "Balans korektirovkalari",
+  "description": "Balans tuzatishlari tizimdagi ma’lumotlarni real holatga moslashtirishga yordam beradi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/finance/balance-adjustments.md",
+  "sourceDirName": "knowledge/finance",
+  "slug": "/knowledge/finance/balance-adjustments",
+  "permalink": "/uz/docs/knowledge/finance/balance-adjustments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "balance-adjustments",
+    "title": "Balans korektirovkalari",
+    "sidebar_label": "Balans korektirovkalari",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ish haqlari",
+    "permalink": "/uz/docs/knowledge/finance/salary"
+  },
+  "next": {
+    "title": "Moliyani boshqarish",
+    "permalink": "/uz/docs/knowledge/finance/finance-management"
+  }
+}

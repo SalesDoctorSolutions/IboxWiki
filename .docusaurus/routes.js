@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'a6b'),
+    component: ComponentCreator('/uz/docs', '3b4'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'ae3'),
+        component: ComponentCreator('/uz/docs', '2be'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '7da'),
+            component: ComponentCreator('/uz/docs', '6cb'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -189,31 +189,31 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/finance/balance-adjustments',
-                component: ComponentCreator('/uz/docs/knowledge/finance/balance-adjustments', '5cc'),
+                component: ComponentCreator('/uz/docs/knowledge/finance/balance-adjustments', 'c7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/finance/finance-management',
-                component: ComponentCreator('/uz/docs/knowledge/finance/finance-management', '29c'),
+                component: ComponentCreator('/uz/docs/knowledge/finance/finance-management', '971'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/finance/payments-made',
-                component: ComponentCreator('/uz/docs/knowledge/finance/payments-made', '59b'),
+                component: ComponentCreator('/uz/docs/knowledge/finance/payments-made', '092'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/finance/payments-received',
-                component: ComponentCreator('/uz/docs/knowledge/finance/payments-received', '645'),
+                component: ComponentCreator('/uz/docs/knowledge/finance/payments-received', '651'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/finance/salary',
-                component: ComponentCreator('/uz/docs/knowledge/finance/salary', 'ee5'),
+                component: ComponentCreator('/uz/docs/knowledge/finance/salary', '15f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

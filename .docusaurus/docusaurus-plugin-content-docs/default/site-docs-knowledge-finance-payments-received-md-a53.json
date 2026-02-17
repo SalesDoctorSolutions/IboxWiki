@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/finance/payments-received.md",
   "sourceDirName": "knowledge/finance",
   "slug": "/knowledge/finance/payments-received",
-  "permalink": "/uz/docs/knowledge/finance/payments-received",
+  "permalink": "/docs/knowledge/finance/payments-received",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Ombordan omborga ko‘chirishlar",
-    "permalink": "/uz/docs/knowledge/warehouse/transfers"
+    "title": "Перемещения товаров",
+    "permalink": "/docs/knowledge/warehouse/transfers"
   },
   "next": {
     "title": "Расходы",
-    "permalink": "/uz/docs/knowledge/finance/payments-made"
+    "permalink": "/docs/knowledge/finance/payments-made"
   }
 }
