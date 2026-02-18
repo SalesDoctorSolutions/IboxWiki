@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>iBOX Blog</title>
         <link>https://your-docusaurus-site.example.com/uz/blog</link>
@@ -14,19 +14,6 @@
             <guid>https://your-docusaurus-site.example.com/uz/blog/release-1-0</guid>
             <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="новое">Новое<a href="https://your-docusaurus-site.example.com/uz/blog/release-1-0#%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5" class="hash-link" aria-label="Direct link to Новое" title="Direct link to Новое">​</a></h3>
-<ul>
-<li>Добавлена опция выбирать товары в связанных <strong>Прайс листах</strong></li>
-<li>Введены владельцы данных в <strong>Товарах</strong></li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="улучшения">Улучшения<a href="https://your-docusaurus-site.example.com/uz/blog/release-1-0#%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Direct link to Улучшения" title="Direct link to Улучшения">​</a></h3>
-<ul>
-<li>Ускорена загрузка вкладки «Товары»</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="исправления">Исправления<a href="https://your-docusaurus-site.example.com/uz/blog/release-1-0#%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Direct link to Исправления" title="Direct link to Исправления">​</a></h3>
-<ul>
-<li>Исправлены ошибки в прайс листах</li>
-</ul>]]></content:encoded>
             <category>релиз</category>
             <category>обновление</category>
         </item>
