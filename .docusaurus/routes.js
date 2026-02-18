@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '71c'),
+    component: ComponentCreator('/uz/docs', '0d3'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '37b'),
+        component: ComponentCreator('/uz/docs', 'f73'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '800'),
+            component: ComponentCreator('/uz/docs', 'c37'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -249,43 +249,43 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/cashback',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/cashback', 'd16'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/cashback', '7bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/closing-period',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/closing-period', 'd14'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/closing-period', '2e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/core-elements',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/core-elements', '9e6'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/core-elements', '932'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/default-values',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/default-values', '380'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/default-values', '6e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/print-templates',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/print-templates', 'ef2'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/print-templates', 'ca8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/telegram-employee-bot',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/telegram-employee-bot', '142'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/telegram-employee-bot', '64f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/organization-settings/telegram-order-bot',
-                component: ComponentCreator('/uz/docs/knowledge/organization-settings/telegram-order-bot', '50d'),
+                component: ComponentCreator('/uz/docs/knowledge/organization-settings/telegram-order-bot', 'eba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

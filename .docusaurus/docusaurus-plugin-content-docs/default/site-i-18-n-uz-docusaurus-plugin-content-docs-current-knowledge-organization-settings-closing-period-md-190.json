@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/organization-settings/closing-period",
+  "title": "Davrni yopish",
+  "description": "Davrni yopish — bu hisob davrini yakunlash jarayoni bo‘lib, bunda xodimlar uchun hujjatlarni ko‘rish va tahrirlash imkoniyati cheklanadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/organization-settings/closing-period.md",
+  "sourceDirName": "knowledge/organization-settings",
+  "slug": "/knowledge/organization-settings/closing-period",
+  "permalink": "/uz/docs/knowledge/organization-settings/closing-period",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "closing-period",
+    "title": "Davrni yopish",
+    "sidebar_label": "Davrni yopish",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Asosiy elementlarni qo‘shish",
+    "permalink": "/uz/docs/knowledge/organization-settings/core-elements"
+  },
+  "next": {
+    "title": "Chop etish shablonlari",
+    "permalink": "/uz/docs/knowledge/organization-settings/print-templates"
+  }
+}
