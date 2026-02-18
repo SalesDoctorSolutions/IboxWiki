@@ -47,7 +47,6 @@ Bu holatda ombordan chiqariladigan mahsulot tannarxi **FIFO (First In First Out 
 ### Ta'minotchidan pulni qaytarib olish
 
 Ta'minotchi qaytarish rasmiylashtirilgach, ta'minotchi mahsulotlar uchun pulni qaytarishi kerak.
-
 1. **Ta'minotchiga qaytarishlar** bo‘limiga o‘ting.  
 2. Kerakli hujjat raqamiga bosing.  
 3. Yuqori o‘ng burchakda **Pul qaytarish** tugmasini bosing.  

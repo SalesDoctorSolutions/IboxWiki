@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/admin-panel/product-settings",
+  "title": "Korxonalarda mahsulotlar va narxlar",
+  "description": "Korxonalarga mahsulotlarni qanday qo‘shish mumkin",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/admin-panel/product-settings.md",
+  "sourceDirName": "knowledge/admin-panel",
+  "slug": "/knowledge/admin-panel/product-settings",
+  "permalink": "/uz/docs/knowledge/admin-panel/product-settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "product-settings",
+    "title": "Korxonalarda mahsulotlar va narxlar",
+    "sidebar_label": "Korxonalarda mahsulotlar va narxlar",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Administrator paneli",
+    "permalink": "/uz/docs/knowledge/admin-panel/"
+  },
+  "next": {
+    "title": "Korxonalarda mijozlar va ta'minotchilar",
+    "permalink": "/uz/docs/knowledge/admin-panel/outlet-settings"
+  }
+}

@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '0d3'),
+    component: ComponentCreator('/uz/docs', 'a16'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'f73'),
+        component: ComponentCreator('/uz/docs', '785'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'c37'),
+            component: ComponentCreator('/uz/docs', '7b2'),
             routes: [
               {
                 path: '/uz/docs/editorial-policy',
@@ -117,25 +117,25 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/admin-panel/',
-                component: ComponentCreator('/uz/docs/knowledge/admin-panel/', 'd14'),
+                component: ComponentCreator('/uz/docs/knowledge/admin-panel/', 'dae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/admin-panel/outlet-settings',
-                component: ComponentCreator('/uz/docs/knowledge/admin-panel/outlet-settings', '02b'),
+                component: ComponentCreator('/uz/docs/knowledge/admin-panel/outlet-settings', '554'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/admin-panel/product-settings',
-                component: ComponentCreator('/uz/docs/knowledge/admin-panel/product-settings', '43f'),
+                component: ComponentCreator('/uz/docs/knowledge/admin-panel/product-settings', 'e1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/admin-panel/total-reports',
-                component: ComponentCreator('/uz/docs/knowledge/admin-panel/total-reports', 'edf'),
+                component: ComponentCreator('/uz/docs/knowledge/admin-panel/total-reports', '855'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -219,31 +219,31 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/global-settings/',
-                component: ComponentCreator('/uz/docs/knowledge/global-settings/', '819'),
+                component: ComponentCreator('/uz/docs/knowledge/global-settings/', '0ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/global-settings/currencies',
-                component: ComponentCreator('/uz/docs/knowledge/global-settings/currencies', '502'),
+                component: ComponentCreator('/uz/docs/knowledge/global-settings/currencies', 'd5b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/global-settings/customer-categories',
-                component: ComponentCreator('/uz/docs/knowledge/global-settings/customer-categories', '21a'),
+                component: ComponentCreator('/uz/docs/knowledge/global-settings/customer-categories', '67b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/global-settings/payment-methods',
-                component: ComponentCreator('/uz/docs/knowledge/global-settings/payment-methods', '11b'),
+                component: ComponentCreator('/uz/docs/knowledge/global-settings/payment-methods', '39d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/global-settings/product-categories',
-                component: ComponentCreator('/uz/docs/knowledge/global-settings/product-categories', 'fd1'),
+                component: ComponentCreator('/uz/docs/knowledge/global-settings/product-categories', 'e42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

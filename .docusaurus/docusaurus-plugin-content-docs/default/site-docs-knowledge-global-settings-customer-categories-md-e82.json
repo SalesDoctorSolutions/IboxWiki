@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/global-settings/customer-categories.md",
   "sourceDirName": "knowledge/global-settings",
   "slug": "/knowledge/global-settings/customer-categories",
-  "permalink": "/uz/docs/knowledge/global-settings/customer-categories",
+  "permalink": "/docs/knowledge/global-settings/customer-categories",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Бренды, группы и категории товаров",
-    "permalink": "/uz/docs/knowledge/global-settings/product-categories"
+    "permalink": "/docs/knowledge/global-settings/product-categories"
   },
   "next": {
     "title": "Способы оплаты",
-    "permalink": "/uz/docs/knowledge/global-settings/payment-methods"
+    "permalink": "/docs/knowledge/global-settings/payment-methods"
   }
 }

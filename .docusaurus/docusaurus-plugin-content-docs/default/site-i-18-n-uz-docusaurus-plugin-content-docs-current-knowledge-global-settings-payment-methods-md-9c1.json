@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/global-settings/payment-methods",
+  "title": "To‘lov usullari",
+  "description": "To‘lov usuli — bu mijozlardan to‘lovni qabul qilish usuli (masalan: naqd pul, karta, o‘tkazma).",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/global-settings/payment-methods.md",
+  "sourceDirName": "knowledge/global-settings",
+  "slug": "/knowledge/global-settings/payment-methods",
+  "permalink": "/uz/docs/knowledge/global-settings/payment-methods",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "payment-methods",
+    "title": "To‘lov usullari",
+    "sidebar_label": "To‘lov usullari",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mijozlar kategoriyalari",
+    "permalink": "/uz/docs/knowledge/global-settings/customer-categories"
+  },
+  "next": {
+    "title": "Administrator paneli",
+    "permalink": "/uz/docs/knowledge/admin-panel/"
+  }
+}

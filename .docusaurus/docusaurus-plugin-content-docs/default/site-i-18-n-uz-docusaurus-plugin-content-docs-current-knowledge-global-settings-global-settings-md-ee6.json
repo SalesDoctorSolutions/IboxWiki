@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/global-settings/global-settings",
+  "title": "Umumiy sozlamalar",
+  "description": "Umumiy sozlamalar nima",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/global-settings/global-settings.md",
+  "sourceDirName": "knowledge/global-settings",
+  "slug": "/knowledge/global-settings/",
+  "permalink": "/uz/docs/knowledge/global-settings/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "global-settings",
+    "title": "Umumiy sozlamalar",
+    "sidebar_label": "Umumiy sozlamalar",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keshbek",
+    "permalink": "/uz/docs/knowledge/organization-settings/cashback"
+  },
+  "next": {
+    "title": "Valyutalar",
+    "permalink": "/uz/docs/knowledge/global-settings/currencies"
+  }
+}
