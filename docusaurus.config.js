@@ -153,6 +153,7 @@ const config = {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
+        language: ["en", "ru",], // Set this to your website's default language to improve performance
 
         // For Docs using Chinese, it is recomended to set:
         // language: ["en", "zh"],

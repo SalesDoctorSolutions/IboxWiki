@@ -7,9 +7,9 @@
       5741,
       489
     ],
-    "540": [
+    "772": [
       4809,
-      540
+      772
     ],
     "2237": [
       2237
@@ -38,7 +38,7 @@
       3776
     ],
     "4809": [
-      540,
+      772,
       4809
     ],
     "5741": [
@@ -420,21 +420,21 @@
         }
       ]
     },
-    "540": {
-      "js": [
-        {
-          "file": "assets/js/540.b9e02e8f.js",
-          "hash": "986bf12a84da938a",
-          "publicPath": "/uz/assets/js/540.b9e02e8f.js"
-        }
-      ]
-    },
     "725": {
       "js": [
         {
           "file": "assets/js/5a13baa4.d3deb96b.js",
           "hash": "4a98171528753396",
           "publicPath": "/uz/assets/js/5a13baa4.d3deb96b.js"
+        }
+      ]
+    },
+    "772": {
+      "js": [
+        {
+          "file": "assets/js/772.35a39b82.js",
+          "hash": "67927d284d1011bf",
+          "publicPath": "/uz/assets/js/772.35a39b82.js"
         }
       ]
     },
@@ -981,9 +981,9 @@
     "4809": {
       "js": [
         {
-          "file": "assets/js/4809.fde98e24.js",
-          "hash": "c06d79c8997579e8",
-          "publicPath": "/uz/assets/js/4809.fde98e24.js"
+          "file": "assets/js/4809.60c66768.js",
+          "hash": "d26dc82897fc3385",
+          "publicPath": "/uz/assets/js/4809.60c66768.js"
         }
       ]
     },
@@ -1026,9 +1026,9 @@
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.77c70d4d.js",
-          "hash": "4d2c88e83ee10ae7",
-          "publicPath": "/uz/assets/js/runtime~main.77c70d4d.js"
+          "file": "assets/js/runtime~main.a2eaacfe.js",
+          "hash": "b5aa350feb1f7134",
+          "publicPath": "/uz/assets/js/runtime~main.a2eaacfe.js"
         }
       ]
     },
@@ -1301,9 +1301,9 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.284c8a72.js",
-          "hash": "8c7553e14c2600b7",
-          "publicPath": "/uz/assets/js/main.284c8a72.js"
+          "file": "assets/js/main.b09a7b0e.js",
+          "hash": "7763397267bd3618",
+          "publicPath": "/uz/assets/js/main.b09a7b0e.js"
         }
       ]
     },

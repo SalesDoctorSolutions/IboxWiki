@@ -373,7 +373,11 @@ export default {
     [
       "D:\\Projects\\Wiki\\ibox-docs-preview\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
-        "hashed": true
+        "hashed": true,
+        "language": [
+          "en",
+          "ru"
+        ]
       }
     ]
   ],
