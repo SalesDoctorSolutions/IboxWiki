@@ -13,6 +13,8 @@ Bosh panel — bu iBOX’ning asosiy paneli. Unda biznesning muhim ko‘rsatkich
 
 Bosh panelni ochish uchun ekranning yuqori chap burchagida **Bosh panel** tugmasini bosing.
 
+<img src="/img/quick-start/qs-dashboard-uz.png" alt="Bosh panel" width="600" />
+
 ### Bosh panel nimalarni ko‘rsatadi
 
 - **Sotuvlar**  
