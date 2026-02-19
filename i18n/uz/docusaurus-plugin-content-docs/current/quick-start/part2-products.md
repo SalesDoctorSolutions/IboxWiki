@@ -24,7 +24,7 @@ Avval mahsulotlarni hisobga olish va sotish uchun foydalaniladigan o‘lchov bir
 4. Quyidagilarni kiriting:
     - Nomi  
     - Qisqa nomi  
-<img src="/img/quick-start/um.png" alt="iBOX’da o‘lchov birliklarini qo‘shish" width="600" />
+<img src="/img/quick-start/qs-uom-uz.png" alt="iBOX’da o‘lchov birliklarini qo‘shish" width="600" />
 5. **Saqlash** tugmasini bosing.
 
 ---
@@ -37,7 +37,7 @@ Kategoriyalar mahsulotlar bo‘yicha qulay saralash va hisobotlarni guruhlar kes
 2. Yuqori o‘ng burchakdagi plus tugmasini bosing.
 3. Kategoriya nomini kiriting.
 4. Tartiblash sonini belgilang — qiymat qanchalik katta bo‘lsa, kategoriya ro‘yxatda shunchalik yuqorida ko‘rinadi.
-<img src="/img/quick-start/categories.png" alt="iBOX’da kategoriyalar yaratish" width="600" />
+<img src="/img/quick-start/qs-category-add-uz.png" alt="iBOX’da kategoriyalar yaratish" width="600" />
 5. **Saqlash** tugmasini bosing.
 
 :::tip Maslahat
@@ -54,13 +54,14 @@ Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklas
 1. Excel faylini tayyorlang. Majburiy maydonlar:
     - Mahsulot nomi  
     - Saqlash o‘lchov birligi  
+<img src="/img/quick-start/qs-products-uz.png" alt="Excel da mahsulotlar ro'yhati" width="600" />
 2. **Mahsulotlar** bo‘limiga o‘ting.
 3. Yuqori o‘ng burchakdagi uch nuqta belgisi ustiga bosing.
 4. **Import** bandini tanlang.
-<img src="/img/quick-start/productsPage.png" alt="iBOX’da mahsulotlar importini boshlash" width="600" />
+<img src="/img/quick-start/qs-import-1-uz.png" alt="iBOX’da mahsulotlar importini boshlash" width="600" />
 5. Faylni import oynasiga tortib keling yoki kompyuterdan tanlang.
 6. Fayldagi ustunlarni tizim maydonlari bilan moslang.
-<img src="/img/quick-start/productimportfields.png" alt="iBOX’da mahsulotlarni import qilish" width="600" />
+<img src="/img/quick-start/qs-import-2-uz.png" alt="iBOX’da mahsulotlarni import qilish" width="600" />
 7. **Importni boshlash** tugmasini bosing.
 
 ### Mahsulotlarni qo‘lda qo‘shish
@@ -74,7 +75,7 @@ Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklas
     - Shtrix-kod yorlig‘ini oching  
     - Uch nuqta belgisi ustiga bosing  
     - Shtrix-kod yaratishni tanlang  
-<img src="/img/quick-start/productcreate.png" alt="iBOX’da mahsulot yaratish" width="600" />
+<img src="/img/quick-start/qs-product-add-uz.png" alt="iBOX’da mahsulot yaratish" width="600" />
 4. **Boshqa** yorlig‘ida zarurat bo‘lsa quyidagilarni kiriting:
     - Brend  
     - Guruh  
@@ -98,7 +99,7 @@ Prays-listlar turli narxlar bilan ishlash imkonini beradi — masalan, turli mij
     - Sotuvlarda  
     - Xaridlarda  
 5. Mahsulot narxlarini kiriting va valyutani tanlang.
-<img src="/img/quick-start/pricelists.png" alt="iBOX’da prays-list yaratish" width="600" />
+<img src="/img/quick-start/qs-pricelist-uz.png" alt="iBOX’da prays-list yaratish" width="600" />
 6. **Saqlash** tugmasini bosing.
 
 ---
@@ -116,7 +117,7 @@ Ishni boshlashdan oldin omborlardagi haqiqiy mahsulot qoldiqlarini kiritish muhi
    - Mahsulotlarni tanlash orqali  
    - Yoki Excel’dan yuklash orqali  
 5. Prays-listni tanlang yoki kirim narxini qo‘lda kiriting.
-<img src="/img/quick-start/stockAdj.png" alt="iBOX’da qoldiqlarni tuzatish" width="600" />
+<img src="/img/quick-start/qs-stock-adj-uz.png" alt="iBOX’da qoldiqlarni tuzatish" width="600" />
 6. **Saqlash** tugmasini bosing.
 
 :::tip Maslahat

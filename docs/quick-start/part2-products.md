@@ -24,7 +24,7 @@ sidebar_position: 3
 4. Укажите:
     - Название единицы  
     - Короткое название  
-<img src="/img/quick-start/um.png" alt="Добавление единиц измерения в iBOX" width="600" />
+<img src="/img/quick-start/qs-uom.png" alt="Добавление единиц измерения в iBOX" width="600" />
 5. Нажмите **Сохранить**.
 
 ---
@@ -37,7 +37,7 @@ sidebar_position: 3
 2. Нажмите на плюс в правом верхнем углу.
 3. Укажите название категории.
 4. Задайте сортировочный номер — чем больше значение, тем выше категория отображается в списке.
-<img src="/img/quick-start/categories.png" alt="Создание категорий в iBOX" width="600" />
+<img src="/img/quick-start/qs-category-add.png" alt="Создание категорий в iBOX" width="600" />
 5. Нажмите **Сохранить**.
 
 :::tip **Совет**  
@@ -54,13 +54,14 @@ sidebar_position: 3
 1. Подготовьте файл Excel. Обязательные поля:
     - Название товара  
     - Единица хранения  
+<img src="/img/quick-start/qs-products.png" alt="Товары в Excel" width="600" />
 2. Перейдите в раздел **Товары**.
 3. Нажмите на три точки в правом верхнем углу.
 4. Выберите **Импорт**.
-<img src="/img/quick-start/productsPage.png" alt="Начало импорта товаров в iBOX" width="600" />
+<img src="/img/quick-start/qs-import-1.png" alt="Начало импорта товаров в iBOX" width="600" />
 5. Перетащите файл в окно импорта или выберите его на компьютере.
 6. Сопоставьте столбцы из файла с полями системы.
-<img src="/img/quick-start/productimportfields.png" alt="Импорт товаров в iBOX" width="600" />
+<img src="/img/quick-start/qs-import-2.png" alt="Импорт товаров в iBOX" width="600" />
 7. Нажмите **Начать импорт**.
 
 
@@ -75,7 +76,7 @@ sidebar_position: 3
     - Откройте вкладку штрихкод
     - Нажмите на иконку с тремя точками  
     - Выберите генерацию штрихкода  
-<img src="/img/quick-start/productcreate.png" alt="Создание товаров в iBOX" width="600" />
+<img src="/img/quick-start/qs-product-add.png" alt="Создание товаров в iBOX" width="600" />
 4. Во вкладке **Прочее** при необходимости укажите:
     - Бренд  
     - Группу    
@@ -99,7 +100,7 @@ sidebar_position: 3
     - Продажи  
     - Закупки  
 5. Заполните цены товаров и укажите валюту.
-<img src="/img/quick-start/pricelists.png" alt="Создание прайс листа в iBOX" width="600" />
+<img src="/img/quick-start/qs-pricelist.png" alt="Создание прайс листа в iBOX" width="600" />
 6. Нажмите **Сохранить**.
 
 ---
@@ -117,7 +118,7 @@ sidebar_position: 3
    - Через подбор товаров  
    - Или загрузите список из Excel  
 5. Выберите прайс-лист или укажите приходную цену вручную.
-<img src="/img/quick-start/stockAdj.png" alt="Корректировка остатков в iBOX" width="600" />
+<img src="/img/quick-start/qs-stock-adj.png" alt="Корректировка остатков в iBOX" width="600" />
 6. Нажмите **Сохранить**.
 
 :::tip **Совет**  
