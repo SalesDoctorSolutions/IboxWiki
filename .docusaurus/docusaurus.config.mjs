@@ -369,6 +369,14 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "themes": [
+    [
+      "D:\\Projects\\Wiki\\ibox-docs-preview\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
@@ -377,7 +385,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

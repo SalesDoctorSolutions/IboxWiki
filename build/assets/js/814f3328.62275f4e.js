@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_temp=globalThis.webpackChunkdocusaurus_temp||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 iBOX","permalink":"/blog/release-1-0","unlisted":false,"date":"2026-01-28T00:00:00.000Z"}]}')}}]);
