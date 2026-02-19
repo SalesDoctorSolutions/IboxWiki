@@ -27,6 +27,7 @@ Xarid — bu siz ta'minotchidan mahsulot sotib olib, o‘zaro hisob-kitoblarni y
 5. Mahsulotlar kirim qilinadigan omborni tanlang.
 6. Mahsulotlarni qo‘shing.
 7. Prays-listni tanlang yoki xarid narxini qo‘lda kiriting.
+<img src="/img/quick-start/qs-purchase-uz.png" alt="Xarid" width="600" />
 8. **Saqlash** tugmasini bosing.
 
 :::tip Maslahat
@@ -64,6 +65,7 @@ Mahsulotlar omborga kelib tushgach, ularni mijozga sotishingiz mumkin.
    - Mahsulot tanlash orqali  
    - Yoki Excel’dan yuklash orqali  
 7. Prays-listni tanlang yoki narxlarni qo‘lda kiriting.
+<img src="/img/quick-start/qs-shipment-uz.png" alt="Sotuv" width="600" />
 8. **Saqlash** tugmasini bosing.
 
 > **Ogohlantirish**  
@@ -83,7 +85,9 @@ Agar mijoz Sotuvdan so‘ng darhol to‘lov qilsa, ushbu usul mos keladi.
 
 1. **Sotuvlar** bo‘limiga o‘ting.
 2. Sotuv raqamiga bosing.
+<img src="/img/quick-start/qs-payment-after-shipment-uz.png" alt="To'lov" width="600" />
 3. Yuqori o‘ng burchakdagi **To‘lash** tugmasini bosing.
+<img src="/img/quick-start/qs-payment-after-shipment-2-uz.png" alt="To'lov" width="600" />
 4. Quyidagilarni kiriting:
    - Summa  
    - Valyuta  
@@ -99,11 +103,13 @@ Oldindan to‘lov yoki eski qarzlarni yopish uchun foydalaniladi.
 1. **Pullar** → **Kirimlar** bo‘limiga o‘ting.
 2. Yuqori o‘ng burchakdagi plus tugmasini bosing.
 3. **Mijozdan to‘lov** bandini tanlang.
+<img src="/img/quick-start/qs-payment-received-uz.png" alt="To'lov" width="600" />
 4. Mijozni tanlang.
 5. Quyidagilarni to‘ldiring:
    - Summa  
    - Valyuta  
    - Kassa  
+<img src="/img/quick-start/qs-payment-form-uz.png" alt="To'lov" width="600" />
 6. **Saqlash** tugmasini bosing.
 
 ---
@@ -115,9 +121,11 @@ Sotuvni yaratish jarayonida darhol to‘lov qabul qilishingiz mumkin.
 :::warning Muhim
 Buning uchun **Sozlamalar** → **Funksional** bo‘limida **To‘lovni hujjatlar bo‘yicha taqsimlash** funksiyasini yoqing.
 :::
+<img src="/img/quick-start/qs-payment-by-shipment-uz.png" alt="Funksional" width="600" />
 
 1. Sotuv ma’lumotlarini to‘ldiring — mijoz, mahsulotlar, narxlar.
 2. Sahifani pastga aylantirib, **To‘lov qo‘shish** tugmasini bosing.
+<img src="/img/quick-start/qs-payment-within-shipment-uz.png" alt="To'lov" width="600" />
 3. Quyidagilarni kiriting:
    - Summa  
    - Valyuta  
@@ -139,7 +147,9 @@ Muayyan xarid uchun to‘lov qilishda foydalaniladi.
 
 1. **Xaridlar** bo‘limiga o‘ting.
 2. Xarid raqamiga bosing.
+<img src="/img/quick-start/qs-payment-after-shipment-uz.png" alt="To'lov" width="600" />
 3. Yuqori o‘ng burchakdagi **To‘lash** tugmasini bosing.
+<img src="/img/quick-start/qs-payment-after-shipment-2-uz.png" alt="To'lov" width="600" />
 4. Quyidagilarni kiriting:
    - Summa  
    - Valyuta  
@@ -154,10 +164,12 @@ Eski qarzlarni yopish va ta'minotchilarga oldindan to‘lov qilish uchun mos.
 
 1. **Pullar** → **Chiqimlar** bo‘limiga o‘ting.
 2. Yuqori o‘ng burchakdagi plus tugmasini bosing.
+<img src="/img/quick-start/qs-payment-made-uz.png" alt="To'lov" width="600" />
 3. **Ta'minotchiga to‘lov** bandini tanlang.
 4. Ta'minotchini tanlang.
 5. Quyidagilarni to‘ldiring:
    - Summa  
    - Valyuta  
    - Kassa  
+<img src="/img/quick-start/qs-payment-made-form-uz.png" alt="To'lov" width="600" />
 6. **Saqlash** tugmasini bosing.
