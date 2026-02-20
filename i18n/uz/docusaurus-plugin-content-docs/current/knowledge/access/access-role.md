@@ -27,17 +27,19 @@ Masalan:
 2. Yangi rol yaratish uchun ➕ tugmasini bosing. Ma’lumot kiritish oynasi ochiladi  
 3. Rol haqidagi ma’lumotlarni kiriting:
 
-- Nomi: masalan, kassir yoki savdo menejeri  
-- Tavsifi: vazifalar va huquqlarning qisqa izohi  
+    - Nomi: masalan, kassir yoki savdo menejeri  
+    - Tavsifi: vazifalar va huquqlarning qisqa izohi  
 
 4. Kirish huquqlarini belgilang:
-- Xodim qaysi operatsiyalarga kirishi mumkinligini tanlang (masalan, *Xarid buyurtmalari*)
+    - Xodim qaysi operatsiyalarga kirishi mumkinligini tanlang (masalan, *Xarid buyurtmalari*)
 
 5. Xodim nima qila olishini belgilang:
-- Ma’lumotlarni ko‘rish  
-- Hujjatlar yaratish  
-- Ma’lumotlarni tahrirlash  
-- Hujjatlarni o‘chirish  
+    - Ma’lumotlarni ko‘rish  
+    - Hujjatlar yaratish  
+    - Ma’lumotlarni tahrirlash  
+    - Hujjatlarni o‘chirish  
+
+<img src="/img/knowledge/access/roles-add-uz.png" alt="iBOX da rollar" width="600" />
 
 6. **Saqlash** tugmasini bosing  
 
