@@ -107,30 +107,22 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-a16": {
+  "/uz/docs-d06": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-785": {
+  "/uz/docs-0ae": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-7b2": {
+  "/uz/docs-6ea": {
     "__comp": "a94703ab"
-  },
-  "/uz/docs/editorial-policy-71f": {
-    "__comp": "17896441",
-    "content": "d52a043c"
   },
   "/uz/docs/faq/-0e2": {
     "__comp": "17896441",
     "content": "9e4de7c3"
-  },
-  "/uz/docs/intro-381": {
-    "__comp": "17896441",
-    "content": "93bad04b"
   },
   "/uz/docs/knowledge/-008": {
     "__comp": "17896441",
@@ -352,10 +344,6 @@
     "__comp": "17896441",
     "content": "f77a9dc6"
   },
-  "/uz/docs/partners/partners-guide-545": {
-    "__comp": "17896441",
-    "content": "0f0cb7b4"
-  },
   "/uz/docs/quick-start/-d41": {
     "__comp": "17896441",
     "content": "ee3ce483"
@@ -379,10 +367,6 @@
   "/uz/docs/quick-start/part5-reports-67a": {
     "__comp": "17896441",
     "content": "96b3ec23"
-  },
-  "/uz/docs/wiki-style-867": {
-    "__comp": "17896441",
-    "content": "d13ea7de"
   },
   "/uz/-d50": {
     "__comp": "c4f5d8e4",

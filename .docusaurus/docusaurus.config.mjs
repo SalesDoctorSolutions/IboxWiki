@@ -117,7 +117,7 @@ export default {
           "items": [
             {
               "label": "Batafsil Ma'lumot",
-              "to": "/docs/intro"
+              "to": "/docs/knowledge"
             }
           ]
         },

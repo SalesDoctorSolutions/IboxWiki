@@ -11,16 +11,8 @@
           "mainDocId": "overview/product-overview",
           "docs": [
             {
-              "id": "editorial-policy",
-              "path": "/uz/docs/editorial-policy"
-            },
-            {
               "id": "faq/faq",
               "path": "/uz/docs/faq/"
-            },
-            {
-              "id": "intro",
-              "path": "/uz/docs/intro"
             },
             {
               "id": "knowledge/access/access",
@@ -298,10 +290,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "partners/partners-guide",
-              "path": "/uz/docs/partners/partners-guide"
-            },
-            {
               "id": "quick-start/part1-setup",
               "path": "/uz/docs/quick-start/part1-setup",
               "sidebar": "tutorialSidebar"
@@ -330,10 +318,6 @@
               "id": "quick-start/quick-start",
               "path": "/uz/docs/quick-start/",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "wiki-style",
-              "path": "/uz/docs/wiki-style"
             }
           ],
           "draftIds": [],

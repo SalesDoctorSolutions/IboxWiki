@@ -59,29 +59,19 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'a16'),
+    component: ComponentCreator('/uz/docs', 'd06'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '785'),
+        component: ComponentCreator('/uz/docs', '0ae'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '7b2'),
+            component: ComponentCreator('/uz/docs', '6ea'),
             routes: [
-              {
-                path: '/uz/docs/editorial-policy',
-                component: ComponentCreator('/uz/docs/editorial-policy', '71f'),
-                exact: true
-              },
               {
                 path: '/uz/docs/faq/',
                 component: ComponentCreator('/uz/docs/faq/', '0e2'),
-                exact: true
-              },
-              {
-                path: '/uz/docs/intro',
-                component: ComponentCreator('/uz/docs/intro', '381'),
                 exact: true
               },
               {
@@ -415,11 +405,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/partners/partners-guide',
-                component: ComponentCreator('/uz/docs/partners/partners-guide', '545'),
-                exact: true
-              },
-              {
                 path: '/uz/docs/quick-start/',
                 component: ComponentCreator('/uz/docs/quick-start/', 'd41'),
                 exact: true,
@@ -454,11 +439,6 @@ export default [
                 component: ComponentCreator('/uz/docs/quick-start/part5-reports', '67a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/uz/docs/wiki-style',
-                component: ComponentCreator('/uz/docs/wiki-style', '867'),
-                exact: true
               }
             ]
           }
