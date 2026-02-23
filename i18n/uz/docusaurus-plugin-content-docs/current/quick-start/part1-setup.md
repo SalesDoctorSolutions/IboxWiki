@@ -16,7 +16,6 @@ Avval tizimdan kim sifatida va qanday foydalanishingizni ko‘rsatamiz.
 <img src="/img/quick-start/qs-profile-uz.png" alt="Profilni to‘ldirish" width="600" />
 3. Quyidagi maydonlarni to‘ldiring:
     - Ism  
-    - Login  
     - Tizim tili: rus, o‘zbek, ingliz, arab yoki turk  
     - Telefon raqami  
     - Elektron pochta  
@@ -123,7 +122,6 @@ Tizimda ishlaydigan xodimlarni qo‘shing.
 3. Xodim tizimga kira olishi uchun:
     - **Tizimga kirishga ruxsat berish** bandini belgilang  
     - Kerakli huquqlarga ega rolni biriktiring  
-    - Login kiriting  
 <img src="/img/quick-start/qs-employee-add-uz.png" alt="iBOX’da xodim qo‘shish" width="600" />
 4. **Saqlash va taklif yuborish** tugmasini bosing.
 
