@@ -7,7 +7,7 @@ sidebar_position: 4
 
 # Chop etish shablonlari
 
-iBOX tizimida yuk hujjatlari (nakladnoy) uchun o‘zingizga mos chop etish shablonlarini yaratish va ishlatish imkoniyati mavjud.
+iBox tizimida yuk hujjatlari (nakladnoy) uchun o‘zingizga mos chop etish shablonlarini yaratish va ishlatish imkoniyati mavjud.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 id: access
 title: Kirish huquqlarini sozlash
-sidebar_label: iBOX’da kirish huquqi
+sidebar_label: iBox’da kirish huquqi
 sidebar_position: 1
 ---
 
-## iBOX’da kirish huquqlarini sozlash
+## iBox’da kirish huquqlarini sozlash
 
 Xodimlarning tizimga kirishi rollar orqali boshqariladi. Avval rol yarating va sozlang, so‘ng xodimlarni qo‘shib, ularga kerakli rollarni biriktiring.
 

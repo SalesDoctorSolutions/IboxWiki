@@ -1,7 +1,7 @@
 ---
 id: data-security
 title: Безопасность данных
-sidebar_label: Где хранятся данные в iBOX
+sidebar_label: Где хранятся данные в iBox
 sidebar_position: 1
 ---
 # Безопасность данных

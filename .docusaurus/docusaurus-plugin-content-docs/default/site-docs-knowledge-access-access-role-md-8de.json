@@ -14,12 +14,12 @@
   "frontMatter": {
     "id": "access-role",
     "title": "Настройка ролей",
-    "sidebar_label": "Как настроить роли в iBOX",
+    "sidebar_label": "Как настроить роли в iBox",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Доступ в iBOX",
+    "title": "Доступ в iBox",
     "permalink": "/docs/knowledge/access/"
   },
   "next": {

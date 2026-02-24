@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access",
   "title": "Kirish huquqlarini sozlash",
-  "description": "iBOX’da kirish huquqlarini sozlash",
+  "description": "iBox’da kirish huquqlarini sozlash",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "id": "access",
     "title": "Kirish huquqlarini sozlash",
-    "sidebar_label": "iBOX’da kirish huquqi",
+    "sidebar_label": "iBox’da kirish huquqi",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/knowledge/data/data-access"
   },
   "next": {
-    "title": "iBOX’da rollarni qanday sozlash",
+    "title": "iBox’da rollarni qanday sozlash",
     "permalink": "/uz/docs/knowledge/access/access-role"
   }
 }

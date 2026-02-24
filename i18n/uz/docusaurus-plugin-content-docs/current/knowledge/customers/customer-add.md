@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Mijozlarni qo‘shish
 
-iBOX tizimida mijozlarni qo‘lda qo‘shishingiz, Excel dan yuklashingiz yoki boshqa korxonadan biriktirishingiz mumkin.
+iBox tizimida mijozlarni qo‘lda qo‘shishingiz, Excel dan yuklashingiz yoki boshqa korxonadan biriktirishingiz mumkin.
 
 ## Mijozni qo‘lda qanday qo‘shish mumkin
 

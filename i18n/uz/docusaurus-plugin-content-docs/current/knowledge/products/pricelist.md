@@ -9,7 +9,7 @@ sidebar_position: 4
 
 Prays-listlar turli narxlar bilan ishlash imkonini beradi — masalan, turli mijozlar, savdo kanallari yoki amallar turlari uchun.
 
-iBOX tizimida prays-listlar narx siyosatini moslashuvchan boshqarishga yordam beradi.
+iBox tizimida prays-listlar narx siyosatini moslashuvchan boshqarishga yordam beradi.
 
 ## Prays-listni qanday qo‘shish mumkin
 

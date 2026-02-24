@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/barcode",
   "title": "Shtrixkodlar",
-  "description": "Mahsulotni yaratish yoki tahrirlash jarayonida iBOX tizimida shtrixkodni kiritishingiz yoki avtomatik yaratishingiz mumkin.",
+  "description": "Mahsulotni yaratish yoki tahrirlash jarayonida iBox tizimida shtrixkodni kiritishingiz yoki avtomatik yaratishingiz mumkin.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/barcode.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/barcode",

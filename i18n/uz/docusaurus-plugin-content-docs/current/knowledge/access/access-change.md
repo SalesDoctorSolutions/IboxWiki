@@ -7,7 +7,7 @@ sidebar_position: 5
 
 # Xodimga kirish huquqini qanday cheklash kerak
 
-iBOX’da xodim kirishini cheklashning uchta usuli mavjud:
+iBox’da xodim kirishini cheklashning uchta usuli mavjud:
 
 - **Profilni o‘chirish** — agar xodim xato qo‘shilgan bo‘lsa  
 - **Xodimni faolligini o'chirish** — agar u ishdan bo‘shatilgan bo‘lsa  

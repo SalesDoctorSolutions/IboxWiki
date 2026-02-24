@@ -7,7 +7,7 @@ sidebar_position: 2
 
 # Mijozlarni boshqarish
 
-iBOX tizimida siz mijoz ma’lumotlarini tahrirlashingiz, o‘zaro hisob-kitoblarni tekshirishingiz, qarzdorlarni nazorat qilishingiz va hisobotlarni yuklab olishingiz mumkin.
+iBox tizimida siz mijoz ma’lumotlarini tahrirlashingiz, o‘zaro hisob-kitoblarni tekshirishingiz, qarzdorlarni nazorat qilishingiz va hisobotlarni yuklab olishingiz mumkin.
 
 ---
 

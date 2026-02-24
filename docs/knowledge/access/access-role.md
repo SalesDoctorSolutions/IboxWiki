@@ -1,7 +1,7 @@
 ---
 id: access-role
 title: Настройка ролей
-sidebar_label: Как настроить роли в iBOX
+sidebar_label: Как настроить роли в iBox
 sidebar_position: 2
 ---
 # Как настроить роли в iBox
@@ -37,7 +37,7 @@ sidebar_position: 2
     - Редактировать данные
     - Удалять документы
 
-<img src="/img/knowledge/access/roles-add.png" alt="Роли в iBOX" width="600" />
+<img src="/img/knowledge/access/roles-add.png" alt="Роли в iBox" width="600" />
 
 6. Нажмите **Сохранить**
 

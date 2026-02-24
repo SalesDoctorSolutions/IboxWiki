@@ -1,7 +1,7 @@
 {
   "id": "knowledge/organization-settings/cashback",
   "title": "Кешбек",
-  "description": "Как работает кешбек-система в iBOX",
+  "description": "Как работает кешбек-система в iBox",
   "source": "@site/docs/knowledge/organization-settings/cashback.md",
   "sourceDirName": "knowledge/organization-settings",
   "slug": "/knowledge/organization-settings/cashback",

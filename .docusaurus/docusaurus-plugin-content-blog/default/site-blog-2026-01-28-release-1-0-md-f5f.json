@@ -2,7 +2,7 @@
   "permalink": "/uz/blog/release-1-0",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2026-01-28-release-1-0.md",
   "source": "@site/blog/2026-01-28-release-1-0.md",
-  "title": "Обновление iBOX",
+  "title": "Обновление iBox",
   "description": "Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах",
   "date": "2026-01-28T00:00:00.000Z",
   "tags": [
@@ -21,7 +21,7 @@
   "hasTruncateMarker": false,
   "authors": [],
   "frontMatter": {
-    "title": "Обновление iBOX",
+    "title": "Обновление iBox",
     "description": "Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах",
     "slug": "release-1-0",
     "tags": [

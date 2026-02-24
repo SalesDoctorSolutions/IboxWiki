@@ -9,7 +9,7 @@ sidebar_position: 4
 
 Sotuvlar mahsulotning mijozga topshirilganini qayd etadi — aynan shu bosqichdan debitorlik qarzini nazorat qilish va to‘lovlar bilan ishlash boshlanadi.
 
-iBOX tizimida sotuvlar savdo jarayonining asosiy hujjatlaridan biridir.
+iBox tizimida sotuvlar savdo jarayonining asosiy hujjatlaridan biridir.
 
 ---
 

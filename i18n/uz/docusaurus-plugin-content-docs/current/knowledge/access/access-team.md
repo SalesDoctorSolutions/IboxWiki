@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # Xodimlarni qo‘shish
 
-iBOX’da tizimda ishlaydigan xodimlarni ham, faqat hisob-kitob uchun kerak bo‘lgan xodimlarni ham qo‘shish mumkin. Amal tartibi xodim tizimga kiradimi yoki yo‘qmi — shunga bog‘liq.
+iBox’da tizimda ishlaydigan xodimlarni ham, faqat hisob-kitob uchun kerak bo‘lgan xodimlarni ham qo‘shish mumkin. Amal tartibi xodim tizimga kiradimi yoki yo‘qmi — shunga bog‘liq.
 
 ---
 
@@ -28,7 +28,7 @@ iBOX’da tizimda ishlaydigan xodimlarni ham, faqat hisob-kitob uchun kerak bo�
 Xodim telefon raqami yoki elektron pochta orqali parol o‘rnatish havolasini oladi va tizimga kira oladi.
 
 :::tip Maslahat  
-Agar xodim POS tizimi yoki iBOX mobil ilovasi orqali ishlasa, unga **Ish joylari** bo‘limida ish joyi yarating.
+Agar xodim POS tizimi yoki iBox mobil ilovasi orqali ishlasa, unga **Ish joylari** bo‘limida ish joyi yarating.
 :::
 
 ---

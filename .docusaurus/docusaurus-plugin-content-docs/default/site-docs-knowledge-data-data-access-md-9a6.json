@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Где хранятся данные в iBOX",
+    "title": "Где хранятся данные в iBox",
     "permalink": "/docs/knowledge/data/data-security"
   },
   "next": {
-    "title": "Доступ в iBOX",
+    "title": "Доступ в iBox",
     "permalink": "/docs/knowledge/access/"
   }
 }

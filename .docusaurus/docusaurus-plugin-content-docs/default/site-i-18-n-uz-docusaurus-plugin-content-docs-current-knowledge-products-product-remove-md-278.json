@@ -1,7 +1,7 @@
 {
   "id": "knowledge/products/product-remove",
   "title": "Mahsulotlarni o‘chirish va faolsizlantirish",
-  "description": "iBOX tizimida mahsulotni ish jarayonidan chiqarishning aosiy ikki yo‘li mavjud: uni o‘chirish yoki faolligini o'chirish.",
+  "description": "iBox tizimida mahsulotni ish jarayonidan chiqarishning aosiy ikki yo‘li mavjud: uni o‘chirish yoki faolligini o'chirish.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/product-remove.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/product-remove",

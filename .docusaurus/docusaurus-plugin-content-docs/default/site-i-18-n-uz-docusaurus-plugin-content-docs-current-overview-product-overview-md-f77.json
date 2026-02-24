@@ -14,7 +14,7 @@
   "frontMatter": {
     "id": "product-overview",
     "title": "Mahsulot sharhi",
-    "sidebar_label": "iBOX tizimi haqida",
+    "sidebar_label": "iBox tizimi haqida",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",

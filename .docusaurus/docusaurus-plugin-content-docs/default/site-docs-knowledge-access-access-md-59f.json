@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access",
   "title": "Настройка доступа",
-  "description": "Настройки доступа в iBOX",
+  "description": "Настройки доступа в iBox",
   "source": "@site/docs/knowledge/access/access.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "id": "access",
     "title": "Настройка доступа",
-    "sidebar_label": "Доступ в iBOX",
+    "sidebar_label": "Доступ в iBox",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/docs/knowledge/data/data-access"
   },
   "next": {
-    "title": "Как настроить роли в iBOX",
+    "title": "Как настроить роли в iBox",
     "permalink": "/docs/knowledge/access/access-role"
   }
 }

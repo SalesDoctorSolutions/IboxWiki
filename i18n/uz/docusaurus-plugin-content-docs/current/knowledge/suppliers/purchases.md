@@ -7,7 +7,7 @@ sidebar_position: 4
 
 # Xaridlar
 
-iBOX tizimida **xarid** ta'minotchidan tovar qabul qilinganini rasmiylashtiradi — aynan shu hujjatdan kreditorlik qarzdorligini nazorat qilish va to‘lovlar bilan ishlash boshlanadi.
+iBox tizimida **xarid** ta'minotchidan tovar qabul qilinganini rasmiylashtiradi — aynan shu hujjatdan kreditorlik qarzdorligini nazorat qilish va to‘lovlar bilan ishlash boshlanadi.
 
 ## Xaridni rasmiylashtirish
 

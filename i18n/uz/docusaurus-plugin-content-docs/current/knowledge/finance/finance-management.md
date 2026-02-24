@@ -23,7 +23,7 @@ Har bir valyuta bo‘yicha kassalardagi pul holatini batafsil ko‘rish uchun:
 
 ## Kassadan kassaga o'tkazmalar
 
-iBOX’da kassadan kassaga o'tkazmalar bir kassadan boshqasiga mablag‘ ko'chirishni hisobga olish uchun ishlatiladi.
+iBox’da kassadan kassaga o'tkazmalar bir kassadan boshqasiga mablag‘ ko'chirishni hisobga olish uchun ishlatiladi.
 
 ### Kassadan kassaga o'tkazmalar qanday rasmiylashtirish
 
@@ -43,7 +43,7 @@ iBOX’da kassadan kassaga o'tkazmalar bir kassadan boshqasiga mablag‘ ko'chir
 
 ## Valyuta konvertatsiyasi
 
-iBOX’da har bir valyuta kassada alohida hisoblanadi.
+iBox’da har bir valyuta kassada alohida hisoblanadi.
 
 Agar kassangizda valyuta almashtirgan bo‘lsangiz va buni tizimda aks ettirmoqchi bo‘lsangiz, **Konvertatsiyalar** funksiyasidan foydalaning.
 

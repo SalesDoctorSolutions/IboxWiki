@@ -9,7 +9,7 @@ sidebar_position: 6
 
 ## Biznes holatini tez baholash: Bosh panel
 
-Bosh panel — bu iBOX’ning asosiy paneli. Unda biznesning muhim ko‘rsatkichlari raqamlar va grafik ko‘rinishida jamlangan. Bosh panel bir necha daqiqa ichida joriy holatni tushunishga va tezkor qarorlar qabul qilishga yordam beradi.
+Bosh panel — bu iBox’ning asosiy paneli. Unda biznesning muhim ko‘rsatkichlari raqamlar va grafik ko‘rinishida jamlangan. Bosh panel bir necha daqiqa ichida joriy holatni tushunishga va tezkor qarorlar qabul qilishga yordam beradi.
 
 Bosh panelni ochish uchun ekranning yuqori chap burchagida **Bosh panel** tugmasini bosing.
 

@@ -14,12 +14,12 @@
   "frontMatter": {
     "id": "access-role",
     "title": "Rollarni sozlash",
-    "sidebar_label": "iBOX’da rollarni qanday sozlash",
+    "sidebar_label": "iBox’da rollarni qanday sozlash",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iBOX’da kirish huquqi",
+    "title": "iBox’da kirish huquqi",
     "permalink": "/uz/docs/knowledge/access/"
   },
   "next": {

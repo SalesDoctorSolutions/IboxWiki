@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-change",
   "title": "Kirish huquqini cheklash",
-  "description": "iBOX’da xodim kirishini cheklashning uchta usuli mavjud:",
+  "description": "iBox’da xodim kirishini cheklashning uchta usuli mavjud:",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/access/access-change.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-change",

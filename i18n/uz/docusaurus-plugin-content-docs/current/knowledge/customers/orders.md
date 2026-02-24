@@ -9,7 +9,7 @@ sidebar_position: 5
 
 Buyurtma mahsulotni sotuvgacha bo‘lgan davrda **zaxiralash** va sotuvni rejalashtirishda hisobga olish imkonini beradi.
 
-iBOX tizimida buyurtma — bu rejalashtirish hujjati bo‘lib, u sotuvdan oldin jarayonni nazorat qilishga yordam beradi.
+iBox tizimida buyurtma — bu rejalashtirish hujjati bo‘lib, u sotuvdan oldin jarayonni nazorat qilishga yordam beradi.
 
 ---
 

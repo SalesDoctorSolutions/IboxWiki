@@ -7,7 +7,7 @@ sidebar_position: 5
 
 # Xarid buyurtmalar
 
-iBOX tizimida **xarid buyurtma** mahsulotlarni sotib olish niyatini oldindan rasmiylashtirish va kelajakdagi kirimlarni nazorat qilishga yordam beradi.
+iBox tizimida **xarid buyurtma** mahsulotlarni sotib olish niyatini oldindan rasmiylashtirish va kelajakdagi kirimlarni nazorat qilishga yordam beradi.
 
 ### Qachon xarid buyurtma ishlatiladi
 - Import bilan ishlaganda.

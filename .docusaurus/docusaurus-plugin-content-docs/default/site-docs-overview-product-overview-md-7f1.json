@@ -14,7 +14,7 @@
   "frontMatter": {
     "id": "product-overview",
     "title": "Обзор продукта",
-    "sidebar_label": "О системе iBOX",
+    "sidebar_label": "О системе iBox",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",

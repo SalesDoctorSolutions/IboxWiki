@@ -1,7 +1,7 @@
 {
   "id": "knowledge/data/data-security",
   "title": "Ma’lumotlar xavfsizligi",
-  "description": "Barcha ma’lumotlar iBOX’da bulutli muhitda saqlanadi va qayta ishlanadi — Germaniyadagi DigitalOcean serverlarida.",
+  "description": "Barcha ma’lumotlar iBox’da bulutli muhitda saqlanadi va qayta ishlanadi — Germaniyadagi DigitalOcean serverlarida.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/data/data-security.md",
   "sourceDirName": "knowledge/data",
   "slug": "/knowledge/data/data-security",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "id": "data-security",
     "title": "Ma’lumotlar xavfsizligi",
-    "sidebar_label": "iBOX’da ma’lumotlar qayerda saqlanadi",
+    "sidebar_label": "iBox’da ma’lumotlar qayerda saqlanadi",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",

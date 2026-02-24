@@ -212,9 +212,9 @@ sidebar_label: "Tahririyat siyosati"
 
 Пишите название компании правильно
 
-❌iBox, Ibox или Айбокс
+❌iBox, iBox или Айбокс
 
-✅ iBOX
+✅ iBox
 
 ❌СэйлсДоктор или SalesDoc
 

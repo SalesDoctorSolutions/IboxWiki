@@ -41,7 +41,7 @@ Siz mahsulotni **Mahsulotlar** bo‘limida qo‘shishingiz mumkin.
 Agar tizimda bir nechta korxona bo‘lsa, ularning mahsulot ro‘yxatlari farq qilishi mumkin.  
 Ba’zi mahsulotlar faqat bitta korxonada mavjud bo‘lib, boshqasida yashirilgan bo‘lishi mumkin.
 
-iBOX tizimi korxonalar o‘rtasida mahsulotlar ko‘rinishini boshqarish imkonini beradi.
+iBox tizimi korxonalar o‘rtasida mahsulotlar ko‘rinishini boshqarish imkonini beradi.
 
 ### Nega mahsulotni qaytadan yaratib bo‘lmaydi
 

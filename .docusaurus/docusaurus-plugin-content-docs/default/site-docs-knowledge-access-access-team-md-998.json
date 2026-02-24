@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-team",
   "title": "Добавление сотрудников",
-  "description": "В iBOX можно добавлять сотрудников, которые работают в системе, и сотрудников, которые нужны только для учета. Порядок действий зависит от того, будет ли сотрудник входить в систему.",
+  "description": "В iBox можно добавлять сотрудников, которые работают в системе, и сотрудников, которые нужны только для учета. Порядок действий зависит от того, будет ли сотрудник входить в систему.",
   "source": "@site/docs/knowledge/access/access-team.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-team",
@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Как настроить роли в iBOX",
+    "title": "Как настроить роли в iBox",
     "permalink": "/docs/knowledge/access/access-role"
   },
   "next": {

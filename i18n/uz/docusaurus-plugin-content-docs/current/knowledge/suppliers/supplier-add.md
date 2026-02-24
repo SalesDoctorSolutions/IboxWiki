@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Ta'minotchilarni qo‘shish
 
-iBOX tizimida siz yetkazib ta'minotchilarni qo‘lda qo‘shishingiz, ularni Excel dan yuklab olishingiz  yoki boshqa korxonadan biriktirishingiz mumkin.
+iBox tizimida siz yetkazib ta'minotchilarni qo‘lda qo‘shishingiz, ularni Excel dan yuklab olishingiz  yoki boshqa korxonadan biriktirishingiz mumkin.
 
 ## Ta'minotchilarni qo‘lda qo‘shish
 

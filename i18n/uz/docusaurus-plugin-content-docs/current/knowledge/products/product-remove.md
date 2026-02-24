@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # Mahsulotlarni o‘chirish va faolsizlantirish
 
-iBOX tizimida mahsulotni ish jarayonidan chiqarishning aosiy ikki yo‘li mavjud: uni o‘chirish yoki faolligini o'chirish.  
+iBox tizimida mahsulotni ish jarayonidan chiqarishning aosiy ikki yo‘li mavjud: uni o‘chirish yoki faolligini o'chirish.  
 Qaysi variantni tanlash mahsulotda amallar tarixi mavjud yoki yo‘qligiga bog‘liq.
 
 ---

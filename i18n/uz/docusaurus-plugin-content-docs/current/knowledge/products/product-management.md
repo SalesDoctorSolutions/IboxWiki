@@ -7,7 +7,7 @@ sidebar_position: 2
 
 # Mahsulotlarni boshqarish: tahrirlash, qoldiqlar va harakatlar
 
-iBOX tizimida siz istalgan vaqtda mahsulotni tahrirlashingiz, uning qoldiqlarini tekshirishingiz va barcha harakatlar tarixini ko‘rishingiz mumkin. Bu ma’lumotlarda tartibni saqlashga va omborni nazorat qilishga yordam beradi.
+iBox tizimida siz istalgan vaqtda mahsulotni tahrirlashingiz, uning qoldiqlarini tekshirishingiz va barcha harakatlar tarixini ko‘rishingiz mumkin. Bu ma’lumotlarda tartibni saqlashga va omborni nazorat qilishga yordam beradi.
 
 ---
 

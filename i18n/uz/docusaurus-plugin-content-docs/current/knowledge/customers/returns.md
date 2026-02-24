@@ -9,7 +9,7 @@ sidebar_position: 6
 
 Qaytish mijoz mahsulotni **to‘liq yoki qisman** qaytarganida rasmiylashtiriladi — masalan, nuqson, noto‘g‘ri komplektatsiya yoki xariddan voz kechish sababli.
 
-iBOX tizimida mijozdan qaytishlarshlar ombor qoldiqlari va savdo tahliliga bevosita ta’sir qiladi.
+iBox tizimida mijozdan qaytishlarshlar ombor qoldiqlari va savdo tahliliga bevosita ta’sir qiladi.
 
 ---
 

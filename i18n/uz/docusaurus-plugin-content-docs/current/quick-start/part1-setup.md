@@ -6,7 +6,7 @@ sidebar_position: 2
 ---
 # 1-qism. Sozlash
 ## Ishchi muhitni sozlash
-iBOX biznesingiz uchun qulay raqamli ofisga aylanishi uchun uni vazifalaringizga moslab sozlash kerak. Eng asosiy qismdan — profil va asosiy sozlamalardan boshlaymiz.
+iBox biznesingiz uchun qulay raqamli ofisga aylanishi uchun uni vazifalaringizga moslab sozlash kerak. Eng asosiy qismdan — profil va asosiy sozlamalardan boshlaymiz.
 
 ### Profilni to‘ldirish
 Avval tizimdan kim sifatida va qanday foydalanishingizni ko‘rsatamiz.
@@ -56,7 +56,7 @@ Endi har kuni ishlaydigan obyektlarni qo‘shamiz: kassalar va omborlar.
 ### Kassalar
 1. **Sozlamalar** → **Kassalar** bo‘limini oching.
 2. Ekranning yuqori qismidagi plus tugmasini bosing.
-<img src="/img/quick-start/qs-cashbox-add-uz.png" alt="iBOX’da kassa yaratish" width="600" />
+<img src="/img/quick-start/qs-cashbox-add-uz.png" alt="iBox’da kassa yaratish" width="600" />
 3. Kassa ma’lumotlarini kiriting:
     - Nomi — masalan, Naqd kassa yoki Bank  
     - To‘lov usuli — naqd, karta, bank o‘tkazmasi  
@@ -67,7 +67,7 @@ Endi har kuni ishlaydigan obyektlarni qo‘shamiz: kassalar va omborlar.
 ### Omborlar
 1. **Sozlamalar** → **Omborlar** bo‘limiga o‘ting.
 2. Yuqori burchakdagi plus belgisi ustiga bosing.
-<img src="/img/quick-start/qs-warehouse-add.png" alt="iBOX’da ombor yaratish" width="600" />
+<img src="/img/quick-start/qs-warehouse-add.png" alt="iBox’da ombor yaratish" width="600" />
 3. Ombor uchun quyidagilarni ko‘rsating:
     - Nomi — masalan, Markaziy ombor  
     - Manzil — omborning haqiqiy joylashuvi  
@@ -78,9 +78,9 @@ Endi har kuni ishlaydigan obyektlarni qo‘shamiz: kassalar va omborlar.
 ## Funksiyalarni yoqish
 Kassalar va omborlar qo‘shilgach, ish uchun kerakli funksiyalarni yoqamiz.
 
-iBOX’da tizimni biznesingizga moslash imkonini beradigan moslashuvchan sozlamalar mavjud. **Sozlamalar → Funksional** bo‘limiga o‘ting va biznesingizga mos modullarni tanlang.
+iBox’da tizimni biznesingizga moslash imkonini beradigan moslashuvchan sozlamalar mavjud. **Sozlamalar → Funksional** bo‘limiga o‘ting va biznesingizga mos modullarni tanlang.
 
-<img src="/img/quick-start/qs-functionality-uz.png" alt="iBOX da funksionalni sozlash" width="600" />
+<img src="/img/quick-start/qs-functionality-uz.png" alt="iBox da funksionalni sozlash" width="600" />
 
 **Yangi foydalanuvchilar uchun foydali funksiyalar**:
 - Sotuvlar, xaridlar va to‘lovlar uchun qo‘shimcha statuslar — bajarilish bosqichlarini kuzatish uchun
@@ -96,13 +96,13 @@ Bu bosqichda barcha funksiyalarni yoqish shart emas, ammo har bir bandni ko‘ri
 ## Rollar va xodimlar
 Rollar xodimlar tizimda qaysi amallarni bajarishi mumkinligini belgilaydi. 
 :::warning Ogohlantirish
-Rol biriktirilmagan xodim iBOX’da ishlay olmaydi.
+Rol biriktirilmagan xodim iBox’da ishlay olmaydi.
 :::
 
 ### Rol yaratish
 1. **Sozlamalar** → **Rollar** bo‘limini oching.
 2. Yangi rol qo‘shish tugmasini bosing.
-<img src="/img/quick-start/qs-roles-add-uz.png" alt="iBOX’da rol sozlash" width="600" />
+<img src="/img/quick-start/qs-roles-add-uz.png" alt="iBox’da rol sozlash" width="600" />
 3. Quyidagilarni kiriting:
     - Rol nomi — masalan, Omborchi yoki Buxgalter  
     - Tavsif — vazifalar va javobgarlik sohasi  
@@ -122,9 +122,9 @@ Tizimda ishlaydigan xodimlarni qo‘shing.
 3. Xodim tizimga kira olishi uchun:
     - **Tizimga kirishga ruxsat berish** bandini belgilang  
     - Kerakli huquqlarga ega rolni biriktiring  
-<img src="/img/quick-start/qs-employee-add-uz.png" alt="iBOX’da xodim qo‘shish" width="600" />
+<img src="/img/quick-start/qs-employee-add-uz.png" alt="iBox’da xodim qo‘shish" width="600" />
 4. **Saqlash va taklif yuborish** tugmasini bosing.
 
 :::info Ma’lumot
-Agar xodimga iBOX mobil ilovasi yoki POS tizimi orqali kirish huquqini bermoqchi bo‘lsangiz, u uchun ish joyi qo‘shing. Buning uchun **Ish joylari** bo‘limiga o‘ting.
+Agar xodimga iBox mobil ilovasi yoki POS tizimi orqali kirish huquqini bermoqchi bo‘lsangiz, u uchun ish joyi qo‘shing. Buning uchun **Ish joylari** bo‘limiga o‘ting.
 :::

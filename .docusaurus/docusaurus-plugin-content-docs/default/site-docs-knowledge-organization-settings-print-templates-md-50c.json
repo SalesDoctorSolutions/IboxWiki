@@ -1,7 +1,7 @@
 {
   "id": "knowledge/organization-settings/print-templates",
   "title": "Шаблоны для печати",
-  "description": "В iBOX есть возможность создавать и использовать собственные шаблоны для печати накладных.",
+  "description": "В iBox есть возможность создавать и использовать собственные шаблоны для печати накладных.",
   "source": "@site/docs/knowledge/organization-settings/print-templates.md",
   "sourceDirName": "knowledge/organization-settings",
   "slug": "/knowledge/organization-settings/print-templates",

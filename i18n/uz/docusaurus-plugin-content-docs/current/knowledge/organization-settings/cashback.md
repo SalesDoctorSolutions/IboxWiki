@@ -7,9 +7,9 @@ sidebar_position: 7
 
 # Keshbek
 
-## iBOX’da keshbek tizimi qanday ishlaydi
+## iBox’da keshbek tizimi qanday ishlaydi
 
-iBOX’dagi keshbek jamg‘ariluvchi tizim sifatida ishlaydi.  
+iBox’dagi keshbek jamg‘ariluvchi tizim sifatida ishlaydi.  
 Mijozga sotuvdan so‘ng, unga alohida keshbek-balansga keshbek hisoblanadi.  
 
 Keshbekni faqat sotuv jarayonida ishlatish mumkin.

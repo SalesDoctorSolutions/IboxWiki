@@ -1,7 +1,7 @@
 {
   "id": "knowledge/suppliers/purchase-orders",
   "title": "Xarid buyurtmalar",
-  "description": "iBOX tizimida xarid buyurtma mahsulotlarni sotib olish niyatini oldindan rasmiylashtirish va kelajakdagi kirimlarni nazorat qilishga yordam beradi.",
+  "description": "iBox tizimida xarid buyurtma mahsulotlarni sotib olish niyatini oldindan rasmiylashtirish va kelajakdagi kirimlarni nazorat qilishga yordam beradi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/suppliers/purchase-orders.md",
   "sourceDirName": "knowledge/suppliers",
   "slug": "/knowledge/suppliers/purchase-orders",

@@ -75,7 +75,7 @@ Mahsulotlar omborga kelib tushgach, ularni mijozga sotishingiz mumkin.
 
 ## Mijozlardan to‘lovlar
 
-iBOX’da mijozlardan to‘lov qabul qilishning bir nechta usuli mavjud. Vaziyatga qarab mos variantni tanlang.
+iBox’da mijozlardan to‘lov qabul qilishning bir nechta usuli mavjud. Vaziyatga qarab mos variantni tanlang.
 
 ---
 

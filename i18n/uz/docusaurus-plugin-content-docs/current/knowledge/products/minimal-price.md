@@ -10,7 +10,7 @@ sidebar_position: 5
 Minimal narx — bu mahsulotni sotish mumkin bo‘lmagan eng past chegara.  
 U kompaniyani zarar ko‘rishdan himoya qiladi va narx siyosatiga rioya etishga yordam beradi.
 
-iBOX tizimida minimal narx savdo jarayonini qat’iy nazorat qilish imkonini beradi.
+iBox tizimida minimal narx savdo jarayonini qat’iy nazorat qilish imkonini beradi.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 id: access-role
 title: Rollarni sozlash
-sidebar_label: iBOX’da rollarni qanday sozlash
+sidebar_label: iBox’da rollarni qanday sozlash
 sidebar_position: 2
 ---
 
-# iBOX’da rollarni qanday sozlash kerak
+# iBox’da rollarni qanday sozlash kerak
 
 Rol — bu xodimning tizimdagi imkoniyatlarini belgilovchi kirish huquqlari to‘plamidir.
 
@@ -21,7 +21,7 @@ Masalan:
 
 ---
 
-## iBOX’da rol yaratish
+## iBox’da rol yaratish
 
 1. **Sozlamalar** → **Rollar** bo‘limiga o‘ting  
 2. Yangi rol yaratish uchun ➕ tugmasini bosing. Ma’lumot kiritish oynasi ochiladi  
@@ -39,7 +39,7 @@ Masalan:
     - Ma’lumotlarni tahrirlash  
     - Hujjatlarni o‘chirish  
 
-<img src="/img/knowledge/access/roles-add-uz.png" alt="iBOX da rollar" width="600" />
+<img src="/img/knowledge/access/roles-add-uz.png" alt="iBox da rollar" width="600" />
 
 6. **Saqlash** tugmasini bosing  
 

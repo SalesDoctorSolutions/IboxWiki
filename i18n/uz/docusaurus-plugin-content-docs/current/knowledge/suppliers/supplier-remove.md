@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # Ta'minotchilarni o‘chirish va faolligini o'chirish
 
-iBOX tizimida ta'minotchini ro‘yxatlardan chiqarishning bir nechta usuli mavjud: uni **o‘chirish**, **faolligini o'chirish** yoki **qora ro‘yxatga qo‘shish**.
+iBox tizimida ta'minotchini ro‘yxatlardan chiqarishning bir nechta usuli mavjud: uni **o‘chirish**, **faolligini o'chirish** yoki **qora ro‘yxatga qo‘shish**.
 
 ### Ta'minotchini o‘chirish
 O‘chirish faqat ta'minotchi xato bilan yaratilgan bo‘lsa qo‘llaniladi.  

@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iBOX’da ma’lumotlar qayerda saqlanadi",
+    "title": "iBox’da ma’lumotlar qayerda saqlanadi",
     "permalink": "/uz/docs/knowledge/data/data-security"
   },
   "next": {
-    "title": "iBOX’da kirish huquqi",
+    "title": "iBox’da kirish huquqi",
     "permalink": "/uz/docs/knowledge/access/"
   }
 }

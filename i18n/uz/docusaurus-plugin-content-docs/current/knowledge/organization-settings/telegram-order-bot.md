@@ -32,7 +32,7 @@ Avval Telegram’da bot yaratish kerak:
 5. **Yaratish** tugmasini bosing.  
 6. Bot tokenini nusxalab oling.
 
-Endi iBOX tizimida:
+Endi iBox tizimida:
 
 1. Chap paneldan **Sozlamalar**ni bosing.  
 2. Sozlamalarda **Telegram-bot** bo‘limiga o‘ting.  

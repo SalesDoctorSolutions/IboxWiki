@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # Mijozlarni o‘chirish va faolsizlantirish
 
-iBOX tizimida mijozni ro‘yxatlardan chiqarishning bir nechta usuli mavjud: uni o‘chirish, faolligini o'chirish yoki qora ro‘yxatga qo‘shish.
+iBox tizimida mijozni ro‘yxatlardan chiqarishning bir nechta usuli mavjud: uni o‘chirish, faolligini o'chirish yoki qora ro‘yxatga qo‘shish.
 
 ---
 

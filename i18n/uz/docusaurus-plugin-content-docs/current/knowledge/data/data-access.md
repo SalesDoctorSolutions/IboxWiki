@@ -6,11 +6,11 @@ sidebar_position: 2
 ---
 
 - Ma’lumotlarga faqat siz rollar orqali ruxsat bergan kompaniya xodimlari kira oladi  
-- iBOX xodimlari sizning ruxsatingizsiz ma’lumotlaringizga kira olmaydi  
+- iBox xodimlari sizning ruxsatingizsiz ma’lumotlaringizga kira olmaydi  
 - Tizimdagi barcha harakatlar faollik jurnalida yozib boriladi — siz har doim kim, qachon va nima qilganini tekshirishingiz mumkin  
 
 :::info Ma’lumot
 Rollarni **Sozlamalar → Xodimlar** bo‘limida biriktirish mumkin  
 ([Tezkor boshlash qo‘llanmasi — 1-qism](/docs/quick-start/part1-setup) va  
-[iBOX’da rollarni sozlash](/docs/knowledge/access/access-role))
+[iBox’da rollarni sozlash](/docs/knowledge/access/access-role))
 :::

@@ -7,7 +7,7 @@ sidebar_position: 4
 
 # POS tizimi va mobil ilovaga kirishni sozlash
 
-Xodim POS tizimi yoki iBOX mobil ilovasi orqali ishlashi uchun unga ish joyi yarating va kirish huquqlarini belgilang. Ish joyi xodim qaysi amallarni bajarishi va qaysi omborlar hamda kassalar bilan ishlashini aniqlaydi.
+Xodim POS tizimi yoki iBox mobil ilovasi orqali ishlashi uchun unga ish joyi yarating va kirish huquqlarini belgilang. Ish joyi xodim qaysi amallarni bajarishi va qaysi omborlar hamda kassalar bilan ishlashini aniqlaydi.
 
 ---
 

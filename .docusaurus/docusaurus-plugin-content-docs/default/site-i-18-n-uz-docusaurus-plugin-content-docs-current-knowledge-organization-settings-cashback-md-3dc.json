@@ -1,7 +1,7 @@
 {
   "id": "knowledge/organization-settings/cashback",
   "title": "Keshbek",
-  "description": "iBOX’da keshbek tizimi qanday ishlaydi",
+  "description": "iBox’da keshbek tizimi qanday ishlaydi",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/organization-settings/cashback.md",
   "sourceDirName": "knowledge/organization-settings",
   "slug": "/knowledge/organization-settings/cashback",

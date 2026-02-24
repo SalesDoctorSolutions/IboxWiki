@@ -7,7 +7,7 @@ sidebar_position: 6
 
 # Shtrixkod — qanday tanlash, yaratish va chop etish
 
-Mahsulotni yaratish yoki tahrirlash jarayonida iBOX tizimida shtrixkodni kiritishingiz yoki avtomatik yaratishingiz mumkin.  
+Mahsulotni yaratish yoki tahrirlash jarayonida iBox tizimida shtrixkodni kiritishingiz yoki avtomatik yaratishingiz mumkin.  
 Shtrixkod sotuv, qabul qilish yoki inventarizatsiya vaqtida mahsulotni tez aniqlash uchun ishlatiladi.
 
 ---
@@ -27,7 +27,7 @@ EAN kodi ishlatilmaydigan holatlarda ichki hisob, omborlar va nostandart markiro
 ---
 
 :::info **Ma’lumot**  
-iBOX tizimida bitta mahsulotga bir nechta shtrixkod biriktirish mumkin.
+iBox tizimida bitta mahsulotga bir nechta shtrixkod biriktirish mumkin.
 :::
 
 ---

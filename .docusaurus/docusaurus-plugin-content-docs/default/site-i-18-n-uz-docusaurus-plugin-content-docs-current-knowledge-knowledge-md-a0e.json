@@ -1,7 +1,7 @@
 {
   "id": "knowledge/knowledge",
   "title": "Bilimlar bazasi",
-  "description": "iBOX funksiyalari bilan ishlash bo‘yicha qo‘llanmalar — shtrix-kodlardan boshlab, hujjat shablonlarini sozlash va Telegram-bot bilan ishlashgacha.",
+  "description": "iBox funksiyalari bilan ishlash bo‘yicha qo‘llanmalar — shtrix-kodlardan boshlab, hujjat shablonlarini sozlash va Telegram-bot bilan ishlashgacha.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/knowledge.md",
   "sourceDirName": "knowledge",
   "slug": "/knowledge/",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/quick-start/part5-reports"
   },
   "next": {
-    "title": "iBOX’da ma’lumotlar qayerda saqlanadi",
+    "title": "iBox’da ma’lumotlar qayerda saqlanadi",
     "permalink": "/uz/docs/knowledge/data/data-security"
   }
 }
