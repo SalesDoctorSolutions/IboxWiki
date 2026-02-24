@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://SalesDoctorSolutions.github.io/blog</id>
     <title>iBOX Blog</title>
     <updated>2026-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://SalesDoctorSolutions.github.io/blog"/>
     <subtitle>iBOX Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <icon>https://SalesDoctorSolutions.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Обновление iBox]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/release-1-0</id>
-        <link href="https://your-docusaurus-site.example.com/blog/release-1-0"/>
+        <id>https://SalesDoctorSolutions.github.io/blog/release-1-0</id>
+        <link href="https://SalesDoctorSolutions.github.io/blog/release-1-0"/>
         <updated>2026-01-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах]]></summary>
         <category label="релиз" term="релиз"/>

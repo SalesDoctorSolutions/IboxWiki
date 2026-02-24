@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://SalesDoctorSolutions.github.io",
   "baseUrl": "/uz/",
-  "organizationName": "iBOX",
-  "projectName": "iBOX docs",
+  "organizationName": "SalesDoctorSolutions",
+  "projectName": "IboxWiki",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

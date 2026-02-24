@@ -23,6 +23,9 @@ iBox’da tizimda ishlaydigan xodimlarni ham, faqat hisob-kitob uchun kerak bo�
 5. Tartiblash sonini belgilang — son qancha katta bo‘lsa, xodim ro‘yxatda shuncha yuqorida chiqadi.
 6. Kerakli huquqlarga ega rolni biriktiring — masalan, kassir, omborchi yoki administrator.  
    Rollar **Sozlamalar** → **Rollar** bo‘limida sozlanadi.
+
+<img src="/img/knowledge/access/user-add-uz.png" alt="iBox ga foydalanuvchilarni qo'shish" width="600" />
+
 7. **Saqlash va taklif yuborish** tugmasini bosing.
 
 Xodim telefon raqami yoki elektron pochta orqali parol o‘rnatish havolasini oladi va tizimga kira oladi.
