@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://SalesDoctorSolutions.github.io',
+  url: 'http://help.ibox.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -146,8 +146,10 @@ const config = {
     }),
     themes: [
     [
+      // @ts-ignore
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      // @ts-ignore
       ({
         hashed: true,
         language: ["en", "ru",], 
