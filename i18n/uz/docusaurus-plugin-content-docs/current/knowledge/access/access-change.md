@@ -33,6 +33,7 @@ Agar xodimga bog‘langan ma’lumotlar bo‘lsa, tizim profilni o‘chirishga r
 
 1. **Sozlamalar → Xodimlar** bo‘limiga o‘ting  
 2. Xodimni topib, 🗑 **O‘chirish** tugmasini bosing  
+<img src="/img/knowledge/access/employee-delete-uz.png" alt="iBox da xodimni o'chirish" width="600" />
 3. Amalni tasdiqlang  
 
 ---
@@ -59,6 +60,7 @@ Bu holatda xodimni **faolligini o'chirish** kerak.
 1. **Sozlamalar → Xodimlar** bo‘limini oching  
 2. Xodim yonidagi belgini belgilang  
 3. Yuqori menyudan **Faollikni o'chirish** tugmasini bosing  
+<img src="/img/knowledge/access/employee-deactivate-uz.png" alt="iBox da xodimni faolligini o'chirish" width="600" />
 
 :::info Nima bo‘ladi
 Xodim tizimga kira olmaydi va hujjatlarda ko‘rinmaydi.  
@@ -89,6 +91,7 @@ Bu holatda xodimni faolligini o'chirish emas, **kirishni cheklash** kerak.
 2. Xodim profilini oching (✏ tahrirlash belgisi)  
 3. **Tizimga kirishga ruxsat berish** opsiyasini toping  
 4. Belgini olib tashlang  
+<img src="/img/knowledge/access/employee-access-remove-uz.png" alt="Xodimga kirish huquqini o'chirish" width="600" />
 5. O‘zgarishlarni saqlang  
 
 :::info Ma’lumot

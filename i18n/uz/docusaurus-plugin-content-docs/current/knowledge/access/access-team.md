@@ -58,4 +58,5 @@ Tizimga kirmaydigan xodimlar uchun litsenziya talab qilinmaydi.
    - Telefon raqami  
    - Kerak bo‘lsa, ish haqi va elektron pochta  
 5. Tartiblash sonini belgilang.
+<img src="/img/knowledge/access/employee-add-uz.png" alt="iBox da kirish huquqisiz xodim yaratish" width="600" />
 6. **Saqlash** tugmasini bosing.
