@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>iBOX Blog</title>
+        <link>https://SalesDoctorSolutions.github.io/uz/blog</link>
+        <description>iBOX Blog</description>
+        <lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>uz</language>
+        <item>
+            <title><![CDATA[Обновление iBox]]></title>
+            <link>https://SalesDoctorSolutions.github.io/uz/blog/release-1-0</link>
+            <guid>https://SalesDoctorSolutions.github.io/uz/blog/release-1-0</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах]]></description>
+            <category>релиз</category>
+            <category>обновление</category>
+        </item>
+    </channel>
+</rss>
