@@ -23,6 +23,7 @@ Mahsulotni o‘chirish uchun:
 1. **Mahsulotlar** bo‘limiga o‘ting.
 2. Kerakli mahsulot joylashgan qatordagi o‘ng tomonga kursorni olib boring.
 3. 🗑 **Savat** ikonkasini bosing.
+<img src="/img/knowledge/products/product-delete-uz.png" alt="iBox da mahsulotni o'chirish" width="600" />
 4. O‘chirishni tasdiqlang.
 
 ---
@@ -37,6 +38,7 @@ Mahsulotni faolligini o'chirish uchun:
 1. **Mahsulotlar** bo‘limiga o‘ting.
 2. Bitta yoki bir nechta mahsulotni tanlang.
 3. Ekranning yuqori qismidagi **uch nuqta** tugmasini bosing.
+<img src="/img/knowledge/products/product-deactivate-uz.png" alt="iBox da mahsulotni faolligini o'chirish" width="600" />
 4. **Faollikni o'chirish** opsiyasini tanlang.
 
 :::warning **Muhim**  

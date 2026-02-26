@@ -21,6 +21,7 @@ iBox tizimida prays-listlar narx siyosatini moslashuvchan boshqarishga yordam be
    - **Sotuvlarda** — mijoz buyurtmalari va sotuvlar uchun
    - **Xaridlarda** — ta'minotchilardan xarid qilish uchun
 6. Har bir mahsulot uchun **Birlik narxi** ustunida narxni kiriting va valyutani tanlang.
+<img src="/img/knowledge/products/pricelist-uz.png" alt="Prays listlar" width="600" />
 7. **Saqlash** tugmasini bosing.
 
 ---
