@@ -28,7 +28,7 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "http://help.ibox.io",
+  "url": "https://help.ibox.io",
   "baseUrl": "/uz/",
   "organizationName": "SalesDoctorSolutions",
   "projectName": "IboxWiki",
