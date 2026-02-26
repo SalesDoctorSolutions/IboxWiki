@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://help.ibox.io/blog</id>
+    <id>https://help.ibox.io/blog</id>
     <title>iBOX Blog</title>
     <updated>2026-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://help.ibox.io/blog"/>
+    <link rel="alternate" href="https://help.ibox.io/blog"/>
     <subtitle>iBOX Blog</subtitle>
-    <icon>http://help.ibox.io/img/favicon.ico</icon>
+    <icon>https://help.ibox.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Обновление iBox]]></title>
-        <id>http://help.ibox.io/blog/release-1-0</id>
-        <link href="http://help.ibox.io/blog/release-1-0"/>
+        <id>https://help.ibox.io/blog/release-1-0</id>
+        <link href="https://help.ibox.io/blog/release-1-0"/>
         <updated>2026-01-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Добавлены владение данными в товарах и опция выбора товара в связанных прайс листах]]></summary>
         <category label="релиз" term="релиз"/>
