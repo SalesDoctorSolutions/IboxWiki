@@ -25,4 +25,4 @@ Bu iBox’ni oxirgi foydalanuvchilar, hamkorlar va integratorlar uchun moslashuv
 - tizim bilan tez ishlash uchun mobil ilova va POS tizimi
 - buyurtmalar va xabarlar uchun Telegram-bot 
 
-Bizning maqsadimiz — biznes uchun oddiy, ishonchli va birinchi kundan boshlab tushunarli bo‘lgan boshqaruv vositasini taqdim etish.
+Bizning maqsadimiz — biznes uchun **oddiy**, **ishonchli** va birinchi kundan boshlab **tushunarli** va **foydali** bo‘lgan boshqaruv vositasini taqdim etish.

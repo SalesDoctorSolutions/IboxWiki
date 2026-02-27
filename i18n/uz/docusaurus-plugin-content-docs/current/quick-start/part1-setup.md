@@ -17,22 +17,34 @@ Avval tizimdan kim sifatida va qanday foydalanishingizni ko‘rsatamiz.
 3. Quyidagi maydonlarni to‘ldiring:
     - Ism  
     - Tizim tili: rus, o‘zbek, ingliz, arab yoki turk  
-    - Telefon raqami  
-    - Elektron pochta  
+    - Telefon raqami (majburiy)
+    - Elektron pochta (ixtiyoriy)
 4. Telefon raqami va elektron pochtani tasdiqlang
     - **Tasdiqlash havolasini yuborish** tugmasini bosing
     - Sizga yuborilgan havola bo'yicha o'ting
 
 ---
-### Valyutalar
-Ishlash va hisobotlar uchun valyutalarni qo‘shing va asosiy valyutani tanlang.
+## Valyutalar 
+Ishlash va hisobot yuritish uchun valyutalarni qo‘shing hamda asosiy valyutani tanlang.
 
-1. Chap pastki burchakdagi **Sozlamalar** belgisi ⚙️ ustiga bosing.
-2. **Umumiy sozlamalar** → **Valyutalar** bo‘limiga o‘ting.
-3. Yuqori o‘ng burchakdagi ➕plus tugmasini bosing.
+### Valyutani qanday qo‘shish kerak
+
+1. Pastki chap burchakdagi ⚙️ sozlamalar belgisini bosing.
+2. **Umumiy sozlamalar** → **Valyutalar** bo‘limini oching.
+3. O‘ng yuqori burchakdagi **+** tugmasini bosing.
 4. Valyutani qo‘shing va uning kursini kiriting.
-5. **Kurs** ustuniga sichqonchani olib boring va asosiy valyutani tanlang.
-<img src="/img/quick-start/qs-currencies-uz.png" alt="Asosiy valyutani tanlash" width="600"/>
+5. **Saqlash** tugmasini bosing.
+
+### Asosiy valyutani qanday tanlash kerak
+
+Boshqa valyutani asosiy valyuta sifatida tanlash faqat tizimda hujjatlar tarixi bo‘lmaganda va barcha valyuta kurslari o‘chirilganda mumkin. Asosiy valyutani o‘zgartirish uchun:
+
+1. **Valyutalar** bo‘limini oching.
+2. Barcha kurslarni o‘chiring:
+   - Valyutaning o‘ng tomoniga kursorni olib borib, kalendar belgisini bosing.
+   - Kurslarning o‘ng tomoniga kursorni olib borib, savatcha (o‘chirish) belgisini bosing va amalni tasdiqlang.
+3. Joriy asosiy valyutaning o‘ng tomoniga kursorni olib borib, **Asosiy valyutani o‘zgartirish** tugmasini bosing.
+4. Asosiy valyutani tanlang va **Saqlash** tugmasini bosing.
 
 :::warning Ogohlantirish
 Foyda bo‘yicha hisobotlar asosiy valyutada shakllantiriladi. Tizimda faol ishlashni boshlashdan oldin uni tanlang.

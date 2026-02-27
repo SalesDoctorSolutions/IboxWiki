@@ -23,7 +23,7 @@ Avval mahsulotlarni hisobga olish va sotish uchun foydalaniladigan o‘lchov bir
 3. Yuqori o‘ng burchakdagi plus tugmasini bosing.
 4. Quyidagilarni kiriting:
     - Nomi  
-    - Qisqa nomi  
+    - Qisqa nomi (3ta belgi gacha)
 <img src="/img/quick-start/qs-uom-uz.png" alt="iBox’da o‘lchov birliklarini qo‘shish" width="600" />
 5. **Saqlash** tugmasini bosing.
 
@@ -57,12 +57,12 @@ Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklas
 <img src="/img/quick-start/qs-products-uz.png" alt="Excel da mahsulotlar ro'yhati" width="600" />
 2. **Mahsulotlar** bo‘limiga o‘ting.
 3. Yuqori o‘ng burchakdagi uch nuqta belgisi ustiga bosing.
-4. **Import** bandini tanlang.
+4. **Exceldan yuklash** bandini tanlang.
 <img src="/img/quick-start/qs-import-1-uz.png" alt="iBox’da mahsulotlar importini boshlash" width="600" />
-5. Faylni import oynasiga tortib keling yoki kompyuterdan tanlang.
+5. Faylni yuklash oynasiga tortib keling yoki kompyuterdan tanlang.
 6. Fayldagi ustunlarni tizim maydonlari bilan moslang.
 <img src="/img/quick-start/qs-import-2-uz.png" alt="iBox’da mahsulotlarni import qilish" width="600" />
-7. **Importni boshlash** tugmasini bosing.
+7. **Yuklashni boshlash** tugmasini bosing.
 
 ### Mahsulotlarni qo‘lda qo‘shish
 
@@ -71,15 +71,10 @@ Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklas
     - Mahsulot nomi  
     - Saqlash birligi  
     - Artikul  
-3. Agar mahsulotda shtrix-kod bo‘lmasa, uni yarating:
-    - Shtrix-kod yorlig‘ini oching  
-    - Uch nuqta belgisi ustiga bosing  
-    - Shtrix-kod yaratishni tanlang  
-<img src="/img/quick-start/qs-product-add-uz.png" alt="iBox’da mahsulot yaratish" width="600" />
-4. **Boshqa** yorlig‘ida zarurat bo‘lsa quyidagilarni kiriting:
+3. **Boshqa** yorlig‘ida zarurat bo‘lsa quyidagilarni kiriting:
     - Brend  
     - Guruh  
-5. **Saqlash** tugmasini bosing.
+4. **Saqlash** tugmasini bosing.
 
 :::tip Maslahat
 Minimal qoldiq miqdorini belgilang — bu omborda mahsulotlar yetishmasligini o‘z vaqtida ko‘rishga yordam beradi.
