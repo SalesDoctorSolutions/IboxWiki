@@ -31,6 +31,7 @@ iBox tizimida prays-listlar narx siyosatini moslashuvchan boshqarishga yordam be
 1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
 2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
 3. **Tahrirlash** ni tanlang.
+<img src="/img/knowledge/products/pricelist-edit-uz.png" alt="Prays listlar" width="600" />
 4. O‘zgartirishlarni kiriting.
 5. **Saqlash** tugmasini bosing.
 
@@ -43,6 +44,7 @@ Prays-listni o‘chirish faqat u xato bilan yaratilgan va hech qayerda ishlatilm
 1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
 2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
 3. **O‘chirish** ni tanlang.
+<img src="/img/knowledge/products/pricelist-delete-uz.png" alt="Prays listlar" width="600" />
 4. Amalni tasdiqlang.
 
 ---
@@ -54,6 +56,7 @@ Agar prays-listda tarix mavjud bo‘lsa yoki uni vaqtincha ro‘yxatlardan yashi
 1. **Mahsulotlar** modulidagi **Prays-listlar** bo‘limiga o‘ting.
 2. Kerakli prays-list yonidagi **uch nuqta** belgisini bosing.
 3. **Faollikni o'chirish** opsiyasini tanlang.
+<img src="/img/knowledge/products/pricelist-deactivate-uz.png" alt="Prays listlar" width="600" />
 
 :::warning **Muhim**  
 Agar prays-listdan faqat bitta korxonada foydalanishni cheklamoqchi bo‘lsangiz, prays-list korxonalarini **administrator paneli** orqali sozlang.
@@ -71,3 +74,4 @@ Prays-listni yuklab olish uchun:
    - **Excel’ga yuklab olish** — mahsulotlar va narxlar bilan standart fayl
    - **Excel’ga rasm bilan yuklab olish** — narxlar va mahsulot rasmlari bilan fayl
    - **PDF’ga yuklab olish** — mijozlarga yuborish yoki chop etish uchun tayyor prays-list
+<img src="/img/knowledge/products/pricelist-export-uz.png" alt="Prays listlar" width="600" />
