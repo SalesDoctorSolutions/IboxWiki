@@ -42,6 +42,7 @@ Shtrixkodni mahsulotni yaratish paytida yoki keyinchalik mahsulot kartochkasida 
 2. **Turi** maydonida formatni tanlang (EAN-13, EAN-8 yoki Code 128).
 3. Shtrixkodni qo‘lda kiriting  
    yoki uch nuqta ikonkasini bosib → **Shtrix-kod Yaratish** ni tanlang.
+<img src="/img/knowledge/products/barcode-add-uz.png" alt="Shtrix kodlar" width="600" />
 4. **Saqlash** tugmasini bosing.
 
 ---
@@ -79,5 +80,6 @@ Chop etishda quyidagilarni chiqarish mumkin:
    - Matn qo‘shish
    - Bir sahifada bir nechta shtrix-kodlar
 6. **Shtrixkodni chop etish** tugmasini bosing.
+<img src="/img/knowledge/products/barcode-print-uz.png" alt="Shtrix kodlar" width="600" />
 7. Oldindan ko‘rish oynasida printerni tanlang va sozlamalarni tekshiring.
 8. Chop etishni boshlash uchun **Print** tugmasini bosing.
