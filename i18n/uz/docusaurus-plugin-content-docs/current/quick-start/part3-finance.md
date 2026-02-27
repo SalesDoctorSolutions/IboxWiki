@@ -22,12 +22,12 @@ Kontragentlar — bu siz ishlaydigan mijozlar va ta'minotchilardir.
 <img src="/img/quick-start/qs-customers-uz.png" alt="Excel da Mijozlar ro'yhati" width="600" />
 2. **Mijozlar** bo‘limiga o‘ting.
 3. Yuqori o‘ng burchakdagi uch nuqta belgisi ustiga bosing.
-4. **Import** bandini tanlang.
+4. **Exceldan yuklash** bandini tanlang.
 <img src="/img/quick-start/qs-customer-import-1-uz.png" alt="Mijozlar yuklashni boshlash" width="600" />
 5. Faylni yuklang.
 6. Ustunlarni tizim maydonlari bilan moslang.
 <img src="/img/quick-start/qs-customer-import-2-uz.png" alt="Mijozlarni yuklash" width="600" />
-7. **Importni boshlash** tugmasini bosing.
+7. **Yuklashni boshlash** tugmasini bosing.
 
 :::info Ma’lumot
 Ta'minotchilarni yuklash uchun Excel fayliga **ta'minotchi** ustunini qo‘shing va kerakli kontragentlar uchun `1` qiymatini belgilang.
@@ -81,7 +81,7 @@ Agar tizim ishga tushirilayotgan vaqtda qarzlar mavjud bo‘lsa, ushbu tuzatishd
 3. Quyidagilarni ko‘rsating:
     - Kontragent  
     - Valyuta va summa  
-        - Manfiy summa — mijoz sizga qarzdor  
+        - Manfiy summa — kontragent sizga qarzdor  
         - Musbat summa — siz kontragentga qarzdorsiz  
     - Izoh — masalan, Boshlang‘ich qarz  
 <img src="/img/quick-start/qs-outlet-balance-2-uz.png" alt="Kontragent boshlang'ichi balansi" width="600" />

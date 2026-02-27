@@ -12,12 +12,12 @@ Tizim turli miqyos va yo‘nalishdagi bizneslarga moslashadi: chakana savdo, ulg
 
 Platforma sozlanadigan modullardan iborat — siz faqat biznesingiz uchun haqiqatan zarur bo‘lgan funksiyalarni faollashtirasiz. 
 
-Bu iBox’ni oxirgi foydalanuvchilar, hamkorlar va integratorlar uchun moslashuvchan va qulay vositaga aylantiradi.  
+Bu iBox’ oxirgi foydalanuvchilar, hamkorlar va integratorlar uchun moslashuvchan va qulay vositaga aylantiradi.  
 
 **iBox quyidagi shaklda mavjud:** 
 - bulutli yechim sifatida — istalgan qurilmadan, istalgan  vaqtda foydalanish mumkin 
 
-**iBox’ning asosiy afzalliklari:** 
+**iBox’ asosiy afzalliklari:** 
 - ko‘p valyutali ishlash imkoniyati
 - bir nechta tashkilot bilan ishlash
 - rollar orqali kirish huquqlarini boshqarish

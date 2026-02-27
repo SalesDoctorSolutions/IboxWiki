@@ -24,7 +24,7 @@ Bosh panelni ochish uchun ekranning yuqori chap burchagida **Bosh panel** tugmas
   Bugun va kecha mijozlardan qancha pul kelib tushgani.
 
 - **Qarzdorlar va kreditorlar**  
-  Mijozlar sizga qancha qarzdor va siz ta'minotchilarga qancha qarzdorsiz.
+  Kontragentlar sizga qancha qarzdor va siz kontragentlarga qancha qarzdorsiz.
 
 - **Eng ko'p sotilgan mahsulotlar**  
   Sotuv yetakchilari bo‘lgan mahsulotlar. Xaridlarni va aksiyalarni rejalashtirishga yordam beradi.

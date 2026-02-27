@@ -7,7 +7,7 @@ sidebar_position: 5
 
 Mahsulotlar, mijozlar va ta'minotchilar qo‘shilgach, tizimda kundalik ishlarni boshlash mumkin. Ushbu bo‘limda siz quyidagilarni o‘rganasiz:
 
-- Ta'minotchilardan xaridlarni rasmiylashtirish  
+- Ta'minotchilardan xaridlarni yaratish  
 - Mijozlarga sotuvlarni amalga oshirish  
 - Mijozlardan to‘lovlarni qabul qilish  
 - Ta'minotchilarga to‘lovlarni amalga oshirish  
@@ -18,7 +18,7 @@ Mahsulotlar, mijozlar va ta'minotchilar qo‘shilgach, tizimda kundalik ishlarni
 
 Xarid — bu siz ta'minotchidan mahsulot sotib olib, o‘zaro hisob-kitoblarni yuritmoqchi bo‘lganingizda ishlatiladi.
 
-### Xaridni qanday rasmiylashtirish kerak
+### Xaridni qanday yaratish kerak
 
 1. **Xaridlar** bo‘limiga o‘ting.
 2. Yuqori o‘ng burchakdagi plus tugmasini bosing.
@@ -54,7 +54,7 @@ Xarid har doim ta'minotchi bilan o‘zaro hisob-kitoblarni shakllantiradi, tuzat
 
 Mahsulotlar omborga kelib tushgach, ularni mijozga sotishingiz mumkin.
 
-### Sotuvni qanday rasmiylashtirish kerak
+### Sotuvni qanday yaratish kerak
 
 1. **Sotuvlar** bo‘limiga o‘ting.
 2. Yuqori o‘ng burchakdagi plus tugmasini bosing.
@@ -68,9 +68,9 @@ Mahsulotlar omborga kelib tushgach, ularni mijozga sotishingiz mumkin.
 <img src="/img/quick-start/qs-shipment-uz.png" alt="Sotuv" width="600" />
 8. **Saqlash** tugmasini bosing.
 
-> **Ogohlantirish**  
-> To‘g‘ri hisobotlar uchun manfiy qoldiq bilan va orqaga sana bilan sotuvlardan saqlaning. Sotuv faqat mahsulot xarid qilingandan keyin amalga oshirilishi kerak.
-
+:::warning **Ogohlantirish**  
+To‘g‘ri hisobotlar uchun manfiy qoldiq bilan va orqaga sana bilan sotuvlardan saqlaning. Sotuv faqat mahsulot xarid qilingandan keyin amalga oshirilishi kerak.
+:::
 ---
 
 ## Mijozlardan to‘lovlar
@@ -86,7 +86,7 @@ Agar mijoz Sotuvdan so‘ng darhol to‘lov qilsa, ushbu usul mos keladi.
 1. **Sotuvlar** bo‘limiga o‘ting.
 2. Sotuv raqamiga bosing.
 <img src="/img/quick-start/qs-payment-after-shipment-uz.png" alt="To'lov" width="600" />
-3. Yuqori o‘ng burchakdagi **To‘lash** tugmasini bosing.
+3. Yuqori o‘ng burchakdagi **To‘lov kiritish** tugmasini bosing.
 <img src="/img/quick-start/qs-payment-after-shipment-2-uz.png" alt="To'lov" width="600" />
 4. Quyidagilarni kiriting:
    - Summa  
@@ -124,7 +124,7 @@ Buning uchun **Sozlamalar** → **Funksional** bo‘limida **To‘lovni hujjatla
 <img src="/img/quick-start/qs-payment-by-shipment-uz.png" alt="Funksional" width="600" />
 
 1. Sotuv ma’lumotlarini to‘ldiring — mijoz, mahsulotlar, narxlar.
-2. Sahifani pastga aylantirib, **To‘lov qo‘shish** tugmasini bosing.
+2. Sahifaning pastiga o'tib, **To‘lov qo‘shish** tugmasini bosing.
 <img src="/img/quick-start/qs-payment-within-shipment-uz.png" alt="To'lov" width="600" />
 3. Quyidagilarni kiriting:
    - Summa  
@@ -148,7 +148,7 @@ Muayyan xarid uchun to‘lov qilishda foydalaniladi.
 1. **Xaridlar** bo‘limiga o‘ting.
 2. Xarid raqamiga bosing.
 <img src="/img/quick-start/qs-payment-after-shipment-uz.png" alt="To'lov" width="600" />
-3. Yuqori o‘ng burchakdagi **To‘lash** tugmasini bosing.
+3. Yuqori o‘ng burchakdagi **To‘lov kiritish** tugmasini bosing.
 <img src="/img/quick-start/qs-payment-after-shipment-2-uz.png" alt="To'lov" width="600" />
 4. Quyidagilarni kiriting:
    - Summa  
