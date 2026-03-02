@@ -318,6 +318,11 @@
               "id": "quick-start/quick-start",
               "path": "/uz/docs/quick-start/",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/sales-by-products",
+              "path": "/uz/docs/reports/sales/sales-by-products",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

@@ -147,6 +147,19 @@ module.exports = {
     },
   ],
 },
+{
+      type: 'category',
+      label: '4. Отчеты',
+      items: [
+      {
+      type: 'category',
+      label: '4.1. Отчеты по продажам',
+      items: [    
+        'reports/sales/sales-by-products',  
+      ],
+      },
+      ],
+    },
    /* {
       type: 'category',
       label: '4. FAQ',

@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-d06": {
+  "/uz/docs-d5d": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-0ae": {
+  "/uz/docs-807": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-6ea": {
+  "/uz/docs-952": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
@@ -367,6 +367,10 @@
   "/uz/docs/quick-start/part5-reports-67a": {
     "__comp": "17896441",
     "content": "96b3ec23"
+  },
+  "/uz/docs/reports/sales/sales-by-products-991": {
+    "__comp": "17896441",
+    "content": "02287cfe"
   },
   "/uz/-d50": {
     "__comp": "c4f5d8e4",

@@ -21,5 +21,9 @@
   "previous": {
     "title": "Клиенты и поставщики в организациях",
     "permalink": "/docs/knowledge/admin-panel/outlet-settings"
+  },
+  "next": {
+    "title": "Продажи по товарам",
+    "permalink": "/docs/reports/sales/sales-by-products"
   }
 }
