@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/intercompany-shipments",
+  "title": "Межорганизационные отгрузки",
+  "description": "Отчет Межорганизационные отгрузки позволяет просматривать список товаров, переданных между организациями.",
+  "source": "@site/docs/reports/sales/intercompany-shipments.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/intercompany-shipments",
+  "permalink": "/uz/docs/reports/sales/intercompany-shipments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "intercompany-shipments",
+    "title": "Межорганизационные отгрузки",
+    "sidebar_label": "Межорганизационные отгрузки",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ежедневный отчет по клиентам",
+    "permalink": "/uz/docs/reports/sales/daily-customer-report"
+  },
+  "next": {
+    "title": "История кешбэка",
+    "permalink": "/uz/docs/reports/sales/cashback-history"
+  }
+}

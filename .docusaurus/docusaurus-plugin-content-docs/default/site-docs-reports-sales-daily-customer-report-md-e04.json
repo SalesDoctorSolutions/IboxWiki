@@ -21,5 +21,9 @@
   "previous": {
     "title": "Прибыльность по сотрудникам",
     "permalink": "/uz/docs/reports/sales/profitability-by-employee"
+  },
+  "next": {
+    "title": "Межорганизационные отгрузки",
+    "permalink": "/uz/docs/reports/sales/intercompany-shipments"
   }
 }

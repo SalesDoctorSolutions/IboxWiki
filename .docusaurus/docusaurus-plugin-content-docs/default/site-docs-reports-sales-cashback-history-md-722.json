@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/cashback-history",
+  "title": "История кешбэка",
+  "description": "Отчет История кешбэка показывает полную историю начисления и списания кешбэка по клиентам.",
+  "source": "@site/docs/reports/sales/cashback-history.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/cashback-history",
+  "permalink": "/uz/docs/reports/sales/cashback-history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "cashback-history",
+    "title": "История кешбэка",
+    "sidebar_label": "История кешбэка",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Межорганизационные отгрузки",
+    "permalink": "/uz/docs/reports/sales/intercompany-shipments"
+  },
+  "next": {
+    "title": "ABC-Анализ",
+    "permalink": "/uz/docs/reports/sales/abc"
+  }
+}

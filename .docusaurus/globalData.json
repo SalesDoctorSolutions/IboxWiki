@@ -320,6 +320,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/sales/abc",
+              "path": "/uz/docs/reports/sales/abc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/cashback-history",
+              "path": "/uz/docs/reports/sales/cashback-history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/sales/customer-purchasing-behaviour",
               "path": "/uz/docs/reports/sales/customer-purchasing-behaviour",
               "sidebar": "tutorialSidebar"
@@ -327,6 +337,11 @@
             {
               "id": "reports/sales/daily-customer-report",
               "path": "/uz/docs/reports/sales/daily-customer-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/intercompany-shipments",
+              "path": "/uz/docs/reports/sales/intercompany-shipments",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '6b7'),
+    component: ComponentCreator('/uz/docs', '0b6'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '4e6'),
+        component: ComponentCreator('/uz/docs', 'e62'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '03d'),
+            component: ComponentCreator('/uz/docs', '1aa'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -441,6 +441,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/uz/docs/reports/sales/abc',
+                component: ComponentCreator('/uz/docs/reports/sales/abc', '38d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/cashback-history',
+                component: ComponentCreator('/uz/docs/reports/sales/cashback-history', 'e6f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/uz/docs/reports/sales/customer-purchasing-behaviour',
                 component: ComponentCreator('/uz/docs/reports/sales/customer-purchasing-behaviour', '2e4'),
                 exact: true,
@@ -449,6 +461,12 @@ export default [
               {
                 path: '/uz/docs/reports/sales/daily-customer-report',
                 component: ComponentCreator('/uz/docs/reports/sales/daily-customer-report', '546'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/intercompany-shipments',
+                component: ComponentCreator('/uz/docs/reports/sales/intercompany-shipments', '55b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

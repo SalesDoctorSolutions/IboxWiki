@@ -1,0 +1,25 @@
+{
+  "id": "reports/sales/abc",
+  "title": "ABC-Анализ",
+  "description": "Отчет ABC-Анализ классифицирует товары по доле чистой выручки и прибыли.",
+  "source": "@site/docs/reports/sales/abc.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/abc",
+  "permalink": "/uz/docs/reports/sales/abc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "abc",
+    "title": "ABC-Анализ",
+    "sidebar_label": "ABC-Анализ",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "История кешбэка",
+    "permalink": "/uz/docs/reports/sales/cashback-history"
+  }
+}
