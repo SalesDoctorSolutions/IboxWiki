@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/customer-purchasing-behaviour",
+  "title": "Покупательское поведение клиентов",
+  "description": "Покупательское поведение клиентов",
+  "source": "@site/docs/reports/sales/customer-purchasing-behaviour.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/customer-purchasing-behaviour",
+  "permalink": "/uz/docs/reports/sales/customer-purchasing-behaviour",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "customer-purchasing-behaviour",
+    "title": "Покупательское поведение клиентов",
+    "sidebar_label": "Покупательское поведение клиентов",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Отгрузки",
+    "permalink": "/uz/docs/reports/sales/shipments"
+  },
+  "next": {
+    "title": "Прибыльность по товарам",
+    "permalink": "/uz/docs/reports/sales/profitability-by-product"
+  }
+}

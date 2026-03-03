@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/profitability-by-employee",
+  "title": "Прибыльность по сотрудникам",
+  "description": "Прибыльность по сотрудникам",
+  "source": "@site/docs/reports/sales/profitability-by-employee.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/profitability-by-employee",
+  "permalink": "/uz/docs/reports/sales/profitability-by-employee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "profitability-by-employee",
+    "title": "Прибыльность по сотрудникам",
+    "sidebar_label": "Прибыльность по сотрудникам",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Прибыльность по клиентам",
+    "permalink": "/uz/docs/reports/sales/profitability-by-customer"
+  },
+  "next": {
+    "title": "Ежедневный отчет по клиентам",
+    "permalink": "/uz/docs/reports/sales/daily-customer-report"
+  }
+}

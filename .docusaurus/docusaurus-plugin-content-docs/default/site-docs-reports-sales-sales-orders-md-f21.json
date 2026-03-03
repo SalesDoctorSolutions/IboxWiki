@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/sales-orders",
+  "title": "Заказы",
+  "description": "Заказы",
+  "source": "@site/docs/reports/sales/sales-orders.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/sales-orders",
+  "permalink": "/uz/docs/reports/sales/sales-orders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "sales-orders",
+    "title": "Заказы",
+    "sidebar_label": "Заказы",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Возвраты покупателей",
+    "permalink": "/uz/docs/reports/sales/sales-returns"
+  },
+  "next": {
+    "title": "Отгрузки",
+    "permalink": "/uz/docs/reports/sales/shipments"
+  }
+}

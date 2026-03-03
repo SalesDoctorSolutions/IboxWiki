@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/sales-returns",
+  "title": "Возвраты покупателей",
+  "description": "Возвраты покупателей",
+  "source": "@site/docs/reports/sales/sales-returns.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/sales-returns",
+  "permalink": "/uz/docs/reports/sales/sales-returns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "sales-returns",
+    "title": "Возвраты покупателей",
+    "sidebar_label": "Возвраты покупателей",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mahsulotlar bo‘yicha sotuv",
+    "permalink": "/uz/docs/reports/sales/sales-by-products"
+  },
+  "next": {
+    "title": "Заказы",
+    "permalink": "/uz/docs/reports/sales/sales-orders"
+  }
+}

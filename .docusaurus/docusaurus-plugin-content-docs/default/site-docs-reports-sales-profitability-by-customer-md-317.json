@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/profitability-by-customer",
+  "title": "Прибыльность по клиентам",
+  "description": "Прибыльность по клиентам",
+  "source": "@site/docs/reports/sales/profitability-by-customer.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/profitability-by-customer",
+  "permalink": "/uz/docs/reports/sales/profitability-by-customer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "profitability-by-customer",
+    "title": "Прибыльность по клиентам",
+    "sidebar_label": "Прибыльность по клиентам",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Прибыльность по товарам",
+    "permalink": "/uz/docs/reports/sales/profitability-by-product"
+  },
+  "next": {
+    "title": "Прибыльность по сотрудникам",
+    "permalink": "/uz/docs/reports/sales/profitability-by-employee"
+  }
+}

@@ -320,8 +320,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/sales/customer-purchasing-behaviour",
+              "path": "/uz/docs/reports/sales/customer-purchasing-behaviour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/daily-customer-report",
+              "path": "/uz/docs/reports/sales/daily-customer-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/profitability-by-customer",
+              "path": "/uz/docs/reports/sales/profitability-by-customer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/profitability-by-employee",
+              "path": "/uz/docs/reports/sales/profitability-by-employee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/profitability-by-product",
+              "path": "/uz/docs/reports/sales/profitability-by-product",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/sales/sales-by-products",
               "path": "/uz/docs/reports/sales/sales-by-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/sales-orders",
+              "path": "/uz/docs/reports/sales/sales-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/sales-returns",
+              "path": "/uz/docs/reports/sales/sales-returns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/sales/shipments",
+              "path": "/uz/docs/reports/sales/shipments",
               "sidebar": "tutorialSidebar"
             }
           ],

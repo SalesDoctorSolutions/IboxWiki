@@ -1,0 +1,25 @@
+{
+  "id": "reports/sales/daily-customer-report",
+  "title": "Ежедневный отчет по клиентам",
+  "description": "Ежедневный отчет по клиентам",
+  "source": "@site/docs/reports/sales/daily-customer-report.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/daily-customer-report",
+  "permalink": "/uz/docs/reports/sales/daily-customer-report",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "daily-customer-report",
+    "title": "Ежедневный отчет по клиентам",
+    "sidebar_label": "Ежедневный отчет по клиентам",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Прибыльность по сотрудникам",
+    "permalink": "/uz/docs/reports/sales/profitability-by-employee"
+  }
+}

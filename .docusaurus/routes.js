@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'd5d'),
+    component: ComponentCreator('/uz/docs', '6b7'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '807'),
+        component: ComponentCreator('/uz/docs', '4e6'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '952'),
+            component: ComponentCreator('/uz/docs', '03d'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -441,8 +441,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/uz/docs/reports/sales/customer-purchasing-behaviour',
+                component: ComponentCreator('/uz/docs/reports/sales/customer-purchasing-behaviour', '2e4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/daily-customer-report',
+                component: ComponentCreator('/uz/docs/reports/sales/daily-customer-report', '546'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/profitability-by-customer',
+                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-customer', '0ac'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/profitability-by-employee',
+                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-employee', '2b3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/profitability-by-product',
+                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-product', '769'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/uz/docs/reports/sales/sales-by-products',
                 component: ComponentCreator('/uz/docs/reports/sales/sales-by-products', '991'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/sales-orders',
+                component: ComponentCreator('/uz/docs/reports/sales/sales-orders', '33a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/sales-returns',
+                component: ComponentCreator('/uz/docs/reports/sales/sales-returns', 'e12'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/sales/shipments',
+                component: ComponentCreator('/uz/docs/reports/sales/shipments', 'dd3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
