@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-0b6": {
+  "/uz/docs-7e5": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-e62": {
+  "/uz/docs-f0f": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-1aa": {
+  "/uz/docs-91a": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
@@ -415,6 +415,22 @@
   "/uz/docs/reports/sales/shipments-dd3": {
     "__comp": "17896441",
     "content": "8c8c8320"
+  },
+  "/uz/docs/reports/stock/available-stocks-be7": {
+    "__comp": "17896441",
+    "content": "68b6109b"
+  },
+  "/uz/docs/reports/stock/inventory-movement-report-400": {
+    "__comp": "17896441",
+    "content": "26a5e7b4"
+  },
+  "/uz/docs/reports/stock/stock-analysis-0a8": {
+    "__comp": "17896441",
+    "content": "d8ff28c4"
+  },
+  "/uz/docs/reports/stock/stock-by-warehouse-b95": {
+    "__comp": "17896441",
+    "content": "d47db476"
   },
   "/uz/-d50": {
     "__comp": "c4f5d8e4",

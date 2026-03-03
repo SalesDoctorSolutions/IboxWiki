@@ -1,0 +1,29 @@
+{
+  "id": "reports/stock/stock-by-warehouse",
+  "title": "Остатки по складам",
+  "description": "Отчет Остатки по складам показывает количество каждого товара на каждом складе.",
+  "source": "@site/docs/reports/stock/stock-by-warehouse.md",
+  "sourceDirName": "reports/stock",
+  "slug": "/reports/stock/stock-by-warehouse",
+  "permalink": "/uz/docs/reports/stock/stock-by-warehouse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "stock-by-warehouse",
+    "title": "Остатки по складам",
+    "sidebar_label": "Остатки по складам",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ABC-Анализ",
+    "permalink": "/uz/docs/reports/sales/abc"
+  },
+  "next": {
+    "title": "Анализ остатков",
+    "permalink": "/uz/docs/reports/stock/stock-analysis"
+  }
+}

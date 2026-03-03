@@ -169,6 +169,17 @@ module.exports = {
         'reports/sales/abc',
       ],
       },
+      {
+      type: 'category',
+      label: '4.2. Отчеты по складу',
+      items: [    
+        'reports/stock/stock-by-warehouse',
+        'reports/stock/stock-analysis',
+        'reports/stock/available-stocks',
+        'reports/stock/inventory-movement-report',
+      ],
+      },
+
       ],
     },
    /* {

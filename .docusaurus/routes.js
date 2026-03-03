@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '0b6'),
+    component: ComponentCreator('/uz/docs', '7e5'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'e62'),
+        component: ComponentCreator('/uz/docs', 'f0f'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '1aa'),
+            component: ComponentCreator('/uz/docs', '91a'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -509,6 +509,30 @@ export default [
               {
                 path: '/uz/docs/reports/sales/shipments',
                 component: ComponentCreator('/uz/docs/reports/sales/shipments', 'dd3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/stock/available-stocks',
+                component: ComponentCreator('/uz/docs/reports/stock/available-stocks', 'be7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/stock/inventory-movement-report',
+                component: ComponentCreator('/uz/docs/reports/stock/inventory-movement-report', '400'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/stock/stock-analysis',
+                component: ComponentCreator('/uz/docs/reports/stock/stock-analysis', '0a8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/stock/stock-by-warehouse',
+                component: ComponentCreator('/uz/docs/reports/stock/stock-by-warehouse', 'b95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

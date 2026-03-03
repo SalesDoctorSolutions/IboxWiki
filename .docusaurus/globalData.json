@@ -378,6 +378,26 @@
               "id": "reports/sales/shipments",
               "path": "/uz/docs/reports/sales/shipments",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/stock/available-stocks",
+              "path": "/uz/docs/reports/stock/available-stocks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/stock/inventory-movement-report",
+              "path": "/uz/docs/reports/stock/inventory-movement-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/stock/stock-analysis",
+              "path": "/uz/docs/reports/stock/stock-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/stock/stock-by-warehouse",
+              "path": "/uz/docs/reports/stock/stock-by-warehouse",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
