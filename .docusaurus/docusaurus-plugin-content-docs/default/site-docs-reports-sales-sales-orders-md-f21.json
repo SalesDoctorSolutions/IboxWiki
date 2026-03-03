@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/sales-orders",
   "title": "Заказы",
-  "description": "Заказы",
+  "description": "Отчет Заказы содержит подробный список всех заказов с разбивкой по каждому товару.",
   "source": "@site/docs/reports/sales/sales-orders.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/sales-orders",

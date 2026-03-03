@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/sales-returns",
   "title": "Возвраты покупателей",
-  "description": "Возвраты покупателей",
+  "description": "Отчет Возвраты покупателей показывает количество и сумму возвратов по каждому товару за выбранный период.",
   "source": "@site/docs/reports/sales/sales-returns.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/sales-returns",

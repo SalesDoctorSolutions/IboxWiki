@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/shipments",
   "title": "Отгрузки",
-  "description": "Отгрузки",
+  "description": "Отчет Отгрузки содержит подробный список всех отгрузок и возвратов с разбивкой по каждому товару.",
   "source": "@site/docs/reports/sales/shipments.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/shipments",

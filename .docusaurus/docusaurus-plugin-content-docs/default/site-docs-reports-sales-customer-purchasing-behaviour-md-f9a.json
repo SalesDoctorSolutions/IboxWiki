@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/customer-purchasing-behaviour",
   "title": "Покупательское поведение клиентов",
-  "description": "Покупательское поведение клиентов",
+  "description": "Отчет Покупательское поведение клиентов отображает динамику работы с клиентами по месяцам.",
   "source": "@site/docs/reports/sales/customer-purchasing-behaviour.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/customer-purchasing-behaviour",

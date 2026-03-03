@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/daily-customer-report",
   "title": "Ежедневный отчет по клиентам",
-  "description": "Ежедневный отчет по клиентам",
+  "description": "Отчет Ежедневный отчет по клиентам показывает, какие операции клиент совершил в течение дня, на какую сумму, а также его баланс на начало и конец дня.",
   "source": "@site/docs/reports/sales/daily-customer-report.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/daily-customer-report",

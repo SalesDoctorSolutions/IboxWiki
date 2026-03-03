@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/profitability-by-customer",
   "title": "Прибыльность по клиентам",
-  "description": "Прибыльность по клиентам",
+  "description": "Отчет Прибыльность по клиентам показывает прибыль или убыток от продаж каждому клиенту за выбранный период.",
   "source": "@site/docs/reports/sales/profitability-by-customer.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/profitability-by-customer",

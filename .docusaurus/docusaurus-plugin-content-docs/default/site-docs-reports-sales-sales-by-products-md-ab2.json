@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/sales-by-products",
   "title": "Продажи по товарам",
-  "description": "Продажи по товарам",
+  "description": "Отчет Продажи по товарам показывает, сколько товаров и на какую сумму вы продали за выбранный период.",
   "source": "@site/docs/reports/sales/sales-by-products.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/sales-by-products",

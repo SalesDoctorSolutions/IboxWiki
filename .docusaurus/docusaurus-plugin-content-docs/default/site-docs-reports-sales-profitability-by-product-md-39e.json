@@ -1,7 +1,7 @@
 {
   "id": "reports/sales/profitability-by-product",
   "title": "Прибыльность по товарам",
-  "description": "Прибыльность по товарам",
+  "description": "Отчет Прибыльность по товарам показывает прибыль или убыток по каждому товару за выбранный период.",
   "source": "@site/docs/reports/sales/profitability-by-product.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/profitability-by-product",
