@@ -21,5 +21,9 @@
   "previous": {
     "title": "Доступные остатки",
     "permalink": "/uz/docs/reports/stock/available-stocks"
+  },
+  "next": {
+    "title": "Корректировка остатков",
+    "permalink": "/uz/docs/reports/stock/stock-adjustment"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "reports/stock/stock-adjustment",
+  "title": "Корректировка остатков",
+  "description": "Отчет Корректировка остатков показывает все изменения остатков товаров на складе.",
+  "source": "@site/docs/reports/stock/stock-adjustment.md",
+  "sourceDirName": "reports/stock",
+  "slug": "/reports/stock/stock-adjustment",
+  "permalink": "/uz/docs/reports/stock/stock-adjustment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "stock-adjustment",
+    "title": "Корректировка остатков",
+    "sidebar_label": "Корректировка остатков",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Обороты по товарам",
+    "permalink": "/uz/docs/reports/stock/inventory-movement-report"
+  }
+}

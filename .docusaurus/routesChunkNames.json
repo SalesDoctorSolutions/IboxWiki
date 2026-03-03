@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-7e5": {
+  "/uz/docs-bda": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-f0f": {
+  "/uz/docs-5b1": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-91a": {
+  "/uz/docs-232": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
@@ -423,6 +423,10 @@
   "/uz/docs/reports/stock/inventory-movement-report-400": {
     "__comp": "17896441",
     "content": "26a5e7b4"
+  },
+  "/uz/docs/reports/stock/stock-adjustment-dc7": {
+    "__comp": "17896441",
+    "content": "a35c67b3"
   },
   "/uz/docs/reports/stock/stock-analysis-0a8": {
     "__comp": "17896441",
