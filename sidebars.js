@@ -178,6 +178,7 @@ module.exports = {
         'reports/stock/available-stocks',
         'reports/stock/inventory-movement-report',
         'reports/stock/stock-adjustment',
+        'reports/stock/recommended-stock',
       ],
       },
 

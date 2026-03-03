@@ -21,5 +21,9 @@
   "previous": {
     "title": "Обороты по товарам",
     "permalink": "/uz/docs/reports/stock/inventory-movement-report"
+  },
+  "next": {
+    "title": "Рекомендуемые остатки",
+    "permalink": "/uz/docs/reports/stock/recommended-stock"
   }
 }

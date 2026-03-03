@@ -390,6 +390,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/stock/recommended-stock",
+              "path": "/uz/docs/reports/stock/recommended-stock",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/stock/stock-adjustment",
               "path": "/uz/docs/reports/stock/stock-adjustment",
               "sidebar": "tutorialSidebar"

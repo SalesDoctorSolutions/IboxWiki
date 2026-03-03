@@ -1,0 +1,25 @@
+{
+  "id": "reports/stock/recommended-stock",
+  "title": "Рекомендуемые остатки",
+  "description": "Отчет Рекомендуемые остатки помогает определить оптимальный уровень запасов по каждому товару.",
+  "source": "@site/docs/reports/stock/recommended-stock.md",
+  "sourceDirName": "reports/stock",
+  "slug": "/reports/stock/recommended-stock",
+  "permalink": "/uz/docs/reports/stock/recommended-stock",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "recommended-stock",
+    "title": "Рекомендуемые остатки",
+    "sidebar_label": "Рекомендуемые остатки",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Корректировка остатков",
+    "permalink": "/uz/docs/reports/stock/stock-adjustment"
+  }
+}

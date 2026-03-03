@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'bda'),
+    component: ComponentCreator('/uz/docs', '0d9'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '5b1'),
+        component: ComponentCreator('/uz/docs', '789'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '232'),
+            component: ComponentCreator('/uz/docs', '065'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -521,6 +521,12 @@ export default [
               {
                 path: '/uz/docs/reports/stock/inventory-movement-report',
                 component: ComponentCreator('/uz/docs/reports/stock/inventory-movement-report', '400'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/stock/recommended-stock',
+                component: ComponentCreator('/uz/docs/reports/stock/recommended-stock', '0e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
