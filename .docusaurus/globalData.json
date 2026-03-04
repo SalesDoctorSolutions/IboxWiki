@@ -320,6 +320,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/payment/cashbox-turnover",
+              "path": "/uz/docs/reports/payment/cashbox-turnover",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/payment/customer-balances",
               "path": "/uz/docs/reports/payment/customer-balances",
               "sidebar": "tutorialSidebar"
@@ -327,6 +332,11 @@
             {
               "id": "reports/payment/employee-balances",
               "path": "/uz/docs/reports/payment/employee-balances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/payment/organization-balances",
+              "path": "/uz/docs/reports/payment/organization-balances",
               "sidebar": "tutorialSidebar"
             },
             {

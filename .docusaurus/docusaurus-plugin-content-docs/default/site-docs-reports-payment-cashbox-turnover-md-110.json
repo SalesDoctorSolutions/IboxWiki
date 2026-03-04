@@ -1,0 +1,25 @@
+{
+  "id": "reports/payment/cashbox-turnover",
+  "title": "Кассовые обороты",
+  "description": "Отчет Кассовые обороты показывает начальный и конечный остаток денежных средств в кассе, а также сумму прихода, расхода и их разницу за выбранный период.",
+  "source": "@site/docs/reports/payment/cashbox-turnover.md",
+  "sourceDirName": "reports/payment",
+  "slug": "/reports/payment/cashbox-turnover",
+  "permalink": "/uz/docs/reports/payment/cashbox-turnover",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "cashbox-turnover",
+    "title": "Кассовые обороты",
+    "sidebar_label": "Кассовые обороты",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Обороты с организациями",
+    "permalink": "/uz/docs/reports/payment/organization-balances"
+  }
+}

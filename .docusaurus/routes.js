@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '62c'),
+    component: ComponentCreator('/uz/docs', '955'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '053'),
+        component: ComponentCreator('/uz/docs', 'd71'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '723'),
+            component: ComponentCreator('/uz/docs', 'c59'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -441,6 +441,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/uz/docs/reports/payment/cashbox-turnover',
+                component: ComponentCreator('/uz/docs/reports/payment/cashbox-turnover', '471'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/uz/docs/reports/payment/customer-balances',
                 component: ComponentCreator('/uz/docs/reports/payment/customer-balances', '062'),
                 exact: true,
@@ -449,6 +455,12 @@ export default [
               {
                 path: '/uz/docs/reports/payment/employee-balances',
                 component: ComponentCreator('/uz/docs/reports/payment/employee-balances', '7dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/organization-balances',
+                component: ComponentCreator('/uz/docs/reports/payment/organization-balances', 'cef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

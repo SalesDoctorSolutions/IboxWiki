@@ -198,9 +198,10 @@ module.exports = {
         'reports/payment/customer-balances',
         'reports/payment/supplier-balances',
         'reports/payment/employee-balances',
+        'reports/payment/organization-balances',
+        'reports/payment/cashbox-turnover',
       ],
       },
-
       ],
     },
   ],
