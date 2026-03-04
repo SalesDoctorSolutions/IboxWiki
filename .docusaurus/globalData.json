@@ -325,6 +325,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/purchase/purchase-orders",
+              "path": "/uz/docs/reports/purchase/purchase-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/purchase/purchase-returns",
               "path": "/uz/docs/reports/purchase/purchase-returns",
               "sidebar": "tutorialSidebar"

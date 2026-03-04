@@ -188,6 +188,7 @@ module.exports = {
       items: [    
         'reports/purchase/purchase',
         'reports/purchase/purchase-returns',
+        'reports/purchase/purchase-orders',
       ],
       },
 
