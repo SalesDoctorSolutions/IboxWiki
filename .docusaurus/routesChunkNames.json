@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-955": {
+  "/uz/docs-5f4": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-d71": {
+  "/uz/docs-cd0": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-c59": {
+  "/uz/docs-c5b": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
@@ -383,6 +383,10 @@
   "/uz/docs/reports/payment/organization-balances-cef": {
     "__comp": "17896441",
     "content": "72d5daf4"
+  },
+  "/uz/docs/reports/payment/payments-received-b70": {
+    "__comp": "17896441",
+    "content": "c89b5c11"
   },
   "/uz/docs/reports/payment/supplier-balances-eea": {
     "__comp": "17896441",

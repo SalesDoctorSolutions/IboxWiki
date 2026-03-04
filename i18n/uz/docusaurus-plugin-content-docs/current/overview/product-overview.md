@@ -5,7 +5,8 @@ sidebar_label: iBox tizimi haqida
 sidebar_position: 1
 ---
 
-## 1. Mahsulot sharhi
+# Mahsulot sharhi
+
 **iBox** — bu ombor hisobi, operatsiyalar va tahlilgacha bo‘lgan asosiy biznes jarayonlarini boshqarishga yordam beradigan bulutli, modulli ERP-tizim. 
 
 Tizim turli miqyos va yo‘nalishdagi bizneslarga moslashadi: chakana savdo, ulgurji savdo, distributsiya, ishlab chiqarish va xizmatlar sohasi. 

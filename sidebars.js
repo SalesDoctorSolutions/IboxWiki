@@ -200,6 +200,7 @@ module.exports = {
         'reports/payment/employee-balances',
         'reports/payment/organization-balances',
         'reports/payment/cashbox-turnover',
+        'reports/payment/payments-received',
       ],
       },
       ],

@@ -1,7 +1,7 @@
 {
   "id": "overview/product-overview",
   "title": "Mahsulot sharhi",
-  "description": "1. Mahsulot sharhi",
+  "description": "iBox — bu ombor hisobi, operatsiyalar va tahlilgacha bo‘lgan asosiy biznes jarayonlarini boshqarishga yordam beradigan bulutli, modulli ERP-tizim.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/overview/product-overview.md",
   "sourceDirName": "overview",
   "slug": "/overview/product-overview",

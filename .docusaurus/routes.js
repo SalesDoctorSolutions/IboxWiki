@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '955'),
+    component: ComponentCreator('/uz/docs', '5f4'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'd71'),
+        component: ComponentCreator('/uz/docs', 'cd0'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'c59'),
+            component: ComponentCreator('/uz/docs', 'c5b'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -461,6 +461,12 @@ export default [
               {
                 path: '/uz/docs/reports/payment/organization-balances',
                 component: ComponentCreator('/uz/docs/reports/payment/organization-balances', 'cef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/payments-received',
+                component: ComponentCreator('/uz/docs/reports/payment/payments-received', 'b70'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -340,6 +340,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/payment/payments-received",
+              "path": "/uz/docs/reports/payment/payments-received",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/payment/supplier-balances",
               "path": "/uz/docs/reports/payment/supplier-balances",
               "sidebar": "tutorialSidebar"

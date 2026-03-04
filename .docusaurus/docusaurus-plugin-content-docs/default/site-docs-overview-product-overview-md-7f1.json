@@ -1,7 +1,7 @@
 {
   "id": "overview/product-overview",
   "title": "Обзор продукта",
-  "description": "1. Обзор продукта",
+  "description": "iBox — это облачная модульная ERP-система, которая помогает управлять основными бизнес-процессами: от складского учета до аналитики.",
   "source": "@site/docs/overview/product-overview.md",
   "sourceDirName": "overview",
   "slug": "/overview/product-overview",
