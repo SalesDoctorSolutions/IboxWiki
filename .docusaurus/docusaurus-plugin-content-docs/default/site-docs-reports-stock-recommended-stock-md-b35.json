@@ -21,5 +21,9 @@
   "previous": {
     "title": "Корректировка остатков",
     "permalink": "/uz/docs/reports/stock/stock-adjustment"
+  },
+  "next": {
+    "title": "Перемещения",
+    "permalink": "/uz/docs/reports/stock/transfers"
   }
 }

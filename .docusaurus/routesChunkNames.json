@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-0d9": {
+  "/uz/docs-36a": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-789": {
+  "/uz/docs-fdf": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-065": {
+  "/uz/docs-c4b": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
@@ -439,6 +439,10 @@
   "/uz/docs/reports/stock/stock-by-warehouse-b95": {
     "__comp": "17896441",
     "content": "d47db476"
+  },
+  "/uz/docs/reports/stock/transfers-995": {
+    "__comp": "17896441",
+    "content": "18bca9da"
   },
   "/uz/-d50": {
     "__comp": "c4f5d8e4",

@@ -1,0 +1,25 @@
+{
+  "id": "reports/stock/transfers",
+  "title": "Перемещения",
+  "description": "Отчет Перемещения содержит список всех перемещений товаров между складами с разбивкой по каждому товару.",
+  "source": "@site/docs/reports/stock/transfers.md",
+  "sourceDirName": "reports/stock",
+  "slug": "/reports/stock/transfers",
+  "permalink": "/uz/docs/reports/stock/transfers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "transfers",
+    "title": "Перемещения",
+    "sidebar_label": "Перемещения",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Рекомендуемые остатки",
+    "permalink": "/uz/docs/reports/stock/recommended-stock"
+  }
+}

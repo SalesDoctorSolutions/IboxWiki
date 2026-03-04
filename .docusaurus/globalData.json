@@ -408,6 +408,11 @@
               "id": "reports/stock/stock-by-warehouse",
               "path": "/uz/docs/reports/stock/stock-by-warehouse",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/stock/transfers",
+              "path": "/uz/docs/reports/stock/transfers",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
