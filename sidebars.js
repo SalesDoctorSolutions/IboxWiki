@@ -191,28 +191,17 @@ module.exports = {
         'reports/purchase/purchase-orders',
       ],
       },
+      {
+      type: 'category',
+      label: '4.4. Отчеты по финансам',
+      items: [    
+        'reports/payment/customer-balances',
+        'reports/payment/supplier-balances',
+        'reports/payment/employee-balances',
+      ],
+      },
 
       ],
     },
-   /* {
-      type: 'category',
-      label: '4. FAQ',
-      items: [
-        'faq/faq',
-      ],
-    }, */
-    //{
-      //type: 'category',
-      //label: '5. Партнерам и интеграторам',
-      //items: ['partners/partners-guide'],
-    //},
-    /*{
-      type: 'category',
-      label: '5. Для авторов',
-      items: [
-        'editorial-policy',
-        'wiki-style',
-      ],
-    },*/
   ],
 };

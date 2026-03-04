@@ -21,5 +21,9 @@
   "previous": {
     "title": "Возвраты поставщикам",
     "permalink": "/uz/docs/reports/purchase/purchase-returns"
+  },
+  "next": {
+    "title": "Обороты с клиентами",
+    "permalink": "/uz/docs/reports/payment/customer-balances"
   }
 }

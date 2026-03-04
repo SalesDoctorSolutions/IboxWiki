@@ -320,6 +320,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/payment/customer-balances",
+              "path": "/uz/docs/reports/payment/customer-balances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/payment/employee-balances",
+              "path": "/uz/docs/reports/payment/employee-balances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/payment/supplier-balances",
+              "path": "/uz/docs/reports/payment/supplier-balances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/purchase/purchase",
               "path": "/uz/docs/reports/purchase/",
               "sidebar": "tutorialSidebar"

@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'ca4'),
+    component: ComponentCreator('/uz/docs', '62c'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '6b7'),
+        component: ComponentCreator('/uz/docs', '053'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '51f'),
+            component: ComponentCreator('/uz/docs', '723'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -437,6 +437,24 @@ export default [
               {
                 path: '/uz/docs/quick-start/part5-reports',
                 component: ComponentCreator('/uz/docs/quick-start/part5-reports', '67a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/customer-balances',
+                component: ComponentCreator('/uz/docs/reports/payment/customer-balances', '062'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/employee-balances',
+                component: ComponentCreator('/uz/docs/reports/payment/employee-balances', '7dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/supplier-balances',
+                component: ComponentCreator('/uz/docs/reports/payment/supplier-balances', 'eea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

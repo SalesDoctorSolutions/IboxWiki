@@ -1,0 +1,25 @@
+{
+  "id": "reports/payment/employee-balances",
+  "title": "Взаиморасчеты с сотрудниками",
+  "description": "Отчет Взаиморасчеты с сотрудниками показывает начальный и конечный баланс сотрудника за выбранный период, а также сумму начислений и выплат.",
+  "source": "@site/docs/reports/payment/employee-balances.md",
+  "sourceDirName": "reports/payment",
+  "slug": "/reports/payment/employee-balances",
+  "permalink": "/uz/docs/reports/payment/employee-balances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "employee-balances",
+    "title": "Взаиморасчеты с сотрудниками",
+    "sidebar_label": "Взаиморасчеты с сотрудниками",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Обороты с поставщиками",
+    "permalink": "/uz/docs/reports/payment/supplier-balances"
+  }
+}

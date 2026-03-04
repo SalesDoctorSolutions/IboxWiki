@@ -1,0 +1,29 @@
+{
+  "id": "reports/payment/supplier-balances",
+  "title": "Обороты с поставщиками",
+  "description": "Отчет Обороты с поставщиками показывает начальный и конечный баланс поставщика за выбранный период, а также сумму переданных и полученных средств или товаров.",
+  "source": "@site/docs/reports/payment/supplier-balances.md",
+  "sourceDirName": "reports/payment",
+  "slug": "/reports/payment/supplier-balances",
+  "permalink": "/uz/docs/reports/payment/supplier-balances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "supplier-balances",
+    "title": "Обороты с поставщиками",
+    "sidebar_label": "Обороты с поставщиками",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Обороты с клиентами",
+    "permalink": "/uz/docs/reports/payment/customer-balances"
+  },
+  "next": {
+    "title": "Взаиморасчеты с сотрудниками",
+    "permalink": "/uz/docs/reports/payment/employee-balances"
+  }
+}
