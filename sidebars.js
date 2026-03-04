@@ -182,6 +182,14 @@ module.exports = {
         'reports/stock/transfers',
       ],
       },
+      {
+      type: 'category',
+      label: '4.3. Отчеты по закупкам',
+      items: [    
+        'reports/purchase/purchase',
+        'reports/purchase/purchase-returns',
+      ],
+      },
 
       ],
     },

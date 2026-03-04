@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-36a": {
+  "/uz/docs-6f3": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-fdf": {
+  "/uz/docs-7c7": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-c4b": {
+  "/uz/docs-415": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
@@ -367,6 +367,14 @@
   "/uz/docs/quick-start/part5-reports-67a": {
     "__comp": "17896441",
     "content": "96b3ec23"
+  },
+  "/uz/docs/reports/purchase/-4d1": {
+    "__comp": "17896441",
+    "content": "458ce4df"
+  },
+  "/uz/docs/reports/purchase/purchase-returns-282": {
+    "__comp": "17896441",
+    "content": "bad8419d"
   },
   "/uz/docs/reports/sales/abc-38d": {
     "__comp": "17896441",

@@ -320,6 +320,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/purchase/purchase",
+              "path": "/uz/docs/reports/purchase/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/purchase/purchase-returns",
+              "path": "/uz/docs/reports/purchase/purchase-returns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/sales/abc",
               "path": "/uz/docs/reports/sales/abc",
               "sidebar": "tutorialSidebar"

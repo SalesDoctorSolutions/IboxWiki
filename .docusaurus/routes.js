@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '36a'),
+    component: ComponentCreator('/uz/docs', '6f3'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'fdf'),
+        component: ComponentCreator('/uz/docs', '7c7'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'c4b'),
+            component: ComponentCreator('/uz/docs', '415'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -437,6 +437,18 @@ export default [
               {
                 path: '/uz/docs/quick-start/part5-reports',
                 component: ComponentCreator('/uz/docs/quick-start/part5-reports', '67a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/purchase/',
+                component: ComponentCreator('/uz/docs/reports/purchase/', '4d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/purchase/purchase-returns',
+                component: ComponentCreator('/uz/docs/reports/purchase/purchase-returns', '282'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
