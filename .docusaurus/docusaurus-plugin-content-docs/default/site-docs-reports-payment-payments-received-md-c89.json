@@ -21,5 +21,9 @@
   "previous": {
     "title": "Кассовые обороты",
     "permalink": "/uz/docs/reports/payment/cashbox-turnover"
+  },
+  "next": {
+    "title": "Отчет по должникам",
+    "permalink": "/uz/docs/reports/payment/debitors"
   }
 }

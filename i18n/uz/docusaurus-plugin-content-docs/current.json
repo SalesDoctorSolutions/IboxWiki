@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Keyingi",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.1. Обзор продукта": {
@@ -66,5 +66,25 @@
   "sidebar.tutorialSidebar.category.3.11. Панель администратора": {
     "message": "3.11. Administrator paneli",
     "description": "The label for category 3.11. Панель администратора in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4. Отчеты": {
+    "message": "4. Hisobotlar",
+    "description": "The label for category 4. Отчеты in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4.1. Отчеты по продажам": {
+    "message": "4.1. Savdo hisobotlari",
+    "description": "The label for category 4.1. Отчеты по продажам in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4.2. Отчеты по складу": {
+    "message": "4.2. Ombor hisobotlari",
+    "description": "The label for category 4.2. Отчеты по складу in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4.3. Отчеты по закупкам": {
+    "message": "4.3. Xarid hisobotlari",
+    "description": "The label for category 4.3. Отчеты по закупкам in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4.4. Отчеты по финансам": {
+    "message": "4.4. Moliyaviy hisobotlar",
+    "description": "The label for category 4.4. Отчеты по финансам in sidebar tutorialSidebar"
   }
 }

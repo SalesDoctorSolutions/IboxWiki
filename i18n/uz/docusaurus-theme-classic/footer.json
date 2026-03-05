@@ -49,7 +49,7 @@
   },
   "link.item.label.Больше Информации": {
     "message": "Batafsil Ma'lumot",
-    "description": "The label of footer link with label=Больше Информации linking to /docs/intro"
+    "description": "The label of footer link with label=Больше Информации linking to /docs/knowledge"
   },
   "link.item.label.Телеграм Канал": {
     "message": "Telegram KanalI",

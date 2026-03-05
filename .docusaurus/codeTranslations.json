@@ -86,5 +86,15 @@
   "📱 мобильное приложение POS": "📱 POS mobil ilovasi",
   "💻 POS-терминал для Windows": "💻 Windows uchun POS-terminal",
   "Хотите начать работу с iBox?": "iBox bilan ishlashni boshlamoqchimisiz?",
-  "Свяжитесь с нашей командой — мы подключим и поможем настроиться.": "Bizning jamoamiz bilan bog‘laning — biz tizimni ulab beramiz va sozlashda yordam beramiz."
+  "Свяжитесь с нашей командой — мы подключим и поможем настроиться.": "Bizning jamoamiz bilan bog‘laning — biz tizimni ulab beramiz va sozlashda yordam beramiz.",
+  "theme.SearchBar.noResultsText": "No results",
+  "theme.SearchBar.seeAllOutsideContext": "See all results outside \"{context}\"",
+  "theme.SearchBar.searchInContext": "See all results within \"{context}\"",
+  "theme.SearchBar.seeAll": "See all results",
+  "theme.SearchBar.label": "Search",
+  "theme.SearchPage.existingResultsTitle": "Search results for \"{query}\"",
+  "theme.SearchPage.emptyResultsTitle": "Search the documentation",
+  "theme.SearchPage.searchContext.everywhere": "Everywhere",
+  "theme.SearchPage.documentsFound.plurals": "1 document found|{count} documents found",
+  "theme.SearchPage.noResultsText": "No documents were found"
 }

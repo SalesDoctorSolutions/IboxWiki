@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '5f4'),
+    component: ComponentCreator('/uz/docs', 'fa5'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'cd0'),
+        component: ComponentCreator('/uz/docs', 'b11'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'c5b'),
+            component: ComponentCreator('/uz/docs', '511'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -449,6 +449,12 @@ export default [
               {
                 path: '/uz/docs/reports/payment/customer-balances',
                 component: ComponentCreator('/uz/docs/reports/payment/customer-balances', '062'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/debitors',
+                component: ComponentCreator('/uz/docs/reports/payment/debitors', '83a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

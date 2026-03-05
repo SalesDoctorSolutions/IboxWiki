@@ -5,7 +5,7 @@
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "Keyingi",
           "isLast": true,
           "path": "/uz/docs",
           "mainDocId": "overview/product-overview",
@@ -327,6 +327,11 @@
             {
               "id": "reports/payment/customer-balances",
               "path": "/uz/docs/reports/payment/customer-balances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/payment/debitors",
+              "path": "/uz/docs/reports/payment/debitors",
               "sidebar": "tutorialSidebar"
             },
             {

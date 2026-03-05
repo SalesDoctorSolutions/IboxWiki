@@ -1,0 +1,25 @@
+{
+  "id": "reports/payment/debitors",
+  "title": "Отчет по должникам",
+  "description": "Отчет Отчет по должникам показывает задолженности клиентов по месяцам на конец каждого месяца за период до 12 последних месяцев.",
+  "source": "@site/docs/reports/payment/debitors.md",
+  "sourceDirName": "reports/payment",
+  "slug": "/reports/payment/debitors",
+  "permalink": "/uz/docs/reports/payment/debitors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "debitors",
+    "title": "Отчет по должникам",
+    "sidebar_label": "Отчет по должникам",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Кассовые поступления",
+    "permalink": "/uz/docs/reports/payment/payments-received"
+  }
+}
