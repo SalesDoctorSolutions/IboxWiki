@@ -202,6 +202,8 @@ module.exports = {
         'reports/payment/cashbox-turnover',
         'reports/payment/payments-received',
         'reports/payment/debitors',
+        'reports/payment/mutual-settlements',
+        'reports/payment/cash-flow',
       ],
       },
       ],

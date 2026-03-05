@@ -21,5 +21,9 @@
   "previous": {
     "title": "Кассовые поступления",
     "permalink": "/uz/docs/reports/payment/payments-received"
+  },
+  "next": {
+    "title": "Взаиморасчеты",
+    "permalink": "/uz/docs/reports/payment/mutual-settlements"
   }
 }

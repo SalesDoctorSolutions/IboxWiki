@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'fa5'),
+    component: ComponentCreator('/uz/docs', '0eb'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'b11'),
+        component: ComponentCreator('/uz/docs', 'e87'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '511'),
+            component: ComponentCreator('/uz/docs', 'd6a'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -441,6 +441,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/uz/docs/reports/payment/cash-flow',
+                component: ComponentCreator('/uz/docs/reports/payment/cash-flow', '961'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/uz/docs/reports/payment/cashbox-turnover',
                 component: ComponentCreator('/uz/docs/reports/payment/cashbox-turnover', '471'),
                 exact: true,
@@ -461,6 +467,12 @@ export default [
               {
                 path: '/uz/docs/reports/payment/employee-balances',
                 component: ComponentCreator('/uz/docs/reports/payment/employee-balances', '7dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/mutual-settlements',
+                component: ComponentCreator('/uz/docs/reports/payment/mutual-settlements', '964'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

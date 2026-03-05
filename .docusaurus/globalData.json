@@ -320,6 +320,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "reports/payment/cash-flow",
+              "path": "/uz/docs/reports/payment/cash-flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/payment/cashbox-turnover",
               "path": "/uz/docs/reports/payment/cashbox-turnover",
               "sidebar": "tutorialSidebar"
@@ -337,6 +342,11 @@
             {
               "id": "reports/payment/employee-balances",
               "path": "/uz/docs/reports/payment/employee-balances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reports/payment/mutual-settlements",
+              "path": "/uz/docs/reports/payment/mutual-settlements",
               "sidebar": "tutorialSidebar"
             },
             {
