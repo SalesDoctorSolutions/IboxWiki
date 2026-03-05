@@ -1,7 +1,7 @@
 {
   "id": "reports/stock/stock-adjustment",
-  "title": "Корректировка остатков",
-  "description": "Отчет Корректировка остатков показывает все изменения остатков товаров на складе.",
+  "title": "Ombor korektirovkasi",
+  "description": "Ombor korektirovkasi hisoboti ombordagi mahsulot qoldiqlaridagi barcha korektirovkalarni ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/stock-adjustment.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/stock-adjustment",
@@ -13,17 +13,17 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "id": "stock-adjustment",
-    "title": "Корректировка остатков",
-    "sidebar_label": "Корректировка остатков",
+    "title": "Ombor korektirovkasi",
+    "sidebar_label": "Ombor korektirovkasi",
     "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Обороты по товарам",
+    "title": "Mahsulot aylanmalari",
     "permalink": "/uz/docs/reports/stock/inventory-movement-report"
   },
   "next": {
-    "title": "Рекомендуемые остатки",
+    "title": "Tavsiya etilgan qoldiqlar",
     "permalink": "/uz/docs/reports/stock/recommended-stock"
   }
 }

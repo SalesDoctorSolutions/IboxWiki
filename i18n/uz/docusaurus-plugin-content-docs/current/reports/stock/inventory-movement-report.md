@@ -1,46 +1,46 @@
 ---
 id: inventory-movement-report
-title: "Обороты по товарам"
-sidebar_label: "Обороты по товарам"
+title: "Mahsulot aylanmalari"
+sidebar_label: "Mahsulot aylanmalari"
 sidebar_position: 4
 ---
 
-# Обороты по товарам
+# Mahsulot aylanmalari
 
-Отчет **Обороты по товарам** показывает движение товаров за выбранный период.
+**Mahsulot aylanmalari** hisoboti tanlangan davr uchun mahsulotlar harakatini ko‘rsatadi.
 
-В отчете отображаются:
+Hisobotda quyidagilar aks etadi:
 
-- Остаток на начало периода  
-- Приход за период  
-- Расход за период  
-- Остаток на конец периода  
+- Davr boshidagi qoldiq  
+- Davr davomida kirim  
+- Davr davomida chiqimlar  
+- Yakuniy qoldiq  
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagilar uchun foydalanish mumkin:
 
-- Контролировать движение товаров  
-- Анализировать объем поступлений и списаний  
-- Проверять корректность складских остатков  
+- Mahsulotlar harakatini nazorat qilish  
+- Kirim va chiqim hajmini tahlil qilish  
+- Ombor qoldiqlarining to‘g‘riligini tekshirish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по складу** выберите **Обороты по товарам**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Ombor hisobotlari** ustunida **Mahsulot aylanmalari** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlar ko‘rsatilishi mumkin:
 
-- **Название товара** — наименование товара  
-- **Последняя закупочная цена** — последняя зафиксированная цена поступления   
-- **Начальный остаток** — количество товара на начало периода  
-- **Приход** — количество поступившего товара  
-- **Расход** — количество выбывшего товара  
-- **Конечный остаток** — количество товара на конец периода  
-- **Артикул** — код товара  
+- **Mahsulot nomi** — mahsulot nomi  
+- **Oxirgi xarid narxi** — oxirgi qayd etilgan kirim narxi  
+- **Dastlabgi qoldiq** — davr boshidagi mahsulot miqdori  
+- **Kirim** — kirim qilingan mahsulot miqdori  
+- **Chiqim** — chiqib ketgan mahsulot miqdori  
+- **Yakuniy qoldiq** — davr oxiridagi mahsulot miqdori  
+- **Artikul** — mahsulot kodi  
 
-:::tip Совет
-Установите флажок **Только товары с движением**, чтобы скрыть товары без операций за выбранный период.
+:::tip Maslahat
+Tanlangan davrda operatsiyalari bo‘lmagan mahsulotlarni yashirish uchun **Faqat harakat bor mahsulotlar** belgisini yoqing.
 :::

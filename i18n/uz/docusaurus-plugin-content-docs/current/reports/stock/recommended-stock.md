@@ -1,53 +1,54 @@
 ---
 id: recommended-stock
-title: "Рекомендуемые остатки"
-sidebar_label: "Рекомендуемые остатки"
+title: "Tavsiya etilgan qoldiqlar"
+sidebar_label: "Tavsiya etilgan qoldiqlar"
 sidebar_position: 6
 ---
-# Рекомендуемые остатки
 
-Отчет **Рекомендуемые остатки** помогает определить оптимальный уровень запасов по каждому товару.
+# Tavsiya etilgan qoldiqlar
 
-Система рассчитывает рекомендуемый остаток на основе:
+**Tavsiya etilgan qoldiqlar** hisoboti har bir mahsulot bo‘yicha optimal zaxira darajasini aniqlashga yordam beradi.
 
-- Средних ежедневных продаж за выбранный период  
-- Времени на логистику  
+Tizim tavsiya etilgan qoldiqni quyidagilarga asoslanib hisoblaydi:
 
-Затем отчет сравнивает расчетное значение с текущими остатками и показывает отклонения.
+- Tanlangan davr uchun o‘rtacha kunlik savdo hajmi  
+- Olib kelishga ketadigan vaqt  
 
-Отчет помогает:
+Shundan so‘ng hisobot hisoblangan qiymatni joriy qoldiq bilan solishtiradi va farqni ko‘rsatadi.
 
-- Избежать дефицита товара  
-- Снизить избыточные запасы  
-- Оценить возможные финансовые потери или замороженные средства  
-- Планировать следующий заказ  
+Hisobot quyidagilarga yordam beradi:
 
-## Как открыть отчет
+- Mahsulot yetishmovchiligidan qochish  
+- Ortiqcha zaxiralarni kamaytirish  
+- Yo'qotilgan foyda yoki muzlatilgan pullarni baholash  
+- Keyingi buyurtmani rejalashtirish  
 
-1. Откройте раздел **Отчеты** в левой панели  
-2. В блоке **Отчеты по складу** выберите **Рекомендуемые остатки**
+## Hisobotni qanday ochish mumkin
 
-Откроется список товаров с расчетами по каждому из них.
+1. Chap panelda **Hisobotlar** bo‘limini oching  
+2. **Ombor hisobotlari** ustunida **Tavsiya etilgan qoldiqlar** ni tanlang  
 
-## Доступные поля отчета
+Har bir mahsulot bo‘yicha hisob-kitoblar bilan mahsulotlar ro‘yxati ochiladi.
 
-В отчете отображаются следующие данные:
+## Hisobot ustunlari
 
-- **Товар** — наименование товара  
-- **Средние продажи в день** — среднее количество проданных единиц за день за выбранный период  
-- **Время на логистику** — количество дней от размещения заказа до поступления товара на склад  
-- **Доступно** — текущий остаток товара на складе  
-- **Рекомендованный остаток** — расчетное количество товара, которое должно быть на складе с учетом продаж и логистики  
-- **Разница** — отклонение между доступным и рекомендованным остатком  
+Hisobotda quyidagi ma’lumotlar ko‘rsatiladi:
 
-Дополнительно система рассчитывает финансовые показатели:
+- **Mahsulot** — mahsulot nomi  
+- **Kunlik o‘rtacha savdo** — tanlangan davr bo‘yicha kuniga sotilgan o‘rtacha mahsulot miqdori  
+- **Olib kelishga ketadigan vaqt** — buyurtma berilgandan mahsulot omborga kelguncha bo‘lgan kunlar soni  
+- **Qoldiq** — ombordagi joriy mahsulot qoldig‘i  
+- **Tavsiya etilgan qoldiq** — savdo va logistika hisobga olingan holda omborda bo‘lishi kerak bo‘lgan mahsulot miqdori  
+- **Farq** — mavjud qoldiq va tavsiya etilgan qoldiq o‘rtasidagi tafovut  
 
-- **Замороженные деньги** — себестоимость избыточного остатка. Показатель отображается, если разница положительная  
-- **Упущенная прибыль** — оценка недостающего количества по выбранному прайс-листу. Показатель отображается, если разница отрицательная  
+Qo‘shimcha ravishda tizim moliyaviy ko‘rsatkichlarni ham hisoblaydi:
 
-Также отчет показывает прогнозные значения:
+- **Muzlatilgan pullar** — ortiqcha qoldiqning tannarx bo‘yicha qiymati. Agar farq ijobiy bo‘lsa, ko‘rsatiladi  
+- **Yo‘qotilgan foyda** — tanlangan narxlar ro‘yxati bo‘yicha yetishmayotgan mahsulot miqdorining bahosi. Agar farq manfiy bo‘lsa, ko‘rsatiladi  
 
-- **На сколько хватит текущего остатка** — количество дней, на которое хватит доступного товара при текущих средних продажах  
-- **Время до следующего заказа** — через сколько дней необходимо оформить новый заказ, чтобы избежать дефицита  
+Shuningdek hisobot prognoz ko‘rsatkichlarini ham ko‘rsatadi:
 
-Используйте отчет регулярно, чтобы поддерживать баланс между наличием товара и оборотными средствами.
+- **Hozirgi qoldiq qanchaga yetadi** — mavjud mahsulot joriy o‘rtacha savdo hajmida necha kun yetishi  
+- **Buyurtmagacha kunlar soni** — mahsulot yetishmovchiligini oldini olish uchun necha kundan keyin yangi buyurtma berish kerakligi  
+
+Mahsulot mavjudligi va aylanma mablag‘lar o‘rtasidagi muvozanatni saqlash uchun ushbu hisobotdan muntazam foydalaning.

@@ -1,7 +1,7 @@
 {
   "id": "reports/stock/transfers",
-  "title": "Перемещения",
-  "description": "Отчет Перемещения содержит список всех перемещений товаров между складами с разбивкой по каждому товару.",
+  "title": "Ombordan omborga ko'chirishlar",
+  "description": "Ombordan omborga ko'chirishlar hisoboti omborlar o‘rtasidagi barcha ko'chirishlar ro‘yxatini har bir mahsulot bo‘yicha batafsil ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/transfers.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/transfers",
@@ -13,13 +13,13 @@
   "sidebarPosition": 7,
   "frontMatter": {
     "id": "transfers",
-    "title": "Перемещения",
-    "sidebar_label": "Перемещения",
+    "title": "Ombordan omborga ko'chirishlar",
+    "sidebar_label": "Ombordan omborga ko'chirishlar",
     "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Рекомендуемые остатки",
+    "title": "Tavsiya etilgan qoldiqlar",
     "permalink": "/uz/docs/reports/stock/recommended-stock"
   },
   "next": {

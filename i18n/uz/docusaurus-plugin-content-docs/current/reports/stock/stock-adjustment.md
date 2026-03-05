@@ -1,37 +1,38 @@
 ---
 id: stock-adjustment
-title: "Корректировка остатков"
-sidebar_label: "Корректировка остатков"
+title: "Ombor korektirovkasi"
+sidebar_label: "Ombor korektirovkasi"
 sidebar_position: 5
 ---
-# Корректировка остатков
 
-Отчет **Корректировка остатков** показывает все изменения остатков товаров на складе.  
-В отчете вы видите каждую корректировку отдельно — с деталями по товару.
+# Ombor korektirovkasi
 
-Отчет помогает:
+**Ombor korektirovkasi** hisoboti ombordagi mahsulot qoldiqlaridagi barcha korektirovkalarni ko‘rsatadi.  
+Hisobotda har bir korektirovka alohida ko‘rsatiladi — mahsulot bo‘yicha batafsil ma’lumotlar bilan.
 
-- Контролировать изменения складских остатков
-- Проверять корректность списаний и оприходований
-- Анализировать влияние корректировок на себестоимость и оценку товара
+Hisobot quyidagilarga yordam beradi:
 
-## Как открыть отчет
+- Ombor qoldiqlaridagi korektirovkalarni nazorat qilish  
+- Chiqim va kirim korektirovkalarining to‘g‘riligini tekshirish  
+- korektirovkalarning tannarx va mahsulot bahosiga ta’sirini tahlil qilish  
 
-1. Откройте раздел **Отчеты** в левой панели
-2. В блоке **Отчеты по складу** выберите **Корректировка остатков**
+## Hisobotni qanday ochish mumkin
 
-Откроется список всех корректировок с возможностью просмотра данных по каждому товару.
+1. Chap panelda **Hisobotlar** bo‘limini oching  
+2. **Ombor hisobotlari** ustunida **Ombor korektirovkasi** ni tanlang  
 
-## Доступные поля отчета
+Har bir mahsulot bo‘yicha ma’lumotlarni ko‘rish imkoniyati bilan barcha korektirovkalar ro‘yxati ochiladi.
 
-В отчете отображаются следующие данные:
+## Hisobot ustulari
 
-- **Товар** — наименование товара, по которому выполнена корректировка  
-- **Дата** — дата создания документа корректировки  
-- **Номер** — номер документа корректировки  
-- **Количество** — количество товара, на которое изменен остаток  
-- **Себестоимость единицы** — себестоимость одной единицы товара  
-- **Сумма корректировки** — итоговая сумма изменения по себестоимости  
-- **Оценка** — сумма оценки товара по выбранному прайс-листу  
+Hisobotda quyidagi ma’lumotlar ko‘rsatiladi:
 
-Информация в отчете позволяет сравнить фактические изменения остатков с их финансовой оценкой.
+- **Mahsulot** — qoldiq korektirovka amalga oshirilgan mahsulot nomi  
+- **Sana** — korektirovka hujjati yaratilgan sana  
+- **Raqam** — korektirovka hujjati raqami  
+- **Miqdor** — qoldiq o‘zgartirilgan mahsulot miqdori  
+- **Birlik tannarxi** — mahsulotning bir birlik tannarxi  
+- **Korektirovka summasi** — tannarx bo‘yicha umumiy o‘zgarish summasi  
+- **Baholangan summa** — tanlangan prays list bo‘yicha mahsulot qiymati  
+
+Hisobotdagi ma’lumotlar qoldiqlardagi haqiqiy o'zgarishlarni ularning moliyaviy bahosi bilan solishtirish imkonini beradi.

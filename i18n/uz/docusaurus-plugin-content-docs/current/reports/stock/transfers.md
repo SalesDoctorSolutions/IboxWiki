@@ -1,35 +1,35 @@
 ---
 id: transfers
-title: "Перемещения"
-sidebar_label: "Перемещения"
+title: "Ombordan omborga ko'chirishlar"
+sidebar_label: "Ombordan omborga ko'chirishlar"
 sidebar_position: 7
 ---
 
-# Перемещения
+# Ombordan omborga ko'chirishlar
 
-Отчет **Перемещения** содержит список всех перемещений товаров между складами с разбивкой по каждому товару.
+**Ombordan omborga ko'chirishlar** hisoboti omborlar o‘rtasidagi barcha ko'chirishlar ro‘yxatini har bir mahsulot bo‘yicha batafsil ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать внутреннее движение товаров  
-- Проверять количество по каждому перемещению  
-- Анализировать перемещения между складами  
+- Mahsulotlarning ichki harakatini nazorat qilish  
+- Har bir ko‘chirish bo‘yicha miqdorni tekshirish  
+- Ombordan omborga ko'chirishlarni tahlil qilish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по складу** выберите **Перемещения**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Ombor bo‘yicha hisobotlar** ustunida **Ombordan omborga ko'chirishlar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Товар** — наименование товара  
-- **Номер перемещения** — номер документа перемещения  
-- **Дата перемещения** — дата документа  
-- **Количество** — количество перемещенного товара  
-- **Оценка перемещения** — стоимость товаров по выбранному прайс-листу   
-- **Со склада** — склад-отправитель  
-- **На склад** — склад-получатель  
+- **Mahsulot** — mahsulot nomi  
+- **Raqam** — ko‘chirish hujjati raqami  
+- **Ko‘chirish sanasi** — hujjat sanasi  
+- **Miqdor** — ko‘chirilgan mahsulot miqdori  
+- **O'tkazmani baholash** — tanlangan prays list bo‘yicha mahsulot qiymati  
+- **Jo'natuvchi ombor** — qaysi ombordan
+- **Qabul qiluvchi ombor** — qaysi omborga 

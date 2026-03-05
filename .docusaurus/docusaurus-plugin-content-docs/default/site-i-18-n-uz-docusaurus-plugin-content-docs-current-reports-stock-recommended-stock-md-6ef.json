@@ -1,7 +1,7 @@
 {
   "id": "reports/stock/recommended-stock",
-  "title": "Рекомендуемые остатки",
-  "description": "Отчет Рекомендуемые остатки помогает определить оптимальный уровень запасов по каждому товару.",
+  "title": "Tavsiya etilgan qoldiqlar",
+  "description": "Tavsiya etilgan qoldiqlar hisoboti har bir mahsulot bo‘yicha optimal zaxira darajasini aniqlashga yordam beradi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/recommended-stock.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/recommended-stock",
@@ -13,17 +13,17 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "id": "recommended-stock",
-    "title": "Рекомендуемые остатки",
-    "sidebar_label": "Рекомендуемые остатки",
+    "title": "Tavsiya etilgan qoldiqlar",
+    "sidebar_label": "Tavsiya etilgan qoldiqlar",
     "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Корректировка остатков",
+    "title": "Ombor korektirovkasi",
     "permalink": "/uz/docs/reports/stock/stock-adjustment"
   },
   "next": {
-    "title": "Перемещения",
+    "title": "Ombordan omborga ko'chirishlar",
     "permalink": "/uz/docs/reports/stock/transfers"
   }
 }

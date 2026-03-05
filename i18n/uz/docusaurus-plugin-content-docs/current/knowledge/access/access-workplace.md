@@ -11,7 +11,7 @@ Xodim POS tizimi yoki iBox mobil ilovasi orqali ishlashi uchun unga ish joyi yar
 
 ---
 
-## Ish joyini qanday yaratish
+## Ish joyi yaratish
 
 1. **Sozlamalar** → **Ish joylari** bo‘limiga o‘ting.
 2. Yuqori o‘ng burchakdagi ➕ tugmasini bosing — **Ish joyi qo‘shish**.

@@ -1,35 +1,35 @@
 ---
 id: stock-by-warehouse
-title: "Остатки по складам"
-sidebar_label: "Остатки по складам"
+title: "Omborlar bo‘yicha qoldiqlar"
+sidebar_label: "Omborlar bo‘yicha qoldiqlar"
 sidebar_position: 1
 ---
 
-# Остатки по складам
+# Omborlar bo‘yicha qoldiqlar
 
-Отчет **Остатки по складам** показывает количество каждого товара на каждом складе.
+**Omborlar bo‘yicha qoldiqlar** hisoboti har bir omborda har bir mahsulotning miqdorini ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagilar uchun foydalanish mumkin:
 
-- Контролировать текущие остатки  
-- Сравнивать запасы между складами  
-- Планировать пополнение товаров  
+- Joriy qoldiqlarni nazorat qilish  
+- Omborlar o‘rtasida zaxiralarni solishtirish  
+- Mahsulotlarni to‘ldirishni rejalashtirish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по складу** выберите **Остатки по складам**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Ombor hisobotlari** ustunida **Omborlar bo‘yicha qoldiqlar** ni tanlang.
 
-Откроется страница отчета с актуальными данными.
+Amaldagi ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlar ko‘rsatilishi mumkin:
 
-- **Товар** — наименование товара  
-- **Категория** — категория товара  
-- **Бренд** — торговая марка товара  
-- **Группа** — группа товара  
-- **Итого остаток** — общее количество товара по всем складам  
-- **Остатки по складу** — количество товара по каждому складу отдельно  
-- **Штрихкод** — штрихкод товара  
+- **Mahsulot** — mahsulot nomi  
+- **Kategoriya** — mahsulot kategoriyasi  
+- **Brend** — mahsulot savdo belgisi  
+- **Guruh** — mahsulot guruhi  
+- **Jami qoldiq** — barcha omborlar bo‘yicha mahsulotning umumiy miqdori  
+- **Ombor bo‘yicha qoldiqlar** — har bir ombordagi mahsulot miqdori alohida  
+- **Shtrixkod** — mahsulot shtrixkodi  

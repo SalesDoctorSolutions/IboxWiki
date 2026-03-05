@@ -1,7 +1,7 @@
 {
   "id": "reports/stock/stock-by-warehouse",
-  "title": "Остатки по складам",
-  "description": "Отчет Остатки по складам показывает количество каждого товара на каждом складе.",
+  "title": "Omborlar bo‘yicha qoldiqlar",
+  "description": "Omborlar bo‘yicha qoldiqlar hisoboti har bir omborda har bir mahsulotning miqdorini ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/stock-by-warehouse.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/stock-by-warehouse",
@@ -13,8 +13,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "stock-by-warehouse",
-    "title": "Остатки по складам",
-    "sidebar_label": "Остатки по складам",
+    "title": "Omborlar bo‘yicha qoldiqlar",
+    "sidebar_label": "Omborlar bo‘yicha qoldiqlar",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/reports/sales/abc"
   },
   "next": {
-    "title": "Анализ остатков",
+    "title": "Ombor tahlili",
     "permalink": "/uz/docs/reports/stock/stock-analysis"
   }
 }

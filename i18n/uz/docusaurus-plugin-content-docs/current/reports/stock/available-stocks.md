@@ -1,39 +1,39 @@
 ---
 id: available-stocks
-title: "Доступные остатки"
-sidebar_label: "Доступные остатки"
+title: "Sotish mumkin bo'lgan qoldiq"
+sidebar_label: "Sotish mumkin bo'lgan qoldiq"
 sidebar_position: 3
 ---
 
-# Доступные остатки
+# Sotish mumkin bo'lgan qoldiq
 
-Отчет **Доступные остатки** показывает количество зарезервированных товаров и остаток, доступный для продажи.
+**Sotish mumkin bo'lgan qoldiq** hisoboti zaxiralangan mahsulotlar miqdorini va sotish uchun mavjud qoldiqni ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagilar uchun foydalanish mumkin:
 
-- Контролировать зарезервированные товары  
-- Проверять фактически доступное количество  
-- Планировать продажи и пополнение запасов  
+- Zaxiralangan mahsulotlarni nazorat qilish  
+- Amalda mavjud bo‘lgan miqdorni tekshirish  
+- Savdo va zaxiralarni to‘ldirishni rejalashtirish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по складу** выберите **Доступные остатки**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Ombor hisobotlari** ustunida **Sotish mumkin bo'lgan qoldiq** ni tanlang.
 
-Откроется страница отчета с актуальными данными.
+Amaldagi ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlar ko‘rsatilishi mumkin:
 
-- **Товар** — наименование товара  
-- **Артикул** — код товара  
-- **Категория товара** — категория, к которой относится товар  
-- **На складе** — текущее количество на складе  
-- **Резерв** — количество, зарезервированное заказами  
-- **Доступно** — количество, доступное для продажи  
-- **Последняя отгрузка** — дата последней отгрузки товара  
-- **Штрихкод** — штрихкод товара  
-- **Минимальный остаток** — установленный минимальный уровень запаса  
-- **Бренд** — торговая марка  
-- **Цена** — цена товара по выбранному прайс-листу  
+- **Mahsulot** — mahsulot nomi  
+- **Artikul** — mahsulot kodi  
+- **Mahsulot kategoriyasi** — mahsulot tegishli bo‘lgan kategoriya  
+- **Omborda** — ombordagi joriy miqdor  
+- **Zaxira** — buyurtmalar bilan zaxiralangan miqdor  
+- **Qoldiq** — sotish uchun mavjud miqdor  
+- **Oxirgi sotuv** — mahsulotning oxirgi sotilgan sanasi  
+- **Shtrixkod** — mahsulot shtrixkodi  
+- **Minimal qoldiq** — belgilangan minimal zaxira darajasi  
+- **Brend** — savdo belgisi  
+- **Narx** — tanlangan prays list bo‘yicha mahsulot narxi  

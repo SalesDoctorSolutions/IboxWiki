@@ -1,7 +1,7 @@
 {
   "id": "reports/stock/stock-analysis",
-  "title": "Анализ остатков",
-  "description": "Отчет Анализ остатков показывает стоимость товаров на складе и среднюю себестоимость по каждому товару.",
+  "title": "Ombor tahlili",
+  "description": "Ombor tahlili hisoboti ombordagi mahsulotlar qiymatini va har bir mahsulot bo‘yicha o‘rtacha tannarxni ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/stock-analysis.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/stock-analysis",
@@ -13,17 +13,17 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "id": "stock-analysis",
-    "title": "Анализ остатков",
-    "sidebar_label": "Анализ остатков",
+    "title": "Ombor tahlili",
+    "sidebar_label": "Ombor tahlili",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Остатки по складам",
+    "title": "Omborlar bo‘yicha qoldiqlar",
     "permalink": "/uz/docs/reports/stock/stock-by-warehouse"
   },
   "next": {
-    "title": "Доступные остатки",
+    "title": "Sotish mumkin bo'lgan qoldiq",
     "permalink": "/uz/docs/reports/stock/available-stocks"
   }
 }

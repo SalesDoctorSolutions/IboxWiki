@@ -1,41 +1,41 @@
 ---
 id: stock-analysis
-title: "Анализ остатков"
-sidebar_label: "Анализ остатков"
+title: "Ombor tahlili"
+sidebar_label: "Ombor tahlili"
 sidebar_position: 2
 ---
 
-# Анализ остатков
+# Ombor tahlili
 
-Отчет **Анализ остатков** показывает стоимость товаров на складе и среднюю себестоимость по каждому товару.
+**Ombor tahlili** hisoboti ombordagi mahsulotlar qiymatini va har bir mahsulot bo‘yicha o‘rtacha tannarxni ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagilar uchun foydalanish mumkin:
 
-- Оценить сумму запасов на складе  
-- Контролировать среднюю себестоимость  
-- Прогнозировать потенциальную выручку  
-- Анализировать структуру складских остатков  
+- Ombordagi zaxiralar umumiy qiymatini baholash  
+- O‘rtacha tannarxni nazorat qilish  
+- Kutilayotgan daromad prognoz qilish  
+- Ombor qoldiqlari tuzilmasini tahlil qilish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по складу** выберите **Анализ остатков**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Ombor hisobotlari** blokida **Ombor tahlili** ni tanlang.
 
-Откроется страница отчета с актуальными данными.
+Amaldagi ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlar ko‘rsatilishi mumkin:
 
-- **Товар** — наименование товара  
-- **На складе** — текущее количество товара  
-- **Сумма себестоимости** — общая стоимость товара по себестоимости  
-- **Средняя себестоимость** — средняя себестоимость единицы товара  
-- **Ожидаемая выручка** — расчетная сумма выручки при продаже текущего остатка  
-- **Категория товара** — категория, к которой относится товар  
-- **Группа товара** — группа товара  
-- **Бренд** — торговая марка  
+- **Mahsulot** — mahsulot nomi  
+- **Omborda** — mahsulotning joriy miqdori  
+- **Jami tannarx** — mahsulotning tannarx bo‘yicha umumiy qiymati  
+- **O‘rtacha tannarx** — mahsulot birligining o‘rtacha tannarxi  
+- **Kutilayotgan daromad** — joriy qoldiq sotilganda hisoblanadigan taxminiy tushum  
+- **Mahsulot kategoriyasi nomi** — mahsulot tegishli bo‘lgan kategoriya  
+- **Mahsulot guruhi nomi** — mahsulot guruhi  
+- **Brend** — savdo belgisi  
 
-:::info Информация
-Нажмите на название товара, чтобы открыть детальную информацию о себестоимости по каждому складу.
+:::info Ma’lumot
+Har bir ombor bo‘yicha tannarx tafsilotlarini ko‘rish uchun mahsulot nomini bosing.
 :::

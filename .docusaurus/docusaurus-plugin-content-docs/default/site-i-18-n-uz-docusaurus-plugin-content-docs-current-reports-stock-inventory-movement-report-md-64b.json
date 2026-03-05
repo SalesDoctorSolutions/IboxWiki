@@ -1,7 +1,7 @@
 {
   "id": "reports/stock/inventory-movement-report",
-  "title": "Обороты по товарам",
-  "description": "Отчет Обороты по товарам показывает движение товаров за выбранный период.",
+  "title": "Mahsulot aylanmalari",
+  "description": "Mahsulot aylanmalari hisoboti tanlangan davr uchun mahsulotlar harakatini ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/inventory-movement-report.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/inventory-movement-report",
@@ -13,17 +13,17 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "inventory-movement-report",
-    "title": "Обороты по товарам",
-    "sidebar_label": "Обороты по товарам",
+    "title": "Mahsulot aylanmalari",
+    "sidebar_label": "Mahsulot aylanmalari",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Доступные остатки",
+    "title": "Sotish mumkin bo'lgan qoldiq",
     "permalink": "/uz/docs/reports/stock/available-stocks"
   },
   "next": {
-    "title": "Корректировка остатков",
+    "title": "Ombor korektirovkasi",
     "permalink": "/uz/docs/reports/stock/stock-adjustment"
   }
 }
