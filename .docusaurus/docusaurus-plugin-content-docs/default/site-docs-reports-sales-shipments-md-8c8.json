@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/sales/shipments.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/shipments",
-  "permalink": "/uz/docs/reports/sales/shipments",
+  "permalink": "/docs/reports/sales/shipments",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Заказы",
-    "permalink": "/uz/docs/reports/sales/sales-orders"
+    "permalink": "/docs/reports/sales/sales-orders"
   },
   "next": {
     "title": "Покупательское поведение клиентов",
-    "permalink": "/uz/docs/reports/sales/customer-purchasing-behaviour"
+    "permalink": "/docs/reports/sales/customer-purchasing-behaviour"
   }
 }

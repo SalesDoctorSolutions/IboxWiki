@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/profitability-by-product",
+  "title": "Mahsulotlar bo'yicha foyda",
+  "description": "Mahsulotlar bo'yicha foyda hisoboti tanlangan davr uchun har bir mahsulot bo‘yicha foyda yoki zarar miqdorini ko‘rsatadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/sales/profitability-by-product.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/profitability-by-product",
+  "permalink": "/uz/docs/reports/sales/profitability-by-product",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "profitability-by-product",
+    "title": "Mahsulotlar bo'yicha foyda",
+    "sidebar_label": "Mahsulotlar bo'yicha foyda",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mijozlar xaridlarining tahlili",
+    "permalink": "/uz/docs/reports/sales/customer-purchasing-behaviour"
+  },
+  "next": {
+    "title": "Mijozlar bo'yicha foyda",
+    "permalink": "/uz/docs/reports/sales/profitability-by-customer"
+  }
+}

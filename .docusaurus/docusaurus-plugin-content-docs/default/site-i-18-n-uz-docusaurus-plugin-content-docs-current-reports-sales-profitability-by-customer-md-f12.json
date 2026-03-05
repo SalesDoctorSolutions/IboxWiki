@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/profitability-by-customer",
+  "title": "Mijozlar bo'yicha foyda",
+  "description": "Mijozlar bo'yicha foyda hisoboti tanlangan davr uchun har bir mijozga qilingan savdolardan olingan foyda yoki zarar miqdorini ko‘rsatadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/sales/profitability-by-customer.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/profitability-by-customer",
+  "permalink": "/uz/docs/reports/sales/profitability-by-customer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "profitability-by-customer",
+    "title": "Mijozlar bo'yicha foyda",
+    "sidebar_label": "Mijozlar bo'yicha foyda",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mahsulotlar bo'yicha foyda",
+    "permalink": "/uz/docs/reports/sales/profitability-by-product"
+  },
+  "next": {
+    "title": "Xodimlar bo'yicha foyda",
+    "permalink": "/uz/docs/reports/sales/profitability-by-employee"
+  }
+}

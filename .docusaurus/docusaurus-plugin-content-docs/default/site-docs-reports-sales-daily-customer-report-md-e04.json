@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/sales/daily-customer-report.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/daily-customer-report",
-  "permalink": "/uz/docs/reports/sales/daily-customer-report",
+  "permalink": "/docs/reports/sales/daily-customer-report",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Прибыльность по сотрудникам",
-    "permalink": "/uz/docs/reports/sales/profitability-by-employee"
+    "permalink": "/docs/reports/sales/profitability-by-employee"
   },
   "next": {
     "title": "Межорганизационные отгрузки",
-    "permalink": "/uz/docs/reports/sales/intercompany-shipments"
+    "permalink": "/docs/reports/sales/intercompany-shipments"
   }
 }

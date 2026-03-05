@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/sales-orders",
+  "title": "Buyurtmalar",
+  "description": "Buyurtmalar hisoboti barcha buyurtmalarning batafsil ro‘yxatini har bir mahsulot bo‘yicha alohida ko‘rsatadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/sales/sales-orders.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/sales-orders",
+  "permalink": "/uz/docs/reports/sales/sales-orders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "sales-orders",
+    "title": "Buyurtmalar",
+    "sidebar_label": "Buyurtmalar",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mijozlar qaytgan mahsulotlar",
+    "permalink": "/uz/docs/reports/sales/sales-returns"
+  },
+  "next": {
+    "title": "Sotuvlar",
+    "permalink": "/uz/docs/reports/sales/shipments"
+  }
+}

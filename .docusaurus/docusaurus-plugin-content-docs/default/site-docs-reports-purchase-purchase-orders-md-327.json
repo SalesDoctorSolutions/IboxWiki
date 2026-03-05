@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/purchase/purchase-orders.md",
   "sourceDirName": "reports/purchase",
   "slug": "/reports/purchase/purchase-orders",
-  "permalink": "/uz/docs/reports/purchase/purchase-orders",
+  "permalink": "/docs/reports/purchase/purchase-orders",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Возвраты поставщикам",
-    "permalink": "/uz/docs/reports/purchase/purchase-returns"
+    "permalink": "/docs/reports/purchase/purchase-returns"
   },
   "next": {
     "title": "Обороты с клиентами",
-    "permalink": "/uz/docs/reports/payment/customer-balances"
+    "permalink": "/docs/reports/payment/customer-balances"
   }
 }

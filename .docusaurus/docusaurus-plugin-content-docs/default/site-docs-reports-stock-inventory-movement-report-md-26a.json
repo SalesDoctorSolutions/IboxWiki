@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/stock/inventory-movement-report.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/inventory-movement-report",
-  "permalink": "/uz/docs/reports/stock/inventory-movement-report",
+  "permalink": "/docs/reports/stock/inventory-movement-report",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Доступные остатки",
-    "permalink": "/uz/docs/reports/stock/available-stocks"
+    "permalink": "/docs/reports/stock/available-stocks"
   },
   "next": {
     "title": "Корректировка остатков",
-    "permalink": "/uz/docs/reports/stock/stock-adjustment"
+    "permalink": "/docs/reports/stock/stock-adjustment"
   }
 }

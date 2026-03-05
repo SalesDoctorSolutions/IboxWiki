@@ -12,7 +12,7 @@ sidebar_position: 1
 Siz quyidagilarni bajarishingiz mumkin:
 - Ma’lum bir davr bo‘yicha savdoni tahlil qilish
 - Bir nechta davr ko‘rsatkichlarini taqqoslash
-- Ko‘rsatiladigan maydonlarni sozlash
+- Ko‘rsatiladigan ustunlarni sozlash
 - Hisobotni Excel yoki PDF formatida eksport qilish
 
 ---
@@ -20,7 +20,7 @@ Siz quyidagilarni bajarishingiz mumkin:
 ## Hisobotni qanday ochish kerak
 
 1. Chap paneldagi **Hisobotlar** bo‘limini oching.
-2. **Savdo hisobotlari** blokidan **Mahsulotlar bo‘yicha sotuv** ni tanlang.
+2. **Savdo hisobotlari** ustunida **Mahsulotlar bo‘yicha sotuv** ni tanlang.
 
 Tanlangan davr bo‘yicha ma’lumotlar sahifada ochiladi.
 
@@ -28,7 +28,7 @@ Tanlangan davr bo‘yicha ma’lumotlar sahifada ochiladi.
 
 ## Mavjud ustunlar
 
-Hisobotda quyidagi maydonlarni ko‘rsatish mumkin:
+Hisobotda quyidagi ustunlarni ko'rish mumkin:
 
 - **Mahsulot**
 - **Artikul**
@@ -36,10 +36,10 @@ Hisobotda quyidagi maydonlarni ko‘rsatish mumkin:
 - **Kategoriya**
 - **Guruh**
 
-Tahlil vazifasiga qarab kerakli maydonlarni sozlashingiz mumkin.
+Tahlil vazifasiga qarab kerakli ustunlarni sozlashingiz mumkin.
 
 :::info Ma’lumot
-Kerakli maydonlarni sozlang va hisobotni keyingi ishlash uchun Excel yoki PDF formatida yukab oling.
+Kerakli ustunlarni sozlang va hisobotni keyingi ishlov uchun Excel yoki PDF formatida yukab oling.
 :::
 
 ---

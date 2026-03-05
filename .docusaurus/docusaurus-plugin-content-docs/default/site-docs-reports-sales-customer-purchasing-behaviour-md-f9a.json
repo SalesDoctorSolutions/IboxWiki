@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/sales/customer-purchasing-behaviour.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/customer-purchasing-behaviour",
-  "permalink": "/uz/docs/reports/sales/customer-purchasing-behaviour",
+  "permalink": "/docs/reports/sales/customer-purchasing-behaviour",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Отгрузки",
-    "permalink": "/uz/docs/reports/sales/shipments"
+    "permalink": "/docs/reports/sales/shipments"
   },
   "next": {
     "title": "Прибыльность по товарам",
-    "permalink": "/uz/docs/reports/sales/profitability-by-product"
+    "permalink": "/docs/reports/sales/profitability-by-product"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/profitability-by-employee",
+  "title": "Xodimlar bo'yicha foyda",
+  "description": "Xodimlar bo'yicha foyda hisoboti tanlangan davr uchun har bir xodim tomonidan yaratilgan sotuvlardan olingan foyda yoki zarar miqdorini ko‘rsatadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/sales/profitability-by-employee.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/profitability-by-employee",
+  "permalink": "/uz/docs/reports/sales/profitability-by-employee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "profitability-by-employee",
+    "title": "Xodimlar bo'yicha foyda",
+    "sidebar_label": "Xodimlar bo'yicha foyda",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mijozlar bo'yicha foyda",
+    "permalink": "/uz/docs/reports/sales/profitability-by-customer"
+  },
+  "next": {
+    "title": "Mijozlar bo‘yicha kunlik hisobot",
+    "permalink": "/uz/docs/reports/sales/daily-customer-report"
+  }
+}

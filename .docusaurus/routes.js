@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '1d3'),
+    component: ComponentCreator('/uz/docs', '190'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '26c'),
+        component: ComponentCreator('/uz/docs', 'e7c'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '380'),
+            component: ComponentCreator('/uz/docs', '984'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -442,133 +442,133 @@ export default [
               },
               {
                 path: '/uz/docs/reports/payment/cash-flow',
-                component: ComponentCreator('/uz/docs/reports/payment/cash-flow', '961'),
+                component: ComponentCreator('/uz/docs/reports/payment/cash-flow', 'f22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/cashbox-turnover',
-                component: ComponentCreator('/uz/docs/reports/payment/cashbox-turnover', '471'),
+                component: ComponentCreator('/uz/docs/reports/payment/cashbox-turnover', '017'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/customer-balances',
-                component: ComponentCreator('/uz/docs/reports/payment/customer-balances', '062'),
+                component: ComponentCreator('/uz/docs/reports/payment/customer-balances', 'cce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/debitors',
-                component: ComponentCreator('/uz/docs/reports/payment/debitors', '83a'),
+                component: ComponentCreator('/uz/docs/reports/payment/debitors', '66f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/employee-balances',
-                component: ComponentCreator('/uz/docs/reports/payment/employee-balances', '7dc'),
+                component: ComponentCreator('/uz/docs/reports/payment/employee-balances', '370'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/mutual-settlements',
-                component: ComponentCreator('/uz/docs/reports/payment/mutual-settlements', '964'),
+                component: ComponentCreator('/uz/docs/reports/payment/mutual-settlements', 'f4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/net-working-capital',
-                component: ComponentCreator('/uz/docs/reports/payment/net-working-capital', 'f84'),
+                component: ComponentCreator('/uz/docs/reports/payment/net-working-capital', 'e62'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/organization-balances',
-                component: ComponentCreator('/uz/docs/reports/payment/organization-balances', 'cef'),
+                component: ComponentCreator('/uz/docs/reports/payment/organization-balances', '668'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/payments-received',
-                component: ComponentCreator('/uz/docs/reports/payment/payments-received', 'b70'),
+                component: ComponentCreator('/uz/docs/reports/payment/payments-received', 'b00'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/pnl',
-                component: ComponentCreator('/uz/docs/reports/payment/pnl', '8fe'),
+                component: ComponentCreator('/uz/docs/reports/payment/pnl', 'c44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/payment/supplier-balances',
-                component: ComponentCreator('/uz/docs/reports/payment/supplier-balances', 'eea'),
+                component: ComponentCreator('/uz/docs/reports/payment/supplier-balances', 'dc0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/purchase/',
-                component: ComponentCreator('/uz/docs/reports/purchase/', '4d1'),
+                component: ComponentCreator('/uz/docs/reports/purchase/', '3b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/purchase/purchase-orders',
-                component: ComponentCreator('/uz/docs/reports/purchase/purchase-orders', '813'),
+                component: ComponentCreator('/uz/docs/reports/purchase/purchase-orders', 'bda'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/purchase/purchase-returns',
-                component: ComponentCreator('/uz/docs/reports/purchase/purchase-returns', '282'),
+                component: ComponentCreator('/uz/docs/reports/purchase/purchase-returns', '1f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/abc',
-                component: ComponentCreator('/uz/docs/reports/sales/abc', '38d'),
+                component: ComponentCreator('/uz/docs/reports/sales/abc', '14c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/cashback-history',
-                component: ComponentCreator('/uz/docs/reports/sales/cashback-history', 'e6f'),
+                component: ComponentCreator('/uz/docs/reports/sales/cashback-history', '520'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/customer-purchasing-behaviour',
-                component: ComponentCreator('/uz/docs/reports/sales/customer-purchasing-behaviour', '2e4'),
+                component: ComponentCreator('/uz/docs/reports/sales/customer-purchasing-behaviour', 'f21'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/daily-customer-report',
-                component: ComponentCreator('/uz/docs/reports/sales/daily-customer-report', '546'),
+                component: ComponentCreator('/uz/docs/reports/sales/daily-customer-report', 'd8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/intercompany-shipments',
-                component: ComponentCreator('/uz/docs/reports/sales/intercompany-shipments', '55b'),
+                component: ComponentCreator('/uz/docs/reports/sales/intercompany-shipments', '52a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/profitability-by-customer',
-                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-customer', '0ac'),
+                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-customer', 'db3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/profitability-by-employee',
-                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-employee', '2b3'),
+                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-employee', '7cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/profitability-by-product',
-                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-product', '769'),
+                component: ComponentCreator('/uz/docs/reports/sales/profitability-by-product', '5e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -580,61 +580,61 @@ export default [
               },
               {
                 path: '/uz/docs/reports/sales/sales-orders',
-                component: ComponentCreator('/uz/docs/reports/sales/sales-orders', '33a'),
+                component: ComponentCreator('/uz/docs/reports/sales/sales-orders', '319'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/sales-returns',
-                component: ComponentCreator('/uz/docs/reports/sales/sales-returns', 'e12'),
+                component: ComponentCreator('/uz/docs/reports/sales/sales-returns', '03d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/sales/shipments',
-                component: ComponentCreator('/uz/docs/reports/sales/shipments', 'dd3'),
+                component: ComponentCreator('/uz/docs/reports/sales/shipments', '7f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/available-stocks',
-                component: ComponentCreator('/uz/docs/reports/stock/available-stocks', 'be7'),
+                component: ComponentCreator('/uz/docs/reports/stock/available-stocks', '728'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/inventory-movement-report',
-                component: ComponentCreator('/uz/docs/reports/stock/inventory-movement-report', '400'),
+                component: ComponentCreator('/uz/docs/reports/stock/inventory-movement-report', '008'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/recommended-stock',
-                component: ComponentCreator('/uz/docs/reports/stock/recommended-stock', '0e9'),
+                component: ComponentCreator('/uz/docs/reports/stock/recommended-stock', '890'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/stock-adjustment',
-                component: ComponentCreator('/uz/docs/reports/stock/stock-adjustment', 'dc7'),
+                component: ComponentCreator('/uz/docs/reports/stock/stock-adjustment', '059'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/stock-analysis',
-                component: ComponentCreator('/uz/docs/reports/stock/stock-analysis', '0a8'),
+                component: ComponentCreator('/uz/docs/reports/stock/stock-analysis', '6c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/stock-by-warehouse',
-                component: ComponentCreator('/uz/docs/reports/stock/stock-by-warehouse', 'b95'),
+                component: ComponentCreator('/uz/docs/reports/stock/stock-by-warehouse', '20c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/reports/stock/transfers',
-                component: ComponentCreator('/uz/docs/reports/stock/transfers', '995'),
+                component: ComponentCreator('/uz/docs/reports/stock/transfers', 'd83'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

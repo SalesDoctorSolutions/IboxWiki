@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/sales/abc.md",
   "sourceDirName": "reports/sales",
   "slug": "/reports/sales/abc",
-  "permalink": "/uz/docs/reports/sales/abc",
+  "permalink": "/docs/reports/sales/abc",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "История кешбэка",
-    "permalink": "/uz/docs/reports/sales/cashback-history"
+    "permalink": "/docs/reports/sales/cashback-history"
   },
   "next": {
     "title": "Остатки по складам",
-    "permalink": "/uz/docs/reports/stock/stock-by-warehouse"
+    "permalink": "/docs/reports/stock/stock-by-warehouse"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "reports/stock/available-stocks",
+  "title": "Доступные остатки",
+  "description": "Отчет Доступные остатки показывает количество зарезервированных товаров и остаток, доступный для продажи.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/stock/available-stocks.md",
+  "sourceDirName": "reports/stock",
+  "slug": "/reports/stock/available-stocks",
+  "permalink": "/uz/docs/reports/stock/available-stocks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "available-stocks",
+    "title": "Доступные остатки",
+    "sidebar_label": "Доступные остатки",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Анализ остатков",
+    "permalink": "/uz/docs/reports/stock/stock-analysis"
+  },
+  "next": {
+    "title": "Обороты по товарам",
+    "permalink": "/uz/docs/reports/stock/inventory-movement-report"
+  }
+}

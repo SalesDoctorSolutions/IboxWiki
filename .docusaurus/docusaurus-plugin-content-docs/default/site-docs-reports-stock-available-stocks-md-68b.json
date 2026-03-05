@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/stock/available-stocks.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/available-stocks",
-  "permalink": "/uz/docs/reports/stock/available-stocks",
+  "permalink": "/docs/reports/stock/available-stocks",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Анализ остатков",
-    "permalink": "/uz/docs/reports/stock/stock-analysis"
+    "permalink": "/docs/reports/stock/stock-analysis"
   },
   "next": {
     "title": "Обороты по товарам",
-    "permalink": "/uz/docs/reports/stock/inventory-movement-report"
+    "permalink": "/docs/reports/stock/inventory-movement-report"
   }
 }

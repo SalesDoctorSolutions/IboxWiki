@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/payment/payments-received.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/payments-received",
-  "permalink": "/uz/docs/reports/payment/payments-received",
+  "permalink": "/docs/reports/payment/payments-received",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Кассовые обороты",
-    "permalink": "/uz/docs/reports/payment/cashbox-turnover"
+    "permalink": "/docs/reports/payment/cashbox-turnover"
   },
   "next": {
     "title": "Отчет по должникам",
-    "permalink": "/uz/docs/reports/payment/debitors"
+    "permalink": "/docs/reports/payment/debitors"
   }
 }

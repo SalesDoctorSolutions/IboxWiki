@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/stock/stock-analysis.md",
   "sourceDirName": "reports/stock",
   "slug": "/reports/stock/stock-analysis",
-  "permalink": "/uz/docs/reports/stock/stock-analysis",
+  "permalink": "/docs/reports/stock/stock-analysis",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Остатки по складам",
-    "permalink": "/uz/docs/reports/stock/stock-by-warehouse"
+    "permalink": "/docs/reports/stock/stock-by-warehouse"
   },
   "next": {
     "title": "Доступные остатки",
-    "permalink": "/uz/docs/reports/stock/available-stocks"
+    "permalink": "/docs/reports/stock/available-stocks"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/customer-purchasing-behaviour",
+  "title": "Mijozlar xaridlarining tahlili",
+  "description": "Mijozlar xaridlarining tahlili hisoboti mijozlar bilan ishlash dinamikasini oylar kesimida ko‘rsatadi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/sales/customer-purchasing-behaviour.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/customer-purchasing-behaviour",
+  "permalink": "/uz/docs/reports/sales/customer-purchasing-behaviour",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "customer-purchasing-behaviour",
+    "title": "Mijozlar xaridlarining tahlili",
+    "sidebar_label": "Mijozlar xaridlarining tahlili",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sotuvlar",
+    "permalink": "/uz/docs/reports/sales/shipments"
+  },
+  "next": {
+    "title": "Mahsulotlar bo'yicha foyda",
+    "permalink": "/uz/docs/reports/sales/profitability-by-product"
+  }
+}

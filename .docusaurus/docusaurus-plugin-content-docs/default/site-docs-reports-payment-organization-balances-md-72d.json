@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/payment/organization-balances.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/organization-balances",
-  "permalink": "/uz/docs/reports/payment/organization-balances",
+  "permalink": "/docs/reports/payment/organization-balances",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Взаиморасчеты с сотрудниками",
-    "permalink": "/uz/docs/reports/payment/employee-balances"
+    "permalink": "/docs/reports/payment/employee-balances"
   },
   "next": {
     "title": "Кассовые обороты",
-    "permalink": "/uz/docs/reports/payment/cashbox-turnover"
+    "permalink": "/docs/reports/payment/cashbox-turnover"
   }
 }

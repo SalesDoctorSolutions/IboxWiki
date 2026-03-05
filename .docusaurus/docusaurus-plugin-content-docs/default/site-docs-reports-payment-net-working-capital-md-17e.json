@@ -5,7 +5,7 @@
   "source": "@site/docs/reports/payment/net-working-capital.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/net-working-capital",
-  "permalink": "/uz/docs/reports/payment/net-working-capital",
+  "permalink": "/docs/reports/payment/net-working-capital",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Движения по кассе",
-    "permalink": "/uz/docs/reports/payment/cash-flow"
+    "permalink": "/docs/reports/payment/cash-flow"
   },
   "next": {
     "title": "Прибыли и убытки",
-    "permalink": "/uz/docs/reports/payment/pnl"
+    "permalink": "/docs/reports/payment/pnl"
   }
 }

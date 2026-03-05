@@ -1,0 +1,29 @@
+{
+  "id": "reports/payment/mutual-settlements",
+  "title": "Взаиморасчеты",
+  "description": "Отчет Взаиморасчеты показывает текущие взаиморасчеты с контрагентами — кто и сколько должен.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/mutual-settlements.md",
+  "sourceDirName": "reports/payment",
+  "slug": "/reports/payment/mutual-settlements",
+  "permalink": "/uz/docs/reports/payment/mutual-settlements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "mutual-settlements",
+    "title": "Взаиморасчеты",
+    "sidebar_label": "Взаиморасчеты",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Отчет по должникам",
+    "permalink": "/uz/docs/reports/payment/debitors"
+  },
+  "next": {
+    "title": "Движения по кассе",
+    "permalink": "/uz/docs/reports/payment/cash-flow"
+  }
+}

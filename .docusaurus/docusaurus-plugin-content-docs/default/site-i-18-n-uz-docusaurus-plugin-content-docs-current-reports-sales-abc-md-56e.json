@@ -1,0 +1,29 @@
+{
+  "id": "reports/sales/abc",
+  "title": "ABC tahlili",
+  "description": "ABC tahlili hisoboti mahsulotlarni sof daromad va foyda ulushi bo‘yicha tasniflaydi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/sales/abc.md",
+  "sourceDirName": "reports/sales",
+  "slug": "/reports/sales/abc",
+  "permalink": "/uz/docs/reports/sales/abc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "abc",
+    "title": "ABC tahlili",
+    "sidebar_label": "ABC tahlili",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keshbek tarixi",
+    "permalink": "/uz/docs/reports/sales/cashback-history"
+  },
+  "next": {
+    "title": "Остатки по складам",
+    "permalink": "/uz/docs/reports/stock/stock-by-warehouse"
+  }
+}
