@@ -204,6 +204,8 @@ module.exports = {
         'reports/payment/debitors',
         'reports/payment/mutual-settlements',
         'reports/payment/cash-flow',
+        'reports/payment/net-working-capital',
+        'reports/payment/pnl',
       ],
       },
       ],

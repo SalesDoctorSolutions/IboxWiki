@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '0eb'),
+    component: ComponentCreator('/uz/docs', '1d3'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'e87'),
+        component: ComponentCreator('/uz/docs', '26c'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'd6a'),
+            component: ComponentCreator('/uz/docs', '380'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -477,6 +477,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/uz/docs/reports/payment/net-working-capital',
+                component: ComponentCreator('/uz/docs/reports/payment/net-working-capital', 'f84'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/uz/docs/reports/payment/organization-balances',
                 component: ComponentCreator('/uz/docs/reports/payment/organization-balances', 'cef'),
                 exact: true,
@@ -485,6 +491,12 @@ export default [
               {
                 path: '/uz/docs/reports/payment/payments-received',
                 component: ComponentCreator('/uz/docs/reports/payment/payments-received', 'b70'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/reports/payment/pnl',
+                component: ComponentCreator('/uz/docs/reports/payment/pnl', '8fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

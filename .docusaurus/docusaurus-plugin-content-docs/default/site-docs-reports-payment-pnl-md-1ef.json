@@ -1,0 +1,25 @@
+{
+  "id": "reports/payment/pnl",
+  "title": "Прибыли и убытки",
+  "description": "Отчет Прибыли и убытки (P&L) используется для оценки эффективности бизнеса.",
+  "source": "@site/docs/reports/payment/pnl.md",
+  "sourceDirName": "reports/payment",
+  "slug": "/reports/payment/pnl",
+  "permalink": "/uz/docs/reports/payment/pnl",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "pnl",
+    "title": "Прибыли и убытки",
+    "sidebar_label": "Прибыли и убытки",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Чистый оборотный капитал",
+    "permalink": "/uz/docs/reports/payment/net-working-capital"
+  }
+}

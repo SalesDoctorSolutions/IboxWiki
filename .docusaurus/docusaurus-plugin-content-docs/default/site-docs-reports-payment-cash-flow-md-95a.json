@@ -21,5 +21,9 @@
   "previous": {
     "title": "Взаиморасчеты",
     "permalink": "/uz/docs/reports/payment/mutual-settlements"
+  },
+  "next": {
+    "title": "Чистый оборотный капитал",
+    "permalink": "/uz/docs/reports/payment/net-working-capital"
   }
 }
