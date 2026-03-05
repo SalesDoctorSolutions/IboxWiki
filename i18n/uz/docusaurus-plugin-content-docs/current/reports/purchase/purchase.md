@@ -1,40 +1,40 @@
 ---
 id: purchase
-title: "Закупки"
-sidebar_label: "Закупки"
+title: "Xaridlar"
+sidebar_label: "Xaridlar"
 sidebar_position: 1
 ---
 
-# Закупки
+# Xaridlar
 
-Отчет **Закупки** содержит подробный список всех закупок с разбивкой по каждому товару.
+**Xaridlar** hisoboti barcha xaridlar ro‘yxatini har bir mahsulot bo‘yicha batafsil ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать объем закупок  
-- Анализировать закупочные цены  
-- Сравнивать закупочную и продажную стоимость  
-- Проверять данные по поставщикам и складам  
+- Xarid hajmini nazorat qilish  
+- Xarid narxlarini tahlil qilish  
+- Xarid narxi va sotuv narxini taqqoslash  
+- Ta'minotchilar va omborlar bo‘yicha ma’lumotlarni tekshirish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по закупкам** выберите **Закупки**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Xarid hisobotlari** ustunida **Xaridlar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Товар** — наименование товара  
-- **Дата закупки** — дата документа закупки  
-- **Номер закупки** — номер документа  
-- **Поставщик** — контрагент, у которого выполнена закупка  
-- **Количество** — количество закупленного товара  
-- **Цена** — закупочная цена за единицу  
-- **Сумма** — итоговая сумма по позиции  
-- **Цена продажи** — цена продажи товара по выбранному прайс листу
-- **Итого по продажной цене** — сумма по позиции по выбранному прайс листу
-- **Склад** — склад, на который оприходован товар  
-- **Ответственный** — сотрудник, оформивший закупку  
+- **Mahsulot** — mahsulot nomi  
+- **Xarid sanasi** — xarid hujjati sanasi  
+- **Xarid raqami** — hujjat raqami  
+- **Ta'minotchi** — mahsulot xarid qilingan kontragent  
+- **Miqdor** — xarid qilingan mahsulot miqdori  
+- **Narx** — bir dona uchun xarid narxi  
+- **Summa** — pozitsiya bo‘yicha umumiy summa  
+- **Sotish narxi** — tanlangan prays list bo‘yicha mahsulotning sotuv narxi  
+- **Jami sotuv narxi** — tanlangan prays list bo‘yicha pozitsiya jami  
+- **Ombor** — mahsulot qabul qilingan ombor  
+- **Mas'ul shaxs** — xaridni yaratgan xodim  

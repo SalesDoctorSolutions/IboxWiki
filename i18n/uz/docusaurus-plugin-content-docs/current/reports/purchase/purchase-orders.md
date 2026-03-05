@@ -1,46 +1,46 @@
 ---
 id: purchase-orders
-title: "Заказы поставщикам"
-sidebar_label: "Заказы поставщикам"
+title: "Xarid buyurtmalari"
+sidebar_label: "Xarid buyurtmalari"
 sidebar_position: 3
 ---
 
-# Заказы поставщикам
+# Xarid buyurtmalari
 
-Отчет **Заказы поставщикам** содержит список всех заказов поставщикам с разбивкой по каждому товару.
+**Xarid buyurtmalari** hisoboti barcha ta'minotchilarga berilgan buyurtmalar ro‘yxatini har bir mahsulot bo‘yicha batafsil ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать размещенные заказы  
-- Анализировать закупочные цены и скидки  
-- Отслеживать статус заказов  
-- Проверять данные по поставщикам  
+- Joylashtirilgan buyurtmalarni nazorat qilish  
+- Xarid narxlari va chegirmalarni tahlil qilish  
+- Buyurtmalar statusini kuzatish  
+- Ta'minotchilar bo‘yicha ma’lumotlarni tekshirish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по закупкам** выберите **Заказы поставщикам**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Xarid hisobotlari** ustunida **Xarid buyurtmalari** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rsatish mumkin:
 
-- **Товар** — наименование товара  
-- **Дата документа** — дата документа  
-- **Номер документа** — номер заказа  
-- **Поставщик** — поставщик товара  
-- **Ответственный** — сотрудник, оформивший заказ  
-- **Количество** — заказанное количество  
-- **Цена** — цена за единицу  
-- **Сумма** — итоговая сумма по позиции  
-- **Артикул** — код товара  
-- **Посредник** — партнер или агент, участвующий в сделке  
-- **Скидка** — размер скидки по позиции  
-- **Сумма скидок** — общая сумма скидок  
-- **Цена до скидки** — цена без учета скидки  
-- **Сумма до скидки** — сумма без учета скидки  
-- **Категория** — категория товара  
-- **Бренд** — торговая марка  
-- **Прайс-лист** — примененный прайс-лист 
+- **Mahsulot** — mahsulot nomi  
+- **Hujjat sanasi** — hujjat sanasi  
+- **Hujjat raqami** — buyurtma raqami  
+- **Ta'minotchi** — mahsulot yetkazib beruvchi  
+- **Mas'ul shaxs** — buyurtmani yaratgan xodim  
+- **Miqdor** — buyurtma qilingan miqdor  
+- **Narx** — bir birlik narxi  
+- **Summa** — pozitsiya bo‘yicha yakuniy summa  
+- **Artikul** — mahsulot kodi  
+- **Vositachi** — hamkor yoki agent  
+- **Chegirma** — pozitsiya bo‘yicha chegirma miqdori  
+- **Jami chegirma** — umumiy chegirmalar summasi  
+- **Chegirmadan oldingi narx** — chegirma hisobga olinmagan narx  
+- **Chegirmadan oldingi jami** — chegirma hisobga olinmagan summa  
+- **Kategoriya** — mahsulot kategoriyasi  
+- **Brend** — savdo markasi  
+- **Prays list** — qo‘llanilgan prays list

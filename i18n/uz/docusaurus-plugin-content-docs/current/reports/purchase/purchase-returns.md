@@ -1,31 +1,31 @@
 ---
 id: purchase-returns
-title: "Возвраты поставщикам"
-sidebar_label: "Возвраты поставщикам"
+title: "Ta'minotchiga qaytarilgan mahsulotlar"
+sidebar_label: "Ta'minotchiga qaytarilgan mahsulotlar"
 sidebar_position: 2
 ---
 
-# Возвраты поставщикам
+# Ta'minotchiga qaytarilgan mahsulotlar
 
-Отчет **Возвраты поставщикам** показывает количество и сумму возвратов поставщикам по каждому товару за выбранный период.
+**Ta'minotchiga qaytarilgan mahsulotlar** hisoboti tanlangan davr uchun har bir mahsulot bo‘yicha ta'minotchilarga qaytarilgan mahsulotlar miqdori va summasini ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать объем возвратов поставщикам  
-- Анализировать причины возвратов  
-- Проверять суммы по возвращенным товарам  
+- Ta'minotchiga qaytarilgan mahsulotlar hajmini nazorat qilish  
+- Qaytarish sabablarini tahlil qilish  
+- Qaytarilgan mahsulotlar bo‘yicha summalarni tekshirish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по закупкам** выберите **Возвраты поставщикам**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Xarid hisobotlari** ustunida **Ta'minotchiga qaytarilgan mahsulotlar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rsatish mumkin:
 
-- **Товар** — наименование возвращенного товара  
-- **Количество** — количество возвращенных единиц  
-- **Сумма** — общая сумма возврата  
+- **Mahsulot** — qaytarilgan mahsulot nomi  
+- **Miqdor** — qaytarilgan birliklar soni  
+- **Summa** — qaytarishning umumiy summasi  

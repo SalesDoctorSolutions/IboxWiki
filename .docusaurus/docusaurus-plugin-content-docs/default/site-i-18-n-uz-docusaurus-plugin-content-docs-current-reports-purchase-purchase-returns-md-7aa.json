@@ -1,7 +1,7 @@
 {
   "id": "reports/purchase/purchase-returns",
-  "title": "Возвраты поставщикам",
-  "description": "Отчет Возвраты поставщикам показывает количество и сумму возвратов поставщикам по каждому товару за выбранный период.",
+  "title": "Ta'minotchiga qaytarilgan mahsulotlar",
+  "description": "Ta'minotchiga qaytarilgan mahsulotlar hisoboti tanlangan davr uchun har bir mahsulot bo‘yicha ta'minotchilarga qaytarilgan mahsulotlar miqdori va summasini ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/purchase/purchase-returns.md",
   "sourceDirName": "reports/purchase",
   "slug": "/reports/purchase/purchase-returns",
@@ -13,17 +13,17 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "id": "purchase-returns",
-    "title": "Возвраты поставщикам",
-    "sidebar_label": "Возвраты поставщикам",
+    "title": "Ta'minotchiga qaytarilgan mahsulotlar",
+    "sidebar_label": "Ta'minotchiga qaytarilgan mahsulotlar",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Закупки",
+    "title": "Xaridlar",
     "permalink": "/uz/docs/reports/purchase/"
   },
   "next": {
-    "title": "Заказы поставщикам",
+    "title": "Xarid buyurtmalari",
     "permalink": "/uz/docs/reports/purchase/purchase-orders"
   }
 }

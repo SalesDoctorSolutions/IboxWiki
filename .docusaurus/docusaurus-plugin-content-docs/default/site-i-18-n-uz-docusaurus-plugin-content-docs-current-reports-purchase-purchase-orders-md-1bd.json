@@ -1,7 +1,7 @@
 {
   "id": "reports/purchase/purchase-orders",
-  "title": "Заказы поставщикам",
-  "description": "Отчет Заказы поставщикам содержит список всех заказов поставщикам с разбивкой по каждому товару.",
+  "title": "Xarid buyurtmalari",
+  "description": "Xarid buyurtmalari hisoboti barcha ta'minotchilarga berilgan buyurtmalar ro‘yxatini har bir mahsulot bo‘yicha batafsil ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/purchase/purchase-orders.md",
   "sourceDirName": "reports/purchase",
   "slug": "/reports/purchase/purchase-orders",
@@ -13,13 +13,13 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "id": "purchase-orders",
-    "title": "Заказы поставщикам",
-    "sidebar_label": "Заказы поставщикам",
+    "title": "Xarid buyurtmalari",
+    "sidebar_label": "Xarid buyurtmalari",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Возвраты поставщикам",
+    "title": "Ta'minotchiga qaytarilgan mahsulotlar",
     "permalink": "/uz/docs/reports/purchase/purchase-returns"
   },
   "next": {
