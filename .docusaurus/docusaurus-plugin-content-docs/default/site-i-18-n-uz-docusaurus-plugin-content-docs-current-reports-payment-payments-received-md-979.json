@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/payments-received",
-  "title": "Кассовые поступления",
-  "description": "Отчет Кассовые поступления показывает список всех приходов в кассу, их сумму и источник поступления.",
+  "title": "Kassa kirimlari",
+  "description": "Kassa kirimlari hisobotida kassaga tushgan barcha kirim operatsiyalari, ularning summasi va kirim manbasi ko‘rsatiladi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/payments-received.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/payments-received",
@@ -13,13 +13,13 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "id": "payments-received",
-    "title": "Кассовые поступления",
-    "sidebar_label": "Кассовые поступления",
+    "title": "Kassa kirimlari",
+    "sidebar_label": "Kassa kirimlari",
     "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Кассовые обороты",
+    "title": "Kassa aylanmalari",
     "permalink": "/uz/docs/reports/payment/cashbox-turnover"
   },
   "next": {

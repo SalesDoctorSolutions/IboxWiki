@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/customer-balances",
-  "title": "Обороты с клиентами",
-  "description": "Отчет Обороты с клиентами показывает начальный и конечный баланс клиента за выбранный период, а также сумму переданных и полученных средств или товаров.",
+  "title": "Mijozlar bilan aylanmalar",
+  "description": "Mijozlar bilan aylanmalar hisoboti tanlangan davr uchun mijozning boshlang‘ich va yakuniy balansini, shuningdek mijozga berilgan va mijozdan olingan mablag‘lar yoki mahsulotlar summasini ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/customer-balances.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/customer-balances",
@@ -13,8 +13,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "customer-balances",
-    "title": "Обороты с клиентами",
-    "sidebar_label": "Обороты с клиентами",
+    "title": "Mijozlar bilan aylanmalar",
+    "sidebar_label": "Mijozlar bilan aylanmalar",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/reports/purchase/purchase-orders"
   },
   "next": {
-    "title": "Обороты с поставщиками",
+    "title": "Ta'minotchilar bilan aylanmalar",
     "permalink": "/uz/docs/reports/payment/supplier-balances"
   }
 }

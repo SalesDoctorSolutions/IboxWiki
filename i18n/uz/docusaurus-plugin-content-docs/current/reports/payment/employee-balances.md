@@ -1,34 +1,34 @@
 ---
 id: employee-balances
-title: "Взаиморасчеты с сотрудниками"
-sidebar_label: "Взаиморасчеты с сотрудниками"
+title: "Xodimlar bilan oldi-berdi"
+sidebar_label: "Xodimlar bilan oldi-berdi"
 sidebar_position: 3
 ---
 
-# Взаиморасчеты с сотрудниками
+# Xodimlar bilan oldi-berdi
 
-Отчет **Взаиморасчеты с сотрудниками** показывает начальный и конечный баланс сотрудника за выбранный период, а также сумму начислений и выплат.
+**Xodimlar bilan oldi-berdi** hisoboti tanlangan davr uchun xodimning boshlang‘ich va yakuniy balansini, shuningdek yozilgan va berilgan summalarni ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать расчеты с сотрудниками  
-- Проверять начисления заработной платы и других выплат  
-- Анализировать задолженности  
-- Отслеживать изменения баланса за период  
+- Xodimlar bilan hisob-kitoblarni nazorat qilish  
+- Ish haqi va boshqa to‘lovlar bo‘yicha hisob-kitoblarni tekshirish  
+- Qarzdorliklarni tahlil qilish  
+- Davr davomida balansdagi o‘zgarishlarni kuzatish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Взаиморасчеты с сотрудниками**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Moliyaviy hisobotlar** ustunida **Xodimlar bilan oldi-berdi** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Название сотрудника** — наименование сотрудника  
-- **Начальный баланс** — баланс сотрудника на начало периода  
-- **Начислено** — сумма начислений за период  
-- **Выплачено** — сумма выплат за период  
-- **Конечный баланс** — баланс сотрудника на конец периода  
+- **Xodim** — xodimning nomi  
+- **Davr boshidagi balans** — xodimning boshlang'ich balansi
+- **Yozildi** — davr davomida yozilgan summalar  
+- **Berildi** — davr davomida berilgan summalar  
+- **Davr yakunidagi balans** — xodimning yakuniy balansi

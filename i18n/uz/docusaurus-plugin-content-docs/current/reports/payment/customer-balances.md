@@ -1,36 +1,36 @@
 ---
 id: customer-balances
-title: "Обороты с клиентами"
-sidebar_label: "Обороты с клиентами"
+title: "Mijozlar bilan aylanmalar"
+sidebar_label: "Mijozlar bilan aylanmalar"
 sidebar_position: 1
 ---
 
-# Обороты с клиентами
+# Mijozlar bilan aylanmalar
 
-Отчет **Обороты с клиентами** показывает начальный и конечный баланс клиента за выбранный период, а также сумму переданных и полученных средств или товаров.
+**Mijozlar bilan aylanmalar** hisoboti tanlangan davr uchun mijozning boshlang‘ich va yakuniy balansini, shuningdek mijozga berilgan va mijozdan olingan mablag‘lar yoki mahsulotlar summasini ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать задолженность клиентов  
-- Анализировать взаиморасчеты  
-- Проверять движение средств и товаров  
-- Сравнивать изменения баланса за период  
+- Mijozlarning qarzdorligini nazorat qilish  
+- O‘zaro hisob-kitoblarni tahlil qilish  
+- Mablag‘lar va mahsulotlar harakatini tekshirish  
+- Davr davomida balans o‘zgarishini taqqoslash  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Обороты с клиентами**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Moliyaviy hisobotlar** ustunida **Mijozlar bilan aylanmalar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Название клиента** — наименование клиента  
-- **Территория** — регион или зона обслуживания клиента  
-- **Начальный баланс** — баланс клиента на начало периода  
-- **Передано** — сумма средств или товаров, переданных клиенту  
-- **Принято** — сумма средств или товаров, полученных от клиента  
-- **Конечный баланс** — баланс клиента на конец периода  
-- **Категория клиента** — категория, к которой относится клиент  
+- **Mijoz nomi** — mijoz nomi  
+- **Hudud** — mijoz xizmat ko‘rsatiladigan hudud yoki zona  
+- **Davr boshidagi balans** — Mijozning boshlang'ich balansi  
+- **Berilgan** — mijozga berilgan mablag‘lar yoki mahsulotlar summasi  
+- **Olingan** — mijozdan qabul qilingan mablag‘lar yoki mahsulotlar summasi  
+- **Davt yakunidagi balans** — yakuniy mijoz balansi  
+- **Mijoz kategoriyasi** — mijoz tegishli bo‘lgan kategoriya

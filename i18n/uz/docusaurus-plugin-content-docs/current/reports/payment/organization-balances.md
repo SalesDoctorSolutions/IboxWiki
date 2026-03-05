@@ -1,34 +1,34 @@
 ---
 id: organization-balances
-title: "Обороты с организациями"
-sidebar_label: "Обороты с организациями"
+title: "Korxonalar bilan aylanmalar"
+sidebar_label: "Korxonalar bilan aylanmalar"
 sidebar_position: 4
 ---
 
-# Обороты с организациями
+# Korxonalar bilan aylanmalar
 
-Отчет **Обороты с организациями** показывает начальный и конечный баланс организаций за выбранный период, а также сумму переданных и полученных средств или товаров.
+**Korxonalar bilan aylanmalar** hisoboti tanlangan davr uchun korxonalarning boshlang‘ich va yakuniy balansini, shuningdek berilgan va olingan mablag‘lar yoki mahsulotlar summasini ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать взаиморасчеты между организациями  
-- Анализировать движение средств и товаров  
-- Проверять задолженности  
-- Отслеживать изменения баланса за период  
+- Korxonalar o‘rtasidagi o‘zaro hisob-kitoblarni nazorat qilish  
+- Mablag‘lar va mahsulotlar harakatini tahlil qilish  
+- Qarzdorliklarni tekshirish  
+- Davr davomida balansdagi o‘zgarishlarni kuzatish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Обороты с организациями**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Moliyaviy hisobotlar** ustunida **Korxonalar bilan aylanmalar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rsatish mumkin:
 
-- **Организация** — наименование организации  
-- **Начальный баланс** — баланс организации на начало периода  
-- **Передано** — сумма средств или товаров, переданных организации  
-- **Принято** — сумма средств или товаров, полученных от организации  
-- **Конечный баланс** — баланс организации на конец периода  
+- **Korxona** — korxona nomi  
+- **Davr boshidagi balans** — korxonaning boshlang'ich balansi 
+- **Berilgan** — korxonaga berilgan mablag‘ yoki mahsulotlar summasi  
+- **Olingan** — korxonadan olingan mablag‘ yoki mahsulotlar summasi  
+- **Davr yakunidagi balans** — korxonaning yakuniy balansi  

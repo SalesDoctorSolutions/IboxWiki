@@ -1,34 +1,34 @@
 ---
 id: supplier-balances
-title: "Обороты с поставщиками"
-sidebar_label: "Обороты с поставщиками"
+title: "Ta'minotchilar bilan aylanmalar"
+sidebar_label: "Ta'minotchilar bilan aylanmalar"
 sidebar_position: 2
 ---
 
-# Обороты с поставщиками
+# Ta'minotchilar bilan aylanmalar
 
-Отчет **Обороты с поставщиками** показывает начальный и конечный баланс поставщика за выбранный период, а также сумму переданных и полученных средств или товаров.
+**Ta'minotchilar bilan aylanmalar** hisoboti tanlangan davr uchun ta'minotchining boshlang‘ich va yakuniy balansini, shuningdek ta'minotchiga berilgan va ta'minotchidan qabul qilingan mablag‘lar yoki mahsulotlar summasini ko‘rsatadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi maqsadlarda foydalanishingiz mumkin:
 
-- Контролировать задолженность перед поставщиками  
-- Анализировать взаиморасчеты  
-- Проверять движение средств и товаров  
-- Отслеживать изменения баланса за период  
+- Ta'minotchilar oldidagi qarzdorlikni nazorat qilish  
+- O‘zaro hisob-kitoblarni tahlil qilish  
+- Mablag‘lar va mahsulotlar harakatini tekshirish  
+- Davr davomida balans o‘zgarishini kuzatish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Обороты с поставщиками**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Moliyaviy hisobotlar** ustunida **Ta'minotchilar bilan aylanmalar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Название поставщика** — наименование поставщика  
-- **Начальный баланс** — баланс на начало периода  
-- **Передано** — сумма средств или товаров, переданных поставщику  
-- **Принято** — сумма средств или товаров, полученных от поставщика  
-- **Конечный баланс** — баланс на конец периода  
+- **Ta'minotchi nomi** — ta'minotchi nomi  
+- **Davr boshidagi balans** — ta'minotchining boshlang'ich balansi  
+- **Berilgan** — ta'minotchiga berilgan mablag‘lar yoki mahsulotlar summasi  
+- **Olingan** — ta'minotchidan qabul qilingan mablag‘lar yoki mahsulotlar summasi  
+- **Davr yakunidagi balans** — ta'minotchining yakuniy balansi

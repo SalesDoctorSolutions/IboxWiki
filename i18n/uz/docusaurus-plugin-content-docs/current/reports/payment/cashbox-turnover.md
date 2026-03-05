@@ -1,40 +1,40 @@
 ---
 id: cashbox-turnover
-title: "Кассовые обороты"
-sidebar_label: "Кассовые обороты"
+title: "Kassa aylanmalari"
+sidebar_label: "Kassa aylanmalari"
 sidebar_position: 5
 ---
 
-# Кассовые обороты
+# Kassa aylanmalari
 
-Отчет **Кассовые обороты** показывает начальный и конечный остаток денежных средств в кассе, а также сумму прихода, расхода и их разницу за выбранный период.
+**Kassa aylanmalari** hisobotida tanlangan davr uchun kassadagi pul mablag‘larining boshlang‘ich va yakuniy qoldig‘i, shuningdek kirim, chiqim va ularning farqi ko‘rsatiladi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi holatlarda foydalaning:
 
-- Контролировать движение денежных средств  
-- Проверять кассовые операции  
-- Анализировать разницу между приходом и расходом  
-- Отслеживать остаток в кассе  
+- Pul mablag‘lari harakatini nazorat qilish  
+- Kassa operatsiyalarini tekshirish  
+- Kirim va chiqim o‘rtasidagi farqni tahlil qilish  
+- Kassadagi qoldiqni kuzatish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Кассовые обороты**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Moliyaviy hisobotlar** ustunida **Kassa aylanmalari** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период (по умолчанию отображаются последние 7 дней).
+Tanlangan davr uchun ma’lumotlar bilan hisobot sahifasi ochiladi (sukut bo‘yicha oxirgi 7 kun ko‘rsatiladi).
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rsatish mumkin:
 
-- **Касса** — название кассы  
-- **Дата** — дата документа (отображается при детальном просмотре)  
-- **Начальный остаток** — сумма на начало периода  
-- **Приход** — сумма поступлений  
-- **Расход** — сумма списаний  
-- **Разница (Приход - Расход)** — итоговая разница за период  
-- **Конечный остаток** — сумма на конец периода  
+- **Kassa** — kassa nomi  
+- **Sana** — hujjat sanasi (batafsil ko‘rishda ko‘rsatiladi)  
+- **Dastlabki balans** — davr boshidagi summa  
+- **Kirim** — tushumlar summasi  
+- **Chiqim** — chiqimlar summasi  
+- **Kirim - Chiqim** — davr bo‘yicha yakuniy farq  
+- **Yakuniy qoldiq** — davr oxiridagi summa  
 
-:::tip Совет
-Нажмите на название кассы, чтобы посмотреть подробную информацию об оборотах по дням.
+:::tip Maslahat
+Kunlar bo‘yicha aylanmalarni batafsil ko‘rish uchun kassa nomini bosing.
 :::

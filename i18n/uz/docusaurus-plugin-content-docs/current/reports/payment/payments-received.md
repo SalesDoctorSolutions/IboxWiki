@@ -1,35 +1,35 @@
 ---
 id: payments-received
-title: "Кассовые поступления"
-sidebar_label: "Кассовые поступления"
+title: "Kassa kirimlari"
+sidebar_label: "Kassa kirimlari"
 sidebar_position: 6
 ---
 
-# Кассовые поступления
+# Kassa kirimlari
 
-Отчет **Кассовые поступления** показывает список всех приходов в кассу, их сумму и источник поступления.
+**Kassa kirimlari** hisobotida kassaga tushgan barcha kirim operatsiyalari, ularning summasi va kirim manbasi ko‘rsatiladi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagi holatlarda foydalaning:
 
-- Контролировать поступление денежных средств  
-- Проверять источники оплат  
-- Анализировать способы оплаты  
-- Отслеживать движение денег по кассам  
+- Pul mablag‘lari kirimini nazorat qilish  
+- To‘lov manbalarini tekshirish  
+- To‘lov usullarini tahlil qilish  
+- Kassalar bo‘yicha pul harakatini kuzatish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish mumkin
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Кассовые поступления**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.
+2. **Moliyaviy hisobotlar** ustunida **Kassa kirimlari** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr uchun ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rsatish mumkin:
 
-- **Номер оплаты** — номер документа оплаты  
-- **Дата оплаты** — дата проведения операции  
-- **Источник** — оплата от клиента, возврат от поставщика или прочие поступления  
-- **Способ оплаты** — наличные, карта или другой способ  
-- **Касса** — касса, в которую поступили средства  
-- **Сумма** — сумма поступления  
+- **To‘lov raqami** — to‘lov hujjati raqami  
+- **To‘lov sanasi** — operatsiya o‘tkazilgan sana  
+- **Manba** — mijozdan to‘lov, ta'minotchidan pul qaytarish yoki boshqa kirimlar  
+- **To‘lov usuli** — naqd pul, karta yoki boshqa usul  
+- **Kassa** — mablag‘ tushgan kassa  
+- **Jami** — kirim summasi  

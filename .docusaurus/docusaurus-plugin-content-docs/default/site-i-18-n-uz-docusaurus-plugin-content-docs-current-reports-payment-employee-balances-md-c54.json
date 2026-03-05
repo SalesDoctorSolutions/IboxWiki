@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/employee-balances",
-  "title": "Взаиморасчеты с сотрудниками",
-  "description": "Отчет Взаиморасчеты с сотрудниками показывает начальный и конечный баланс сотрудника за выбранный период, а также сумму начислений и выплат.",
+  "title": "Xodimlar bilan oldi-berdi",
+  "description": "Xodimlar bilan oldi-berdi hisoboti tanlangan davr uchun xodimning boshlang‘ich va yakuniy balansini, shuningdek yozilgan va berilgan summalarni ko‘rsatadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/employee-balances.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/employee-balances",
@@ -13,17 +13,17 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "id": "employee-balances",
-    "title": "Взаиморасчеты с сотрудниками",
-    "sidebar_label": "Взаиморасчеты с сотрудниками",
+    "title": "Xodimlar bilan oldi-berdi",
+    "sidebar_label": "Xodimlar bilan oldi-berdi",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Обороты с поставщиками",
+    "title": "Ta'minotchilar bilan aylanmalar",
     "permalink": "/uz/docs/reports/payment/supplier-balances"
   },
   "next": {
-    "title": "Обороты с организациями",
+    "title": "Korxonalar bilan aylanmalar",
     "permalink": "/uz/docs/reports/payment/organization-balances"
   }
 }
