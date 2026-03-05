@@ -65,7 +65,7 @@ Agar mahsulotlarni qismlab qabul qilish kerak bo‘lsa:
 
 - Agar xarid buyurtma raqami yonida **yuk mashinasi** belgisi bo‘lsa, unga xarid bog‘langan.
 - **«Qabul qilingan»** ustunida qabul qilingan summa ko‘rinadi.
-- Ranglar orqali holat aniqlanadi:
+- Ranglar orqali status aniqlanadi:
   - **To‘q sariq** — xarid buyurtma qisman qabul qilingan.
   - **Yashil** — xarid buyurtma to‘liq qabul qilingan.
   - **Qizil** — xarid buyurtma bo‘yicha qaytarish mavjud.

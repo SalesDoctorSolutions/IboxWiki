@@ -51,17 +51,7 @@ Foyda bo‘yicha hisobotlar asosiy valyutada shakllantiriladi. Tizimda faol ishl
 :::
 
 ---
-### To‘lov usullari
-Mijozlar buyurtmalarni qanday usulda to‘lashini qo‘shing.
 
-1. Sozlamalar belgisi ⚙️ ustiga bosing.
-2. **Umumiy sozlamalar** → **To‘lov usullari** bo‘limiga o‘ting.
-3. Yuqori o‘ng burchakdagi plus tugmasini bosing.
-4. To‘lov usulini kiriting — masalan, naqd pul, karta yoki bank o‘tkazmasi.
-5. **Saqlash** tugmasini bosing.
-<img src="/img/quick-start/qs-payment-methods-uz.png" alt="To‘lov usullarini qo‘shish" width="600"/>
-
----
 ## Asosiy elementlarni qo‘shish
 Endi har kuni ishlaydigan obyektlarni qo‘shamiz: kassalar va omborlar.
 

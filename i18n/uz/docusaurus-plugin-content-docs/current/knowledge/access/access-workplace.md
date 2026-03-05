@@ -34,7 +34,7 @@ Ma’lumotnomalarga kirish huquqlarini sozlang:
 
 - **Mahsulotlar** — ko‘rish, yaratish, xarid narxini ko‘rish  
 - **Mijozlar** — ko‘rish, yaratish, balans va qarzdorlarni ko‘rish  
-- **Ta'minothcilar** — agar bo‘lim yoqilgan bo‘lsa, shunga o‘xshash huquqlar  
+- **Ta'minotchilar** — agar bo‘lim yoqilgan bo‘lsa, shunga o‘xshash huquqlar  
 
 ---
 
@@ -42,19 +42,19 @@ Ma’lumotnomalarga kirish huquqlarini sozlang:
 
 Sotuvlar bilan ishlash huquqlari:
 
-- **Sotuvlar** — ko‘rish, yaratish, tahrirlash, o‘chirish, holat va belgilarni boshqarish  
-- **Korxonalararo sotuvlar** — ko‘rish, yaratish, holat va belgilarni o‘zgartirish  
-- **Mijoz qaytarishlar** — ko‘rish, yaratish, standart holat, holat va belgilarni o‘zgartirish  
-- **Buyurtmalar** — ko‘rish, yaratish, standart holat va belgi, o‘zgartirish huquqlari  
+- **Sotuvlar** — ko‘rish, yaratish, tahrirlash, o‘chirish, status va belgilarni boshqarish  
+- **Korxonalararo sotuvlar** — ko‘rish, yaratish, status va belgilarni o‘zgartirish  
+- **Mijoz qaytarishlar** — ko‘rish, yaratish, standart status, status va belgilarni o‘zgartirish  
+- **Buyurtmalar** — ko‘rish, yaratish, standart status va belgi, o‘zgartirish huquqlari  
 
 ---
 
 ### Xaridlar
 
-Yetkazib beruvchilar bilan ishlash uchun:
+Ta'minotchilar bilan ishlash uchun:
 
-- **Xaridlar** va **Ta'minotchilarga qaytarishlar** — ko‘rish, yaratish, tahrirlash, holat va belgilarni boshqarish  
-- **Xarid buyurtmalar** — shu jumladan standart holat va belgi bilan  
+- **Xaridlar** va **Ta'minotchilarga qaytarishlar** — ko‘rish, yaratish, tahrirlash, status va belgilarni boshqarish  
+- **Xarid buyurtmalar** — shu jumladan standart status va belgi bilan  
 
 ---
 
@@ -62,7 +62,7 @@ Yetkazib beruvchilar bilan ishlash uchun:
 
 Mahsulot va pul harakatlari uchun:
 
-- **Ombordan omborga ko'chirishlar** — ko‘rish, yaratish, holat va belgilarni o‘zgartirish  
+- **Ombordan omborga ko'chirishlar** — ko‘rish, yaratish, status va belgilarni o‘zgartirish  
 - **Kassadan kassaga o'tkazmalar** — ko‘rish, yaratish, ruxsat etilgan kassalarni tanlash  
 
 ---
@@ -71,7 +71,7 @@ Mahsulot va pul harakatlari uchun:
 
 Pul bilan bog‘liq amallarni sozlang:
 
-- **Kirimlar va chiqimlar** — ko‘rish, yaratish, standart holat, holat va belgilarni o‘zgartirish  
+- **Kirimlar va chiqimlar** — ko‘rish, yaratish, standart status, status va belgilarni o‘zgartirish  
 - **Ombor korrektirovkalar** — ko‘rish, yaratish, belgilarni o‘zgartirish  
 
 ---
