@@ -51,9 +51,21 @@ Batafsilroq hisobotlar uchun umumiy sozlamalarda brendlar va mahsulot guruhlarin
 
 Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklashingiz mumkin.
 
-1. Excel faylini tayyorlang. Majburiy maydonlar:
+1. **Excel** faylini tayyorlang.
+
+**Majburiy ustunlar:**
     - Mahsulot nomi  
-    - Saqlash o‘lchov birligi  
+    - Saqlash birligi  
+
+**Ixtiyoriy ustunlar:**
+    - Mahsulot kategoriyasi  
+    - Boshlang‘ich qoldiq (har bir ombor bo‘yicha alohida)  
+    - Boshlang‘ich qoldiqning kirim narxi (asosiy valyutada)
+
+:::tip Maslahat
+Mahsulotlarning haqiqiy tannarxini kiriting — bu foyda bo‘yicha hisobotlar to‘g‘ri ishlashi uchun muhim.
+:::
+
 <img src="/img/quick-start/qs-products-uz.png" alt="Excel da mahsulotlar ro'yhati" width="600" />
 2. **Mahsulotlar** bo‘limiga o‘ting.
 3. Yuqori o‘ng burchakdagi uch nuqta belgisi ustiga bosing.
@@ -66,15 +78,23 @@ Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklas
 
 ### Mahsulotlarni qo‘lda qo‘shish
 
-1. **Mahsulotlar** bo‘limiga o‘ting va yuqori o‘ng burchakdagi plus tugmasini bosing.
+1. **Mahsulotlar** bo‘limiga o‘ting va o‘ng yuqori burchakdagi **plyus** tugmasini bosing.  
 2. Asosiy ma’lumotlarni kiriting:
-    - Mahsulot nomi  
-    - Saqlash birligi  
-    - Artikul  
-3. **Boshqa** yorlig‘ida zarurat bo‘lsa quyidagilarni kiriting:
-    - Brend  
-    - Guruh  
-4. **Saqlash** tugmasini bosing.
+   - **Mahsulot nomi**
+   - **Saqlash birligi**
+   - **Artikul**
+
+3. **Boshlang‘ich qoldiq** yorlig‘ida har bir ombor uchun qoldiqni kiriting:
+   - **Ombor**
+   - **Miqdor**
+   - **Narx**
+   - **Sana**
+
+4. **Boshqalar** yorlig‘ida kerak bo‘lsa quyidagilarni kiriting:
+   - **Brend**
+   - **Mahsulot guruhi**
+
+5. **Saqlash** tugmasini bosing.
 
 :::tip Maslahat
 Minimal qoldiq miqdorini belgilang — bu omborda mahsulotlar yetishmasligini o‘z vaqtida ko‘rishga yordam beradi.
@@ -96,25 +116,3 @@ Prays-listlar turli narxlar bilan ishlash imkonini beradi — masalan, turli mij
 5. Mahsulot narxlarini kiriting va valyutani tanlang.
 <img src="/img/quick-start/qs-pricelist-uz.png" alt="iBox’da prays-list yaratish" width="600" />
 6. **Saqlash** tugmasini bosing.
-
----
-
-## Ombordagi boshlang‘ich qoldiqlar
-
-Ishni boshlashdan oldin omborlardagi haqiqiy mahsulot qoldiqlarini kiritish muhim.
-
-### Qoldiqlarni tuzatish qo‘shish
-
-1. **Omborlar** → **Korektirovkalar** bo‘limiga o‘ting.
-2. Yuqori o‘ng burchakdagi plus tugmasini bosing.
-3. Omborni tanlang.
-4. Mahsulotlarni qo‘shing:
-   - Mahsulotlarni tanlash orqali  
-   - Yoki Excel’dan yuklash orqali  
-5. Prays-listni tanlang yoki kirim narxini qo‘lda kiriting.
-<img src="/img/quick-start/qs-stock-adj-uz.png" alt="iBox’da qoldiqlarni tuzatish" width="600" />
-6. **Saqlash** tugmasini bosing.
-
-:::tip Maslahat
-Mahsulotlarning haqiqiy tannarxini kiriting — bu foyda bo‘yicha hisobotlarning to‘g‘ri bo‘lishi uchun muhim.
-:::
