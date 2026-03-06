@@ -9,7 +9,7 @@ sidebar_position: 4
 
 iBox tizimida **xarid** ta'minotchidan tovar qabul qilinganini rasmiylashtiradi — aynan shu hujjatdan kreditorlik qarzdorligini nazorat qilish va to‘lovlar bilan ishlash boshlanadi.
 
-## Xaridni rasmiylashtirish
+## Xaridni yaratish
 
 Xarid yaratish uchun:
 1. **Xaridlar** modulidagi **Xaridlar** bo‘limiga o‘ting.
@@ -33,28 +33,10 @@ Xarid vaqtida qo‘shimcha ravishda quyidagilarni to'ldirishingiz mumkin:
 - izoh;
 - fayllarni biriktirish.
 
----
-
-## Xaridlarga qo‘shimcha xarajatlarni biriktirish
-
-Agar xarid jarayonida bojxona boji, logistika xarajatlari yoki soliqlar kabi qo‘shimcha xarajatlar bo‘lsa, ularni xaridga biriktirishingiz mumkin.  
-Bu xarajatlar tovarlar summasiga mutanosib taqsimlanadi va ularning **tannarxiga qo‘shiladi**.
-
-**Xaridga qo‘shimcha xarajat qo‘shish uchun:**
-
-1. Xarid yarating va quyidagi ma’lumotlarni to‘ldiring:
-   - ta'minotchi;
-   - mahsultolar;
-   - narxlar.
-2. Mahsulotlar jadvali ostidan **+ Qo‘shimcha xarajatlar** tugmasini bosing.
-3. Ochilgan oynada quyidagilarni kiriting:
-   - chiqim turi;
-   - summa;
-   - valyuta;
-   - kassa  
-   (zarurat bo‘lsa, yana qo‘shishingiz mumkin).
-4. **Saqlash** tugmasini bosing.
-5. Xaridni yakunlang.
+:::tip Maslahat
+Xarid jarayonida qo‘shimcha xarajatlarni tovar tannarxiga bog‘lashingiz mumkin.  
+Buning uchun **Sozlamalar → Funksional** bo‘limiga o‘ting va **«Qo'shimcha xarajatlardan foydalanish»** opsiyasini yoqing.
+:::
 
 ---
 

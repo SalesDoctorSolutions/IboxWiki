@@ -82,7 +82,6 @@ Mahsulotlarning haqiqiy tannarxini kiriting — bu foyda bo‘yicha hisobotlar t
 2. Asosiy ma’lumotlarni kiriting:
    - **Mahsulot nomi**
    - **Saqlash birligi**
-   - **Artikul**
 
 3. **Boshlang‘ich qoldiq** yorlig‘ida har bir ombor uchun qoldiqni kiriting:
    - **Ombor**
