@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/mutual-settlements",
-  "title": "Взаиморасчеты",
-  "description": "Отчет Взаиморасчеты показывает текущие взаиморасчеты с контрагентами — кто и сколько должен.",
+  "title": "Kontragentlar bilan oldi-berdi hisoboti",
+  "description": "Kontragentlar bilan oldi-berdi hisoboti da kontragentlar bilan joriy hisob-kitoblar ko‘rsatiladi — kim va qancha qarzdor.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/mutual-settlements.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/mutual-settlements",
@@ -13,17 +13,17 @@
   "sidebarPosition": 8,
   "frontMatter": {
     "id": "mutual-settlements",
-    "title": "Взаиморасчеты",
-    "sidebar_label": "Взаиморасчеты",
+    "title": "Kontragentlar bilan oldi-berdi hisoboti",
+    "sidebar_label": "Kontragentlar bilan oldi-berdi hisoboti",
     "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Отчет по должникам",
+    "title": "Qarzdorlar",
     "permalink": "/uz/docs/reports/payment/debitors"
   },
   "next": {
-    "title": "Движения по кассе",
+    "title": "Pul harakati",
     "permalink": "/uz/docs/reports/payment/cash-flow"
   }
 }

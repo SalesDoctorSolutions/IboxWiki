@@ -1,30 +1,30 @@
 ---
 id: debitors
-title: "Отчет по должникам"
-sidebar_label: "Отчет по должникам"
+title: "Qarzdorlar"
+sidebar_label: "Qarzdorlar"
 sidebar_position: 7
 ---
 
-# Отчет по должникам
+# Qarzdorlar
 
-Отчет **Отчет по должникам** показывает задолженности клиентов по месяцам на конец каждого месяца за период до 12 последних месяцев.
+**Qarzdorlar** mijozlarning qarzlarini oylar kesimida ko‘rsatadi. Hisobotda har bir oyning oxiridagi qarzdorlik miqdori oxirgi 12 oygacha bo‘lgan davr uchun aks etadi.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagilar uchun foydalaning:
 
-- Контролировать задолженности клиентов  
-- Анализировать динамику долгов по месяцам  
-- Отслеживать изменения задолженности за последний год  
+- Mijozlar qarzdorligini nazorat qilish  
+- Oylar bo‘yicha qarz dinamikasini tahlil qilish  
+- Oxirgi yil davomida qarzdorlikdagi o‘zgarishlarni kuzatish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Отчет по должникам**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.  
+2. **Moliyaviy hisobotlar** ustunida **Qarzdorlar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Клиенты** — список клиентов с задолженностями  
-- **Периоды** — отдельный столбец для каждого месяца, показывающий задолженность на конец месяца  
+- **Mijozlar** — qarzdorligi mavjud mijozlar ro‘yxati  
+- **Davrlar** — har bir oy uchun alohida ustun. Unda oy oxiridagi qarzdorlik summasi ko‘rsatiladi

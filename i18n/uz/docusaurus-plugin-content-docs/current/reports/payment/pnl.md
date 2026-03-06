@@ -1,96 +1,96 @@
 ---
 id: pnl
-title: "Прибыли и убытки"
-sidebar_label: "Прибыли и убытки"
+title: "Foyda va zarar"
+sidebar_label: "Foyda va zarar"
 sidebar_position: 11
 ---
 
-# Прибыли и убытки
+# Foyda va zarar
 
-Отчет **Прибыли и убытки (P&L)** используется для оценки эффективности бизнеса.  
-Он показывает, сколько компания заработала, сколько потратила и какой финансовый результат получила за выбранный период.
+**Foyda va zarar (P&L)** hisoboti biznes samaradorligini baholash uchun ishlatiladi.  
+U kompaniya tanlangan davrda qancha daromad olganini, qancha xarajat qilganini va yakunda qanday moliyaviy natija olganini ko‘rsatadi.
 
-С помощью отчета можно:
+Hisobot yordamida siz:
 
-- анализировать доходы компании  
-- контролировать расходы  
-- оценивать прибыльность бизнеса  
-- принимать управленческие решения  
+- Kompaniya daromadlarini tahlil qilishingiz  
+- Xarajatlarni nazorat qilishingiz  
+- Biznes rentabelligini baholashingiz  
+- Boshqaruv qarorlarini qabul qilishingiz mumkin  
 
-Отчет состоит из трех основных частей: **выручка**, **операционные расходы** и **чистая прибыль**.
+Hisobot uchta asosiy qismdan iborat: **daromad**, **davr harajatlari** va **sof foyda**.
 
-## Как открыть отчет
+## Hisobotni qanday ochish
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Прибыли и убытки**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.  
+2. **Moliyaviy hisobotlar** ustunida **Foyda va zarar** ni tanlang.
 
-Откроется страница отчета с данными за выбранный период.
-
----
-
-## Какие значения доступны в отчете
-
-### Выручка
-
-**Выручка** — это все доходы компании от продажи товаров и других операций.
-
-В отчете учитываются следующие показатели:
-
-- **Отгрузки** — общая сумма проданных товаров клиентам.
-
-- **Возвраты** — сумма товаров, возвращенных клиентами.  
-  Возвраты уменьшают общую выручку.
-
-- **Корректировка складских остатков (доходы)** — увеличение стоимости склада из-за корректировок или инвентаризации.
-
-- **Продажи другим организациям** — доход от продажи товаров между организациями внутри системы.
-
-- **Чистые продажи** — итоговая сумма продаж после вычета возвратов.
-
-### Себестоимость продаж
-
-**Себестоимость продаж** — это стоимость товаров, которые были проданы.  
-Она показывает, сколько компания потратила на закупку или производство товаров.
-
-### Валовая прибыль
-
-**Валовая прибыль** — это разница между чистыми продажами и себестоимостью товаров.
-
-Формула:
-
-**Валовая прибыль = Чистые продажи − Себестоимость продаж**
-
-Этот показатель показывает прибыльность основной деятельности компании.
+Tanlangan davr bo‘yicha ma’lumotlar bilan hisobot sahifasi ochiladi.
 
 ---
 
-### Операционные расходы
+## Hisobotda mavjud qiymatlar
 
-**Операционные расходы** — это расходы, связанные с ведением бизнеса.
+### Daromad
 
-В отчете могут отображаться следующие категории расходов:
+**Daromad** — bu kompaniyaning mahsulotlar savdosi va boshqa operatsiyalardan olgan barcha daromadlari.
 
-- **Прочие расходы** — дополнительные расходы, которые могут быть разделены по категориям, добавленным в систему.
+Hisobotda quyidagi ko‘rsatkichlar hisobga olinadi:
 
-- **Зарплата** — выплаты сотрудникам компании.
+- **Sotuvlar** — mijozlarga sotilgan mahsulotlarning umumiy summasi.
 
-- **Корректировка складских остатков (списание)** — уменьшение стоимости товаров из-за потерь, порчи или инвентаризации.
+- **Qaytishlar** — mijozlar tomonidan qaytarilgan mahsulotlar summasi.  
+  Qaytishlar umumiy daromadni kamaytiradi.
 
-- **Использованный кешбэк** — сумма кешбэка, которую клиенты использовали при оплате товаров.
+- **Ombor qoldiqlari korektirovkasi (daromad)** — korrektirovka yoki inventarizatsiya natijasida ombor qiymatining oshishi.
 
-### Итого операционные расходы
+- **Boshqa korxonalarga sotuvlar** — tizim ichida korxonalar o‘rtasida amalga oshirilgan savdolardan olingan daromad.
 
-Это общая сумма всех расходов компании за выбранный период.
+- **Sof sotuvlar** — qaytishlar ayirilgandan keyingi yakuniy sotuv summasi.
+
+### Tannarx
+
+**Tannarx** — bu sotilgan mahsulotlarning qiymati.  
+U kompaniya mahsulotlarni xarid qilish yoki ishlab chiqarish uchun qancha mablag‘ sarflaganini ko‘rsatadi.
+
+### Yalpi foyda
+
+**Yalpi foyda** — sof sotuvlar va sotilgan mahsulotlar tannarxi o‘rtasidagi farq.
+
+Formula:
+
+**Yalpi foyda = Sof sotuvlar − Sotilgan mahsulotlar tannarxi**
+
+Bu ko‘rsatkich kompaniyaning asosiy faoliyati qanchalik foydali ekanini ko‘rsatadi.
 
 ---
 
-### Чистая прибыль
+### Davr harajatlari
 
-**Чистая прибыль** — это итоговый финансовый результат бизнеса после вычета всех расходов.
+**Davr harajatlari** — biznes yuritish bilan bog‘liq xarajatlardir.
 
-Формула:
+Hisobotda quyidagi xarajat kategoriyalari ko‘rsatilishi mumkin:
 
-**Чистая прибыль = Валовая прибыль − Операционные расходы**
+- **Boshqa chiqimlar** — tizimga qo‘shilgan kategoriyalar bo‘yicha qo‘shimcha xarajatlar.
 
-- **Положительное значение** означает, что компания получила прибыль.  
-- **Отрицательное значение** означает убыток за выбранный период.
+- **Ish haqi** — kompaniya xodimlariga to‘langan ish haqi.
+
+- **Ombor qoldiqlari korrektirovkasi (yo'qotish)** — yo‘qotish, buzilish yoki inventarizatsiya sababli mahsulot qiymatining kamayishi.
+
+- **Foydalanilgan keshbek** — mijozlar mahsulotlar uchun to‘lov paytida ishlatgan keshbek summasi.
+
+### Jami davr harajatlari
+
+Bu tanlangan davr uchun kompaniyaning barcha xarajatlarining umumiy summasi.
+
+---
+
+### Sof foyda
+
+**Sof foyda** — barcha xarajatlar ayirilgandan keyingi biznesning yakuniy moliyaviy natijasi.
+
+Formula:
+
+**Sof foyda = Yalpi foyda − Davr harajatlari**
+
+- **Musbat qiymat** kompaniya foyda olganini bildiradi.  
+- **Manfiy qiymat** tanlangan davrda zarar ko‘rilganini bildiradi.

@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/net-working-capital",
-  "title": "Чистый оборотный капитал",
-  "description": "Отчет Чистый оборотный капитал используется для оценки финансового состояния компании.",
+  "title": "Sof aylanma kapital",
+  "description": "Sof aylanma kapital hisoboti kompaniyaning moliyaviy holatini baholash uchun ishlatiladi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/net-working-capital.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/net-working-capital",
@@ -13,17 +13,17 @@
   "sidebarPosition": 10,
   "frontMatter": {
     "id": "net-working-capital",
-    "title": "Чистый оборотный капитал",
-    "sidebar_label": "Чистый оборотный капитал",
+    "title": "Sof aylanma kapital",
+    "sidebar_label": "Sof aylanma kapital",
     "sidebar_position": 10
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Движения по кассе",
+    "title": "Pul harakati",
     "permalink": "/uz/docs/reports/payment/cash-flow"
   },
   "next": {
-    "title": "Прибыли и убытки",
+    "title": "Foyda va zarar",
     "permalink": "/uz/docs/reports/payment/pnl"
   }
 }

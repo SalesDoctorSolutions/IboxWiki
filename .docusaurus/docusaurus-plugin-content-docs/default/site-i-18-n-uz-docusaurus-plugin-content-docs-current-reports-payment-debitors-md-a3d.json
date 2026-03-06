@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/debitors",
-  "title": "Отчет по должникам",
-  "description": "Отчет Отчет по должникам показывает задолженности клиентов по месяцам на конец каждого месяца за период до 12 последних месяцев.",
+  "title": "Qarzdorlar",
+  "description": "Qarzdorlar mijozlarning qarzlarini oylar kesimida ko‘rsatadi. Hisobotda har bir oyning oxiridagi qarzdorlik miqdori oxirgi 12 oygacha bo‘lgan davr uchun aks etadi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/debitors.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/debitors",
@@ -13,8 +13,8 @@
   "sidebarPosition": 7,
   "frontMatter": {
     "id": "debitors",
-    "title": "Отчет по должникам",
-    "sidebar_label": "Отчет по должникам",
+    "title": "Qarzdorlar",
+    "sidebar_label": "Qarzdorlar",
     "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
@@ -23,7 +23,7 @@
     "permalink": "/uz/docs/reports/payment/payments-received"
   },
   "next": {
-    "title": "Взаиморасчеты",
+    "title": "Kontragentlar bilan oldi-berdi hisoboti",
     "permalink": "/uz/docs/reports/payment/mutual-settlements"
   }
 }

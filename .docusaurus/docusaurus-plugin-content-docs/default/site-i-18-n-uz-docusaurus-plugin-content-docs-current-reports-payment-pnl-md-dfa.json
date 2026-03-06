@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/pnl",
-  "title": "Прибыли и убытки",
-  "description": "Отчет Прибыли и убытки (P&L) используется для оценки эффективности бизнеса.",
+  "title": "Foyda va zarar",
+  "description": "Foyda va zarar (P&L) hisoboti biznes samaradorligini baholash uchun ishlatiladi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/pnl.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/pnl",
@@ -13,13 +13,13 @@
   "sidebarPosition": 11,
   "frontMatter": {
     "id": "pnl",
-    "title": "Прибыли и убытки",
-    "sidebar_label": "Прибыли и убытки",
+    "title": "Foyda va zarar",
+    "sidebar_label": "Foyda va zarar",
     "sidebar_position": 11
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Чистый оборотный капитал",
+    "title": "Sof aylanma kapital",
     "permalink": "/uz/docs/reports/payment/net-working-capital"
   }
 }

@@ -1,32 +1,32 @@
 ---
 id: mutual-settlements
-title: "Взаиморасчеты"
-sidebar_label: "Взаиморасчеты"
+title: "Kontragentlar bilan oldi-berdi hisoboti"
+sidebar_label: "Kontragentlar bilan oldi-berdi hisoboti"
 sidebar_position: 8
 ---
 
-# Взаиморасчеты
+# Kontragentlar bilan oldi-berdi hisoboti
 
-Отчет **Взаиморасчеты** показывает текущие взаиморасчеты с контрагентами — кто и сколько должен.
+**Kontragentlar bilan oldi-berdi hisoboti** da kontragentlar bilan joriy hisob-kitoblar ko‘rsatiladi — kim va qancha qarzdor.
 
-Используйте отчет, чтобы:
+Hisobotdan quyidagilar uchun foydalaning:
 
-- Проверять задолженности между вашей компанией и контрагентами  
-- Быстро увидеть, кому вы должны и кто должен вам  
-- Контролировать общий баланс взаиморасчетов  
+- Kompaniyangiz va kontragentlar o‘rtasidagi qarzdorlikni tekshirish  
+- Kimga qarzdor ekaningizni va kim sizga qarzdorligini tez ko‘rish  
+- Kontragentlar bilan oldi-berdi hisobotining umumiy balansini nazorat qilish  
 
-## Как открыть отчет
+## Hisobotni qanday ochish
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Взаиморасчеты**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.  
+2. **Moliyaviy hisobotlar** ustunida **Kontragentlar bilan oldi-berdi hisoboti** ni tanlang.
 
-Откроется страница отчета с актуальными данными.
+Tanlangan davr bo‘yicha dolzarb ma’lumotlar bilan hisobot sahifasi ochiladi.
 
-## Доступные поля
+## Mavjud ustunlar
 
-В отчете можно отобразить следующие поля:
+Hisobotda quyidagi ustunlarni ko‘rish mumkin:
 
-- **Контрагент** — название клиента или поставщика  
-- **Мы должны** — сумма, которую ваша компания должна контрагенту  
-- **Нам должны** — сумма, которую контрагент должен вашей компании  
-- **Баланс** — итоговый баланс взаиморасчетов  
+- **Kontragent** — mijoz yoki ta'minotchining nomi  
+- **Biz qarz** — kompaniyangiz kontragentga qarzdor bo‘lgan summa  
+- **Bizga qarz** — kontragent kompaniyangizga qarzdor bo‘lgan summa  
+- **Balans** — Kontragentlar bilan oldi-berdi hisobotining yakuniy balansi  

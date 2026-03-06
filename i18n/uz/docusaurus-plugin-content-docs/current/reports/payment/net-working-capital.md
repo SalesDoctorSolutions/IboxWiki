@@ -1,63 +1,63 @@
 ---
 id: net-working-capital
-title: "Чистый оборотный капитал"
-sidebar_label: "Чистый оборотный капитал"
+title: "Sof aylanma kapital"
+sidebar_label: "Sof aylanma kapital"
 sidebar_position: 10
 ---
 
-# Чистый оборотный капитал
+# Sof aylanma kapital
 
-Отчет **Чистый оборотный капитал** используется для оценки финансового состояния компании.  
-Он показывает, достаточно ли у бизнеса текущих активов для покрытия краткосрочных обязательств.
+**Sof aylanma kapital** hisoboti kompaniyaning moliyaviy holatini baholash uchun ishlatiladi.  
+U biznesda qisqa muddatli majburiyatlarni qoplash uchun yetarli joriy aktivlar bor-yo‘qligini ko‘rsatadi.
 
-Этот отчет помогает понять:
+Ushbu hisobot quyidagilarni tushunishga yordam beradi:
 
-- насколько компания финансово устойчива  
-- может ли она своевременно оплачивать свои обязательства  
-- сколько средств доступно для ежедневной деятельности бизнеса  
+- Kompaniya qanchalik moliyaviy barqaror ekanini  
+- Majburiyatlarini o‘z vaqtida to‘lay olishini  
+- Kundalik biznes faoliyati uchun qancha mablag‘ mavjudligini  
 
-Чистый оборотный капитал рассчитывается как разница между **активами** и **пассивами**.
+Sof aylanma kapital **aktivlar** va **passivlar** o‘rtasidagi farq sifatida hisoblanadi.
 
-## Как открыть отчет
+## Hisobotni qanday ochish
 
-1. Откройте раздел **Отчеты** в левой панели.
-2. В блоке **Отчеты по финансам** выберите **Чистый оборотный капитал**.
+1. Chap panelda **Hisobotlar** bo‘limini oching.  
+2. **Moliyaviy hisobotlar** ustunida **Sof aylanma kapital** ni tanlang.
 
-Откроется страница отчета с актуальными финансовыми показателями.
+Dolzarb moliyaviy ko‘rsatkichlar bilan hisobot sahifasi ochiladi.
 
-## Какие значения доступны в отчете
+## Hisobotda mavjud qiymatlar
 
-### Активы
+### Aktivlar
 
-**Активы** — это ресурсы компании, которые имеют ценность и могут быть использованы для ведения бизнеса или погашения обязательств.
+**Aktivlar** — kompaniyaga tegishli bo‘lgan va biznes yuritishda yoki majburiyatlarni yopishda foydalanilishi mumkin bo‘lgan resurslar.
 
-В отчете учитываются следующие активы:
+Hisobotda quyidagi aktivlar hisobga olinadi:
 
-- **Деньги в кассах** — сумма денежных средств во всех кассах  
-- **Остатки на складе** — стоимость всех товаров на складе  
-- **Дебиторская задолженность (нам должны)** — задолженность клиентов  
-- **Дебиторская задолженность (организации)** — задолженность организаций  
-- **Аванс по зарплате** — выданные авансы сотрудникам  
+- **Kassalardagi pullar** — barcha kassalardagi pul mablag‘lari summasi  
+- **Ombordagi maxsulot** — ombordagi barcha mahsulotlarning qiymati  
+- **Debitor qarzdorlik (bizga qarz)** — kontragentlarning qarzi  
+- **Debitor qarzdorlik (korxonalar)** — boshqa korxonalarning qarzi  
+- **Ish haqi avans** — xodimlarga berilgan avanslar  
 
-### Пассивы
+### Passivlar
 
-**Пассивы** — это обязательства компании перед другими сторонами.  
-Это суммы, которые компания должна выплатить в будущем.
+**Passivlar** — kompaniyaning boshqa tomonlar oldidagi majburiyatlari.  
+Bu kompaniya kelajakda to‘lashi kerak bo‘lgan summalardir.
 
-В отчете учитываются следующие пассивы:
+Hisobotda quyidagi passivlar hisobga olinadi:
 
-- **Кредиторская задолженность (мы должны)** — задолженность перед поставщиками  
-- **Кредиторская задолженность (организации)** — задолженность перед другими организациями  
-- **Задолженность по зарплате** — начисленная, но не выплаченная зарплата сотрудникам  
-- **Начисленный кешбэк** — сумма начисленного кешбэка клиентам  
+- **Kreditor qarzdorlik (biz qarz)** — kontragentlar oldidagi qarz  
+- **Kreditor qarzdorlik (korxonalar)** — boshqa korxonalar oldidagi qarz  
+- **Ish haqi qarz** — yozilgan, lekin hali to‘lanmagan ish haqi  
+- **Yozilgan keshbek** — mijozlarga yozilgan keshbek summasi  
 
-### Чистый оборотный капитал
+### Sof aylanma kapital
 
-**Чистый оборотный капитал** показывает разницу между текущими активами и текущими обязательствами компании.
+**Sof aylanma kapital** kompaniyaning joriy aktivlari va joriy majburiyatlari o‘rtasidagi farqni ko‘rsatadi.
 
-Формула расчета:
+Hisoblash formulasi:
 
-**Чистый оборотный капитал = Активы − Пассивы**
+**Sof aylanma kapital = Aktivlar − Passivlar**
 
-- **Положительное значение** означает, что у компании достаточно средств для покрытия текущих обязательств.  
-- **Отрицательное значение** может указывать на возможные финансовые риски или нехватку оборотных средств.
+- **Musbat qiymat** kompaniyada joriy majburiyatlarni qoplash uchun yetarli mablag‘ borligini bildiradi.  
+- **Manfiy qiymat** moliyaviy xavflar yoki aylanma mablag‘ yetishmasligini ko‘rsatishi mumkin.

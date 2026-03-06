@@ -1,7 +1,7 @@
 {
   "id": "reports/payment/cash-flow",
-  "title": "Движения по кассе",
-  "description": "Отчет Движения по кассе показывает список всех денежных операций — все приходы и расходы по кассам.",
+  "title": "Pul harakati",
+  "description": "Pul harakati hisobotida barcha pul operatsiyalari — kassalarga kirimlar va chiqimlar ro‘yxati ko‘rsatiladi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/reports/payment/cash-flow.md",
   "sourceDirName": "reports/payment",
   "slug": "/reports/payment/cash-flow",
@@ -13,17 +13,17 @@
   "sidebarPosition": 9,
   "frontMatter": {
     "id": "cash-flow",
-    "title": "Движения по кассе",
-    "sidebar_label": "Движения по кассе",
+    "title": "Pul harakati",
+    "sidebar_label": "Pul harakati",
     "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Взаиморасчеты",
+    "title": "Kontragentlar bilan oldi-berdi hisoboti",
     "permalink": "/uz/docs/reports/payment/mutual-settlements"
   },
   "next": {
-    "title": "Чистый оборотный капитал",
+    "title": "Sof aylanma kapital",
     "permalink": "/uz/docs/reports/payment/net-working-capital"
   }
 }
