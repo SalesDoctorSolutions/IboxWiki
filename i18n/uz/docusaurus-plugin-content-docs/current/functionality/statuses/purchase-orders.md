@@ -1,52 +1,52 @@
 ---
 id: purchase-orders
-title: Статусы заказов поставщикам
-sidebar_label: Статусы заказов поставщикам
+title: Xarid buyurtmalar statuslari
+sidebar_label: Xarid buyurtmalar statuslari
 sidebar_position: 5
 ---
 
-# Дополнительные статусы в заказах поставщикам
+# Xarid buyurtmalarda qo‘shimcha statuslar
 
-Данная функция позволяет отслеживать состояние заказа поставщику — от момента его создания до подтверждения и подготовки к закупке.
+Bu funksiya xarid buyurtma statusini — buyurtma yaratilgan paytdan boshlab tasdiqlanishi va xaridga tayyorlanishigacha kuzatish imkonini beradi.
 
-После включения функции в разделе **Закупки → Заказы поставщикам** становятся доступны дополнительные статусы, которые помогают контролировать процесс оформления и обработки заказов поставщикам.
-
----
-
-## Когда полезно использовать дополнительные статусы
-
-Использование дополнительных статусов помогает:
-
-- контролировать процесс оформления заказов поставщикам;
-- отслеживать заказы, которые еще не подтверждены;
-- разделять новые и подтвержденные заказы;
-- планировать будущие закупки;
-- упрощать работу с поставщиками и управление поставками.
-
-Это особенно полезно, если между созданием заказа и фактической закупкой проходит время — например, когда требуется подтверждение от поставщика или согласование условий поставки.
+Funksiya yoqilgandan so‘ng **Xaridlar → Xarid buyurtmalar** bo‘limida qo‘shimcha statuslar paydo bo‘ladi. Ular Xarid buyurtmalarni rasmiylashtirish va qayta ishlash jarayonini nazorat qilishga yordam beradi.
 
 ---
 
-## Что означает каждый статус
+## Qo‘shimcha statuslar qachon foydali
 
-**Черновик**  
-Заказ поставщику был отменен или не был завершен.  
-На основе данного документа нельзя создать закупку.
+Qo‘shimcha statuslardan foydalanish quyidagilarga yordam beradi:
 
-**В ожидании**  
-Заказ поставщику был создан и ожидает подтверждения.
+- xarid buyurtma rasmiylashtirish jarayonini nazorat qilish  
+- hali tasdiqlanmagan buyurtmalarni kuzatish  
+- yangi va tasdiqlangan buyurtmalarni ajratish  
+- kelajakdagi xaridlarni rejalashtirish  
+- ta'minotchilar bilan ishlash va yetkazib berishni boshqarishni soddalashtirish  
 
-**Принят**  
-Заказ поставщику был подтвержден.  
-На основе данного документа можно создать **закупку**.
+Bu ayniqsa buyurtma yaratilishi bilan amaldagi xarid o‘rtasida vaqt bo‘lganda foydali bo‘ladi — masalan, ta'minotchidan tasdiq kutilganda yoki yetkazib berish shartlari kelishilganda.
 
 ---
 
-## Как включить функцию
+## Har bir status nimani anglatadi
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать дополнительные статусы в заказах поставщикам»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+**Qoralama**  
+Xarid buyurtma bekor qilingan yoki yakunlanmagan.  
+Ushbu hujjat asosida xarid yaratib bo‘lmaydi.
+
+**Kutilmoqda**  
+Xarid buyurtma yaratilgan va tasdiqlanishi kutilmoqda.
+
+**Qabul qilingan**  
+Xarid buyurtma tasdiqlangan.  
+Ushbu hujjat asosida **xarid** yaratish mumkin.
+
+---
+
+## Funksiyani qanday yoqish mumkin
+
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarida **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Ta'minotchiga buyurtmalarda qo'shimcha statuslardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.

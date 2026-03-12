@@ -1,57 +1,57 @@
 ---
 id: purchase-returns
-title: Статусы возвратов поставщикам
-sidebar_label: Статусы возвратов поставщикам
+title: Ta'minotchiga qaytarishlar statuslari
+sidebar_label: Ta'minotchiga qaytarishlar statuslari
 sidebar_position: 6
 ---
 
-# Дополнительные статусы в возвратах поставщикам
+# Ta'minotchiga qaytarishlarda qo‘shimcha statuslar
 
-Данная функция позволяет отслеживать состояние возвратов поставщикам на каждом этапе — от создания документа до фактического возврата товаров поставщику.
+Bu funksiya ta'minotchilarga qaytarish jarayonini har bir bosqichda — hujjat yaratilgan paytdan boshlab mahsulotlar amalda ta'minotchiga qaytarilgunga qadar kuzatish imkonini beradi.
 
-После включения функции в разделе **Закупки → Возвраты поставщикам** становятся доступны дополнительные статусы, которые помогают контролировать процесс возврата товаров и корректно учитывать складские остатки.
-
----
-
-## Когда полезно использовать дополнительные статусы
-
-Использование дополнительных статусов помогает:
-
-- контролировать процесс возврата товаров поставщикам;
-- отслеживать возвраты, которые еще находятся в процессе отправки;
-- резервировать товары, предназначенные для возврата;
-- разделять запланированные и завершенные возвраты;
-- корректно формировать взаиморасчеты с поставщиками.
-
-Это особенно полезно, если между созданием документа возврата и фактической передачей товаров поставщику проходит время — например, когда товары готовятся к отправке или находятся в процессе доставки.
+Funksiya yoqilgandan so‘ng **Xaridlar → Ta'minotchiga qaytarishlar** bo‘limida qo‘shimcha statuslar paydo bo‘ladi. Ular mahsulotlarni qaytarish jarayonini nazorat qilish va ombordagi qoldiqlarni to‘g‘ri hisobga olishga yordam beradi.
 
 ---
 
-## Что означает каждый статус
+## Qo‘shimcha statuslar qachon foydali
 
-**Черновик**  
-Возврат поставщику был отменен или не был завершен.  
-Не влияет на количество остатков на складе и не участвует во взаиморасчетах с поставщиком.
+Qo‘shimcha statuslardan foydalanish quyidagilarga yordam beradi:
 
-**В ожидании**  
-Ожидается возврат поставщику.  
-На данном этапе товары **резервируются на складе** и их нельзя продать.
+- ta'minotchilarga mahsulot qaytarish jarayonini nazorat qilish  
+- hali yuborilmagan qaytishlarni kuzatish  
+- qaytarish uchun mo‘ljallangan mahsulotlarni zaxiralash  
+- rejalashtirilgan va yakunlangan qaytishlarni ajratish  
+- ta'minotchilar bilan oldi-berdi hisobotlarni to‘g‘ri shakllantirish  
 
-:::tip Совет
-Количество товаров, зарезервированных под возврат поставщику со статусом **«В ожидании»**, можно посмотреть в разделе **Отчеты → Доступные остатки** в колонке **«Ожидается отгрузка»**.
+Bu ayniqsa qaytarish hujjati yaratilishi bilan mahsulotlarning amalda ta'minotchiga qaytarilishi o‘rtasida vaqt bo‘lganda foydali bo‘ladi — masalan, mahsulotlar yuborishga tayyorlanayotganda yoki yetkazib berish jarayonida bo‘lsa.
+
+---
+
+## Har bir status nimani anglatadi
+
+**Qoralama**  
+Ta'minotchiga qaytish bekor qilingan yoki yakunlanmagan.  
+Ombordagi mahsulot qoldiqlariga ta’sir qilmaydi va ta'minotchi bilan oldi-berdi hisobotlarda ishtirok etmaydi.
+
+**Kutilmoqda**  
+Ta'minotchiga qaytish kutilmoqda.  
+Bu bosqichda mahsulotlar **omborda zaxiralanadi** va ularni sotish mumkin emas.
+
+:::tip Maslahat
+**Kutilmoqda** statusidagi ta'minotchiga qaytish uchun rezerv qilingan mahsulotlar sonini **Hisobotlar → Sotish mumkin bo'lgan qoldiq** bo‘limidagi **“Kutilayotgan sotuv”** ustunida ko‘rish mumkin.
 :::
 
-**Принят**  
-Возврат поставщику был выполнен, и поставщик получил товары.  
-На этом этапе товары **списываются со склада**, и формируются **взаиморасчеты с поставщиком**.
+**Qabul qilingan**  
+Ta'minotchiga qaytish amalga oshirildi va ta'minotchi mahsulotlarni qabul qildi.  
+Bu bosqichda mahsulotlar **ombordan hisobdan chiqariladi** va **ta'minotchi bilan oldi-berdi hisobotlar** shakllantiriladi.
 
 ---
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать дополнительные статусы в возвратах поставщикам»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarida **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Ta'minotchiga mahsulot qaytarishlarda qo'shimcha statuslardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.

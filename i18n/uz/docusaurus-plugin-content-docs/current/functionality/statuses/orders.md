@@ -36,7 +36,7 @@ Ushbu hujjat asosida sotuv yaratib bo‘lmaydi.
 **Kutilmoqda**  
 Buyurtma qabul qilingan va qayta ishlanishi yoki tasdiqlanishi kutilmoqda.
 
-**Qabul qilindi**  
+**Qabul qilingan**  
 Buyurtma tasdiqlangan.  
 Ushbu buyurtma asosida **sotuv** yaratish mumkin.
 

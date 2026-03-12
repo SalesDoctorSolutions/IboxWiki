@@ -37,7 +37,7 @@ Ombordagi mahsulot qoldiqlariga ta’sir qilmaydi va mijozlar bilan oldi-berdi h
 Mijozdan qaytish kutilmoqda.  
 Qaytish hujjati yaratilgan, ammo mahsulotlar hali omborga kelib tushmagan.
 
-**Qabul qilindi**  
+**Qabul qilingan**  
 Mijozdan qaytish amalga oshirildi va mahsulotlar omborga qabul qilindi.  
 Bu bosqichda mahsulot qoldiqlari oshadi va mijoz bilan oldi-berdi hisobotlar shakllantiriladi.
 
