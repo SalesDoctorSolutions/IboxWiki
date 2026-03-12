@@ -15,6 +15,54 @@
               "path": "/uz/docs/faq/"
             },
             {
+              "id": "functionality/statuses/cashbox-responsible",
+              "path": "/uz/docs/functionality/statuses/cashbox-responsible"
+            },
+            {
+              "id": "functionality/statuses/orders",
+              "path": "/uz/docs/functionality/statuses/orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/payments",
+              "path": "/uz/docs/functionality/statuses/payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/purchase-orders",
+              "path": "/uz/docs/functionality/statuses/purchase-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/purchase-returns",
+              "path": "/uz/docs/functionality/statuses/purchase-returns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/purchases",
+              "path": "/uz/docs/functionality/statuses/purchases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/returns",
+              "path": "/uz/docs/functionality/statuses/returns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/shipments",
+              "path": "/uz/docs/functionality/statuses/shipments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/transfers",
+              "path": "/uz/docs/functionality/statuses/transfers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/statuses/warehouse-responsible",
+              "path": "/uz/docs/functionality/statuses/warehouse-responsible"
+            },
+            {
               "id": "knowledge/access/access",
               "path": "/uz/docs/knowledge/access/",
               "sidebar": "tutorialSidebar"

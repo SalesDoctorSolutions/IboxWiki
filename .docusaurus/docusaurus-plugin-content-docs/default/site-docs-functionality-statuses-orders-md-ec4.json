@@ -1,0 +1,29 @@
+{
+  "id": "functionality/statuses/orders",
+  "title": "Статусы заказов покупателей",
+  "description": "Данная функция позволяет отслеживать состояние заказа — от момента его поступления до подтверждения и подготовки к отгрузке.",
+  "source": "@site/docs/functionality/statuses/orders.md",
+  "sourceDirName": "functionality/statuses",
+  "slug": "/functionality/statuses/orders",
+  "permalink": "/docs/functionality/statuses/orders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "orders",
+    "title": "Статусы заказов покупателей",
+    "sidebar_label": "Статусы заказов покупателей",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Статусы возвратов покупателей",
+    "permalink": "/docs/functionality/statuses/returns"
+  },
+  "next": {
+    "title": "Статусы закупок",
+    "permalink": "/docs/functionality/statuses/purchases"
+  }
+}

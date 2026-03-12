@@ -59,19 +59,77 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '190'),
+    component: ComponentCreator('/uz/docs', '79e'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'e7c'),
+        component: ComponentCreator('/uz/docs', '50f'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '984'),
+            component: ComponentCreator('/uz/docs', 'c88'),
             routes: [
               {
                 path: '/uz/docs/faq/',
                 component: ComponentCreator('/uz/docs/faq/', '0e2'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/statuses/cashbox-responsible',
+                component: ComponentCreator('/uz/docs/functionality/statuses/cashbox-responsible', '57c'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/statuses/orders',
+                component: ComponentCreator('/uz/docs/functionality/statuses/orders', '3b9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/payments',
+                component: ComponentCreator('/uz/docs/functionality/statuses/payments', 'f67'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/purchase-orders',
+                component: ComponentCreator('/uz/docs/functionality/statuses/purchase-orders', '1c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/purchase-returns',
+                component: ComponentCreator('/uz/docs/functionality/statuses/purchase-returns', '428'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/purchases',
+                component: ComponentCreator('/uz/docs/functionality/statuses/purchases', 'da1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/returns',
+                component: ComponentCreator('/uz/docs/functionality/statuses/returns', '20e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/shipments',
+                component: ComponentCreator('/uz/docs/functionality/statuses/shipments', 'c91'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/transfers',
+                component: ComponentCreator('/uz/docs/functionality/statuses/transfers', 'e1d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/statuses/warehouse-responsible',
+                component: ComponentCreator('/uz/docs/functionality/statuses/warehouse-responsible', '8f8'),
                 exact: true
               },
               {

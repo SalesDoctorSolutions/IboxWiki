@@ -1,0 +1,20 @@
+{
+  "id": "functionality/statuses/cashbox-responsible",
+  "title": "Ответственные в кассах",
+  "description": "Использование ответственных лиц в кассах",
+  "source": "@site/docs/functionality/statuses/cashbox-responsible.md",
+  "sourceDirName": "functionality/statuses",
+  "slug": "/functionality/statuses/cashbox-responsible",
+  "permalink": "/docs/functionality/statuses/cashbox-responsible",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "cashbox-responsible",
+    "title": "Ответственные в кассах",
+    "sidebar_label": "Ответствнные в кассах",
+    "sidebar_position": 10
+  }
+}

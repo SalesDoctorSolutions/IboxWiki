@@ -1,0 +1,29 @@
+{
+  "id": "functionality/statuses/transfers",
+  "title": "Статусы перемещений",
+  "description": "Данная функция позволяет отслеживать состояние перемещений между складами — от отправки товаров со склада-отправителя до фактического поступления товаров на склад-получатель.",
+  "source": "@site/docs/functionality/statuses/transfers.md",
+  "sourceDirName": "functionality/statuses",
+  "slug": "/functionality/statuses/transfers",
+  "permalink": "/docs/functionality/statuses/transfers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "transfers",
+    "title": "Статусы перемещений",
+    "sidebar_label": "Статусы перемещений",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Статусы возвратов поставщикам",
+    "permalink": "/docs/functionality/statuses/purchase-returns"
+  },
+  "next": {
+    "title": "Статусы платежей",
+    "permalink": "/docs/functionality/statuses/payments"
+  }
+}

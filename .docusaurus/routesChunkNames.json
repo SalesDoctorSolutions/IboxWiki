@@ -107,22 +107,62 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-190": {
+  "/uz/docs-79e": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-e7c": {
+  "/uz/docs-50f": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-984": {
+  "/uz/docs-c88": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
     "__comp": "17896441",
     "content": "9e4de7c3"
+  },
+  "/uz/docs/functionality/statuses/cashbox-responsible-57c": {
+    "__comp": "17896441",
+    "content": "0093bf3b"
+  },
+  "/uz/docs/functionality/statuses/orders-3b9": {
+    "__comp": "17896441",
+    "content": "d20ecb8e"
+  },
+  "/uz/docs/functionality/statuses/payments-f67": {
+    "__comp": "17896441",
+    "content": "6122cc3b"
+  },
+  "/uz/docs/functionality/statuses/purchase-orders-1c0": {
+    "__comp": "17896441",
+    "content": "2f9c6cb7"
+  },
+  "/uz/docs/functionality/statuses/purchase-returns-428": {
+    "__comp": "17896441",
+    "content": "1567035b"
+  },
+  "/uz/docs/functionality/statuses/purchases-da1": {
+    "__comp": "17896441",
+    "content": "f9a8c54a"
+  },
+  "/uz/docs/functionality/statuses/returns-20e": {
+    "__comp": "17896441",
+    "content": "427ed9d1"
+  },
+  "/uz/docs/functionality/statuses/shipments-c91": {
+    "__comp": "17896441",
+    "content": "8e1ced3e"
+  },
+  "/uz/docs/functionality/statuses/transfers-e1d": {
+    "__comp": "17896441",
+    "content": "c4f4a6b3"
+  },
+  "/uz/docs/functionality/statuses/warehouse-responsible-8f8": {
+    "__comp": "17896441",
+    "content": "45c325f0"
   },
   "/uz/docs/knowledge/-008": {
     "__comp": "17896441",

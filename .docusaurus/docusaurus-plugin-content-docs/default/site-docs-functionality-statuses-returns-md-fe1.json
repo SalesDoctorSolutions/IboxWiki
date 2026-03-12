@@ -1,0 +1,29 @@
+{
+  "id": "functionality/statuses/returns",
+  "title": "Статусы возвратов покупателей",
+  "description": "Данная функция позволяет отслеживать состояние возвратов от покупателей на каждом этапе — от создания документа до фактического поступления товаров на склад.",
+  "source": "@site/docs/functionality/statuses/returns.md",
+  "sourceDirName": "functionality/statuses",
+  "slug": "/functionality/statuses/returns",
+  "permalink": "/docs/functionality/statuses/returns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "returns",
+    "title": "Статусы возвратов покупателей",
+    "sidebar_label": "Статусы возвратов покупателей",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Статусы отгрузок",
+    "permalink": "/docs/functionality/statuses/shipments"
+  },
+  "next": {
+    "title": "Статусы заказов покупателей",
+    "permalink": "/docs/functionality/statuses/orders"
+  }
+}

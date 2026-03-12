@@ -210,5 +210,25 @@ module.exports = {
       },
       ],
     },
+    {
+      type: 'category',
+      label: '5. Функционал',
+      items: [
+      {
+      type: 'category',
+      label: '5.1. Доп. статусы и ответственные лица',
+      items: [    
+        'functionality/statuses/shipments',
+        'functionality/statuses/returns',
+        'functionality/statuses/orders',
+        'functionality/statuses/purchases',
+        'functionality/statuses/purchase-orders',
+        'functionality/statuses/purchase-returns',
+        'functionality/statuses/transfers',
+        'functionality/statuses/payments',
+      ],
+      },
+      ],
+    },
   ],
 };

@@ -1,0 +1,25 @@
+{
+  "id": "functionality/statuses/payments",
+  "title": "Статусы платежей",
+  "description": "Данная функция позволяет отслеживать состояние входящих и исходящих оплат.",
+  "source": "@site/docs/functionality/statuses/payments.md",
+  "sourceDirName": "functionality/statuses",
+  "slug": "/functionality/statuses/payments",
+  "permalink": "/docs/functionality/statuses/payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "payments",
+    "title": "Статусы платежей",
+    "sidebar_label": "Статусы платежей",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Статусы перемещений",
+    "permalink": "/docs/functionality/statuses/transfers"
+  }
+}
