@@ -1,53 +1,53 @@
 ---
 id: returns
-title: Статусы возвратов покупателей
-sidebar_label: Статусы возвратов покупателей
+title: Mijozdan qaytishlar statuslari
+sidebar_label: Mijozdan qaytishlar statuslari
 sidebar_position: 2
 ---
 
-# Дополнительные статусы в возвратах покупателей
+# Mijozdan qaytishlarda qo‘shimcha statuslar
 
-Данная функция позволяет отслеживать состояние возвратов от покупателей на каждом этапе — от создания документа до фактического поступления товаров на склад.
+Bu funksiya mijozlardan keladigan qaytishlar holatini hujjat yaratilgan paytdan boshlab mahsulotlar omborga amalda qabul qilinguniga qadar har bir bosqichda kuzatish imkonini beradi.
 
-После включения функции в разделе **Продажи → Возвраты** становятся доступны дополнительные статусы, которые помогают контролировать процесс приема возвращенных товаров и корректно учитывать складские остатки.
-
----
-
-## Когда полезно использовать дополнительные статусы
-
-Использование дополнительных статусов помогает:
-
-- отслеживать процесс возврата товаров от клиента;
-- фиксировать возвраты, которые еще находятся в процессе;
-- контролировать поступление возвращенных товаров на склад;
-- корректно учитывать остатки товаров;
-- правильно формировать взаиморасчеты с клиентами.
-
-Это особенно полезно, если возврат проходит несколько этапов — например, клиент сообщил о возврате, товар находится в пути и только после этого принимается на склад.
+Funksiya yoqilgandan so‘ng **Sotuvlar → Mijozdan qaytishlar** bo‘limida qo‘shimcha statuslar paydo bo‘ladi. Ular qaytarilgan mahsulotlarni qabul qilish jarayonini nazorat qilish va ombordagi qoldiqlarni to‘g‘ri hisobga olishga yordam beradi.
 
 ---
 
-## Что означает каждый статус
+## Qo‘shimcha statuslar qachon foydali
 
-**Черновик**  
-Возврат был отменен или не был завершен.  
-Не влияет на количество остатков на складе и не участвует во взаиморасчетах с клиентами.
+Qo‘shimcha statuslardan foydalanish quyidagilarga yordam beradi:
 
-**В ожидании**  
-Ожидается возврат от клиента.  
-Документ возврата уже создан, но товары еще не поступили на склад.
+- mijozdan mahsulot qaytish jarayonini kuzatish  
+- hali yakunlanmagan qaytishlarni qayd etish  
+- qaytarilgan mahsulotlarning omborga kelib tushishini nazorat qilish  
+- mahsulot qoldiqlarini to‘g‘ri hisobga olish  
+- mijozlar bilan oldi-berdi hisobotlarni to‘g‘ri shakllantirish  
 
-**Принят**  
-Возврат от покупателя был выполнен, и товары были приняты на склад.  
-На этом этапе остатки товаров увеличиваются, и формируются взаиморасчеты с клиентом.
+Bu ayniqsa qaytish bir nechta bosqichdan o‘tsa foydali bo‘ladi — masalan, mijoz qaytish haqida xabar beradi, mahsulot yo‘lda bo‘ladi va shundan keyingina omborga qabul qilinadi.
 
 ---
 
-## Как включить функцию
+## Har bir status nimani anglatadi
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать дополнительные статусы в возвратах покупателей»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+**Qoralama**  
+Qaytish bekor qilingan yoki yakunlanmagan.  
+Ombordagi mahsulot qoldiqlariga ta’sir qilmaydi va mijozlar bilan oldi-berdi hisobotlarda ishtirok etmaydi.
+
+**Kutilmoqda**  
+Mijozdan qaytish kutilmoqda.  
+Qaytish hujjati yaratilgan, ammo mahsulotlar hali omborga kelib tushmagan.
+
+**Qabul qilindi**  
+Mijozdan qaytish amalga oshirildi va mahsulotlar omborga qabul qilindi.  
+Bu bosqichda mahsulot qoldiqlari oshadi va mijoz bilan oldi-berdi hisobotlar shakllantiriladi.
+
+---
+
+## Funksiyani qanday yoqish mumkin
+
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarida **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Mijozdan mahsulot qaytishlarda qo'shimcha statuslardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
