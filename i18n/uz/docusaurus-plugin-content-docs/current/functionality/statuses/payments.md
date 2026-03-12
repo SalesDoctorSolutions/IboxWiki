@@ -1,53 +1,53 @@
 ---
 id: payments
-title: Статусы платежей
-sidebar_label: Статусы платежей
+title: To‘lovlar statuslari
+sidebar_label: To‘lovlar statuslari
 sidebar_position: 8
 ---
 
-# Дополнительные статусы в платежах
+# To‘lovlarda qo‘shimcha statuslar
 
-Данная функция позволяет отслеживать состояние входящих и исходящих оплат.
+Bu funksiya kiruvchi va chiquvchi to‘lovlar holatini kuzatish imkonini beradi.
 
-После включения функции в разделах **Приходы**, **Расходы** и **Перемещения денег** в модуле **Деньги** становятся доступны дополнительные статусы, которые помогают контролировать процесс обработки платежей и движение денежных средств.
-
----
-
-## Когда полезно использовать дополнительные статусы
-
-Использование дополнительных статусов помогает:
-
-- контролировать процесс обработки платежей;
-- отслеживать платежи, которые еще не подтверждены;
-- разделять ожидаемые и завершенные платежи;
-- избегать ошибок при учете денежных операций;
-- контролировать фактическое движение денег в кассах.
-
-Это особенно полезно, если между созданием платежа и его фактическим выполнением проходит время — например, когда требуется подтверждение оплаты или деньги еще не поступили в кассу.
+Funksiya yoqilgandan so‘ng **Pullar** modulidagi **Kirimlar**, **Chiqimlar** va **Kassadan kassaga o'tkazmalar** bo‘limlarida qo‘shimcha statuslar paydo bo‘ladi. Ular to‘lovlarni qayta ishlash jarayonini va pul mablag‘lari harakatini nazorat qilishga yordam beradi.
 
 ---
 
-## Что означает каждый статус
+## Qo‘shimcha statuslar qachon foydali
 
-**Черновик**  
-Операция была отменена или не была завершена.  
-Не влияет на остатки денег в кассах.
+Qo‘shimcha statuslardan foydalanish quyidagilarga yordam beradi:
 
-**В ожидании**  
-Операция была создана, но требует подтверждения.  
-На данном этапе движение денег еще не учитывается.
+- to‘lovlarni qayta ishlash jarayonini nazorat qilish  
+- hali tasdiqlanmagan to‘lovlarni kuzatish  
+- kutilayotgan va yakunlangan to‘lovlarni ajratish  
+- pul operatsiyalarini hisobga olishda xatolardan qochish  
+- kassalarda pul harakatini nazorat qilish  
 
-**Завершен**  
-Операция была завершена.  
-На этом этапе операция **влияет на остатки денег в кассах**.
+Bu ayniqsa to‘lov yaratilishi bilan uning amalda bajarilishi o‘rtasida vaqt bo‘lganda foydali bo‘ladi — masalan, to‘lovni tasdiqlash kerak bo‘lganda yoki pul hali kassaga kelib tushmagan bo‘lsa.
 
 ---
 
-## Как включить функцию
+## Har bir status nimani anglatadi
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать дополнительные статусы в платежах»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+**Qoralama**  
+Operatsiya bekor qilingan yoki yakunlanmagan.  
+Kassalardagi pul qoldiqlariga ta’sir qilmaydi.
+
+**Kutilmoqda**  
+Operatsiya yaratilgan, ammo tasdiqlanishi kerak.  
+Bu bosqichda pul harakati hali hisobga olinmaydi.
+
+**Yakunlangan**  
+Operatsiya yakunlangan.  
+Bu bosqichda operatsiya **kassalardagi pul qoldiqlariga ta’sir qiladi**.
+
+---
+
+## Funksiyani qanday yoqish mumkin
+
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarida **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **To'lovlarda qo'shimcha statuslardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.

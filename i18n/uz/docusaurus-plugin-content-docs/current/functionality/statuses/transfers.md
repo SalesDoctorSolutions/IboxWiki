@@ -1,53 +1,53 @@
 ---
 id: transfers
-title: Статусы перемещений
-sidebar_label: Статусы перемещений
+title: Omborlardan omborga ko'chirishlar statuslari
+sidebar_label: Omborlardan omborga ko'chirishlar statuslari
 sidebar_position: 7
 ---
 
-# Дополнительные статусы в перемещениях между складами
+# Omborlardan omborga ko'chirishlarda qo‘shimcha statuslar
 
-Данная функция позволяет отслеживать состояние перемещений между складами — от отправки товаров со склада-отправителя до фактического поступления товаров на склад-получатель.
+Bu funksiya Omborlardan omborga ko'chirish jarayonini — mahsulotlar jo‘natuvchi ombordan yuborilgan paytdan boshlab qabul qiluvchi omborga amalda kelib tushguniga qadar kuzatish imkonini beradi.
 
-После включения функции в разделе **Склад → Перемещения** становятся доступны дополнительные статусы, которые помогают контролировать процесс перемещения товаров между складами и корректно учитывать складские остатки.
-
----
-
-## Когда полезно использовать дополнительные статусы
-
-Использование дополнительных статусов помогает:
-
-- контролировать процесс перемещения товаров между складами;
-- отслеживать товары, которые уже отправлены, но еще не поступили на другой склад;
-- разделять незавершенные и завершенные перемещения;
-- избегать ошибок в учете складских остатков;
-- контролировать логистику внутри компании.
-
-Это особенно полезно, если перемещение между складами занимает время — например, когда товары находятся в пути между городами или складами.
+Funksiya yoqilgandan so‘ng **Ombor → Omborlardan omborga ko'chirishlar** bo‘limida qo‘shimcha statuslar paydo bo‘ladi. Ular mahsulotlarni omborlar o‘rtasida ko‘chirish jarayonini nazorat qilish va ombordagi qoldiqlarni to‘g‘ri hisobga olishga yordam beradi.
 
 ---
 
-## Что означает каждый статус
+## Qo‘shimcha statuslar qachon foydali
 
-**Черновик**  
-Перемещение не было выполнено или не было завершено.  
-Документ не влияет на складские остатки.
+Qo‘shimcha statuslardan foydalanish quyidagilarga yordam beradi:
 
-**Отправлен**  
-Перемещение было создано, и товары были отправлены со склада-отправителя.  
-На этом этапе товары **списываются со склада отправителя**.
+- mahsulotlarni omborlar o‘rtasida ko‘chirish jarayonini nazorat qilish  
+- allaqachon yuborilgan, ammo hali boshqa omborga kelib tushmagan mahsulotlarni kuzatish  
+- yakunlanmagan va yakunlangan ko‘chirishlarni ajratish  
+- ombor qoldiqlarini hisoblashda xatolardan qochish  
+- kompaniya ichidagi logistika jarayonlarini nazorat qilish  
 
-**Принят**  
-Перемещение подтверждено, и товары были приняты складом-получателем.  
-На этом этапе товары **поступают на склад получателя**.
+Bu ayniqsa Omborlardan omborga ko'chirish vaqt talab qilganda foydali bo‘ladi — masalan, mahsulotlar shaharlar yoki omborlar o‘rtasida yetkazib berilayotganda.
 
 ---
 
-## Как включить функцию
+## Har bir status nimani anglatadi
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать дополнительные статусы в перемещениях товара между складами»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+**Qoralama**  
+Ko‘chirish bekor qilingan yoki yakunlanmagan.  
+Hujjat ombordagi qoldiqlarga ta’sir qilmaydi.
+
+**Jo'natilgan**  
+Ko‘chirish yaratilgan va mahsulotlar jo‘natuvchi ombordan yuborilgan.  
+Bu bosqichda mahsulotlar **jo‘natuvchi ombordan hisobdan chiqariladi**.
+
+**Qabul qilingan**  
+Ko‘chirish tasdiqlangan va mahsulotlar qabul qiluvchi ombor tomonidan qabul qilingan.  
+Bu bosqichda mahsulotlar **qabul qiluvchi omborga kirim qilinadi**.
+
+---
+
+## Funksiyani qanday yoqish mumkin
+
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarida **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Omborlardan omborga ko'chirishlarda qo'shimcha statuslardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
