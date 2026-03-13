@@ -16,7 +16,8 @@
             },
             {
               "id": "functionality/statuses/cashbox-responsible",
-              "path": "/uz/docs/functionality/statuses/cashbox-responsible"
+              "path": "/uz/docs/functionality/statuses/cashbox-responsible",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/statuses/orders",
@@ -60,7 +61,8 @@
             },
             {
               "id": "functionality/statuses/warehouse-responsible",
-              "path": "/uz/docs/functionality/statuses/warehouse-responsible"
+              "path": "/uz/docs/functionality/statuses/warehouse-responsible",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "knowledge/access/access",

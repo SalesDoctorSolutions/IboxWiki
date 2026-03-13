@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '79e'),
+    component: ComponentCreator('/uz/docs', '992'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '50f'),
+        component: ComponentCreator('/uz/docs', '725'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'c88'),
+            component: ComponentCreator('/uz/docs', 'fbd'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -76,8 +76,9 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/statuses/cashbox-responsible',
-                component: ComponentCreator('/uz/docs/functionality/statuses/cashbox-responsible', '57c'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/statuses/cashbox-responsible', 'adb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/statuses/orders',
@@ -129,8 +130,9 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/statuses/warehouse-responsible',
-                component: ComponentCreator('/uz/docs/functionality/statuses/warehouse-responsible', '8f8'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/statuses/warehouse-responsible', '95d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/knowledge/',

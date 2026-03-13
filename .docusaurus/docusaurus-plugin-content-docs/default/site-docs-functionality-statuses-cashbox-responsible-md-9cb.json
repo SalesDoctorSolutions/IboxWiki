@@ -1,7 +1,7 @@
 {
   "id": "functionality/statuses/cashbox-responsible",
   "title": "Ответственные в кассах",
-  "description": "Использование ответственных лиц в кассах",
+  "description": "Данная функция позволяет назначать сотрудника ответственным за операции определенной кассы.",
   "source": "@site/docs/functionality/statuses/cashbox-responsible.md",
   "sourceDirName": "functionality/statuses",
   "slug": "/functionality/statuses/cashbox-responsible",
@@ -14,7 +14,12 @@
   "frontMatter": {
     "id": "cashbox-responsible",
     "title": "Ответственные в кассах",
-    "sidebar_label": "Ответствнные в кассах",
+    "sidebar_label": "Ответственные в кассах",
     "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ответственные на складах",
+    "permalink": "/docs/functionality/statuses/warehouse-responsible"
   }
 }

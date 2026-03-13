@@ -226,6 +226,8 @@ module.exports = {
         'functionality/statuses/purchase-returns',
         'functionality/statuses/transfers',
         'functionality/statuses/payments',
+        'functionality/statuses/warehouse-responsible',
+        'functionality/statuses/cashbox-responsible',
       ],
       },
       ],

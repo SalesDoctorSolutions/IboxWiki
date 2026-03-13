@@ -1,7 +1,7 @@
 {
   "id": "functionality/statuses/warehouse-responsible",
   "title": "Ответственные на складах",
-  "description": "Использование ответственных лиц на складах",
+  "description": "Данная функция позволяет назначать сотрудника ответственным за операции определенного склада.",
   "source": "@site/docs/functionality/statuses/warehouse-responsible.md",
   "sourceDirName": "functionality/statuses",
   "slug": "/functionality/statuses/warehouse-responsible",
@@ -16,5 +16,14 @@
     "title": "Ответственные на складах",
     "sidebar_label": "Ответственные на складах",
     "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Статусы платежей",
+    "permalink": "/docs/functionality/statuses/payments"
+  },
+  "next": {
+    "title": "Ответственные в кассах",
+    "permalink": "/docs/functionality/statuses/cashbox-responsible"
   }
 }

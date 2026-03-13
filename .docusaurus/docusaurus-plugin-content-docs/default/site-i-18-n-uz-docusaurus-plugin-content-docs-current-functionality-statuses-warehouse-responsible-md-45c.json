@@ -16,5 +16,14 @@
     "title": "Ответственные на складах",
     "sidebar_label": "Ответственные на складах",
     "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "To‘lovlar statuslari",
+    "permalink": "/uz/docs/functionality/statuses/payments"
+  },
+  "next": {
+    "title": "Ответствнные в кассах",
+    "permalink": "/uz/docs/functionality/statuses/cashbox-responsible"
   }
 }
