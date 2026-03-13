@@ -46,7 +46,7 @@ Bu bosqichda mahsulot qoldiqlari oshadi va mijoz bilan oldi-berdi hisobotlar sha
 ## Funksiyani qanday yoqish mumkin
 
 1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
-2. Sozlamalarida **Korxona Sozlamalari** bo‘limini oching.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
 3. **Funksional** bo‘limiga o‘ting.
 4. **Mijozdan mahsulot qaytishlarda qo'shimcha statuslardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
 5. **Ha** variantini tanlang.
