@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'c35'),
+    component: ComponentCreator('/uz/docs', '250'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '27d'),
+        component: ComponentCreator('/uz/docs', '592'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '558'),
+            component: ComponentCreator('/uz/docs', 'd7e'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -136,25 +136,25 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase',
-                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase', 'c7a'),
+                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase', '3f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/warehouse-logistics/negative-operations',
-                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/negative-operations', '2e9'),
+                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/negative-operations', '6cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/warehouse-logistics/order-by-warehouse',
-                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/order-by-warehouse', 'd68'),
+                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/order-by-warehouse', 'b41'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse',
-                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse', '3cb'),
+                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse', '538'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
