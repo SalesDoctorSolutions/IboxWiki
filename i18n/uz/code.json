@@ -92,7 +92,7 @@
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Versiya: {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
     "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
@@ -127,7 +127,7 @@
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page",
+    "message": "Sahifani tahrirlash",
     "description": "The link label to edit the current page"
   },
   "theme.NotFound.title": {
@@ -135,11 +135,11 @@
     "description": "The title of the 404 page"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions",
+    "message": "Versiyalar",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:",
+    "message": "Teglar:",
     "description": "The label alongside a tag list"
   },
   "theme.admonition.caution": {
@@ -247,7 +247,7 @@
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu",
+    "message": "← Asosiy menyuga qaytish",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {

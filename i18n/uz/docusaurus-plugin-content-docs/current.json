@@ -94,5 +94,9 @@
   "sidebar.tutorialSidebar.category.5.1. Доп. статусы и ответственные лица": {
     "message": "5.1. Qo'shimcha statuslar va javobgar shaxslar",
     "description": "The label for category 5.1. Доп. статусы и ответственные лица in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5.2. Склады и логистика": {
+    "message": "5.2. Omborlar va logistika",
+    "description": "The label for category 5.2. Склады и логистика in sidebar tutorialSidebar"
   }
 }
