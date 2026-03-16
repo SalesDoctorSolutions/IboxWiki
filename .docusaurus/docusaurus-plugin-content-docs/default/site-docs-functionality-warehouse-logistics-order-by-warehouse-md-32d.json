@@ -1,0 +1,25 @@
+{
+  "id": "functionality/warehouse-logistics/order-by-warehouse",
+  "title": "Разделение заказов по складам",
+  "description": "Данная функция позволяет автоматически разделять документ заказа по каждому складу.",
+  "source": "@site/docs/functionality/warehouse-logistics/order-by-warehouse.md",
+  "sourceDirName": "functionality/warehouse-logistics",
+  "slug": "/functionality/warehouse-logistics/order-by-warehouse",
+  "permalink": "/uz/docs/functionality/warehouse-logistics/order-by-warehouse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "order-by-warehouse",
+    "title": "Разделение заказов по складам",
+    "sidebar_label": "Разделение заказов по складам",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Разделение отгрузок по складам",
+    "permalink": "/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse"
+  }
+}

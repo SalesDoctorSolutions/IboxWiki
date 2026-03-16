@@ -236,6 +236,8 @@ module.exports = {
       items: [    
         'functionality/warehouse-logistics/multi-warehouse-purchase',
         'functionality/warehouse-logistics/negative-operations',
+        'functionality/warehouse-logistics/shipment-by-warehouse',
+        'functionality/warehouse-logistics/order-by-warehouse',
       ],
       },
       ],

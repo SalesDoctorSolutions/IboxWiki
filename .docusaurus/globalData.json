@@ -75,6 +75,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/warehouse-logistics/order-by-warehouse",
+              "path": "/uz/docs/functionality/warehouse-logistics/order-by-warehouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/warehouse-logistics/shipment-by-warehouse",
+              "path": "/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/access/access",
               "path": "/uz/docs/knowledge/access/",
               "sidebar": "tutorialSidebar"

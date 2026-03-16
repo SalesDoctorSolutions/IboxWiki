@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'e3c'),
+    component: ComponentCreator('/uz/docs', 'c35'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '3e4'),
+        component: ComponentCreator('/uz/docs', '27d'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'f1f'),
+            component: ComponentCreator('/uz/docs', '558'),
             routes: [
               {
                 path: '/uz/docs/faq/',
@@ -143,6 +143,18 @@ export default [
               {
                 path: '/uz/docs/functionality/warehouse-logistics/negative-operations',
                 component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/negative-operations', '2e9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/warehouse-logistics/order-by-warehouse',
+                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/order-by-warehouse', 'd68'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse',
+                component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse', '3cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

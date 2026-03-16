@@ -1,0 +1,29 @@
+{
+  "id": "functionality/warehouse-logistics/shipment-by-warehouse",
+  "title": "Разделение отгрузок по складам",
+  "description": "Данная функция позволяет автоматически разделять документ отгрузки по каждому складу.",
+  "source": "@site/docs/functionality/warehouse-logistics/shipment-by-warehouse.md",
+  "sourceDirName": "functionality/warehouse-logistics",
+  "slug": "/functionality/warehouse-logistics/shipment-by-warehouse",
+  "permalink": "/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "shipment-by-warehouse",
+    "title": "Разделение отгрузок по складам",
+    "sidebar_label": "Разделение отгрузок по складам",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Отгрузки в минус",
+    "permalink": "/uz/docs/functionality/warehouse-logistics/negative-operations"
+  },
+  "next": {
+    "title": "Разделение заказов по складам",
+    "permalink": "/uz/docs/functionality/warehouse-logistics/order-by-warehouse"
+  }
+}
