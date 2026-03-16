@@ -1,0 +1,25 @@
+{
+  "id": "functionality/warehouse-logistics/negative-operations",
+  "title": "Отгрузки в минус",
+  "description": "Данная функция позволяет создавать документы расхода товаров даже при нехватке остатков на складе.",
+  "source": "@site/docs/functionality/warehouse-logistics/negative-operations.md",
+  "sourceDirName": "functionality/warehouse-logistics",
+  "slug": "/functionality/warehouse-logistics/negative-operations",
+  "permalink": "/uz/docs/functionality/warehouse-logistics/negative-operations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "negative-operations",
+    "title": "Отгрузки в минус",
+    "sidebar_label": "Отгрузки в минус",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Несколько складов для закупки",
+    "permalink": "/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase"
+  }
+}

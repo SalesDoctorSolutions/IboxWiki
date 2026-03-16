@@ -21,5 +21,9 @@
   "previous": {
     "title": "Omborlarda javobgar shaxslar",
     "permalink": "/uz/docs/functionality/statuses/warehouse-responsible"
+  },
+  "next": {
+    "title": "Несколько складов для закупки",
+    "permalink": "/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase"
   }
 }

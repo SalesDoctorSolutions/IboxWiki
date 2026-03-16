@@ -230,6 +230,14 @@ module.exports = {
         'functionality/statuses/cashbox-responsible',
       ],
       },
+      {
+      type: 'category',
+      label: '5.2. Склады и логистика',
+      items: [    
+        'functionality/warehouse-logistics/multi-warehouse-purchase',
+        'functionality/warehouse-logistics/negative-operations',
+      ],
+      },
       ],
     },
   ],

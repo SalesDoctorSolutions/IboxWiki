@@ -65,6 +65,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/warehouse-logistics/multi-warehouse-purchase",
+              "path": "/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/warehouse-logistics/negative-operations",
+              "path": "/uz/docs/functionality/warehouse-logistics/negative-operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/access/access",
               "path": "/uz/docs/knowledge/access/",
               "sidebar": "tutorialSidebar"

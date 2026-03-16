@@ -1,0 +1,29 @@
+{
+  "id": "functionality/warehouse-logistics/multi-warehouse-purchase",
+  "title": "Несколько складов для закупки",
+  "description": "Данная функция позволяет использовать несколько складов в одном документе закупки или заказа поставщику.",
+  "source": "@site/docs/functionality/warehouse-logistics/multi-warehouse-purchase.md",
+  "sourceDirName": "functionality/warehouse-logistics",
+  "slug": "/functionality/warehouse-logistics/multi-warehouse-purchase",
+  "permalink": "/uz/docs/functionality/warehouse-logistics/multi-warehouse-purchase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "multi-warehouse-purchase",
+    "title": "Несколько складов для закупки",
+    "sidebar_label": "Несколько складов для закупки",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kassalarga javobgar shaxlar",
+    "permalink": "/uz/docs/functionality/statuses/cashbox-responsible"
+  },
+  "next": {
+    "title": "Отгрузки в минус",
+    "permalink": "/uz/docs/functionality/warehouse-logistics/negative-operations"
+  }
+}
