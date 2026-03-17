@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/finance/vat.md",
   "sourceDirName": "functionality/finance",
   "slug": "/functionality/finance/vat",
-  "permalink": "/uz/docs/functionality/finance/vat",
+  "permalink": "/docs/functionality/finance/vat",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Оплата по отгрузкам",
-    "permalink": "/uz/docs/functionality/finance/payment-by-shipment"
+    "permalink": "/docs/functionality/finance/payment-by-shipment"
   }
 }

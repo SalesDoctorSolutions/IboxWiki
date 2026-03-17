@@ -98,5 +98,9 @@
   "sidebar.tutorialSidebar.category.5.2. Склады и логистика": {
     "message": "5.2. Omborlar va logistika",
     "description": "The label for category 5.2. Склады и логистика in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5.3. Финансы и оплата": {
+    "message": "5.3. Moliya va to‘lov",
+    "description": "The label for category 5.3. Финансы и оплата in sidebar tutorialSidebar"
   }
 }

@@ -59,42 +59,37 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'f37'),
+    component: ComponentCreator('/uz/docs', 'e61'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '9e5'),
+        component: ComponentCreator('/uz/docs', 'b2f'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '516'),
+            component: ComponentCreator('/uz/docs', '68e'),
             routes: [
               {
-                path: '/uz/docs/faq/',
-                component: ComponentCreator('/uz/docs/faq/', '0e2'),
-                exact: true
-              },
-              {
                 path: '/uz/docs/functionality/finance/multi-currency',
-                component: ComponentCreator('/uz/docs/functionality/finance/multi-currency', 'd53'),
+                component: ComponentCreator('/uz/docs/functionality/finance/multi-currency', '722'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/finance/negative-payments',
-                component: ComponentCreator('/uz/docs/functionality/finance/negative-payments', 'c5b'),
+                component: ComponentCreator('/uz/docs/functionality/finance/negative-payments', '377'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/finance/payment-by-shipment',
-                component: ComponentCreator('/uz/docs/functionality/finance/payment-by-shipment', 'b6f'),
+                component: ComponentCreator('/uz/docs/functionality/finance/payment-by-shipment', 'bf9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/finance/vat',
-                component: ComponentCreator('/uz/docs/functionality/finance/vat', '373'),
+                component: ComponentCreator('/uz/docs/functionality/finance/vat', '9f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

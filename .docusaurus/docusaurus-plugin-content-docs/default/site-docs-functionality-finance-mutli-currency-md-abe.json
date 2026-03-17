@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/finance/mutli-currency.md",
   "sourceDirName": "functionality/finance",
   "slug": "/functionality/finance/multi-currency",
-  "permalink": "/uz/docs/functionality/finance/multi-currency",
+  "permalink": "/docs/functionality/finance/multi-currency",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Buyurtmalarni omborlar bo‘yicha ajratish",
-    "permalink": "/uz/docs/functionality/warehouse-logistics/order-by-warehouse"
+    "title": "Разделение заказов по складам",
+    "permalink": "/docs/functionality/warehouse-logistics/order-by-warehouse"
   },
   "next": {
     "title": "Расход при недостатке денег",
-    "permalink": "/uz/docs/functionality/finance/negative-payments"
+    "permalink": "/docs/functionality/finance/negative-payments"
   }
 }

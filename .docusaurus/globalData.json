@@ -11,10 +11,6 @@
           "mainDocId": "overview/product-overview",
           "docs": [
             {
-              "id": "faq/faq",
-              "path": "/uz/docs/faq/"
-            },
-            {
               "id": "functionality/finance/multi-currency",
               "path": "/uz/docs/functionality/finance/multi-currency",
               "sidebar": "tutorialSidebar"

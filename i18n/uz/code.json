@@ -344,38 +344,38 @@
     "message": "Bizning jamoamiz bilan bog‘laning — biz tizimni ulab beramiz va sozlashda yordam beramiz."
   },
   "theme.SearchBar.noResultsText": {
-    "message": "No results"
+    "message": "Hujjatlar topilmadi"
   },
   "theme.SearchBar.seeAllOutsideContext": {
-    "message": "See all results outside \"{context}\""
+    "message": "\"{context}\" dan tashqarida barcha natijalarni ko‘rish"
   },
   "theme.SearchBar.searchInContext": {
-    "message": "See all results within \"{context}\""
+    "message": "\"{context}\" ichida barcha natijalarni ko'rinsh"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all results"
+    "message": "Barcha natijalarni ko'rish"
   },
   "theme.SearchBar.label": {
-    "message": "Search",
+    "message": "Qidirish",
     "description": "The ARIA label and placeholder for search button"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\"",
+    "message": "\"{query}\" uchun qidiruv natijalari",
     "description": "The search page title for non-empty query"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation",
+    "message": "Hujjatlarni qidirish",
     "description": "The search page title for empty query"
   },
   "theme.SearchPage.searchContext.everywhere": {
-    "message": "Everywhere"
+    "message": "Hamma joyda"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "1 document found|{count} documents found",
+    "message": "1 hujjat topildi|{count} hujjatlar topildi",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No documents were found",
+    "message": "Hujjatlar topilmadi",
     "description": "The paragraph for empty search result"
   }
 }
