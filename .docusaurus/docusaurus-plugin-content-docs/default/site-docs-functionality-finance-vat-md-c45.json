@@ -1,7 +1,7 @@
 {
   "id": "functionality/finance/vat",
   "title": "Использовать НДС",
-  "description": "Использовать НДС",
+  "description": "Данная функция позволяет учитывать НДС для каждого товара и использовать эти данные при оформлении документов и печати накладных.",
   "source": "@site/docs/functionality/finance/vat.md",
   "sourceDirName": "functionality/finance",
   "slug": "/functionality/finance/vat",
