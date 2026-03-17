@@ -240,6 +240,16 @@ module.exports = {
         'functionality/warehouse-logistics/order-by-warehouse',
       ],
       },
+      {
+      type: 'category',
+      label: '5.3. Финансы и оплата',
+      items: [    
+        'functionality/finance/multi-currency',
+        'functionality/finance/negative-payments',
+        'functionality/finance/payment-by-shipment',
+        'functionality/finance/vat',
+      ],
+      },
       ],
     },
   ],

@@ -1,0 +1,29 @@
+{
+  "id": "functionality/finance/payment-by-shipment",
+  "title": "Оплата по отгрузкам",
+  "description": "Данная функция позволяет привязывать оплаты к документам продаж и закупок и отслеживать состояние оплаты по каждому документу отдельно.",
+  "source": "@site/docs/functionality/finance/payment-by-shipment.md",
+  "sourceDirName": "functionality/finance",
+  "slug": "/functionality/finance/payment-by-shipment",
+  "permalink": "/uz/docs/functionality/finance/payment-by-shipment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "payment-by-shipment",
+    "title": "Оплата по отгрузкам",
+    "sidebar_label": "Оплата по отгрузкам",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Расход при недостатке денег",
+    "permalink": "/uz/docs/functionality/finance/negative-payments"
+  },
+  "next": {
+    "title": "Использовать НДС",
+    "permalink": "/uz/docs/functionality/finance/vat"
+  }
+}

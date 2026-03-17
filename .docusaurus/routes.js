@@ -59,20 +59,44 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '250'),
+    component: ComponentCreator('/uz/docs', 'f37'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '592'),
+        component: ComponentCreator('/uz/docs', '9e5'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'd7e'),
+            component: ComponentCreator('/uz/docs', '516'),
             routes: [
               {
                 path: '/uz/docs/faq/',
                 component: ComponentCreator('/uz/docs/faq/', '0e2'),
                 exact: true
+              },
+              {
+                path: '/uz/docs/functionality/finance/multi-currency',
+                component: ComponentCreator('/uz/docs/functionality/finance/multi-currency', 'd53'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/finance/negative-payments',
+                component: ComponentCreator('/uz/docs/functionality/finance/negative-payments', 'c5b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/finance/payment-by-shipment',
+                component: ComponentCreator('/uz/docs/functionality/finance/payment-by-shipment', 'b6f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/finance/vat',
+                component: ComponentCreator('/uz/docs/functionality/finance/vat', '373'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/statuses/cashbox-responsible',

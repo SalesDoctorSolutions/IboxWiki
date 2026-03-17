@@ -1,0 +1,29 @@
+{
+  "id": "functionality/finance/negative-payments",
+  "title": "Расход при недостатке денег",
+  "description": "Данная функция позволяет проводить расходы и другие финансовые операции, даже если в кассе недостаточно средств.",
+  "source": "@site/docs/functionality/finance/negative-payments.md",
+  "sourceDirName": "functionality/finance",
+  "slug": "/functionality/finance/negative-payments",
+  "permalink": "/uz/docs/functionality/finance/negative-payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "negative-payments",
+    "title": "Расход при недостатке денег",
+    "sidebar_label": "Расход при недостатке денег",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Мультивалютная оплата",
+    "permalink": "/uz/docs/functionality/finance/multi-currency"
+  },
+  "next": {
+    "title": "Оплата по отгрузкам",
+    "permalink": "/uz/docs/functionality/finance/payment-by-shipment"
+  }
+}

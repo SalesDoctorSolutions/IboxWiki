@@ -21,5 +21,9 @@
   "previous": {
     "title": "Sotuvlarni omborlar bo‘yicha ajratish",
     "permalink": "/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse"
+  },
+  "next": {
+    "title": "Мультивалютная оплата",
+    "permalink": "/uz/docs/functionality/finance/multi-currency"
   }
 }

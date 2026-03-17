@@ -1,0 +1,25 @@
+{
+  "id": "functionality/finance/vat",
+  "title": "Использовать НДС",
+  "description": "Использовать НДС",
+  "source": "@site/docs/functionality/finance/vat.md",
+  "sourceDirName": "functionality/finance",
+  "slug": "/functionality/finance/vat",
+  "permalink": "/uz/docs/functionality/finance/vat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "vat",
+    "title": "Использовать НДС",
+    "sidebar_label": "Использовать НДС",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Оплата по отгрузкам",
+    "permalink": "/uz/docs/functionality/finance/payment-by-shipment"
+  }
+}

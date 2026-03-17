@@ -15,6 +15,26 @@
               "path": "/uz/docs/faq/"
             },
             {
+              "id": "functionality/finance/multi-currency",
+              "path": "/uz/docs/functionality/finance/multi-currency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/finance/negative-payments",
+              "path": "/uz/docs/functionality/finance/negative-payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/finance/payment-by-shipment",
+              "path": "/uz/docs/functionality/finance/payment-by-shipment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/finance/vat",
+              "path": "/uz/docs/functionality/finance/vat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/statuses/cashbox-responsible",
               "path": "/uz/docs/functionality/statuses/cashbox-responsible",
               "sidebar": "tutorialSidebar"

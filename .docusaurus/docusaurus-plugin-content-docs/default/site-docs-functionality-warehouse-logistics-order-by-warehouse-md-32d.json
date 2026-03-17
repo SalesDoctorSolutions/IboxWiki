@@ -21,5 +21,9 @@
   "previous": {
     "title": "Разделение отгрузок по складам",
     "permalink": "/docs/functionality/warehouse-logistics/shipment-by-warehouse"
+  },
+  "next": {
+    "title": "Мультивалютная оплата",
+    "permalink": "/docs/functionality/finance/multi-currency"
   }
 }

@@ -107,22 +107,38 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-250": {
+  "/uz/docs-f37": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-592": {
+  "/uz/docs-9e5": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-d7e": {
+  "/uz/docs-516": {
     "__comp": "a94703ab"
   },
   "/uz/docs/faq/-0e2": {
     "__comp": "17896441",
     "content": "9e4de7c3"
+  },
+  "/uz/docs/functionality/finance/multi-currency-d53": {
+    "__comp": "17896441",
+    "content": "abe165db"
+  },
+  "/uz/docs/functionality/finance/negative-payments-c5b": {
+    "__comp": "17896441",
+    "content": "493ce012"
+  },
+  "/uz/docs/functionality/finance/payment-by-shipment-b6f": {
+    "__comp": "17896441",
+    "content": "813e56b8"
+  },
+  "/uz/docs/functionality/finance/vat-373": {
+    "__comp": "17896441",
+    "content": "c45ab5aa"
   },
   "/uz/docs/functionality/statuses/cashbox-responsible-adb": {
     "__comp": "17896441",
