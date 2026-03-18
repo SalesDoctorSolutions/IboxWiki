@@ -1,0 +1,14 @@
+{
+  "id": "functionality/products/sku-duplicate",
+  "title": "sku-duplicate",
+  "description": "",
+  "source": "@site/docs/functionality/products/sku-duplicate.md",
+  "sourceDirName": "functionality/products",
+  "slug": "/functionality/products/sku-duplicate",
+  "permalink": "/uz/docs/functionality/products/sku-duplicate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

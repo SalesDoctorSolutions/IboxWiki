@@ -250,6 +250,14 @@ module.exports = {
         'functionality/finance/vat',
       ],
       },
+      {
+      type: 'category',
+      label: '5.4. Товары и учет',
+      items: [    
+        'functionality/products/batch',
+        'functionality/products/packs',
+      ],
+      },
       ],
     },
   ],

@@ -1,0 +1,25 @@
+{
+  "id": "functionality/products/packs",
+  "title": "Упаковки товара",
+  "description": "Данная функция позволяет использовать разные упаковки для одного товара, которые связаны с основной единицей хранения с помощью установленного коэффициента.",
+  "source": "@site/docs/functionality/products/packs.md",
+  "sourceDirName": "functionality/products",
+  "slug": "/functionality/products/packs",
+  "permalink": "/uz/docs/functionality/products/packs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "packs",
+    "title": "Упаковки товара",
+    "sidebar_label": "Упаковки товара",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Партийный учет",
+    "permalink": "/uz/docs/functionality/products/batch"
+  }
+}

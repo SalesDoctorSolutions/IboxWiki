@@ -14,8 +14,7 @@ Korrektirovka ombordagi ma’lumotlarni tartibga keltirish uchun ishlatiladi: ye
 ## Qachon qoldiqlar korrektirovkasi qilish kerak
 
 Quyidagi holatlarda foydalaniladi:
-
-- tizimga boshlang‘ich qoldiqlarni kiritishda  
+ 
 - o‘zingizning mahsulotlaringizni tizimga qo‘shganda  
 - haqiqiy ombor qoldiqlari tizimdagi ma’lumotlarga mos kelmaganda  
 - yaroqsiz yoki yo‘qolgan mahsulotlarni hisobdan chiqarishda  

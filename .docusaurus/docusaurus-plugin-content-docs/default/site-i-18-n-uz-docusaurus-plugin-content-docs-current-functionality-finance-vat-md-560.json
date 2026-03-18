@@ -21,5 +21,9 @@
   "previous": {
     "title": "Hujjat bo'yicha to'lov",
     "permalink": "/uz/docs/functionality/finance/payment-by-shipment"
+  },
+  "next": {
+    "title": "Партийный учет",
+    "permalink": "/uz/docs/functionality/products/batch"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "id": "functionality/products/services",
+  "title": "services",
+  "description": "",
+  "source": "@site/docs/functionality/products/services.md",
+  "sourceDirName": "functionality/products",
+  "slug": "/functionality/products/services",
+  "permalink": "/uz/docs/functionality/products/services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

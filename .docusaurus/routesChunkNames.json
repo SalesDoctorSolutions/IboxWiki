@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-e61": {
+  "/uz/docs-816": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-b2f": {
+  "/uz/docs-f85": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-68e": {
+  "/uz/docs-af4": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/finance/multi-currency-722": {
@@ -135,6 +135,42 @@
   "/uz/docs/functionality/finance/vat-9f6": {
     "__comp": "17896441",
     "content": "5609b41f"
+  },
+  "/uz/docs/functionality/products/assemblys-b83": {
+    "__comp": "17896441",
+    "content": "4630fa61"
+  },
+  "/uz/docs/functionality/products/barcode-duplicate-143": {
+    "__comp": "17896441",
+    "content": "a41cb74e"
+  },
+  "/uz/docs/functionality/products/batch-eb1": {
+    "__comp": "17896441",
+    "content": "52bf3137"
+  },
+  "/uz/docs/functionality/products/dependent-prices-33e": {
+    "__comp": "17896441",
+    "content": "abaa4c01"
+  },
+  "/uz/docs/functionality/products/landed-cost-2c8": {
+    "__comp": "17896441",
+    "content": "c507ba4f"
+  },
+  "/uz/docs/functionality/products/packs-547": {
+    "__comp": "17896441",
+    "content": "94caefad"
+  },
+  "/uz/docs/functionality/products/product-collections-f07": {
+    "__comp": "17896441",
+    "content": "e6877101"
+  },
+  "/uz/docs/functionality/products/services-e5b": {
+    "__comp": "17896441",
+    "content": "f85497a7"
+  },
+  "/uz/docs/functionality/products/sku-duplicate-190": {
+    "__comp": "17896441",
+    "content": "d55bce5b"
   },
   "/uz/docs/functionality/statuses/cashbox-responsible-adb": {
     "__comp": "17896441",

@@ -31,6 +31,44 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/products/assemblys",
+              "path": "/uz/docs/functionality/products/assemblys"
+            },
+            {
+              "id": "functionality/products/barcode-duplicate",
+              "path": "/uz/docs/functionality/products/barcode-duplicate"
+            },
+            {
+              "id": "functionality/products/batch",
+              "path": "/uz/docs/functionality/products/batch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/products/dependent-prices",
+              "path": "/uz/docs/functionality/products/dependent-prices"
+            },
+            {
+              "id": "functionality/products/landed-cost",
+              "path": "/uz/docs/functionality/products/landed-cost"
+            },
+            {
+              "id": "functionality/products/packs",
+              "path": "/uz/docs/functionality/products/packs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/products/product-collections",
+              "path": "/uz/docs/functionality/products/product-collections"
+            },
+            {
+              "id": "functionality/products/services",
+              "path": "/uz/docs/functionality/products/services"
+            },
+            {
+              "id": "functionality/products/sku-duplicate",
+              "path": "/uz/docs/functionality/products/sku-duplicate"
+            },
+            {
               "id": "functionality/statuses/cashbox-responsible",
               "path": "/uz/docs/functionality/statuses/cashbox-responsible",
               "sidebar": "tutorialSidebar"

@@ -1,0 +1,29 @@
+{
+  "id": "functionality/products/batch",
+  "title": "Партийный учет",
+  "description": "Данная функция позволяет вести детальный учет товаров по партиям, срокам годности и серийным номерам.",
+  "source": "@site/docs/functionality/products/batch.md",
+  "sourceDirName": "functionality/products",
+  "slug": "/functionality/products/batch",
+  "permalink": "/uz/docs/functionality/products/batch",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "batch",
+    "title": "Партийный учет",
+    "sidebar_label": "Партийный учет",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QQS ni ishlatish",
+    "permalink": "/uz/docs/functionality/finance/vat"
+  },
+  "next": {
+    "title": "Упаковки товара",
+    "permalink": "/uz/docs/functionality/products/packs"
+  }
+}

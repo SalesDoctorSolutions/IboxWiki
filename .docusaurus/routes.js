@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'e61'),
+    component: ComponentCreator('/uz/docs', '816'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'b2f'),
+        component: ComponentCreator('/uz/docs', 'f85'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '68e'),
+            component: ComponentCreator('/uz/docs', 'af4'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -92,6 +92,53 @@ export default [
                 component: ComponentCreator('/uz/docs/functionality/finance/vat', '9f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/products/assemblys',
+                component: ComponentCreator('/uz/docs/functionality/products/assemblys', 'b83'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/products/barcode-duplicate',
+                component: ComponentCreator('/uz/docs/functionality/products/barcode-duplicate', '143'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/products/batch',
+                component: ComponentCreator('/uz/docs/functionality/products/batch', 'eb1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/products/dependent-prices',
+                component: ComponentCreator('/uz/docs/functionality/products/dependent-prices', '33e'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/products/landed-cost',
+                component: ComponentCreator('/uz/docs/functionality/products/landed-cost', '2c8'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/products/packs',
+                component: ComponentCreator('/uz/docs/functionality/products/packs', '547'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/products/product-collections',
+                component: ComponentCreator('/uz/docs/functionality/products/product-collections', 'f07'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/products/services',
+                component: ComponentCreator('/uz/docs/functionality/products/services', 'e5b'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/products/sku-duplicate',
+                component: ComponentCreator('/uz/docs/functionality/products/sku-duplicate', '190'),
+                exact: true
               },
               {
                 path: '/uz/docs/functionality/statuses/cashbox-responsible',

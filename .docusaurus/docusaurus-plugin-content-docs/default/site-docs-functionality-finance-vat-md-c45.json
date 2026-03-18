@@ -21,5 +21,9 @@
   "previous": {
     "title": "Оплата по отгрузкам",
     "permalink": "/docs/functionality/finance/payment-by-shipment"
+  },
+  "next": {
+    "title": "Партийный учет",
+    "permalink": "/docs/functionality/products/batch"
   }
 }
