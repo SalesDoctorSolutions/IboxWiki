@@ -83,7 +83,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Asosiy sahifa",
+      "title": "",
       "logo": {
         "alt": "Логотип iBOX",
         "src": "img/logo.svg"
