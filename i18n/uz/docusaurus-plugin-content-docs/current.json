@@ -87,10 +87,6 @@
     "message": "4.4. Moliyaviy hisobotlar",
     "description": "The label for category 4.4. Отчеты по финансам in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.5. Функционал": {
-    "message": "5. Funktsional",
-    "description": "The label for category 5. Функционал in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.5.1. Доп. статусы и ответственные лица": {
     "message": "5.1. Qo'shimcha statuslar va javobgar shaxslar",
     "description": "The label for category 5.1. Доп. статусы и ответственные лица in sidebar tutorialSidebar"
@@ -102,5 +98,13 @@
   "sidebar.tutorialSidebar.category.5.3. Финансы и оплата": {
     "message": "5.3. Moliya va to‘lov",
     "description": "The label for category 5.3. Финансы и оплата in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5. Доп. функционал": {
+    "message": "5. Qo'shimcha funsional",
+    "description": "The label for category 5. Доп. функционал in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5.4. Товары и учет": {
+    "message": "5.4. Mahsulotlar va hisob",
+    "description": "The label for category 5.4. Товары и учет in sidebar tutorialSidebar"
   }
 }

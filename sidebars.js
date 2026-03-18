@@ -212,7 +212,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: '5. Функционал',
+      label: '5. Доп. функционал',
       items: [
       {
       type: 'category',
@@ -256,6 +256,7 @@ module.exports = {
       items: [    
         'functionality/products/batch',
         'functionality/products/packs',
+        'functionality/products/services',
       ],
       },
       ],

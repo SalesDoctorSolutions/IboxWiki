@@ -1,7 +1,7 @@
 {
   "id": "functionality/products/services",
-  "title": "services",
-  "description": "",
+  "title": "Услуги",
+  "description": "Услуги в iBox — это позиции без складского учета и остатков.",
   "source": "@site/docs/functionality/products/services.md",
   "sourceDirName": "functionality/products",
   "slug": "/functionality/products/services",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "services",
+    "title": "Услуги",
+    "sidebar_label": "Услуги",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Упаковки товара",
+    "permalink": "/uz/docs/functionality/products/packs"
+  }
 }

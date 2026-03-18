@@ -62,7 +62,8 @@
             },
             {
               "id": "functionality/products/services",
-              "path": "/uz/docs/functionality/products/services"
+              "path": "/uz/docs/functionality/products/services",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/products/sku-duplicate",
