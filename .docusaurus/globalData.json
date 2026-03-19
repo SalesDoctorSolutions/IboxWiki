@@ -54,8 +54,9 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "functionality/products/product-collections",
-              "path": "/uz/docs/functionality/products/product-collections"
+              "id": "functionality/products/product-variants",
+              "path": "/uz/docs/functionality/products/product-variants",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/products/services",
