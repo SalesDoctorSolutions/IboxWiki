@@ -6,7 +6,24 @@
 export default {
   "title": "iBOX",
   "tagline": "iBOX Документация",
-  "favicon": "img/favicon.ico",
+  "headTags": [
+    {
+      "tagName": "link",
+      "attributes": {
+        "rel": "icon",
+        "href": "/img/favicon.ico",
+        "media": "(prefers-color-scheme: light)"
+      }
+    },
+    {
+      "tagName": "link",
+      "attributes": {
+        "rel": "icon",
+        "href": "/img/favicon-dark.ico",
+        "media": "(prefers-color-scheme: dark)"
+      }
+    }
+  ],
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -86,7 +103,8 @@ export default {
       "title": "",
       "logo": {
         "alt": "Логотип iBOX",
-        "src": "img/logo.svg"
+        "src": "img/logo.svg",
+        "srcDark": "img/logo-dark.svg"
       },
       "items": [
         {
@@ -390,7 +408,6 @@ export default {
   "customFields": {},
   "plugins": [],
   "scripts": [],
-  "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",

@@ -1,7 +1,7 @@
 {
   "id": "functionality/products/landed-cost",
-  "title": "landed-cost",
-  "description": "",
+  "title": "Доп. расходы",
+  "description": "Использовать доп. расходы",
   "source": "@site/docs/functionality/products/landed-cost.md",
   "sourceDirName": "functionality/products",
   "slug": "/functionality/products/landed-cost",
@@ -10,5 +10,11 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "landed-cost",
+    "title": "Доп. расходы",
+    "sidebar_label": "Доп. расходы",
+    "sidebar_position": 7
+  }
 }

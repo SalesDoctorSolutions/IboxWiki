@@ -12,7 +12,24 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'iBOX',
   tagline: 'iBOX Документация',
-  favicon: 'img/favicon.ico',
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        href: '/img/favicon.ico',
+        media: '(prefers-color-scheme: light)',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        href: '/img/favicon-dark.ico',
+        media: '(prefers-color-scheme: dark)',
+      },
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -89,6 +106,7 @@ const config = {
         logo: {
           alt: 'Логотип iBOX',
           src: 'img/logo.svg',
+          srcDark: 'img/logo-dark.svg',
         },
         items: [
           {
