@@ -6,7 +6,6 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://help.ibox.io/blog"/>
     <subtitle>iBOX Blog</subtitle>
-    <icon>https://help.ibox.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Обновление iBox]]></title>
         <id>https://help.ibox.io/blog/release-1-0</id>
