@@ -31,10 +31,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "functionality/products/barcode-duplicate",
-              "path": "/uz/docs/functionality/products/barcode-duplicate"
-            },
-            {
               "id": "functionality/products/batch",
               "path": "/uz/docs/functionality/products/batch",
               "sidebar": "tutorialSidebar"
@@ -42,6 +38,11 @@
             {
               "id": "functionality/products/dependent-prices",
               "path": "/uz/docs/functionality/products/dependent-prices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functionality/products/duplicates",
+              "path": "/uz/docs/functionality/products/duplicates",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -62,10 +63,6 @@
               "id": "functionality/products/services",
               "path": "/uz/docs/functionality/products/services",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "functionality/products/sku-duplicate",
-              "path": "/uz/docs/functionality/products/sku-duplicate"
             },
             {
               "id": "functionality/statuses/cashbox-responsible",

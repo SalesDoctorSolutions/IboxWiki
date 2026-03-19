@@ -21,5 +21,9 @@
   "previous": {
     "title": "Зависимые прайс-листы",
     "permalink": "/uz/docs/functionality/products/dependent-prices"
+  },
+  "next": {
+    "title": "Дублирование штрихкода и артикула",
+    "permalink": "/uz/docs/functionality/products/duplicates"
   }
 }

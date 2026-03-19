@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'eff'),
+    component: ComponentCreator('/uz/docs', '1d6'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '673'),
+        component: ComponentCreator('/uz/docs', 'cb4'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '505'),
+            component: ComponentCreator('/uz/docs', '6ab'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -94,11 +94,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/functionality/products/barcode-duplicate',
-                component: ComponentCreator('/uz/docs/functionality/products/barcode-duplicate', '143'),
-                exact: true
-              },
-              {
                 path: '/uz/docs/functionality/products/batch',
                 component: ComponentCreator('/uz/docs/functionality/products/batch', 'eb1'),
                 exact: true,
@@ -107,6 +102,12 @@ export default [
               {
                 path: '/uz/docs/functionality/products/dependent-prices',
                 component: ComponentCreator('/uz/docs/functionality/products/dependent-prices', 'd5e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/products/duplicates',
+                component: ComponentCreator('/uz/docs/functionality/products/duplicates', 'ceb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -132,11 +133,6 @@ export default [
                 component: ComponentCreator('/uz/docs/functionality/products/services', '2bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/uz/docs/functionality/products/sku-duplicate',
-                component: ComponentCreator('/uz/docs/functionality/products/sku-duplicate', '190'),
-                exact: true
               },
               {
                 path: '/uz/docs/functionality/statuses/cashbox-responsible',

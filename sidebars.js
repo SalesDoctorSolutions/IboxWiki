@@ -259,6 +259,7 @@ module.exports = {
         'functionality/products/services',
         'functionality/products/dependent-prices',
         'functionality/products/product-variants',
+        'functionality/products/duplicates',
       ],
       },
       ],
