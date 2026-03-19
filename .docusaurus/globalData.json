@@ -31,10 +31,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "functionality/products/assemblys",
-              "path": "/uz/docs/functionality/products/assemblys"
-            },
-            {
               "id": "functionality/products/barcode-duplicate",
               "path": "/uz/docs/functionality/products/barcode-duplicate"
             },
@@ -45,7 +41,8 @@
             },
             {
               "id": "functionality/products/dependent-prices",
-              "path": "/uz/docs/functionality/products/dependent-prices"
+              "path": "/uz/docs/functionality/products/dependent-prices",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/products/landed-cost",

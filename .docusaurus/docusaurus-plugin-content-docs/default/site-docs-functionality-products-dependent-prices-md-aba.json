@@ -1,7 +1,7 @@
 {
   "id": "functionality/products/dependent-prices",
-  "title": "dependent-prices",
-  "description": "",
+  "title": "Зависимые прайс-листы",
+  "description": "Данная функция позволяет создавать прайс-листы, в которых цены товаров рассчитываются автоматически на основе другого прайс-листа.",
   "source": "@site/docs/functionality/products/dependent-prices.md",
   "sourceDirName": "functionality/products",
   "slug": "/functionality/products/dependent-prices",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "dependent-prices",
+    "title": "Зависимые прайс-листы",
+    "sidebar_label": "Зависимые прайс-листы",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Услуги",
+    "permalink": "/uz/docs/functionality/products/services"
+  }
 }

@@ -257,6 +257,7 @@ module.exports = {
         'functionality/products/batch',
         'functionality/products/packs',
         'functionality/products/services',
+        'functionality/products/dependent-prices',
       ],
       },
       ],

@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-27c": {
+  "/uz/docs-ea5": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-510": {
+  "/uz/docs-da6": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-d2a": {
+  "/uz/docs-1e6": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/finance/multi-currency-722": {
@@ -136,10 +136,6 @@
     "__comp": "17896441",
     "content": "5609b41f"
   },
-  "/uz/docs/functionality/products/assemblys-b83": {
-    "__comp": "17896441",
-    "content": "4630fa61"
-  },
   "/uz/docs/functionality/products/barcode-duplicate-143": {
     "__comp": "17896441",
     "content": "a41cb74e"
@@ -148,7 +144,7 @@
     "__comp": "17896441",
     "content": "52bf3137"
   },
-  "/uz/docs/functionality/products/dependent-prices-33e": {
+  "/uz/docs/functionality/products/dependent-prices-d5e": {
     "__comp": "17896441",
     "content": "abaa4c01"
   },

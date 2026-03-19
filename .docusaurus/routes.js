@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '27c'),
+    component: ComponentCreator('/uz/docs', 'ea5'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '510'),
+        component: ComponentCreator('/uz/docs', 'da6'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'd2a'),
+            component: ComponentCreator('/uz/docs', '1e6'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -94,11 +94,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/functionality/products/assemblys',
-                component: ComponentCreator('/uz/docs/functionality/products/assemblys', 'b83'),
-                exact: true
-              },
-              {
                 path: '/uz/docs/functionality/products/barcode-duplicate',
                 component: ComponentCreator('/uz/docs/functionality/products/barcode-duplicate', '143'),
                 exact: true
@@ -111,8 +106,9 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/products/dependent-prices',
-                component: ComponentCreator('/uz/docs/functionality/products/dependent-prices', '33e'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/products/dependent-prices', 'd5e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/landed-cost',
