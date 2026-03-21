@@ -113,9 +113,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Документация',
+            label: 'Руководство',
           },
-           {to: '/blog', label: 'Что нового в iBOX', position: 'left'},
+           {to: '/blog', label: 'Новости', position: 'left'},
            {
             type: 'localeDropdown',
             position: 'right',

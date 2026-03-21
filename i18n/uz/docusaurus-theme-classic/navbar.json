@@ -7,16 +7,16 @@
     "message": "Логотип iBOX",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Документация": {
-    "message": "Hujjatlar",
-    "description": "Navbar item with label Документация"
-  },
-  "item.label.Что нового в iBOX": {
-    "message": "iBOX’dagi yangiliklar",
-    "description": "Navbar item with label Что нового в iBOX"
-  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.Руководство": {
+    "message": "Qo'llanma",
+    "description": "Navbar item with label Руководство"
+  },
+  "item.label.Новости": {
+    "message": "Yangiliklar",
+    "description": "Navbar item with label Новости"
   }
 }

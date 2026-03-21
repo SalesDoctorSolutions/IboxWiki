@@ -111,11 +111,11 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Hujjatlar"
+          "label": "Qo'llanma"
         },
         {
           "to": "/blog",
-          "label": "iBOX’dagi yangiliklar",
+          "label": "Yangiliklar",
           "position": "left"
         },
         {
