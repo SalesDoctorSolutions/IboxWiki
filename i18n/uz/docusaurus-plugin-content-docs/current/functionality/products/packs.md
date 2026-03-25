@@ -72,4 +72,4 @@ Narxlar prays-listlar va hujjatlarda **tanlangan qadoqdan qat’i nazar, saqlash
 3. **Funksional** bo‘limiga o‘ting.
 4. **Mahsulotlarda qadoqlarni ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
 5. **Ha** variantini tanlang.
-6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing..
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.

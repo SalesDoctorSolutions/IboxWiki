@@ -1,69 +1,69 @@
 ---
 id: services
-title: Услуги
-sidebar_label: Услуги
+title: Xizmatlar
+sidebar_label: Xizmatlar
 sidebar_position: 3
 ---
 
-# Использовать услуги
+# Xizmatlarni ishlatish
 
-Услуги в iBox — это **позиции без складского учета и остатков**.
+iBox tizimidagi xizmatlar — bu **ombor hisobi va qoldiqlarsiz pozitsiyalar**.
 
-После включения функции в модуле **Товары** появляется отдельный раздел **«Услуги»**, где можно создавать и управлять услугами.
+Funksiya yoqilgandan so‘ng, **Mahsulotlar** modulida alohida **«Xizmatlar»** bo‘limi paydo bo‘ladi. Unda xizmatlarni yaratish va boshqarish mumkin.
 
-Услуги можно добавлять в документы **продаж и закупок**, так же как и обычные товары.
-
----
-
-## Особенности учета услуг
-
-- при продаже услуги **остатки не изменяются**, так как услуга не хранится на складе;
-- у услуги **нет себестоимости**, поэтому вся сумма продажи учитывается как **доход**;
-- при закупке услуги необходимо указать **тип расхода**, после чего сумма фиксируется как **операционный расход**.
-
-Типы расходов можно создавать и редактировать в разделе **Настройки → Типы расходов**.
+Xizmatlarni **savdo va xarid** hujjatlariga oddiy mahsulotlar kabi qo‘shish mumkin.
 
 ---
 
-:::tip Совет
-Объединяйте **типы расходов по категориям**, чтобы удобно анализировать операционные расходы в **отчете о прибыли и убытках**.
+## Xizmatlar hisobining o‘ziga xos xususiyatlari
+
+- xizmat sotilganda **qoldiqlar o‘zgarmaydi**, chunki xizmat omborda saqlanmaydi;
+- xizmatning **tannarxi bo‘lmaydi**, shuning uchun sotuv summasining barchasi **daromad** sifatida hisobga olinadi;
+- xizmat xarid qilinganda **chiqim turi**ni ko‘rsatish kerak, shundan so‘ng summa **davr xarajati** sifatida qayd etiladi.
+
+Xarajat turlarini **Sozlamalar → Chiqim turlari** bo‘limida yaratish va tahrirlash mumkin.
+
+---
+
+:::tip Tavsiya
+**Chiqim turlarini kategoriyalar bo‘yicha birlashtiring**, shunda **foyda va zarar hisobotida** operatsion xarajatlarni qulay tahlil qilish mumkin bo‘ladi.
 :::
 
 ---
 
-## Когда полезно использовать услуги
+## Funksiya qachon foydali
 
-Использование функции помогает:
+Ushbu funksiyadan foydalanish quyidagilarga yordam beradi:
 
-- учитывать доходы от сервисов и работ;
-- фиксировать операционные расходы на услуги;
-- вести единый учет товаров и услуг в одной системе;
-- формировать более точный отчет по прибыли и убыткам;
-- анализировать структуру доходов и расходов бизнеса.
+- xizmatlar va ishlar bo‘yicha daromadlarni hisobga olish  
+- xizmatlar uchun operatsion xarajatlarni qayd etish  
+- mahsulotlar va xizmatlarni bitta tizimda birgalikda yuritish  
+- foyda va zarar hisobotini yanada aniq shakllantirish  
+- biznes daromad va xarajatlari tarkibini tahlil qilish  
 
-Это особенно полезно, если компания:
+Bu ayniqsa quyidagi holatlarda foydali, agar kompaniya:
 
-- оказывает услуги (доставка, установка, ремонт, обучение и др.);
-- оплачивает сторонние сервисы (аренда, реклама, логистика);
-- ведет учет операционных расходов;
-- хочет видеть полный финансовый результат по всем видам деятельности.
+- xizmatlar ko‘rsatsa (yetkazib berish, o‘rnatish, ta’mirlash, o‘qitish va boshqalar);  
+- tashqi servislar uchun to‘lov qilsa (ijara, reklama, logistika);  
+- davr xarajatlar hisobini yuritsa;  
+- barcha faoliyat turlari bo‘yicha to‘liq moliyaviy natijani ko‘rishni istasa.  
 
 ---
 
-:::tip Совет
-Вы можете **распределить стоимость услуг на себестоимость товаров при закупке**.
+:::tip Tavsiya
+Siz **xizmatlar qiymatini xarid paytida mahsulot tannarxiga taqsimlashingiz** mumkin.
 
-Для этого включите функцию **«Дополнительные расходы»**.  
-После включения функции появится возможность добавлять услуги (например: доставка, таможня, погрузка) как доп. расходы в документ закупки и **распределять их стоимость на товары**, увеличивая их себестоимость.
+Buning uchun **«Qo‘shimcha xarajatlar»** funksiyasini yoqing.  
+Funksiya yoqilgandan so‘ng, xizmatlarni (masalan: yetkazib berish, bojxona, yuklash) xarid hujjatiga qo‘shimcha xarajat sifatida qo‘shish va **ularning qiymatini mahsulotlar o‘rtasida taqsimlash**, shu orqali mahsulot tannarxini oshirish mumkin bo‘ladi.
 :::
 
 ---
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать услуги»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Xizmatlarni ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
