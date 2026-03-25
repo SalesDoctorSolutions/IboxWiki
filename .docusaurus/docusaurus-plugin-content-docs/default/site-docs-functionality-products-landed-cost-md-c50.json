@@ -1,7 +1,7 @@
 {
   "id": "functionality/products/landed-cost",
-  "title": "Доп. расходы",
-  "description": "Использовать доп. расходы",
+  "title": "Дополнительные расходы",
+  "description": "Данная функция позволяет учитывать накладные расходы при закупке товаров и распределять их на себестоимость.",
   "source": "@site/docs/functionality/products/landed-cost.md",
   "sourceDirName": "functionality/products",
   "slug": "/functionality/products/landed-cost",
@@ -13,8 +13,13 @@
   "sidebarPosition": 7,
   "frontMatter": {
     "id": "landed-cost",
-    "title": "Доп. расходы",
+    "title": "Дополнительные расходы",
     "sidebar_label": "Доп. расходы",
     "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Дублирование штрихкода и артикула",
+    "permalink": "/uz/docs/functionality/products/duplicates"
   }
 }

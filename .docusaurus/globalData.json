@@ -47,7 +47,8 @@
             },
             {
               "id": "functionality/products/landed-cost",
-              "path": "/uz/docs/functionality/products/landed-cost"
+              "path": "/uz/docs/functionality/products/landed-cost",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/products/packs",

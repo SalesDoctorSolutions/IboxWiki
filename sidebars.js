@@ -260,6 +260,7 @@ module.exports = {
         'functionality/products/dependent-prices',
         'functionality/products/product-variants',
         'functionality/products/duplicates',
+        'functionality/products/landed-cost',
       ],
       },
       ],

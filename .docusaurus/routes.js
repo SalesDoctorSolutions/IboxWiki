@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '1d6'),
+    component: ComponentCreator('/uz/docs', 'dd5'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'cb4'),
+        component: ComponentCreator('/uz/docs', 'a61'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '6ab'),
+            component: ComponentCreator('/uz/docs', 'a1a'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -113,8 +113,9 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/products/landed-cost',
-                component: ComponentCreator('/uz/docs/functionality/products/landed-cost', '2c8'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/products/landed-cost', 'c22'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/packs',
