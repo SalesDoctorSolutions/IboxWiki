@@ -1,82 +1,82 @@
 ---
 id: dependent-prices
-title: Зависимые прайс-листы
-sidebar_label: Зависимые прайс-листы
+title: Bog‘liq narxlar
+sidebar_label: Bog‘liq narxlar 
 sidebar_position: 4
 ---
 
-# Использовать зависимые прайс-листы
+# Bir-biriga bogliq narxlarni ishlatish
 
-Данная функция позволяет создавать **прайс-листы, в которых цены товаров рассчитываются автоматически на основе другого прайс-листа**.
+Ushbu funksiya **boshqa prays list asosida mahsulot narxlari avtomatik hisoblanadigan narxlar ro‘yxatlari**ni yaratish imkonini beradi.
 
-При создании или редактировании прайс-листа появляется возможность выбрать **способ назначения цен**:
+Prays listni yaratish yoki tahrirlashda **narx belgilash usuli**ni tanlash mumkin bo‘ladi:
 
-- **Ручное назначение цен**;
-- **Зависит от другой цены**.
+- **Qo'lda kiritiladi**;
+- **Boshqa narxga asosida**.
 
-Это позволяет быстро формировать новые прайс-листы с наценкой, скидкой, конвертацией валюты и округлением.
-
----
-
-## Когда полезно использовать функцию
-
-Использование зависимых прайс-листов помогает:
-
-- автоматически рассчитывать цены для разных каналов продаж;
-- создавать оптовые и розничные цены на основе базового прайс-листа;
-- ускорять обновление цен при изменении закупочной стоимости;
-- уменьшать количество ручных ошибок;
-- вести учет цен в разных валютах.
-
-Это особенно полезно, если компания:
-
-- использует несколько уровней цен (например: розница, опт, дилеры);
-- работает с иностранной валютой;
-- часто обновляет цены;
-- продает через мобильное приложение или POS-систему.
+Bu yangi prays listlarni ustama, chegirma, valyuta konvertatsiyasi va yaxlitlash orqali tez shakllantirishga yordam beradi.
 
 ---
 
-## Как включить функцию
+## Funksiya qachon foydali
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать зависимые прайс-листы»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+Bir biriga bog‘liq prays listlardan foydalanish quyidagilarga yordam beradi:
 
----
+- turli savdo kanallari uchun narxlarni avtomatik hisoblash;  
+- asosiy prays list asosida ulgurji va chakana narxlarni yaratish;  
+- xarid narxi o‘zgarganda narxlarni tez yangilash;  
+- qo‘lda kiritishdagi xatolarni kamaytirish;  
+- turli valyutalarda narxlar hisobini yuritish.  
 
-## Как создать зависимый прайс-лист
+Bu ayniqsa quyidagi holatlarda foydali, agar kompaniya:
 
-1. Перейдите в раздел **Товары → Прайс-листы**.
-2. Нажмите **плюс** в правом верхнем углу.
-3. Укажите **название** прайс-листа.
-4. Выберите, где он будет использоваться — **в продажах или закупках**.
-5. В поле **Способ назначения цен** выберите **«Зависит от другой цены»**.
-6. В поле **Базовая цена** выберите прайс-лист, на основе которого будут рассчитываться цены.
-7. В поле **Наценка** выберите метод (**наценка** или **скидка**) и укажите процент.
-8. При необходимости заполните дополнительные параметры:
-   - **Конвертировать в валюту** — чтобы автоматически переводить цены в другую валюту;
-   - **Округление** — чтобы указать правило округления цен.
-9. При необходимости выберите **конкретные товары**, для которых нужно рассчитать цены.
-10. Нажмите **Сохранить**.
+- bir nechta narx darajalaridan foydalansa (masalan: chakana, ulgurji, dilerlar);  
+- xorijiy valyuta bilan ishlasa;  
+- narxlarni tez-tez yangilab tursa;  
+- mobil ilova yoki POS tizimi orqali savdo qilsa.  
 
 ---
 
-:::tip Совет
-Если цены товаров указаны в разных валютах, используйте параметр **«Конвертировать в валюту»** в зависимом прайс-листе.
+## Funksiyani qanday yoqish mumkin
 
-Это особенно удобно при продаже или закупке через **мобильное приложение**, так как позволяет формировать цены **в единой валюте**.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Bir-biriga bogliq narxlarni ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing. 
+
+---
+
+## Bog‘liq narxlarni qanday yaratish mumkin
+
+1. **Mahsulotlar → Prays listlar** bo‘limiga o‘ting.  
+2. O‘ng yuqori burchakdagi **plyus** tugmasini bosing.  
+3. **Prays list nomi**ni kiriting.  
+4. U qayerda ishlatilishini tanlang — **Sotuvlarda yoki xaridlarda**.  
+5. **Narx belgilash usuli** maydonida **«Boshqa narxga asosida** variantini tanlang.  
+6. **Asos narx** maydonida narxlar hisoblanadigan asos prays listni tanlang.  
+7. **Ustama** maydonida usulni (**ustama** yoki **chegirma**) tanlang va foizni kiriting.  
+8. Zarurat bo‘lsa, qo‘shimcha parametrlarni to‘ldiring:
+   - **Narx valyutasi** — narxlarni avtomatik ravishda boshqa valyutaga o‘tkazish uchun;  
+   - **Yaxlitlash** — narxlarni yaxlitlash qoidasini belgilash uchun.  
+9. Zarurat bo‘lsa, narxlari hisoblanishi kerak bo‘lgan **aniq mahsulotlar**ni tanlang.  
+10. **Saqlash** tugmasini bosing.  
+
+---
+
+:::tip Tavsiya
+Agar mahsulot narxlari turli valyutalarda ko‘rsatilgan bo‘lsa, bog‘liq prays listda **«Narx valyutasi»** parametridan foydalaning.
+
+Bu ayniqsa **mobil ilova** orqali savdo yoki xarid qilishda qulay, chunki narxlarni **yagona valyutada** shakllantirish imkonini beradi.
 :::
 
 ---
 
-:::info Информация
-Если при создании зависимого прайс-листа выбрать только часть товаров, цены будут рассчитаны **только для выбранных позиций**.
+:::info Ma’lumot
+Agar bog‘liq prays listni yaratishda faqat mahsulotlarning bir qismi tanlansa, narxlar **faqat tanlangan pozitsiyalar** uchun hisoblanadi.
 
-Для остальных товаров цены в этом прайс-листе останутся **пустыми**.
+Qolgan mahsulotlar uchun ushbu prays listdagi narxlar **bo‘sh** bo‘lib qoladi.
 :::
 
 ---
