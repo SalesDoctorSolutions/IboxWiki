@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'dd5'),
+    component: ComponentCreator('/uz/docs', 'b2c'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'a61'),
+        component: ComponentCreator('/uz/docs', '819'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'a1a'),
+            component: ComponentCreator('/uz/docs', '6e0'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -95,43 +95,43 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/products/batch',
-                component: ComponentCreator('/uz/docs/functionality/products/batch', 'eb1'),
+                component: ComponentCreator('/uz/docs/functionality/products/batch', '5f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/dependent-prices',
-                component: ComponentCreator('/uz/docs/functionality/products/dependent-prices', 'd5e'),
+                component: ComponentCreator('/uz/docs/functionality/products/dependent-prices', '09b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/duplicates',
-                component: ComponentCreator('/uz/docs/functionality/products/duplicates', 'ceb'),
+                component: ComponentCreator('/uz/docs/functionality/products/duplicates', '21c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/landed-cost',
-                component: ComponentCreator('/uz/docs/functionality/products/landed-cost', 'c22'),
+                component: ComponentCreator('/uz/docs/functionality/products/landed-cost', '80e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/packs',
-                component: ComponentCreator('/uz/docs/functionality/products/packs', '547'),
+                component: ComponentCreator('/uz/docs/functionality/products/packs', '213'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/product-variants',
-                component: ComponentCreator('/uz/docs/functionality/products/product-variants', '22c'),
+                component: ComponentCreator('/uz/docs/functionality/products/product-variants', '5d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/products/services',
-                component: ComponentCreator('/uz/docs/functionality/products/services', '2bc'),
+                component: ComponentCreator('/uz/docs/functionality/products/services', '8db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

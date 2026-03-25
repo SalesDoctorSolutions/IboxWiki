@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/products/batch.md",
   "sourceDirName": "functionality/products",
   "slug": "/functionality/products/batch",
-  "permalink": "/uz/docs/functionality/products/batch",
+  "permalink": "/docs/functionality/products/batch",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "QQS ni ishlatish",
-    "permalink": "/uz/docs/functionality/finance/vat"
+    "title": "Использовать НДС",
+    "permalink": "/docs/functionality/finance/vat"
   },
   "next": {
     "title": "Упаковки товара",
-    "permalink": "/uz/docs/functionality/products/packs"
+    "permalink": "/docs/functionality/products/packs"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/products/dependent-prices.md",
   "sourceDirName": "functionality/products",
   "slug": "/functionality/products/dependent-prices",
-  "permalink": "/uz/docs/functionality/products/dependent-prices",
+  "permalink": "/docs/functionality/products/dependent-prices",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Услуги",
-    "permalink": "/uz/docs/functionality/products/services"
+    "permalink": "/docs/functionality/products/services"
   },
   "next": {
     "title": "Коллекции товаров",
-    "permalink": "/uz/docs/functionality/products/product-variants"
+    "permalink": "/docs/functionality/products/product-variants"
   }
 }

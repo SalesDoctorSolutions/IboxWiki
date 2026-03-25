@@ -1,121 +1,121 @@
 ---
 id: batch
-title: Партийный учет
-sidebar_label: Партийный учет
+title: Partiyaviy hisob
+sidebar_label: Partiyaviy hisob
 sidebar_position: 1
 ---
 
-# Использовать партийный учет в товарах
+# Partiya funksiyasini ishlatish
 
-Данная функция позволяет вести **детальный учет товаров по партиям, срокам годности и серийным номерам**.
+Ushbu funksiya **mahsulotlarni partiyalar, yaroqlilik muddati va seriya raqamlari bo‘yicha batafsil hisobga olish** imkonini beradi.
 
-После включения функции в карточке товара появляется вкладка **«Партийный учет»**, где можно выбрать способ учета:
+Funksiya yoqilgandan so‘ng, mahsulot kartasida **«Partiyaviy hisob»** yorlig‘i paydo bo‘ladi. Unda quyidagi hisob usullaridan birini tanlash mumkin:
 
-- товар **без партийного учета**;
-- учет **по номеру партии**;
-- учет **по сроку годности**;
-- учет **по серийному номеру**.
+- mahsulot partiyaviy hisobsi **yo'q**;
+- **partiya raqami bo‘yicha** hisob;
+- **yaroqlilik muddati bo‘yicha** hisob;
+- **seriya raqami bo‘yicha** hisob.
 
-Для таких товаров при оформлении документов **прихода, расхода, возврата или перемещения** необходимо указывать соответствующие данные:  
-номер партии, срок годности или серийный номер.
+Bunday mahsulotlar uchun **kirim, chiqim, qaytarish yoki ko‘chirish** hujjatlarini rasmiylashtirishda tegishli ma’lumotlarni ko‘rsatish kerak:  
+partiya raqami, yaroqlilik muddati yoki seriya raqami.
 
 ---
 
-:::info Информация
-Данные о партиях, сроках годности и серийных номерах можно посмотреть в **карточке товара**, нажав на его название в разделе **Товары → Товары**.
+:::info Ma’lumot
+Partiyalar, yaroqlilik muddatlari va seriya raqamlari haqidagi ma’lumotlarni **Mahsulotlar → Mahsulotlar** bo‘limida mahsulot nomini bosish orqali **mahsulot kartasida** ko‘rish mumkin.
 :::
 
 ---
 
-## Когда полезно использовать партийный учет
+## Partiyaviy hisob qachon foydali
 
-Использование функции помогает:
+Ushbu funksiyadan foydalanish quyidagilarga yordam beradi:
 
-- контролировать остатки товара более точно;
-- отслеживать движение конкретных партий;
-- предотвращать продажу просроченных товаров;
-- быстро находить товары по серийному номеру;
-- повышать прозрачность складского учета.
+- mahsulot qoldiqlarini aniqroq nazorat qilish  
+- aniq partiyalar harakatini kuzatish  
+- muddati o‘tgan mahsulotlar sotilishini oldini olish  
+- mahsulotlarni seriya raqami bo‘yicha tez topish  
+- ombor hisobining shaffofligini oshirish  
 
-Это особенно полезно, если:
+Bu ayniqsa quyidagi holatlarda foydali:
 
-- товары имеют **срок годности** (например, продукты питания, лекарства, косметика);
-- требуется контроль **гарантийных товаров**;
-- важно отслеживать **конкретные поставки**;
-- бизнес работает с **технически сложными товарами**.
-
----
-
-## Как включить функцию
-
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать партийный учет в товарах»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+- mahsulotlarda **yaroqlilik muddati** bo‘lsa (masalan, oziq-ovqat, dori vositalari, kosmetika)  
+- **kafolatli mahsulotlar**ni nazorat qilish talab etilsa  
+- **aniq yetkazib berishlar**ni kuzatish muhim bo‘lsa  
+- biznes **texnik jihatdan murakkab mahsulotlar** bilan ishlasa  
 
 ---
 
-## Учет по номеру партии
+## Funksiyani qanday yoqish mumkin
 
-При учете по номеру партии остатки товара **разделяются по партиям поступления**.
-
-При каждом приходе или расходе необходимо указывать **номер партии**, к которой относится товар.
-
-Это позволяет:
-
-- отслеживать движение конкретной поставки;
-- контролировать остатки по каждой партии;
-- быстро находить товары при возвратах или рекламациях.
-
-Остатки по партиям можно просматривать в карточке товара в разделе **«Партии»**.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Partiya funksiyasini ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing..
 
 ---
 
-## Учет по сроку годности
+## Partiya raqami bo‘yicha hisob
 
-При учете по сроку годности остатки товара **разделяются по датам истечения срока**.
+Partiya raqami bo‘yicha hisobda mahsulot qoldiqlari **kirim partiyalari bo‘yicha ajratiladi**.
 
-При оформлении документов необходимо указывать **срок годности товара**.
+Har bir kirim yoki chiqim operatsiyasida mahsulotga tegishli **partiya raqami**ni ko‘rsatish kerak.
 
-Это позволяет:
+Bu quyidagilarga imkon beradi:
 
-- контролировать наличие просроченных товаров;
-- планировать продажи по принципу **FEFO (сначала продается товар с ближайшим сроком)**;
-- снижать потери от списаний;
-- повышать качество складского учета.
+- aniq mahsulot harakatini kuzatish  
+- har bir partiya bo‘yicha qoldiqlarni nazorat qilish  
+- qaytarish yoki reklamatsiya holatlarida mahsulotlarni tez topish  
 
-Информацию можно просматривать в карточке товара в разделе **«Сроки годности»**.
-
----
-
-## Учет по серийному номеру
-
-При учете по серийному номеру учет ведется **отдельно по каждой единице товара**.
-
-Серийный номер должен быть **уникальным** и не может повторяться даже у разных товаров.
-
-Это позволяет:
-
-- отслеживать историю движения каждой единицы товара;
-- контролировать гарантийные случаи и возвраты;
-- быстро находить товар по серийному номеру;
-- повышать безопасность учета дорогостоящих товаров.
-
-Информацию можно просматривать:
-
-- в карточке товара в разделе **«Серийные номера»**;
-- в разделе **Отчеты → Серийные номера**, который становится доступным после включения функции.
+Partiyalar bo‘yicha qoldiqlarni mahsulot kartasidagi **«Partiyalar»** bo‘limida ko‘rish mumkin.
 
 ---
 
-:::tip Совет
-Используйте отчет **«Серийные номера»**, чтобы отслеживать:
+## Yaroqlilik muddati bo‘yicha hisob
 
-- дату и цену поступления товара;
-- дату продажи;
-- текущий статус и наличие по каждому серийному номеру;
+Yaroqlilik muddati bo‘yicha hisobda mahsulot qoldiqlari **amal qilish muddati tugash sanalari bo‘yicha ajratiladi**.
 
-Это помогает быстрее проводить инвентаризацию и решать вопросы по гарантийному обслуживанию.
+Hujjatlarni rasmiylashtirishda mahsulotning **yaroqlilik muddati**ni ko‘rsatish kerak.
+
+Bu quyidagilarga imkon beradi:
+
+- muddati o‘tgan mahsulotlar mavjudligini nazorat qilish  
+- savdoni **FEFO (avval eng yaqin muddatli mahsulot sotiladi)** tamoyili asosida rejalashtirish  
+- hisobdan chiqarishdagi yo‘qotishlarni kamaytirish  
+- ombor hisobining sifatini oshirish  
+
+Ma’lumotlarni mahsulot kartasidagi **«Yaroqlilik muddatlari»** bo‘limida ko‘rish mumkin.
+
+---
+
+## Seriya raqami bo‘yicha hisob
+
+Seriya raqami bo‘yicha hisobda hisob **har bir mahsulot birligi bo‘yicha alohida** yuritiladi.
+
+Seriya raqami **noyob** bo‘lishi kerak va hatto turli mahsulotlar orasida ham takrorlanishi mumkin emas.
+
+Bu quyidagilarga imkon beradi:
+
+- har bir mahsulot birligining harakat tarixini kuzatish  
+- kafolat holatlari va qaytarishlarni nazorat qilish  
+- mahsulotni seriya raqami bo‘yicha tez topish  
+- qimmatbaho mahsulotlar hisobining xavfsizligini oshirish  
+
+Ma’lumotlarni quyidagi joylarda ko‘rish mumkin:
+
+- mahsulot kartasidagi **«Seriya raqamlari»** bo‘limida;  
+- funksiya yoqilgandan so‘ng mavjud bo‘ladigan **Hisobotlar → Seriya raqamlari** bo‘limida.  
+
+---
+
+:::tip Tavsiya
+Har bir seriya raqami bo‘yicha quyidagilarni kuzatish uchun **«Seriya raqamlari»** hisobotidan foydalaning:
+
+- mahsulot kirim sanasi va narxi;  
+- sotuv sanasi;  
+- har bir seriya raqami bo‘yicha joriy holat va mavjudlik;  
+
+Bu inventarizatsiyani tezroq o‘tkazish va kafolatli xizmat ko‘rsatish bilan bog‘liq masalalarni osonroq hal qilishga yordam beradi.
 :::
