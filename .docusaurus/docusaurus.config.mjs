@@ -99,6 +99,13 @@ export default {
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
+    "docs": {
+      "sidebar": {
+        "autoCollapseCategories": true,
+        "hideable": false
+      },
+      "versionPersistence": "localStorage"
+    },
     "navbar": {
       "title": "",
       "logo": {
@@ -368,13 +375,6 @@ export default {
       "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": false
-    },
-    "docs": {
-      "versionPersistence": "localStorage",
-      "sidebar": {
-        "hideable": false,
-        "autoCollapseCategories": false
-      }
     },
     "blog": {
       "sidebar": {

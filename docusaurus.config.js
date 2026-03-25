@@ -101,6 +101,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        },
+      },
       navbar: {
         title: '',
         logo: {
@@ -122,6 +127,7 @@ const config = {
            },
         ],
       },
+      
       footer: {
         style: 'dark',
         links: [
@@ -175,6 +181,7 @@ const config = {
     ],
   ],
 };
+
 
 
 

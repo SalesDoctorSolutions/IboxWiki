@@ -110,3 +110,7 @@
     background: rgba(91, 140, 255, 0.12);
   }
 }
+
+.menu__list {
+  transition: all 0.2s ease;
+}
