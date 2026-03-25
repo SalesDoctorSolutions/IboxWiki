@@ -1,75 +1,75 @@
 ---
 id: packs
-title: Упаковки товара
-sidebar_label: Упаковки товара
+title: Mahsulot qadoqlari
+sidebar_label: Mahsulot qadoqlari
 sidebar_position: 2
 ---
 
-# Использовать упаковки товара
+# Mahsulotlarda qadoqlarni ishlatish
 
-Данная функция позволяет **использовать разные упаковки для одного товара**, которые связаны с основной единицей хранения с помощью установленного коэффициента.
+Ushbu funksiya **bitta mahsulot uchun turli qadoqlardan foydalanish** imkonini beradi. Ular belgilangan koeffitsiyent orqali **asosiy saqlash birligi** bilan bog‘lanadi.
 
-После включения функции в карточке товара появляется вкладка **«Упаковки»**, где можно:
+Funksiya yoqilgandan so‘ng, mahsulot kartasida **«Qadoqlar»** yorlig‘i paydo bo‘ladi. Unda quyidagilarni ko‘rsatish mumkin:
 
-- указать **единицу измерения упаковки** (например: коробка, блок, упаковка);
-- задать **количество единиц хранения в упаковке**;
-- указать **штрих-код упаковки**.
+- **qadoq o‘lchov birligi** (masalan: quti, blok, upakovka);
+- **bitta qadoq ichidagi saqlash birliklari soni**;
+- **qadoq shtrix-kodi**.
 
-При необходимости можно создать **несколько упаковок для одного товара** с разными коэффициентами.
-
----
-
-## Когда полезно использовать функцию
-
-Использование упаковок помогает:
-
-- продавать и закупать товар в разных единицах измерения;
-- ускорять оформление документов;
-- уменьшать ошибки при вводе количества;
-- упростить работу на складе и в торговой точке;
-- корректно учитывать остатки при продаже коробками или блоками.
-
-Это особенно полезно, если:
-
-- товар закупается коробками, а продается поштучно;
-- используются разные форматы упаковки;
-- сотрудники работают со сканером штрих-кодов;
-- компания ведет оптовые и розничные продажи одновременно.
+Zarurat bo‘lsa, **bitta mahsulot uchun turli koeffitsiyentlar bilan bir nechta qadoq** yaratish mumkin.
 
 ---
 
-:::tip Совет
-Укажите **отдельный штрих-код для упаковки товара**.  
+## Funksiya qachon foydali
 
-При сканировании такого штрих-кода в POS-системе или мобильном приложении в документ автоматически добавится **количество товара, равное содержимому упаковки**.
+Qadoqlardan foydalanish quyidagilarga yordam beradi:
+
+- mahsulotni turli o‘lchov birliklarida sotish va xarid qilish  
+- hujjatlarni rasmiylashtirishni tezlashtirish  
+- miqdor kiritishdagi xatolarni kamaytirish  
+- ombor va savdo nuqtasidagi ishni soddalashtirish  
+- quti yoki bloklarda sotishda qoldiqlarni to‘g‘ri hisobga olish  
+
+Bu ayniqsa quyidagi holatlarda foydali:
+
+- mahsulot qutilarda xarid qilinib, dona hisobida sotilsa  
+- turli qadoqlash formatlaridan foydalanilsa  
+- xodimlar shtrix-kod skaneri bilan ishlasa  
+- kompaniya ulgurji va chakana savdoni bir vaqtda olib borsa  
+
+---
+
+:::tip Tavsiya
+**Mahsulot qadoqi uchun alohida shtrix-kod** kiriting.  
+
+Bunday shtrix-kod POS tizimi yoki mobil ilovada skaner qilinganda, hujjatga avtomatik ravishda **qadoq ichidagi miqdorga teng mahsulot soni** qo‘shiladi.
 :::
 
 ---
 
-## Основная единица измерения
+## Asosiy o‘lchov birligi
 
-Во вкладке **«Упаковки»** можно указать **основную единицу измерения**, которая будет подставляться по умолчанию в таблице товаров в документах.
+**«Qadoqlar»** yorlig‘ida hujjatlardagi mahsulotlar jadvaliga sukut bo‘yicha qo‘yiladigan **asosiy o‘lchov birligi**ni ko‘rsatish mumkin.
 
-По умолчанию используется **единица хранения**.
+Standart holatda **saqlash birligi** qo‘llaniladi.
 
-При необходимости в документе можно выбрать другую единицу измерения:
+Zarurat bo‘lsa, hujjat ichida boshqa o‘lchov birligini tanlash mumkin:
 
-1. Нажмите на единицу измерения в строке нужного товара.
-2. Выберите нужную упаковку из списка.
+1. Kerakli mahsulot qatoridagi o‘lchov birligini bosing.  
+2. Ro‘yxatdan kerakli qadoqni tanlang.  
 
 ---
 
-:::warning Важно
-Цены в прайс-листах и документах **устанавливаются за единицу хранения**, независимо от выбранной упаковки.
+:::warning Muhim
+Narxlar prays-listlar va hujjatlarda **tanlangan qadoqdan qat’i nazar, saqlash birligi bo‘yicha** belgilanadi.
 :::
 
 ---
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать упаковки товара»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Mahsulotlarda qadoqlarni ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing..
