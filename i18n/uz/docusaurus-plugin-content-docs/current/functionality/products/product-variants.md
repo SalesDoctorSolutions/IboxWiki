@@ -1,79 +1,79 @@
 ---
 id: product-variants
-title: Коллекции товаров
-sidebar_label: Коллекции товаров
+title: Mahsulot to'plamlari
+sidebar_label: Mahsulot to'plamlari
 sidebar_position: 5
 ---
 
-# Использовать коллекции товаров
+# Mahsulot to'plamlarini ishlatish
 
-Данная функция позволяет создавать **вариации товаров с разными характеристиками** (например: размер, цвет, объем).
+Ushbu funksiya **turli xususiyatlarga ega mahsulot variantlarini** yaratish imkonini beradi (masalan: o‘lcham, rang, hajm).
 
-Каждая вариация товара из коллекции **создается в системе как отдельный товар**, но при этом они объединены общей коллекцией.
+To'plamdagi har bir mahsulot varianti **tizimda alohida mahsulot sifatida yaratiladi**, lekin ular bitta umumiy to'plam bilan birlashtiriladi.
 
-Это упрощает управление ассортиментом и помогает структурировать товары с похожими свойствами.
-
----
-
-## Когда полезно использовать функцию
-
-Использование коллекций помогает:
-
-- удобно управлять товарами с разными характеристиками;
-- быстрее создавать новые вариации товаров;
-- поддерживать порядок в номенклатуре;
-- упрощать поиск и фильтрацию товаров;
-- избегать дублирования данных.
-
-Это особенно полезно, если компания продает:
-
-- одежду и обувь (размер, цвет);
-- технику (объем памяти, комплектация);
-- товары с разными вариантами упаковки или исполнения.
+Bu assortimentni boshqarishni soddalashtiradi va o‘xshash xususiyatlarga ega mahsulotlarni tartibli saqlashga yordam beradi.
 
 ---
 
-## Как включить функцию
+## Funksiya qachon foydali
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать коллекции товаров»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+Mahsulot to'plamlaridan foydalanish quyidagilarga yordam beradi:
 
----
+- turli xususiyatlarga ega mahsulotlarni qulay boshqarish;  
+- yangi mahsulot variantlarini tezroq yaratish;  
+- nomenklaturada tartibni saqlash;  
+- mahsulotlarni qidirish va filtrlashni soddalashtirish;  
+- ma’lumotlar takrorlanishining oldini olish.  
 
-## Как создать коллекцию товаров
+Bu ayniqsa quyidagi holatlarda foydali, agar kompaniya quyidagilarni sotsa:
 
-1. Перейдите в **Настройки** на левой панели.
-2. В общих настройках откройте раздел **Коллекции товаров**.
-3. Нажмите **плюс** в правом верхнем углу.
-4. Укажите **название коллекции**.
-5. Добавьте **атрибут** (например: Размер).
-6. Укажите **значения атрибута**.  
-   Нажимайте клавишу **Enter** после каждого значения, чтобы добавить его в список.
-7. При необходимости добавьте **другие атрибуты** (например: Цвет).
-8. Нажмите **Сохранить**.
+- kiyim va poyabzal (o‘lcham, rang);  
+- texnika (xotira hajmi, komplektatsiya);  
+- turli qadoq yoki turli variantdagi mahsulotlar.  
 
 ---
 
-## Как создать товар коллекции
+## Funksiyani qanday yoqish mumkin
 
-1. Перейдите в раздел **Товары → Товары**.
-2. Нажмите **плюс** в правом верхнем углу.
-3. Выберите опцию **«Товар коллекции»**.
-4. Выберите нужную **коллекцию товаров**.
-5. Заполните **значения атрибутов**.
-6. Укажите остальные данные товара (цена, штрих-код и др.).
-7. Нажмите **Сохранить**.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Mahsulot to'plamlarini ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing. 
 
 ---
 
-:::info Информация
-Название товара коллекции формируется **автоматически** по принципу:
+## Mahsulot to'plamsini qanday yaratish mumkin
 
-**Название коллекции (значение атрибута 1, значение атрибута 2 …)**
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.  
+2. Umumiy sozlamalarda **Mahsulot to'plamlari** bo‘limini oching.  
+3. O‘ng yuqori burchakdagi **plyus** tugmasini bosing.  
+4. **To'plam nomi**ni kiriting.  
+5. **Parametr** qo‘shing (masalan: O‘lcham).  
+6. **Parametr qiymatlari**ni kiriting.  
+   Har bir qiymatdan keyin uni ro‘yxatga qo‘shish uchun **Enter** tugmasini bosing.  
+7. Zarurat bo‘lsa, **boshqa parametrlar**ni ham qo‘shing (masalan: Rang).  
+8. **Saqlash** tugmasini bosing.  
 
-Например: *Футболка (Красный, M)*.
+---
+
+## To'plam mahsulotini qanday yaratish mumkin
+
+1. **Mahsulotlar → Mahsulotlar** bo‘limiga o‘ting.  
+2. O‘ng yuqori burchakdagi **plyus** tugmasini bosing.  
+3. **«To'plam mahsulot»** variantini tanlang.  
+4. Kerakli **mahsulot to'plam**ni tanlang.  
+5. **Parametrlar**ni to‘ldiring.  
+6. Mahsulotning boshqa ma’lumotlarini kiriting (narx, shtrix-kod va boshqalar).  
+7. **Saqlash** tugmasini bosing.  
+
+---
+
+:::info Ma’lumot
+to'plam mahsulot nomi **avtomatik ravishda** quyidagi tamoyil bo‘yicha shakllanadi:
+
+**to'plam nomi (parametr qiymati 1, parametr qiymati 2 …)**
+
+Masalan: *Futbolka (Qizil, M)*.
 :::
