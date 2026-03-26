@@ -1,60 +1,60 @@
 ---
 id: duplicates
-title: Дублирование штрихкода и артикула
-sidebar_label: Дублирование штрихкода и артикула
+title: Shtrix-kod va artikulni takroriy ishlatish
+sidebar_label: Shtrix-kod va artikulni takroriy ishlatish
 sidebar_position: 6
 ---
 
-# Разрешить дублирование штрихкода и артикула
+# Shtrix-kod va artikulni takroriy ishlatishga ruxsat berish
 
-В системе iBox **штрих-код и артикул по умолчанию являются уникальными значениями** для каждого товара.  
-Это помогает избежать ошибок при поиске, продаже и учете товаров.
+iBox tizimida **shtrix-kod va artikul odatda har bir mahsulot uchun noyob qiymatlar hisoblanadi**.  
+Bu mahsulotlarni qidirish, sotish va hisobga olishda xatolarning oldini olishga yordam beradi.
 
-При необходимости можно включить функцию, которая позволит **использовать одинаковые штрих-коды или артикулы у разных товаров**.
-
----
-
-## Когда полезно использовать функцию
-
-Использование дублирования может быть полезно:
-
-- при переносе данных из другой системы;
-- если поставщик использует одинаковые штрих-коды для разных товаров;
-- при работе с товарами-вариациями;
-- если учет ведется по внутренним характеристикам, а не по штрих-коду;
-- при продаже комплектов или аналогичных товаров.
+Zarurat bo‘lsa, turli mahsulotlar uchun **bir xil shtrix-kod yoki artikuldan foydalanish** imkonini beruvchi funksiyani yoqish mumkin.
 
 ---
 
-:::warning Важно
-Разрешение дублирования штрих-кодов или артикулов может усложнить:
+## Funksiya qachon foydali
 
-- поиск товара;
-- работу со сканером;
-- контроль остатков;
-- формирование отчетов.
+Takroriy ishlatishdan foydalanish quyidagi holatlarda foydali bo‘lishi mumkin:
 
-Рекомендуется использовать эту функцию только при необходимости.
+- ma’lumotlarni boshqa tizimdan ko‘chirishda;  
+- agar  ta'minotchi turli mahsulotlar uchun bir xil shtrix-kodlardan foydalansa;  
+- mahsulot variantlari bilan ishlaganda;  
+- agar hisob shtrix-kod bo‘yicha emas, balki ichki xususiyatlar bo‘yicha yuritilsa;  
+- to‘plamlar yoki o‘xshash mahsulotlarni sotishda.  
+
+---
+
+:::warning Muhim
+Shtrix-kod yoki artikul takroriy ishlatishga ruxsat berish quyidagilarni murakkablashtirishi mumkin:
+
+- mahsulotni qidirish;  
+- skaner bilan ishlash;  
+- qoldiqlarni nazorat qilish;  
+- hisobotlarni shakllantirish.  
+
+Ushbu funksiyani faqat zarurat bo‘lganda ishlatish tavsiya etiladi.
 :::
 
 ---
 
-## Как разрешить дублирование штрихкода
+## Shtrix-kodni takroriy ishlatishga qanday ruxsat berish mumkin
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Разрешить дублирование штрихкода»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Shtrix kodlarni takroriy ishlatishga ruxsat berish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
 
 ---
 
-## Как разрешить дублирование артикула
+## Artikulni takroriy ishlatishga qanday ruxsat berish mumkin
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Разрешить дублирование артикула»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Artikulni takroriy ishlatishga ruxsat berish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing. 
