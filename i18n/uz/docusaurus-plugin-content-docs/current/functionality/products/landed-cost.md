@@ -1,170 +1,169 @@
 ---
 id: landed-cost
-title: Дополнительные расходы
-sidebar_label: Доп. расходы
+title: Qo‘shimcha xarajatlar
+sidebar_label: Qo'shimcha xarajatlar
 sidebar_position: 7
 ---
 
-# Использовать дополнительные расходы
+# Qo‘shimcha xarajatlardan foydalanish
 
-Данная функция позволяет **учитывать накладные расходы при закупке товаров** и распределять их на себестоимость.
+Ushbu funksiya **mahsulotlarni xarid qilishda ustama xarajatlarni hisobga olish** va ularni tannarxga taqsimlash imkonini beradi.
 
-К дополнительным расходам могут относиться:
+Qo‘shimcha xarajatlarga quyidagilar kirishi mumkin:
 
-- доставка;
-- таможенные платежи;
-- погрузка и разгрузка;
-- упаковка;
-- услуги посредников;
-- страхование и другие сопутствующие расходы.
+- yetkazib berish;
+- bojxona to‘lovlari;
+- yuklash va tushirish;
+- qadoqlash;
+- vositachilar xizmatlari;
+- sug‘urta va boshqa hamroh xarajatlar.
 
-После распределения дополнительных расходов **себестоимость товаров увеличивается**, что позволяет получать более точный расчет прибыли.
-
----
-
-## Когда полезно использовать функцию
-
-Использование дополнительных расходов помогает:
-
-- учитывать полную фактическую себестоимость товара;
-- корректно рассчитывать прибыль;
-- анализировать эффективность закупок;
-- учитывать услуги сторонних поставщиков;
-- распределять один расход на несколько товаров или закупок.
-
-Это особенно полезно, если компания:
-
-- импортирует товары;
-- оплачивает логистику отдельно от закупки;
-- закупает услуги у других поставщиков;
-- ведет детальный финансовый учет.
+Qo‘shimcha xarajatlar taqsimlangandan so‘ng **mahsulotlarning tannarxi oshadi**, bu esa foydani aniqroq hisoblash imkonini beradi.
 
 ---
 
-## Методы распределения дополнительных расходов
+## Funksiya qachon foydali
 
-Дополнительные расходы можно распределять следующими способами:
+Qo‘shimcha xarajatlardan foydalanish quyidagilarga yordam beradi:
 
-- **Сумма** — пропорционально стоимости товаров;
-- **Количество** — пропорционально количеству товаров;
-- **Объем** — пропорционально объему (указывается в карточке товара во вкладке **Характеристики**);
-- **Вес брутто** — пропорционально весу (указывается в карточке товара);
-- **Процент** — распределение вручную по проценту.
+- mahsulotning to‘liq haqiqiy tannarxini hisobga olish;  
+- foydani to‘g‘ri hisoblash;  
+- xaridlar samaradorligini tahlil qilish;  
+- uchinchi tomon ta'minotchilar xizmatlarini hisobga olish;  
+- bitta xarajatni bir nechta mahsulot yoki xaridlar o‘rtasida taqsimlash.  
 
-Также возможно **ручное распределение суммы** между товарами.
+Bu ayniqsa quyidagi holatlarda foydali, agar kompaniya:
+
+- mahsulotlarni import qilsa;  
+- logistika xarajatlarini xariddan alohida to‘lasa;  
+- boshqa ta'minotchilardan xizmatlar xarid qilsa;  
+- batafsil moliyaviy hisob yuritsa.  
 
 ---
 
-:::info Информация
-Если для товара не указан объем или вес, распределение по этим методам **не будет применено к данному товару**.
+## Qo‘shimcha xarajatlarni taqsimlash usullari
+
+Qo‘shimcha xarajatlarni quyidagi usullar bilan taqsimlash mumkin:
+
+- **Summa** — mahsulotlar qiymatiga mutanosib ravishda;  
+- **Miqdor** — mahsulotlar soniga mutanosib ravishda;  
+- **Hajmi** — hajmga mutanosib ravishda (**Mahsulot kartasi → Xarakteristikalar** yorlig‘iga ko‘rsatiladi);  
+- **Brutto vazni** — vaznga mutanosib ravishda (mahsulot kartasida ko‘rsatiladi);  
+- **Foiz** — foiz bo‘yicha qo‘lda taqsimlash.  
+
+Shuningdek, summani mahsulotlar o‘rtasida **qo‘lda taqsimlash** ham mumkin.
+
+---
+
+:::info Ma’lumot
+Agar mahsulot uchun hajm yoki vazn ko‘rsatilmagan bo‘lsa, ushbu usullar bo‘yicha taqsimlash **mazkur mahsulotga qo‘llanilmaydi**.
 :::
 
 ---
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Перейдите в **Настройки** на левой панели.
-2. В настройках организации откройте раздел **Настройки**.
-3. Перейдите в раздел **Функционал**.
-4. Найдите параметр **«Использовать доп. расходы»** и нажмите на иконку **карандаша** справа.
-5. Выберите опцию **Да**.
-6. Нажмите на **синюю иконку галочки**, чтобы сохранить изменения.
-
----
-
-## Как закупить дополнительные расходы
-
-После включения функции в документе закупки появляется кнопка **«Добавить дополнительный расход»**.
-
-Можно закупать:
-
-- товары и дополнительные расходы в одном документе;
-- только дополнительные расходы без закупки товаров.
-
-### Чтобы закупить дополнительные расходы:
-
-1. Перейдите в раздел **Закупки → Закупки**.
-2. Нажмите **плюс** в правом верхнем углу.
-3. Заполните данные документа:
-   - поставщик;
-   - валюта;
-   - склад.
-4. Нажмите **Добавить дополнительные расходы**.
-5. Добавьте услуги в список.
-6. Укажите **тип расхода (счет)**.
-7. Укажите количество и цену.
-8. Нажмите **Сохранить**.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Qo'shimcha xarajatlardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
 
 ---
 
-## Как распределить дополнительные расходы (в той же закупке)
+## Qo‘shimcha xarajatlarni qanday xarid qilish mumkin
 
-1. Перейдите в **Закупки → Закупки**.
-2. Откройте документ закупки.
-3. В блоке дополнительных расходов нажмите **Распределить**.
-4. При необходимости удалите товары из списка, нажав на иконку 🗑.
-5. Выберите способ распределения или укажите суммы вручную.
-6. Нажмите **Сохранить**.
+Funksiya yoqilgandan so‘ng xarid hujjatida **«Qo‘shimcha xarajat qo‘shish»** tugmasi paydo bo‘ladi.
+
+Quyidagilarni xarid qilish mumkin:
+
+- mahsulotlar va qo‘shimcha xarajatlarni bitta hujjatda;  
+- faqat qo‘shimcha xarajatlarni, mahsulotlarsiz.  
+
+### Qo‘shimcha xarajatlarni xarid qilish uchun:
+
+1. **Xaridlar → Xaridlar** bo‘limiga o‘ting.  
+2. O‘ng yuqori burchakdagi **plyus** tugmasini bosing.  
+3. Hujjat ma’lumotlarini to‘ldiring:
+   - ta'minotchi;
+   - valyuta.
+4. **Qo‘shimcha xarajat qo‘shish** tugmasini bosing.  
+5. Xizmatlarni ro‘yxatga qo‘shing.  
+6. **Chiqim turi (hisob)** ni ko‘rsating.  
+7. Miqdor va narxni kiriting.  
+8. **Saqlash** tugmasini bosing.  
 
 ---
 
-:::info Информация
-Если дополнительные расходы не распределены, они будут учитываться как **операционные расходы** и отображаться в отчете **Прибыль и убытки** по выбранной категории.
+## Qo‘shimcha xarajatlarni qanday taqsimlash mumkin (shu xaridning o‘zida)
+
+1. **Xaridlar → Xaridlar** bo‘limiga o‘ting.  
+2. Xarid hujjatini oching.  
+3. Qo‘shimcha xarajatlar blokida **Taqsimlash** tugmasini bosing.  
+4. Zarurat bo‘lsa, ro‘yxatdan mahsulotlarni **🗑** belgisi orqali olib tashlang.  
+5. Taqsimlash usulini tanlang yoki summalarni qo‘lda kiriting.  
+6. **Saqlash** tugmasini bosing.  
+
+---
+
+:::info Ma’lumot
+Agar qo‘shimcha xarajatlar taqsimlanmagan bo‘lsa, ular **davr xarajatlari** sifatida hisobga olinadi va **Foyda va zarar** hisobotida tanlangan kategoriya bo‘yicha ko‘rsatiladi.
 :::
 
 ---
 
-## Как распределить дополнительные расходы из другого документа
+## Qo‘shimcha xarajatlarni boshqa hujjatdan qanday taqsimlash mumkin
 
-Можно распределить расходы, закупленные у одного поставщика, на товары из другой закупки.
+Bitta ta'minotchidan xarid qilingan qo‘shimcha xarajatlarni boshqa xariddagi mahsulotlarga taqsimlash mumkin.
 
-1. Перейдите в **Закупки → Закупки**.
-2. Откройте закупку с товарами.
-3. Нажмите **⋯ (три точки)** в правом верхнем углу.
-4. Выберите **Распределить**.
-5. Выберите поставщика дополнительных расходов.
-6. Выберите документ закупки с дополнительными расходами.
-7. Отметьте нужные расходы.
-8. При необходимости исключите товары из списка.
-9. Выберите способ распределения или укажите вручную.
-10. Нажмите **Сохранить**.
-
----
-
-## Как изменить распределение дополнительных расходов
-
-1. Перейдите в **Закупки → Закупки**.
-2. Откройте нужный документ.
-3. Перейдите во вкладку **Доп. расходы**.
-4. Нажмите ✏️ **Редактировать** напротив нужного расхода.
-5. Внесите изменения.
-6. Нажмите **Сохранить**.
+1. **Xaridlar → Xaridlar** bo‘limiga o‘ting.  
+2. Mahsulotlar bo‘lgan xarid hujjatini oching.  
+3. O‘ng yuqori burchakdagi **⋯ (uch nuqta)** tugmasini bosing.  
+4. **Taqsimlash** variantini tanlang.  
+5. Qo‘shimcha xarajatlar ta'minotchisini tanlang.  
+6. Qo‘shimcha xarajatlar bo‘lgan xarid hujjatini tanlang.  
+7. Kerakli xarajatlarni belgilang.  
+8. Zarurat bo‘lsa, ro‘yxatdan mahsulotlarni chiqarib tashlang.  
+9. Taqsimlash usulini tanlang yoki qo‘lda kiriting.  
+10. **Saqlash** tugmasini bosing.  
 
 ---
 
-## Как удалить распределение дополнительных расходов
+## Qo‘shimcha xarajatlar taqsimotini qanday o‘zgartirish mumkin
 
-1. Перейдите в **Закупки → Закупки**.
-2. Откройте документ с товарами.
-3. Перейдите во вкладку **Доп. расходы**.
-4. Нажмите 🗑 напротив нужного расхода.
-5. Подтвердите действие.
+1. **Xaridlar → Xaridlar** bo‘limiga o‘ting.  
+2. Kerakli hujjatni oching.  
+3. **Qo‘simcha xarajatlar** yorlig‘iga o‘ting.  
+4. Kerakli xarajat qarshisidagi ✏️ **Tahrirlash** tugmasini bosing.  
+5. O‘zgarishlarni kiriting.  
+6. **Saqlash** tugmasini bosing.  
 
 ---
 
-## Как проверить состояние распределения дополнительных расходов
+## Qo‘shimcha xarajatlar taqsimotini qanday o‘chirish mumkin
 
-Чтобы посмотреть, к каким закупкам распределены дополнительные расходы:
+1. **Xaridlar → Xaridlar** bo‘limiga o‘ting.  
+2. Mahsulotlar bo‘lgan hujjatni oching.  
+3. **Qo‘shimcha xarajatlar** yorlig‘iga o‘ting.  
+4. Kerakli xarajat qarshisidagi **🗑** tugmasini bosing.  
+5. Amalni tasdiqlang.  
 
-1. Перейдите в раздел **Отчеты**.
-2. В блоке **Финансовые отчеты** выберите **Сводка по распределению доп. расходов**.
+---
 
-### Доступные поля отчета
+## Qo‘shimcha xarajatlar taqsimoti holatini qanday tekshirish mumkin
 
-- **Дата закупки** — дата документа дополнительных расходов;
-- **Номер закупки** — номер документа;
-- **Поставщик** — поставщик услуги;
-- **Дополнительный расход** — наименование услуги;
-- **Сумма** — общая сумма расхода;
-- **Распределенная сумма** — список документов и распределенные суммы;
-- **Нераспределенная сумма** — остаток суммы, который еще не распределен.
+Qo‘shimcha xarajatlar qaysi xaridlarga taqsimlanganini ko‘rish uchun:
+
+1. **Hisobotlar** bo‘limiga o‘ting.  
+2. **Moliyaviy hisobotlar** ustunida **Qo'shimcha xarajatlar taqsimoti hisoboti** hisobotini tanlang.  
+
+### Hisobotning mavjud maydonlari
+
+- **Xarid sanasi** — qo‘shimcha xarajatlar hujjati sanasi;  
+- **Xarid raqami** — hujjat raqami;  
+- **Ta'minotchi** — xizmat ta'minotchisi;  
+- **Qo‘shimcha xarajat** — xizmat nomi;  
+- **Summa** — xarajatning umumiy summasi;  
+- **Taqsimlangan miqdor** — hujjatlar ro‘yxati va taqsimlangan summalar;  
+- **Taqsimlanmagan miqdor** — hali taqsimlanmagan summa qoldig‘i.  
