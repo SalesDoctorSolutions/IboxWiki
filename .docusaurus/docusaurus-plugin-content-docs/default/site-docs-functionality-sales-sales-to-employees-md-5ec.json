@@ -21,5 +21,9 @@
   "previous": {
     "title": "Использовать договоры",
     "permalink": "/uz/docs/functionality/sales/contracts"
+  },
+  "next": {
+    "title": "Поиск по коду клиента или поставщика",
+    "permalink": "/uz/docs/functionality/sales/search-code"
   }
 }

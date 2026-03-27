@@ -1,7 +1,7 @@
 {
   "id": "functionality/sales/search-code",
-  "title": "search-code",
-  "description": "",
+  "title": "Поиск по коду клиента или поставщика",
+  "description": "Функция Поиск по коду клиента или поставщика помогает быстрее находить контрагентов в системе по уникальному коду.",
   "source": "@site/docs/functionality/sales/search-code.md",
   "sourceDirName": "functionality/sales",
   "slug": "/functionality/sales/search-code",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "search-code",
+    "title": "Поиск по коду клиента или поставщика",
+    "sidebar_label": "Поиск по коду клиента или поставщика",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Продажи сотрудникам",
+    "permalink": "/uz/docs/functionality/sales/sales-to-employees"
+  }
 }

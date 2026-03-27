@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'ce2'),
+    component: ComponentCreator('/uz/docs', '88f'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '24b'),
+        component: ComponentCreator('/uz/docs', 'b94'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'a9c'),
+            component: ComponentCreator('/uz/docs', '29f'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -153,11 +153,6 @@ export default [
                 exact: true
               },
               {
-                path: '/uz/docs/functionality/sales/routes',
-                component: ComponentCreator('/uz/docs/functionality/sales/routes', 'ee0'),
-                exact: true
-              },
-              {
                 path: '/uz/docs/functionality/sales/sales-to-employees',
                 component: ComponentCreator('/uz/docs/functionality/sales/sales-to-employees', 'f30'),
                 exact: true,
@@ -165,8 +160,9 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/sales/search-code',
-                component: ComponentCreator('/uz/docs/functionality/sales/search-code', '377'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/sales/search-code', '2fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/statuses/cashbox-responsible',
