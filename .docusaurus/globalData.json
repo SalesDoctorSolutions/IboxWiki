@@ -85,7 +85,8 @@
             },
             {
               "id": "functionality/sales/sales-to-employees",
-              "path": "/uz/docs/functionality/sales/sales-to-employees"
+              "path": "/uz/docs/functionality/sales/sales-to-employees",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/sales/search-code",

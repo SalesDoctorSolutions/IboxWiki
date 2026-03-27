@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '634'),
+    component: ComponentCreator('/uz/docs', 'ce2'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'dc5'),
+        component: ComponentCreator('/uz/docs', '24b'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'bb1'),
+            component: ComponentCreator('/uz/docs', 'a9c'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -159,8 +159,9 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/sales/sales-to-employees',
-                component: ComponentCreator('/uz/docs/functionality/sales/sales-to-employees', 'ce6'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/sales/sales-to-employees', 'f30'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/search-code',

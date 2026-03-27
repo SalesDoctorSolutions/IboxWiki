@@ -1,7 +1,7 @@
 {
   "id": "functionality/sales/sales-to-employees",
-  "title": "sales-to-employees",
-  "description": "",
+  "title": "Продажи сотрудникам",
+  "description": "Функция Продажи сотрудникам позволяет оформлять заказы и отгрузки на сотрудников, которые добавлены в систему.",
   "source": "@site/docs/functionality/sales/sales-to-employees.md",
   "sourceDirName": "functionality/sales",
   "slug": "/functionality/sales/sales-to-employees",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "sales-to-employees",
+    "title": "Продажи сотрудникам",
+    "sidebar_label": "Продажи сотрудникам",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Использовать договоры",
+    "permalink": "/uz/docs/functionality/sales/contracts"
+  }
 }

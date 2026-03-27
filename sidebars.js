@@ -269,6 +269,7 @@ module.exports = {
       items: [    
         'functionality/sales/network-outlets',
         'functionality/sales/contracts',
+        'functionality/sales/sales-to-employees',
       ],
       },
       ],
