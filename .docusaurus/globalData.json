@@ -77,7 +77,8 @@
             },
             {
               "id": "functionality/sales/organisation-minimal-price",
-              "path": "/uz/docs/functionality/sales/organisation-minimal-price"
+              "path": "/uz/docs/functionality/sales/organisation-minimal-price",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/sales/sales-to-employees",

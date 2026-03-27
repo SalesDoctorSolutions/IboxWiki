@@ -1,7 +1,7 @@
 {
   "id": "functionality/sales/organisation-minimal-price",
-  "title": "organisation-minimal-price",
-  "description": "",
+  "title": "Не проверять минимальную цену в межорганизационных документах",
+  "description": "Функция Не проверять минимальную цену в межорганизационных документах позволяет оформлять отгрузки между организациями ниже установленной минимальной цены товара.",
   "source": "@site/docs/functionality/sales/organisation-minimal-price.md",
   "sourceDirName": "functionality/sales",
   "slug": "/functionality/sales/organisation-minimal-price",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "organisation-minimal-price",
+    "title": "Не проверять минимальную цену в межорганизационных документах",
+    "sidebar_label": "Не проверять мин. цену в межорг. документах",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Поиск по коду клиента или поставщика",
+    "permalink": "/uz/docs/functionality/sales/search-code"
+  }
 }

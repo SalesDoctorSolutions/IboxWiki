@@ -271,6 +271,7 @@ module.exports = {
         'functionality/sales/contracts',
         'functionality/sales/sales-to-employees',
         'functionality/sales/search-code',
+        'functionality/sales/organisation-minimal-price',
       ],
       },
       ],
