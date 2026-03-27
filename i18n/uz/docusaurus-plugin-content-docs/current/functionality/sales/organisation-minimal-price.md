@@ -1,40 +1,44 @@
 ---
 id: organisation-minimal-price
-title: Не проверять минимальную цену в межорганизационных документах
-sidebar_label: Не проверять мин. цену в межорг. документах
+title: Korxonalaro hujjatlarda minimal narxni tekshirmaslik
+sidebar_label: Korxonalaro hujjatlarda min. narxni tekshirmaslik
 sidebar_position: 5
 ---
 
-Функция **Не проверять минимальную цену в межорганизационных документах** позволяет оформлять отгрузки между организациями ниже установленной минимальной цены товара.
+# Korxonalaro hujjatlarda minimal narxni tekshirmaslik
 
-После включения функции система перестает проверять минимальную цену при создании документов отгрузки на другую организацию внутри одной базы. Это дает больше гибкости при внутренних перемещениях и расчетах между компаниями.
+**Korxonalaro hujjatlarda minimal narxni tekshirmaslik** funksiyasi korxonalar o‘rtasida mahsulot sotuvlarini belgilangan minimal narxdan past narxda rasmiylashtirish imkonini beradi.
 
-## Когда полезно использовать функцию
-
-Функция особенно полезна, если:
-
-- в системе ведется учет по нескольким организациям;
-- товары передаются между организациями по внутренним ценам;
-- используются трансфертные или учетные цены;
-- требуется отражать внутренние операции без ограничения минимальной цены;
-- важно упростить оформление межорганизационных отгрузок.
+Funksiya yoqilgandan so‘ng tizim bitta baza ichidagi boshqa korxonaga **sotuv hujjatlari** yaratilganda minimal narxni tekshirmaydi. Bu ichki ko‘chirishlar va kompaniyalar o‘rtasidagi hisob-kitoblarda ko‘proq moslashuvchanlik beradi.
 
 ---
 
-:::warning Важно
+## Funksiya qachon foydali
 
-Функция влияет только на **межорганизационные документы**.
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-Проверка минимальной цены для продаж клиентам продолжает работать без изменений.
+- tizimda bir nechta korxona bo‘yicha hisob yuritilsa;  
+- mahsulotlar korxonalar o‘rtasida ichki narxlar bo‘yicha uzatilsa;  
+- transfer narxlari yoki hisob narxlari ishlatilsa;  
+- ichki operatsiyalarni minimal narx cheklovisiz aks ettirish kerak bo‘lsa;  
+- Korxonalaro sotuvlarni rasmiylashtirishni soddalashtirish muhim bo‘lsa.  
+
+---
+
+:::warning Muhim
+
+Ushbu funksiya faqat **Korxonalaro hujjatlar**ga ta’sir qiladi.
+
+Mijozlarga sotuvlar uchun minimal narx tekshiruvi o‘zgarishsiz ishlashda davom etadi.
 :::
 
 ---
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Не проверять минимальную цену в межорганизационных документах** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Korxonalaro hujjatlarda minimal narxni tekshirmaslik** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing. 
