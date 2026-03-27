@@ -21,5 +21,9 @@
   "previous": {
     "title": "Дублирование штрихкода и артикула",
     "permalink": "/docs/functionality/products/duplicates"
+  },
+  "next": {
+    "title": "Сетевые покупатели",
+    "permalink": "/docs/functionality/sales/network-outlets"
   }
 }

@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '730'),
+    component: ComponentCreator('/uz/docs', '634'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '69f'),
+        component: ComponentCreator('/uz/docs', 'dc5'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '78e'),
+            component: ComponentCreator('/uz/docs', 'bb1'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -137,13 +137,15 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/sales/contracts',
-                component: ComponentCreator('/uz/docs/functionality/sales/contracts', 'cbd'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/sales/contracts', '0ab'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/network-outlets',
-                component: ComponentCreator('/uz/docs/functionality/sales/network-outlets', '533'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/sales/network-outlets', '85e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/organisation-minimal-price',

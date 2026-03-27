@@ -263,6 +263,14 @@ module.exports = {
         'functionality/products/landed-cost',
       ],
       },
+      {
+      type: 'category',
+      label: '5.5. Продажи и клиенты',
+      items: [    
+        'functionality/sales/network-outlets',
+        'functionality/sales/contracts',
+      ],
+      },
       ],
     },
   ],

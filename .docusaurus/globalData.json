@@ -67,11 +67,13 @@
             },
             {
               "id": "functionality/sales/contracts",
-              "path": "/uz/docs/functionality/sales/contracts"
+              "path": "/uz/docs/functionality/sales/contracts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/sales/network-outlets",
-              "path": "/uz/docs/functionality/sales/network-outlets"
+              "path": "/uz/docs/functionality/sales/network-outlets",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/sales/organisation-minimal-price",

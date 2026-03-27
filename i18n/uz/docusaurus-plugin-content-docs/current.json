@@ -106,5 +106,9 @@
   "sidebar.tutorialSidebar.category.5.4. Товары и учет": {
     "message": "5.4. Mahsulotlar va hisob",
     "description": "The label for category 5.4. Товары и учет in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5.5. Продажи и клиенты": {
+    "message": "5.5. Sotuvlar va mijozlar",
+    "description": "The label for category 5.5. Продажи и клиенты in sidebar tutorialSidebar"
   }
 }

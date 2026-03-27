@@ -16,5 +16,10 @@
     "title": "Использовать договоры",
     "sidebar_label": "Использовать договоры",
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сетевые покупатели",
+    "permalink": "/uz/docs/functionality/sales/network-outlets"
   }
 }

@@ -16,5 +16,14 @@
     "title": "Сетевые покупатели",
     "sidebar_label": "Сетевые покупатели",
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qo'shimcha xarajatlar",
+    "permalink": "/uz/docs/functionality/products/landed-cost"
+  },
+  "next": {
+    "title": "Использовать договоры",
+    "permalink": "/uz/docs/functionality/sales/contracts"
   }
 }
