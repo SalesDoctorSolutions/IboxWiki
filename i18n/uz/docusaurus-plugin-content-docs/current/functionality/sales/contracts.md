@@ -1,90 +1,104 @@
 ---
 id: contracts
-title: Использовать договоры
-sidebar_label: Использовать договоры
+title: Shartnomalarni ishlatish
+sidebar_label: Shartnomalarni ishlatish
 sidebar_position: 2
 ---
 
-Функция **Использовать договоры** помогает вести взаиморасчеты с контрагентами отдельно по каждому договору.  
-Вы сможете контролировать задолженность, оплаты и обороты не только в целом по клиенту или поставщику, но и по конкретным договорам.
+# Shartnomalarni ishlatish
 
-После включения функции в документах продаж, закупок и оплат появится поле **Договор**.  
-Также в модулях **Продажи** и **Закупки** станут доступны отдельные разделы для работы с договорами.
+**Shartnomalarni ishlatish** funksiyasi kontragentlar bilan oldi-berdi har bir shartnoma bo‘yicha alohida yuritishga yordam beradi.  
+Siz qarzdorlik, to‘lovlar va aylanmalarni nafaqat umumiy tarzda mijoz yoki ta'minotchi bo‘yicha, balki **aniq shartnoma kesimida** ham nazorat qila olasiz.
 
-## Когда полезно использовать договоры
+Funksiya yoqilgandan so‘ng sotuv, xarid va to‘lov hujjatlarida **Shartnoma** maydoni paydo bo‘ladi.  
+Shuningdek, **Sotuvlar** va **Xaridlar** modullarida shartnomalar bilan ishlash uchun alohida bo‘limlar mavjud bo‘ladi.
 
-Функция особенно полезна, если:
+---
 
-- с одним клиентом или поставщиком заключено несколько договоров;
-- необходимо разделять взаиморасчеты по проектам или направлениям;
-- нужно контролировать задолженность по каждому договору;
-- важно анализировать продажи и закупки в разрезе договоров;
-- требуется формировать акты сверки по отдельным договорам;
-- разные договоры имеют собственные сроки действия или условия.
+## Shartnomalar qachon foydali
 
-## Как включить функцию
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Использовать договоры** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+- bitta mijoz yoki ta'minotchi bilan bir nechta shartnoma tuzilgan bo‘lsa;  
+- oldi-berdi hisobotlarni loyihalar yoki yo‘nalishlar bo‘yicha ajratish kerak bo‘lsa;  
+- har bir shartnoma bo‘yicha qarzdorlikni nazorat qilish zarur bo‘lsa;  
+- sotuv va xaridlarni shartnomalar kesimida tahlil qilish muhim bo‘lsa;  
+- alohida shartnomalar bo‘yicha oldi-berdi hisobot tuzish talab qilinsa;  
+- turli shartnomalarning o‘z amal qilish muddati yoki shartlari bo‘lsa.  
 
-После сохранения в системе появятся разделы для управления договорами.
+---
 
-## Как создать договор
+## Funksiyani qanday yoqish mumkin
 
-### Создать договор продажи
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Shartnomalarni ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.   
 
-1. Откройте модуль **Продажи**.  
-2. Перейдите в раздел **Договоры продажи**.  
-3. Нажмите **Плюс** в правом верхнем углу.  
-4. Заполните данные договора:
-   - Выберите клиента  
-   - Укажите номер договора  
-   - Укажите дату начала и дату окончания  
-5. При необходимости включите опцию **Используется для закупок**.  
-6. Сохраните договор.
+Saqlangandan so‘ng tizimda shartnomalarni boshqarish uchun alohida bo‘limlar paydo bo‘ladi.
 
-### Создать договор закупки
+---
 
-Создание договора закупки выполняется аналогично:
+## Shartnomani qanday yaratish mumkin
 
-1. Откройте модуль **Закупки**.  
-2. Перейдите в раздел **Договоры закупки**.  
-3. Нажмите **Плюс** и заполните данные договора.  
-4. Сохраните изменения.
+### Sotuv shartnomasini yaratish
 
-## Где указывать договор
+1. **Sotuvlar** modulini oching.  
+2. **Sotuv shartnomalari** bo‘limiga o‘ting.  
+3. O‘ng yuqori burchakdagi **Plyus** tugmasini bosing.  
+4. Shartnoma ma’lumotlarini to‘ldiring:
+   - mijozni tanlang;  
+   - shartnoma raqamini kiriting;  
+   - boshlanish va tugash sanasini ko‘rsating.  
+5. Zarurat bo‘lsa, **Xaridlar uchun ishlatiladi** opsiyasini yoqing.  
+6. Shartnomani saqlang.  
 
-В документах **Продажи**, **Закупки** и **Оплаты** после выбора клиента или поставщика становится доступно поле **Договор**.
+### Xarid shartnomasini yaratish
 
-Вы можете:
+Xarid shartnomasini yaratish xuddi shu tartibda amalga oshiriladi:
 
-- выбрать уже созданный договор;
-- создать новый договор прямо из документа.
+1. **Xaridlar** modulini oching.  
+2. **Xarid shartnomalari** bo‘limiga o‘ting.  
+3. **Plyus** tugmasini bosing va shartnoma ma’lumotlarini to‘ldiring.  
+4. O‘zgarishlarni saqlang.  
 
-Это помогает сразу зафиксировать операцию по нужному договору.
+---
 
-## Как проверить баланс по договорам
+## Shartnomani qayerda ko‘rsatish mumkin
 
-Посмотреть список договоров и их текущие балансы можно:
+**Sotuvlar**, **Xaridlar** va **To‘lovlar** hujjatlarida mijoz yoki ta'minotchi tanlangandan so‘ng **Shartnoma** maydoni faollashadi.
 
-- в разделе **Продажи → Договоры продажи**;
-- в разделе **Закупки → Договоры закупки**.
+Siz quyidagilarni qilishingiz mumkin:
 
-Чтобы найти договоры конкретного клиента или поставщика, используйте фильтр по контрагенту.
+- avval yaratilgan shartnomani tanlash;  
+- yangi shartnomani hujjat ichidan to‘g‘ridan-to‘g‘ri yaratish.  
 
-Баланс по каждому договору отображается отдельно — так проще контролировать взаиморасчеты и анализировать операции.
-:::tip Совет
+Bu operatsiyani darhol kerakli shartnoma bo‘yicha qayd etishga yordam beradi.
 
-Включите функцию **Договор обязательно в документах**, чтобы система не позволяла создавать документы продаж, закупок и оплат без выбора договора.
+---
 
-Это помогает:
+## Shartnomalar bo‘yicha balansni qanday tekshirish mumkin
 
-- исключить ошибки при учете взаиморасчетов;
-- обеспечить корректное распределение операций по договорам;
-- упростить контроль задолженности и анализ отчетов;
-- поддерживать единые правила оформления документов в компании.
+Shartnomalar ro‘yxati va ularning joriy balanslarini quyidagi bo‘limlarda ko‘rish mumkin:
+
+- **Sotuvlar → Sotuv shartnomalari**;  
+- **Xaridlar → Xarid shartnomalari**.  
+
+Muayyan mijoz yoki ta'minotchining shartnomalarini topish uchun kontragent bo‘yicha filtrdan foydalaning.
+
+Har bir shartnoma bo‘yicha balans alohida ko‘rsatiladi — bu oldi-berdini nazorat qilish va operatsiyalarni tahlil qilishni osonlashtiradi.
+
+---
+
+:::tip Maslahat
+**Hujjatlarda shartnoma majburiy** funksiyasini yoqing, shunda tizim sotuv, xarid va to‘lov hujjatlarini shartnoma tanlamasdan yaratishga ruxsat bermaydi.
+
+Bu quyidagilarga yordam beradi:
+
+- oldi-berdi hisobotlarni yuritishda xatolarni oldini olish;  
+- operatsiyalarni shartnomalar bo‘yicha to‘g‘ri taqsimlashni ta’minlash;  
+- qarzdorlik nazorati va hisobotlar tahlilini soddalashtirish;  
+- kompaniyada hujjatlarni rasmiylashtirishning yagona qoidalarini saqlash.  
 :::
