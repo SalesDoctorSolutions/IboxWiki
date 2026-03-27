@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/sales/contracts.md",
   "sourceDirName": "functionality/sales",
   "slug": "/functionality/sales/contracts",
-  "permalink": "/uz/docs/functionality/sales/contracts",
+  "permalink": "/docs/functionality/sales/contracts",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Сетевые покупатели",
-    "permalink": "/uz/docs/functionality/sales/network-outlets"
+    "permalink": "/docs/functionality/sales/network-outlets"
   },
   "next": {
     "title": "Продажи сотрудникам",
-    "permalink": "/uz/docs/functionality/sales/sales-to-employees"
+    "permalink": "/docs/functionality/sales/sales-to-employees"
   }
 }

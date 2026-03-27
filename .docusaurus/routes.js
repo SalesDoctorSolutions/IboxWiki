@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'bf4'),
+    component: ComponentCreator('/uz/docs', '6d5'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '3e0'),
+        component: ComponentCreator('/uz/docs', 'd56'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'c7f'),
+            component: ComponentCreator('/uz/docs', '039'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -137,31 +137,31 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/sales/contracts',
-                component: ComponentCreator('/uz/docs/functionality/sales/contracts', '0ab'),
+                component: ComponentCreator('/uz/docs/functionality/sales/contracts', 'db2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/network-outlets',
-                component: ComponentCreator('/uz/docs/functionality/sales/network-outlets', '85e'),
+                component: ComponentCreator('/uz/docs/functionality/sales/network-outlets', 'd7c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/organisation-minimal-price',
-                component: ComponentCreator('/uz/docs/functionality/sales/organisation-minimal-price', 'c58'),
+                component: ComponentCreator('/uz/docs/functionality/sales/organisation-minimal-price', 'dd6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/sales-to-employees',
-                component: ComponentCreator('/uz/docs/functionality/sales/sales-to-employees', 'f30'),
+                component: ComponentCreator('/uz/docs/functionality/sales/sales-to-employees', '592'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/sales/search-code',
-                component: ComponentCreator('/uz/docs/functionality/sales/search-code', '2fd'),
+                component: ComponentCreator('/uz/docs/functionality/sales/search-code', '82f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
