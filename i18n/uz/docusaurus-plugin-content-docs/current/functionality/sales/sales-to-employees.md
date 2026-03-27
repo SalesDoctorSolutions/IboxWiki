@@ -1,46 +1,50 @@
 ---
 id: sales-to-employees
-title: Продажи сотрудникам
-sidebar_label: Продажи сотрудникам
+title: Xodimlarga sotish
+sidebar_label: Xodimlarga sotish
 sidebar_position: 3
 ---
 
-Функция **Продажи сотрудникам** позволяет оформлять заказы и отгрузки на сотрудников, которые добавлены в систему.
+# Xodimlarga sotishni ruxsat berish
 
-После включения функции сотрудники становятся доступны для выбора в качестве клиента при создании документов **Заказ** и **Отгрузка**. Это помогает учитывать внутренние продажи и контролировать взаиморасчеты с персоналом.
+**Xodimlarga sotuvlar** funksiyasi tizimga qo‘shilgan xodimlarga buyurtmalar va sotuvlarni rasmiylashtirish imkonini beradi.
 
-## Когда полезно использовать продажи сотрудникам
-
-Функция особенно полезна, если:
-
-- компания продает товары сотрудникам со склада;
-- необходимо учитывать покупки сотрудников в системе;
-- важно контролировать задолженность сотрудников;
-- используются внутренние продажи по специальным условиям или скидкам;
-- требуется анализировать объем внутренних продаж.
+Funksiya yoqilgandan so‘ng xodimlar **Buyurtma** va **Sotuv** hujjatlarini yaratishda mijoz sifatida tanlash uchun mavjud bo‘ladi. Bu ichki sotuvlarni hisobga olish va xodimlar bilan o‘zaro hisob-kitoblarni nazorat qilishga yordam beradi.
 
 ---
 
-:::warning Важно
+## Xodimlarga sotuvlar qachon foydali
 
-Сотрудники не отображаются в общем списке клиентов в разделе **Клиенты**.
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-Чтобы проверить взаиморасчеты с сотрудником:
+- kompaniya ombordan xodimlarga mahsulot sotadigan bo‘lsa;  
+- xodimlarning xaridlarini tizimda hisobga olish zarur bo‘lsa;  
+- xodimlarning qarzdorligini nazorat qilish muhim bo‘lsa;  
+- maxsus shartlar yoki chegirmalar asosida ichki sotuvlar amalga oshirilsa;  
+- ichki sotuvlar hajmini tahlil qilish talab qilinsa.  
 
-1. Откройте **Настройки**.  
-2. Перейдите в раздел **Сотрудники**.  
-3. Нажмите на имя сотрудника, чтобы открыть его карточку.  
+---
 
-В карточке сотрудника отображается баланс и история операций.
+:::warning Muhim
+
+Xodimlar **Mijozlar** bo‘limidagi umumiy mijozlar ro‘yxatida ko‘rinmaydi.
+
+Xodim bilan hisob-kitoblarni tekshirish uchun:
+
+1. **Sozlamalar** bo‘limini oching.  
+2. **Xodimlar** bo‘limiga o‘ting.  
+3. Xodim kartasini ochish uchun uning nomini bosing.  
+
+Xodim kartasida balans va operatsiyalar tarixi ko‘rsatiladi.
 :::
 
 ---
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Разрешить продажу сотрудникам** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Xodimlarga sotishni ruxsat berish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.  
