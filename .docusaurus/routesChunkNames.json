@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-b2c": {
+  "/uz/docs-730": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-819": {
+  "/uz/docs-69f": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-6e0": {
+  "/uz/docs-78e": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/finance/multi-currency-722": {
@@ -163,6 +163,30 @@
   "/uz/docs/functionality/products/services-8db": {
     "__comp": "17896441",
     "content": "00bbead9"
+  },
+  "/uz/docs/functionality/sales/contracts-cbd": {
+    "__comp": "17896441",
+    "content": "5a786940"
+  },
+  "/uz/docs/functionality/sales/network-outlets-533": {
+    "__comp": "17896441",
+    "content": "8d48d61d"
+  },
+  "/uz/docs/functionality/sales/organisation-minimal-price-48c": {
+    "__comp": "17896441",
+    "content": "659b008d"
+  },
+  "/uz/docs/functionality/sales/routes-ee0": {
+    "__comp": "17896441",
+    "content": "989755f2"
+  },
+  "/uz/docs/functionality/sales/sales-to-employees-ce6": {
+    "__comp": "17896441",
+    "content": "5ec5982b"
+  },
+  "/uz/docs/functionality/sales/search-code-377": {
+    "__comp": "17896441",
+    "content": "751268cb"
   },
   "/uz/docs/functionality/statuses/cashbox-responsible-adb": {
     "__comp": "17896441",

@@ -66,6 +66,30 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/sales/contracts",
+              "path": "/uz/docs/functionality/sales/contracts"
+            },
+            {
+              "id": "functionality/sales/network-outlets",
+              "path": "/uz/docs/functionality/sales/network-outlets"
+            },
+            {
+              "id": "functionality/sales/organisation-minimal-price",
+              "path": "/uz/docs/functionality/sales/organisation-minimal-price"
+            },
+            {
+              "id": "functionality/sales/routes",
+              "path": "/uz/docs/functionality/sales/routes"
+            },
+            {
+              "id": "functionality/sales/sales-to-employees",
+              "path": "/uz/docs/functionality/sales/sales-to-employees"
+            },
+            {
+              "id": "functionality/sales/search-code",
+              "path": "/uz/docs/functionality/sales/search-code"
+            },
+            {
               "id": "functionality/statuses/cashbox-responsible",
               "path": "/uz/docs/functionality/statuses/cashbox-responsible",
               "sidebar": "tutorialSidebar"

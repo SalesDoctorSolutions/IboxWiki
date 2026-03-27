@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'b2c'),
+    component: ComponentCreator('/uz/docs', '730'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '819'),
+        component: ComponentCreator('/uz/docs', '69f'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '6e0'),
+            component: ComponentCreator('/uz/docs', '78e'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -134,6 +134,36 @@ export default [
                 component: ComponentCreator('/uz/docs/functionality/products/services', '8db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/sales/contracts',
+                component: ComponentCreator('/uz/docs/functionality/sales/contracts', 'cbd'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/sales/network-outlets',
+                component: ComponentCreator('/uz/docs/functionality/sales/network-outlets', '533'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/sales/organisation-minimal-price',
+                component: ComponentCreator('/uz/docs/functionality/sales/organisation-minimal-price', '48c'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/sales/routes',
+                component: ComponentCreator('/uz/docs/functionality/sales/routes', 'ee0'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/sales/sales-to-employees',
+                component: ComponentCreator('/uz/docs/functionality/sales/sales-to-employees', 'ce6'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/sales/search-code',
+                component: ComponentCreator('/uz/docs/functionality/sales/search-code', '377'),
+                exact: true
               },
               {
                 path: '/uz/docs/functionality/statuses/cashbox-responsible',
