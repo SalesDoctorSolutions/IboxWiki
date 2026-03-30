@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-6d5": {
+  "/uz/docs-463": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-d56": {
+  "/uz/docs-84a": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-039": {
+  "/uz/docs-1c3": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/finance/multi-currency-722": {
@@ -135,6 +135,26 @@
   "/uz/docs/functionality/finance/vat-9f6": {
     "__comp": "17896441",
     "content": "5609b41f"
+  },
+  "/uz/docs/functionality/interface/base-unit-480": {
+    "__comp": "17896441",
+    "content": "dab7870c"
+  },
+  "/uz/docs/functionality/interface/data-ownership-9a5": {
+    "__comp": "17896441",
+    "content": "0f8e1419"
+  },
+  "/uz/docs/functionality/interface/display-barcode-3ea": {
+    "__comp": "17896441",
+    "content": "3cc2bdd2"
+  },
+  "/uz/docs/functionality/interface/last-filter-c03": {
+    "__comp": "17896441",
+    "content": "80948e4f"
+  },
+  "/uz/docs/functionality/interface/tags-89b": {
+    "__comp": "17896441",
+    "content": "0ac2346c"
   },
   "/uz/docs/functionality/products/batch-5f8": {
     "__comp": "17896441",

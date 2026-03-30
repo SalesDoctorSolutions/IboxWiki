@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '6d5'),
+    component: ComponentCreator('/uz/docs', '463'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'd56'),
+        component: ComponentCreator('/uz/docs', '84a'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '039'),
+            component: ComponentCreator('/uz/docs', '1c3'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -92,6 +92,31 @@ export default [
                 component: ComponentCreator('/uz/docs/functionality/finance/vat', '9f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/interface/base-unit',
+                component: ComponentCreator('/uz/docs/functionality/interface/base-unit', '480'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/interface/data-ownership',
+                component: ComponentCreator('/uz/docs/functionality/interface/data-ownership', '9a5'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/interface/display-barcode',
+                component: ComponentCreator('/uz/docs/functionality/interface/display-barcode', '3ea'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/interface/last-filter',
+                component: ComponentCreator('/uz/docs/functionality/interface/last-filter', 'c03'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/functionality/interface/tags',
+                component: ComponentCreator('/uz/docs/functionality/interface/tags', '89b'),
+                exact: true
               },
               {
                 path: '/uz/docs/functionality/products/batch',

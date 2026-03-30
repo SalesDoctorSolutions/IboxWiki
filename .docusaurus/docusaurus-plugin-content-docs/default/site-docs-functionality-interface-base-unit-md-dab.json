@@ -1,0 +1,20 @@
+{
+  "id": "functionality/interface/base-unit",
+  "title": "Документы только в базовой единице",
+  "description": "Функция Документы только в базовой единице позволяет автоматически пересчитывать количество товаров из разных упаковок в единицу хранения.",
+  "source": "@site/docs/functionality/interface/base-unit.md",
+  "sourceDirName": "functionality/interface",
+  "slug": "/functionality/interface/base-unit",
+  "permalink": "/uz/docs/functionality/interface/base-unit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "base-unit",
+    "title": "Документы только в базовой единице",
+    "sidebar_label": "Документы только в базовой единице",
+    "sidebar_position": 1
+  }
+}

@@ -31,6 +31,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/interface/base-unit",
+              "path": "/uz/docs/functionality/interface/base-unit"
+            },
+            {
+              "id": "functionality/interface/data-ownership",
+              "path": "/uz/docs/functionality/interface/data-ownership"
+            },
+            {
+              "id": "functionality/interface/display-barcode",
+              "path": "/uz/docs/functionality/interface/display-barcode"
+            },
+            {
+              "id": "functionality/interface/last-filter",
+              "path": "/uz/docs/functionality/interface/last-filter"
+            },
+            {
+              "id": "functionality/interface/tags",
+              "path": "/uz/docs/functionality/interface/tags"
+            },
+            {
               "id": "functionality/products/batch",
               "path": "/uz/docs/functionality/products/batch",
               "sidebar": "tutorialSidebar"

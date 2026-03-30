@@ -4,6 +4,6 @@ require("D:\\Projects\\Wiki\\ibox-docs-preview\\node_modules\\lunr-languages\\lu
 require("D:\\Projects\\Wiki\\ibox-docs-preview\\node_modules\\lunr-languages\\lunr.multi.js")(lunr);
 export const removeDefaultStopWordFilter = [];
 export const language = ["en","ru"];
-export const searchIndexUrl = "search-index{dir}.json?_=f96b3e8a";
+export const searchIndexUrl = "search-index{dir}.json?_=d97666f4";
 export const searchResultLimits = 8;
 export const fuzzyMatchingDistance = 1;
