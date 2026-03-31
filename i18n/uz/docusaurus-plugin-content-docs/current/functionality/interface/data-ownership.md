@@ -1,89 +1,91 @@
 ---
 id: data-ownership
-title: Использовать владение данными
-sidebar_label: Владение данными
+title: Ma'lumotga egalikni ishlatish
+sidebar_label: Ma'lumotga egalikni ishlatish
 sidebar_position: 2
 ---
 
-Функция **Владение данными** позволяет ограничивать доступ сотрудников к данным в системе.
+# Ma'lumotga egalikni ishlatish
 
-После включения функции сотрудники получают доступ только к тем товарам, складам, кассам и документам, владельцами которых являются они сами или их группа.
+**Ma’lumotlar egaligi** funksiyasi tizimdagi ma’lumotlarga xodimlar kirishini cheklash imkonini beradi.
 
-Это помогает разграничить доступ и повысить безопасность данных.
+Funksiya yoqilgandan so‘ng xodimlar faqat o‘zlari yoki ularning guruhi egalik qiladigan mahsulotlar, omborlar, kassalar va hujjatlarga kirish huquqiga ega bo‘ladi.
 
-## Как работает функция
+Bu huquq taqsimlash va ma’lumotlar xavfsizligini oshirishga yordam beradi.
 
-После включения функции:
+## Funksiya qanday ishlaydi
 
-- в товарах, складах, кассах и документах появляется поле **Владелец данных**;
-- вы можете указать владельца — сотрудника и/или группу;
-- в настройках ролей появляется ограничение доступа по владельцу данных.
+Funksiya yoqilgandan so‘ng:
 
-Доступ можно настроить по трем уровням:
+- mahsulotlar, omborlar, kassalar va hujjatlarda **Ma’lumotlar egasi** maydoni paydo bo‘ladi;
+- siz egani — xodimni va/yoki guruhni ko‘rsatishingiz mumkin;
+- rollar sozlamalarida ma’lumotlar egasi bo‘yicha kirish cheklovi paydo bo‘ladi.
 
-- **Все** — доступ ко всем данным  
-- **Только свои** — доступ только к данным, где сотрудник указан владельцем  
-- **Свои и группы** — доступ к данным сотрудника и его группы  
+Kirishni uch darajada sozlash mumkin:
 
-## Когда полезно использовать функцию
+- **Barchasi** — barcha ma’lumotlarga kirish  
+- **Faqat o‘ziniki** — faqat xodim egasi sifatida ko‘rsatilgan ma’lumotlarga kirish  
+- **O‘ziniki va guruhiniki** — xodimning va uning guruhining ma’lumotlariga kirish  
 
-Функция особенно полезна, если:
+## Funksiya qachon foydali
 
-- в системе работает несколько отделов или команд;
-- нужно ограничить доступ сотрудников к данным друг друга;
-- важно разграничить зоны ответственности;
-- требуется повысить безопасность и конфиденциальность данных;
-- сотрудники работают с разными складами или товарами.
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-## Как включить функцию
+- tizimda bir nechta bo‘lim yoki jamoa ishlasa;
+- xodimlarning bir-birining ma’lumotlariga kirishini cheklash kerak bo‘lsa;
+- mas’uliyat maydonlarini aniq ajratish muhim bo‘lsa;
+- ma’lumotlar xavfsizligi va maxfiyligini oshirish talab qilinsa;
+- xodimlar turli omborlar yoki mahsulotlar bilan ishlasa.
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Использовать владение данными** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+## Funksiyani qanday yoqish mumkin
 
-## Как назначить группу сотруднику
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Ma'lumotga egalikni ishlatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
 
-1. Откройте **Настройки**.  
-2. Перейдите в раздел **Сотрудники**.  
-3. Создайте сотрудника или откройте существующего для редактирования.  
-4. В блоке **Владелец данных** укажите **Группу владельца данных**.  
-5. Нажмите **Сохранить**.
+## Xodimga guruhni qanday biriktirish mumkin
 
-## Как настроить доступ по владельцу данных
+1. **Sozlamalar** bo‘limini oching.  
+2. **Xodimlar** bo‘limiga o‘ting.  
+3. Yangi xodim yarating yoki mavjud xodimni tahrirlash uchun oching.  
+4. **Ma’lumotlar egasi** blokida **Ma’lumotlar egasi guruhi**ni ko‘rsating.  
+5. **Saqlash** tugmasini bosing.  
 
-1. Откройте **Настройки**.  
-2. Перейдите в раздел **Роли**.  
-3. Создайте новую роль или откройте существующую.  
-4. Для прав **Просмотр**, **Создание**, **Редактирование** и **Удаление** выберите уровень доступа:
-   - Все  
-   - Только свои  
-   - Свои и группы  
-5. Нажмите **Сохранить**.
+## Ma’lumotlar egasi bo‘yicha kirishni qanday sozlash mumkin
 
-## Где указать владельца данных
+1. **Sozlamalar** bo‘limini oching.  
+2. **Rollar** bo‘limiga o‘ting.  
+3. Yangi rol yarating yoki mavjud rolni oching.  
+4. **Ko‘rish**, **Yaratish**, **Tahrirlash** va **O‘chirish** huquqlari uchun kirish darajasini tanlang:
+   - Barchasi  
+   - Faqat o‘ziniki  
+   - O‘ziniki va guruhiniki  
+5. **Saqlash** tugmasini bosing.  
 
-Вы можете указать владельца данных для:
+## Ma’lumotlar egasini qayerda ko‘rsatish mumkin
 
-- документов;
-- товаров;
-- складов;
-- касс.
+Siz ma’lumotlar egasini quyidagilar uchun ko‘rsatishingiz mumkin:
 
-Для этого:
+- hujjatlar;
+- mahsulotlar;
+- omborlar;
+- kassalar.
 
-1. Откройте нужный раздел.  
-2. Создайте новый элемент или отредактируйте существующий.  
-3. Перейдите в блок **Владелец данных**.  
-4. Укажите сотрудника и/или группу.  
-5. Нажмите **Сохранить**.
+Buning uchun:
 
-:::info Информация
+1. Kerakli bo‘limni oching.  
+2. Yangi element yarating yoki mavjudini tahrirlang.  
+3. **Ma’lumotlar egasi** blokiga o‘ting.  
+4. Xodimni va/yoki guruhni ko‘rsating.  
+5. **Saqlash** tugmasini bosing.  
 
-Если не указывать владельца данных:
+:::info Ma’lumot
 
-- владельцем автоматически становится сотрудник, который создал элемент или документ;
-- группа владельца заполняется из группы, к которой привязан сотрудник.
+Agar ma’lumotlar egasi ko‘rsatilmasa:
+
+- element yoki hujjatni yaratgan xodim avtomatik ravishda egasi bo‘ladi;
+- egalar guruhi xodim biriktirilgan guruh asosida avtomatik to‘ldiriladi.
 :::
