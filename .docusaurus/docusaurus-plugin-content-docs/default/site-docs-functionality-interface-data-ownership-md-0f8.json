@@ -21,5 +21,9 @@
   "previous": {
     "title": "Документы только в базовой единице",
     "permalink": "/uz/docs/functionality/interface/base-unit"
+  },
+  "next": {
+    "title": "Показывать штрихкоды в документах",
+    "permalink": "/uz/docs/functionality/interface/display-barcode"
   }
 }

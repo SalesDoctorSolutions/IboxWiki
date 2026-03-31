@@ -1,7 +1,7 @@
 {
   "id": "functionality/interface/display-barcode",
-  "title": "display-barcode",
-  "description": "",
+  "title": "Показывать штрихкоды в документах",
+  "description": "Функция Показывать штрихкоды в документах добавляет отображение штрихкодов в таблице товаров документов.",
   "source": "@site/docs/functionality/interface/display-barcode.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/display-barcode",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "display-barcode",
+    "title": "Показывать штрихкоды в документах",
+    "sidebar_label": "Показывать штрихкоды в документах",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Владение данными",
+    "permalink": "/uz/docs/functionality/interface/data-ownership"
+  }
 }

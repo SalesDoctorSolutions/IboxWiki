@@ -42,7 +42,8 @@
             },
             {
               "id": "functionality/interface/display-barcode",
-              "path": "/uz/docs/functionality/interface/display-barcode"
+              "path": "/uz/docs/functionality/interface/display-barcode",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/interface/last-filter",

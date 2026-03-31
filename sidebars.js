@@ -280,6 +280,7 @@ module.exports = {
       items: [    
         'functionality/interface/base-unit',
         'functionality/interface/data-ownership',
+        'functionality/interface/display-barcode',
       ],
       },
       ],
