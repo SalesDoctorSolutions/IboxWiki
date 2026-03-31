@@ -1,61 +1,63 @@
 ---
 id: display-barcode
-title: Показывать штрихкоды в документах
-sidebar_label: Показывать штрихкоды в документах
+title: Hujjatlarda mahsulot shtrix-kodini ko'rsatish
+sidebar_label: Hujjatlarda shtrix-kodni ko'rsatish
 sidebar_position: 3
 ---
 
-Функция **Показывать штрихкоды в документах** добавляет отображение штрихкодов в таблице товаров документов.
+# Hujjatlarda mahsulot shtrix-kodini ko'rsatish
 
-После включения функции штрихкод отображается под названием товара. Это упрощает проверку и идентификацию товаров при работе с документами.
+**Hujjatlarda mahsulot shtrix-kodini ko'rsatish** funksiyasi hujjatlardagi mahsulotlar jadvalida shtrix-kodlarni ko‘rsatishni qo‘shadi.
 
-## Как работает функция
+Funksiya yoqilgandan so‘ng shtrix-kod mahsulot nomi ostida ko‘rsatiladi. Bu hujjatlar bilan ishlashda mahsulotlarni tekshirish va aniqlashni osonlashtiradi.
 
-В таблице товаров:
+## Funksiya qanday ishlaydi
 
-- под названием товара отображается его штрихкод;
-- если у товара несколько штрихкодов — система покажет все, каждый с новой строки.
+Mahsulotlar jadvalida:
 
-## Где отображаются штрихкоды
+- mahsulot nomi ostida uning shtrix-kodi ko‘rsatiladi;
+- agar mahsulotda bir nechta shtrix-kod bo‘lsa — tizim ularning barchasini, har birini yangi qatordan ko‘rsatadi.
 
-Штрихкоды отображаются в следующих документах:
+## Shtrix-kodlar qayerda ko‘rsatiladi
 
-**Склад:**
+Shtrix-kodlar quyidagi hujjatlarda ko‘rsatiladi:
 
-- Перемещения  
+**Ombor:**
 
-**Продажи:**
+- Ombordan omborga ko'chirishlar  
 
-- Заказы  
-- Отгрузки  
-- Возвраты  
+**Sotuvlar:**
 
-**Закупки:**
+- Buyurtmalar  
+- Sotuvlar  
+- Mijozdan qaytishlar  
 
-- Закупки  
-- Заказы поставщикам  
-- Возвраты поставщикам  
+**Xaridlar:**
 
-**Организации:**
+- Xaridlar  
+- Xarid buyurtmalari  
+- Ta'minotchiga qaytarishlar  
 
-- Межорганизационные отгрузки  
-- Межорганизационные запросы  
+**Korxonalar:**
 
-## Когда полезно использовать функцию
+- Korxonalaro sotuvlar  
+- Korxonalaro buyurtmalar  
 
-Функция особенно полезна, если:
+## Funksiya qachon foydali
 
-- сотрудники работают со сканерами штрихкодов;
-- важно быстро сверять товары при отгрузке или приемке;
-- один товар имеет несколько штрихкодов;
-- требуется снизить ошибки при сборке заказов;
-- сотрудники работают с печатными или экранными документами на складе.
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-## Как включить функцию
+- xodimlar shtrix-kod skanerlari bilan ishlasa;
+- sotuv yoki qabul qilish paytida mahsulotlarni tez solishtirish muhim bo‘lsa;
+- bitta mahsulotda bir nechta shtrix-kod bo‘lsa;
+- buyurtmalarni yig‘ishda xatolarni kamaytirish talab qilinsa;
+- xodimlar omborda bosma yoki ekran hujjatlari bilan ishlasa.
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Показывать штрихкоды в документах** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+## Funksiyani qanday yoqish mumkin
+
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Hujjatlarda mahsulot shtrix-kodini ko'rsatish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
