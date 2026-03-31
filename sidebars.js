@@ -290,7 +290,8 @@ module.exports = {
       label: '5.7. Фабрика',
       items: [    
         'functionality/factory/factory',
-        
+        'functionality/factory/assembly-templates',
+
       ],
       },
       ],

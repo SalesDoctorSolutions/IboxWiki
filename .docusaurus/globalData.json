@@ -11,6 +11,11 @@
           "mainDocId": "overview/product-overview",
           "docs": [
             {
+              "id": "functionality/factory/assembly-templates",
+              "path": "/uz/docs/functionality/factory/assembly-templates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/factory/factory",
               "path": "/uz/docs/functionality/factory/",
               "sidebar": "tutorialSidebar"

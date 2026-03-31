@@ -1,0 +1,25 @@
+{
+  "id": "functionality/factory/assembly-templates",
+  "title": "Техкарта",
+  "description": "Техкарта — это шаблон сборки, в котором заранее задан состав продукции и пропорции сырья.",
+  "source": "@site/docs/functionality/factory/assembly-templates.md",
+  "sourceDirName": "functionality/factory",
+  "slug": "/functionality/factory/assembly-templates",
+  "permalink": "/uz/docs/functionality/factory/assembly-templates",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "assembly-templates",
+    "title": "Техкарта",
+    "sidebar_label": "Техкарта",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Фабрика",
+    "permalink": "/uz/docs/functionality/factory/"
+  }
+}

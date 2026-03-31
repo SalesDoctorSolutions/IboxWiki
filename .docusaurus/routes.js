@@ -59,19 +59,25 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '961'),
+    component: ComponentCreator('/uz/docs', '0ba'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '70a'),
+        component: ComponentCreator('/uz/docs', '83a'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '413'),
+            component: ComponentCreator('/uz/docs', '0a7'),
             routes: [
               {
                 path: '/uz/docs/functionality/factory/',
                 component: ComponentCreator('/uz/docs/functionality/factory/', '82e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/factory/assembly-templates',
+                component: ComponentCreator('/uz/docs/functionality/factory/assembly-templates', '47c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
