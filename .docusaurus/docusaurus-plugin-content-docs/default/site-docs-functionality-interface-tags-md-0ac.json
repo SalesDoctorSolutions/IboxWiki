@@ -1,7 +1,7 @@
 {
   "id": "functionality/interface/tags",
-  "title": "tags",
-  "description": "",
+  "title": "Использовать метки",
+  "description": "Функция Использовать метки позволяет добавлять метки к документам для удобной классификации и поиска.",
   "source": "@site/docs/functionality/interface/tags.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/tags",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "tags",
+    "title": "Использовать метки",
+    "sidebar_label": "Использовать метки",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Запоминать последний примененный фильтр",
+    "permalink": "/uz/docs/functionality/interface/last-filter"
+  }
 }

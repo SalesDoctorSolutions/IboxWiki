@@ -21,5 +21,9 @@
   "previous": {
     "title": "Показывать штрихкоды в документах",
     "permalink": "/uz/docs/functionality/interface/display-barcode"
+  },
+  "next": {
+    "title": "Использовать метки",
+    "permalink": "/uz/docs/functionality/interface/tags"
   }
 }

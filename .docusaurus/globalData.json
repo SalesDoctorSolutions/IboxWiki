@@ -52,7 +52,8 @@
             },
             {
               "id": "functionality/interface/tags",
-              "path": "/uz/docs/functionality/interface/tags"
+              "path": "/uz/docs/functionality/interface/tags",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/products/batch",

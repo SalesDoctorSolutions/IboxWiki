@@ -282,6 +282,7 @@ module.exports = {
         'functionality/interface/data-ownership',
         'functionality/interface/display-barcode',
         'functionality/interface/last-filter',
+        'functionality/interface/tags'
       ],
       },
       ],
