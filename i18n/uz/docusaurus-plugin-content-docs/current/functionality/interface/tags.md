@@ -1,99 +1,101 @@
 ---
 id: tags
-title: Использовать метки
-sidebar_label: Использовать метки
+title: Belgilardan foydalanish
+sidebar_label: Belgilardan foydalanish
 sidebar_position: 5
 ---
 
-Функция **Использовать метки** позволяет добавлять метки к документам для удобной классификации и поиска.
+# Belgilardan foydalanish
 
-После включения функции вы можете:
+**Belgilardan foydalanish** funksiyasi hujjatlarga qulay tasniflash va qidirish uchun belgilar qo‘shish imkonini beradi.
 
-- добавить поле **Метка** в списки документов;
-- указывать метки при создании, редактировании и просмотре документов.
+Funksiya yoqilgandan so‘ng siz quyidagilarni amalga oshirishingiz mumkin:
 
-Метки помогают структурировать данные и быстрее находить нужные документы.
+- hujjatlar ro‘yxatiga **Belgi** maydonini qo‘shish;
+- hujjatlarni yaratish, tahrirlash va ko‘rishda belgilarni ko‘rsatish.
 
-## Где доступны метки
+Belgilar ma’lumotlarni tartibga solishga va kerakli hujjatlarni tezroq topishga yordam beradi.
 
-После включения функции метки можно использовать в следующих документах:
+## Belgilar qayerda mavjud
 
-**Склад:**
+Funksiya yoqilgandan so‘ng belgilardan quyidagi hujjatlarda foydalanish mumkin:
 
-- Перемещения  
+**Ombor:**
 
-**Продажи:**
+- Ombordan omborga ko'chirishlar  
 
-- Заказы  
-- Отгрузки  
-- Возвраты  
+**Sotuvlar:**
 
-**Закупки:**
+- Buyurtmalar  
+- Sotuvlar  
+- Mijozdan qaytishlar  
 
-- Закупки  
-- Заказы поставщикам  
-- Возвраты поставщикам  
+**Xaridlar:**
 
-**Деньги:**
+- Xaridlar  
+- Xarid buyurtmalari  
+- Ta'minotchiga qaytarishlar  
 
-- Приходы  
-- Расходы  
+**Pullar:**
+
+- Kirimlar  
+- Chiqimlar  
 
 ---
 
-:::warning Важно
+:::warning Muhim
 
-Метки настраиваются отдельно для каждого раздела.
+Belgilar har bir bo‘lim uchun alohida sozlanadi.
 
-Например, метки для продаж не применяются к закупкам или складу.
+Masalan, sotuvlar uchun belgilar xaridlar yoki omborga tatbiq etilmaydi.
 :::
 
 ---
 
-## Когда полезно использовать метки
+## Funksiya qachon foydali
 
-Функция особенно полезна, если:
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-- нужно быстро классифицировать документы по типу или статусу;
-- сотрудники работают с большим количеством документов;
-- требуется выделять приоритетные или проблемные операции;
-- важно ускорить поиск и фильтрацию документов;
-- используется дополнительная внутренняя аналитика.
+- hujjatlarni turi yoki holati bo‘yicha tez tasniflash kerak bo‘lsa;
+- xodimlar juda ko‘p hujjatlar bilan ishlasa;
+- ustuvor yoki muammoli operatsiyalarni ajratib ko‘rsatish talab qilinsa;
+- hujjatlarni qidirish va filtrlashni tezlashtirish muhim bo‘lsa;
+- qo‘shimcha ichki analitika ishlatilsa.
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Использовать метки** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Belgilardan foydalanish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
 
-## Как установить метку
+## Belgini qanday o‘rnatish mumkin
 
-Вы можете установить метку при создании, редактировании или просмотре документа.
+Siz Belgini hujjatni yaratish, tahrirlash yoki ko‘rish vaqtida o‘rnatishingiz mumkin.
 
-### При создании или редактировании документа
+### Hujjatni yaratish yoki tahrirlash vaqtida
 
-1. Откройте нужный раздел.  
-2. Создайте новый документ или откройте существующий.  
-3. В поле **Метка** выберите нужную метку.  
-4. Нажмите **Сохранить**.
+1. Kerakli bo‘limni oching.  
+2. Yangi hujjat yarating yoki mavjud hujjatni oching.  
+3. **Belgi** maydonida kerakli belgini tanlang.  
+4. **Saqlash** tugmasini bosing.
 
-:::info Информация
-Если меток нет:
+:::info Ma’lumot
+Agar Belgilar mavjud bo‘lmasa:
 
-- нажмите **Настроить**;
-- нажмите **Добавить метку**;
-- укажите название и цвет;
-- при необходимости удалите лишние метки;
-- нажмите **Сохранить**.
+- **Sozlash** tugmasini bosing;
+- **Yangi belgi qo‘shish** tugmasini bosing;
+- belgi nomi va rangni kiriting;
+- kerak bo‘lsa ortiqcha belgilarni o‘chirib tashlang;
+- **Saqlash** tugmasini bosing.
 :::
 
-### При просмотре документа
+### Hujjatni ko‘rish vaqtida
 
-1. Откройте нужный раздел.  
-2. Нажмите на номер документа.  
-3. В нижней части окна выберите метку.
+1. Kerakli bo‘limni oching.  
+2. Hujjat raqamini bosing.  
+3. Oynaning pastki qismida belgini tanlang.
 
-Метка применится сразу после выбора.
+Belgi tanlangan zahoti qo‘llanadi.
