@@ -21,5 +21,9 @@
   "previous": {
     "title": "Техкарта",
     "permalink": "/uz/docs/functionality/factory/assembly-templates"
+  },
+  "next": {
+    "title": "Сборка без техкарты",
+    "permalink": "/uz/docs/functionality/factory/manual-assembly"
   }
 }

@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/factory/manual-assembly",
+              "path": "/uz/docs/functionality/factory/manual-assembly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/factory/template-assembly",
               "path": "/uz/docs/functionality/factory/template-assembly",
               "sidebar": "tutorialSidebar"

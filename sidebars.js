@@ -292,6 +292,7 @@ module.exports = {
         'functionality/factory/factory',
         'functionality/factory/assembly-templates',
         'functionality/factory/template-assembly',
+        'functionality/factory/manual-assembly',
 
       ],
       },
