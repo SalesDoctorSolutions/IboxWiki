@@ -1,0 +1,25 @@
+{
+  "id": "functionality/interface/tags",
+  "title": "Использовать метки",
+  "description": "Функция Использовать метки позволяет добавлять метки к документам для удобной классификации и поиска.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/functionality/interface/tags.md",
+  "sourceDirName": "functionality/interface",
+  "slug": "/functionality/interface/tags",
+  "permalink": "/uz/docs/functionality/interface/tags",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "tags",
+    "title": "Использовать метки",
+    "sidebar_label": "Использовать метки",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Запоминать последний примененный фильтр",
+    "permalink": "/uz/docs/functionality/interface/last-filter"
+  }
+}

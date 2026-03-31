@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/interface/base-unit.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/base-unit",
-  "permalink": "/uz/docs/functionality/interface/base-unit",
+  "permalink": "/docs/functionality/interface/base-unit",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Korxonalaro hujjatlarda min. narxni tekshirmaslik",
-    "permalink": "/uz/docs/functionality/sales/organisation-minimal-price"
+    "title": "Не проверять мин. цену в межорг. документах",
+    "permalink": "/docs/functionality/sales/organisation-minimal-price"
   },
   "next": {
     "title": "Владение данными",
-    "permalink": "/uz/docs/functionality/interface/data-ownership"
+    "permalink": "/docs/functionality/interface/data-ownership"
   }
 }

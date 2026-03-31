@@ -110,5 +110,9 @@
   "sidebar.tutorialSidebar.category.5.5. Продажи и клиенты": {
     "message": "5.5. Sotuvlar va mijozlar",
     "description": "The label for category 5.5. Продажи и клиенты in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5.6. Настройки данных и интерфейса": {
+    "message": "5.6. Ma'lumotlar va interfeys sozlamalari",
+    "description": "The label for category 5.6. Настройки данных и интерфейса in sidebar tutorialSidebar"
   }
 }

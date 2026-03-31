@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/interface/last-filter.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/last-filter",
-  "permalink": "/uz/docs/functionality/interface/last-filter",
+  "permalink": "/docs/functionality/interface/last-filter",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Показывать штрихкоды в документах",
-    "permalink": "/uz/docs/functionality/interface/display-barcode"
+    "permalink": "/docs/functionality/interface/display-barcode"
   },
   "next": {
     "title": "Использовать метки",
-    "permalink": "/uz/docs/functionality/interface/tags"
+    "permalink": "/docs/functionality/interface/tags"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "functionality/interface/last-filter",
+  "title": "Запоминать последний примененный фильтр",
+  "description": "Функция Запоминать последний примененный фильтр сохраняет выбранные фильтры в разделах системы.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/functionality/interface/last-filter.md",
+  "sourceDirName": "functionality/interface",
+  "slug": "/functionality/interface/last-filter",
+  "permalink": "/uz/docs/functionality/interface/last-filter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "last-filter",
+    "title": "Запоминать последний примененный фильтр",
+    "sidebar_label": "Запоминать последний примененный фильтр",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Показывать штрихкоды в документах",
+    "permalink": "/uz/docs/functionality/interface/display-barcode"
+  },
+  "next": {
+    "title": "Использовать метки",
+    "permalink": "/uz/docs/functionality/interface/tags"
+  }
+}

@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/interface/display-barcode.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/display-barcode",
-  "permalink": "/uz/docs/functionality/interface/display-barcode",
+  "permalink": "/docs/functionality/interface/display-barcode",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Владение данными",
-    "permalink": "/uz/docs/functionality/interface/data-ownership"
+    "permalink": "/docs/functionality/interface/data-ownership"
   },
   "next": {
     "title": "Запоминать последний примененный фильтр",
-    "permalink": "/uz/docs/functionality/interface/last-filter"
+    "permalink": "/docs/functionality/interface/last-filter"
   }
 }

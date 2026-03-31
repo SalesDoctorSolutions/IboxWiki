@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '77b'),
+    component: ComponentCreator('/uz/docs', 'c0a'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '3d0'),
+        component: ComponentCreator('/uz/docs', '939'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'aa4'),
+            component: ComponentCreator('/uz/docs', '2d1'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -95,31 +95,31 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/interface/base-unit',
-                component: ComponentCreator('/uz/docs/functionality/interface/base-unit', '314'),
+                component: ComponentCreator('/uz/docs/functionality/interface/base-unit', '3dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/interface/data-ownership',
-                component: ComponentCreator('/uz/docs/functionality/interface/data-ownership', '753'),
+                component: ComponentCreator('/uz/docs/functionality/interface/data-ownership', 'cae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/interface/display-barcode',
-                component: ComponentCreator('/uz/docs/functionality/interface/display-barcode', '7da'),
+                component: ComponentCreator('/uz/docs/functionality/interface/display-barcode', '077'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/interface/last-filter',
-                component: ComponentCreator('/uz/docs/functionality/interface/last-filter', '5e1'),
+                component: ComponentCreator('/uz/docs/functionality/interface/last-filter', '9f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/interface/tags',
-                component: ComponentCreator('/uz/docs/functionality/interface/tags', '9e9'),
+                component: ComponentCreator('/uz/docs/functionality/interface/tags', '571'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
