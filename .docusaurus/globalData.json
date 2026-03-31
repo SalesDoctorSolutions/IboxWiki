@@ -11,6 +11,11 @@
           "mainDocId": "overview/product-overview",
           "docs": [
             {
+              "id": "functionality/factory/factory",
+              "path": "/uz/docs/functionality/factory/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/finance/multi-currency",
               "path": "/uz/docs/functionality/finance/multi-currency",
               "sidebar": "tutorialSidebar"

@@ -285,6 +285,14 @@ module.exports = {
         'functionality/interface/tags'
       ],
       },
+      {
+      type: 'category',
+      label: '5.7. Фабрика',
+      items: [    
+        'functionality/factory/factory',
+        
+      ],
+      },
       ],
     },
   ],

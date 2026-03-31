@@ -59,16 +59,22 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'c0a'),
+    component: ComponentCreator('/uz/docs', '961'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '939'),
+        component: ComponentCreator('/uz/docs', '70a'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '2d1'),
+            component: ComponentCreator('/uz/docs', '413'),
             routes: [
+              {
+                path: '/uz/docs/functionality/factory/',
+                component: ComponentCreator('/uz/docs/functionality/factory/', '82e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
                 component: ComponentCreator('/uz/docs/functionality/finance/multi-currency', '722'),
