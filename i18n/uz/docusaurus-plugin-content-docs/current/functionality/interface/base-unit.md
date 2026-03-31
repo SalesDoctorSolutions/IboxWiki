@@ -1,46 +1,58 @@
 ---
 id: base-unit
-title: Создавать документы только в базовой единице
-sidebar_label: Документы только в базовой единице
+title: Hujjatlarni faqat asosiy o'lchov birligida yaratish
+sidebar_label: Hujjatlar faqat asosiy birlikda
 sidebar_position: 1
 ---
 
-Функция **Создавать документы только в базовой единице** позволяет автоматически пересчитывать количество товаров из разных упаковок в единицу хранения.
+# Hujjatlarni faqat asosiy o'lchov birligida yaratish
 
-Функция работает в **мобильном приложении** и при оформлении заказов через **Telegram-бота**.
+**Hujjatlarni faqat asosiy birlikda yaratish** funksiyasi mahsulot miqdorini turli qadoqlardan avtomatik ravishda saqlash birligiga qayta hisoblash imkonini beradi.
 
-После включения функции вы можете добавлять товар в документ сразу в нескольких упаковках. Система автоматически пересчитает общее количество в базовую единицу и сохранит документ в единице хранения.
+Funksiya **mobil ilovada** va **Telegram-bot** orqali buyurtmalar rasmiylashtirilganda ishlaydi.
 
-## Как работает функция
+Funksiya yoqilgandan so‘ng siz mahsulotni hujjatga bir vaqtning o‘zida bir nechta qadoqda qo‘shishingiz mumkin. Tizim umumiy miqdorni avtomatik ravishda asosiy birlikka qayta hisoblaydi va hujjatni saqlash birligida saqlaydi.
 
-Если функция выключена:
+## Funksiya qanday ishlaydi
 
-- выберите упаковку товара;
-- укажите количество в выбранной упаковке.
+Agar funksiya o‘chirilgan bo‘lsa:
 
-Если функция включена:
+- mahsulot qadoq turini tanlang;
+- tanlangan qadoqda miqdorni kiriting.
 
-- укажите количество по каждой упаковке;
-- система автоматически пересчитает итоговое количество в единицу хранения;
-- документ сохранится в базовой единице.
+Agar funksiya yoqilgan bo‘lsa:
 
-Это упрощает ввод данных и снижает вероятность ошибок.
+- har bir qadoq bo‘yicha miqdorni kiriting;
+- tizim yakuniy miqdorni avtomatik ravishda saqlash birligiga qayta hisoblaydi;
+- hujjat asosiy birlikda saqlanadi.
 
-## Когда полезно использовать функцию
+Bu ma’lumot kiritishni soddalashtiradi va xatolar ehtimolini kamaytiradi.
 
-Функция особенно полезна, если:
+## Funksiya qachon foydali
 
-- один товар используется в разных упаковках — например, коробки, штуки, паллеты;
-- сотрудники оформляют заказы с мобильных устройств;
-- важно быстро вводить данные без ручных пересчетов;
-- требуется единый учет остатков в базовой единице;
-- нужно снизить ошибки при вводе количества.
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-## Как включить функцию
+- bitta mahsulot turli qadoqlarda ishlatilsa — masalan, quti, dona, pallet;
+- xodimlar buyurtmalarni mobil qurilmalardan rasmiylashtirsa;
+- ma’lumotlarni qo‘lda qayta hisoblamasdan tez kiritish muhim bo‘lsa;
+- qoldiqlarni asosiy birlikda yagona tarzda yuritish talab qilinsa;
+- miqdor kiritishdagi xatolarni kamaytirish kerak bo‘lsa.
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Создавать документы только в базовой единице** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+---
+
+:::warning Muhim
+Ushbu funksiya faqat mahsulot qadoqlari ishlatilganda ishlaydi.
+
+Qadoqlardan foydalanish uchun **Funksional** yorlig‘ida mos sozlamani yoqing.
+:::
+
+---
+
+## Funksiyani qanday yoqish mumkin
+
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Hujjatlarni faqat asosiy o'lchov birligida yaratish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
