@@ -1,7 +1,7 @@
 {
   "id": "functionality/interface/last-filter",
-  "title": "last-filter",
-  "description": "",
+  "title": "Запоминать последний примененный фильтр",
+  "description": "Функция Запоминать последний примененный фильтр сохраняет выбранные фильтры в разделах системы.",
   "source": "@site/docs/functionality/interface/last-filter.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/last-filter",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "last-filter",
+    "title": "Запоминать последний примененный фильтр",
+    "sidebar_label": "Запоминать последний примененный фильтр",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Показывать штрихкоды в документах",
+    "permalink": "/uz/docs/functionality/interface/display-barcode"
+  }
 }

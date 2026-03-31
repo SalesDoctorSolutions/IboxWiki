@@ -21,5 +21,9 @@
   "previous": {
     "title": "Владение данными",
     "permalink": "/uz/docs/functionality/interface/data-ownership"
+  },
+  "next": {
+    "title": "Запоминать последний примененный фильтр",
+    "permalink": "/uz/docs/functionality/interface/last-filter"
   }
 }

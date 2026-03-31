@@ -47,7 +47,8 @@
             },
             {
               "id": "functionality/interface/last-filter",
-              "path": "/uz/docs/functionality/interface/last-filter"
+              "path": "/uz/docs/functionality/interface/last-filter",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/interface/tags",

@@ -281,6 +281,7 @@ module.exports = {
         'functionality/interface/base-unit',
         'functionality/interface/data-ownership',
         'functionality/interface/display-barcode',
+        'functionality/interface/last-filter',
       ],
       },
       ],
