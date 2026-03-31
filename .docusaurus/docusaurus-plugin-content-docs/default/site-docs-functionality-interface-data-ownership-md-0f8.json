@@ -1,7 +1,7 @@
 {
   "id": "functionality/interface/data-ownership",
-  "title": "data-ownership",
-  "description": "",
+  "title": "Использовать владение данными",
+  "description": "Функция Владение данными позволяет ограничивать доступ сотрудников к данным в системе.",
   "source": "@site/docs/functionality/interface/data-ownership.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/data-ownership",
@@ -10,5 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "data-ownership",
+    "title": "Использовать владение данными",
+    "sidebar_label": "Владение данными",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Документы только в базовой единице",
+    "permalink": "/uz/docs/functionality/interface/base-unit"
+  }
 }

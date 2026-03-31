@@ -32,11 +32,13 @@
             },
             {
               "id": "functionality/interface/base-unit",
-              "path": "/uz/docs/functionality/interface/base-unit"
+              "path": "/uz/docs/functionality/interface/base-unit",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/interface/data-ownership",
-              "path": "/uz/docs/functionality/interface/data-ownership"
+              "path": "/uz/docs/functionality/interface/data-ownership",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "functionality/interface/display-barcode",

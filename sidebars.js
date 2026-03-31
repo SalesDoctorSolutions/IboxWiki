@@ -274,6 +274,14 @@ module.exports = {
         'functionality/sales/organisation-minimal-price',
       ],
       },
+      {
+      type: 'category',
+      label: '5.6. Настройки данных и интерфейса',
+      items: [    
+        'functionality/interface/base-unit',
+        'functionality/interface/data-ownership',
+      ],
+      },
       ],
     },
   ],

@@ -21,5 +21,9 @@
   "previous": {
     "title": "Поиск по коду клиента или поставщика",
     "permalink": "/docs/functionality/sales/search-code"
+  },
+  "next": {
+    "title": "Документы только в базовой единице",
+    "permalink": "/docs/functionality/interface/base-unit"
   }
 }

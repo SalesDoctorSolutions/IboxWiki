@@ -1,7 +1,7 @@
 {
   "id": "functionality/interface/base-unit",
-  "title": "Документы только в базовой единице",
-  "description": "Функция Документы только в базовой единице позволяет автоматически пересчитывать количество товаров из разных упаковок в единицу хранения.",
+  "title": "Создавать документы только в базовой единице",
+  "description": "Функция Создавать документы только в базовой единице позволяет автоматически пересчитывать количество товаров из разных упаковок в единицу хранения.",
   "source": "@site/docs/functionality/interface/base-unit.md",
   "sourceDirName": "functionality/interface",
   "slug": "/functionality/interface/base-unit",
@@ -13,8 +13,17 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "base-unit",
-    "title": "Документы только в базовой единице",
+    "title": "Создавать документы только в базовой единице",
     "sidebar_label": "Документы только в базовой единице",
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Korxonalaro hujjatlarda min. narxni tekshirmaslik",
+    "permalink": "/uz/docs/functionality/sales/organisation-minimal-price"
+  },
+  "next": {
+    "title": "Владение данными",
+    "permalink": "/uz/docs/functionality/interface/data-ownership"
   }
 }

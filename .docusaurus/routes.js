@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '463'),
+    component: ComponentCreator('/uz/docs', '7e7'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '84a'),
+        component: ComponentCreator('/uz/docs', '00f'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '1c3'),
+            component: ComponentCreator('/uz/docs', 'dd4'),
             routes: [
               {
                 path: '/uz/docs/functionality/finance/multi-currency',
@@ -95,13 +95,15 @@ export default [
               },
               {
                 path: '/uz/docs/functionality/interface/base-unit',
-                component: ComponentCreator('/uz/docs/functionality/interface/base-unit', '480'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/interface/base-unit', '314'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/interface/data-ownership',
-                component: ComponentCreator('/uz/docs/functionality/interface/data-ownership', '9a5'),
-                exact: true
+                component: ComponentCreator('/uz/docs/functionality/interface/data-ownership', '753'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/interface/display-barcode',
