@@ -1,44 +1,46 @@
 ---
 id: last-filter
-title: Запоминать последний примененный фильтр
-sidebar_label: Запоминать последний примененный фильтр
+title: Oxirgi qo'llangan filterni eslab qolish
+sidebar_label: Oxirgi qo'llangan filterni eslab qolish
 sidebar_position: 4
 ---
 
-Функция **Запоминать последний примененный фильтр** сохраняет выбранные фильтры в разделах системы.
+# Oxirgi qo'llangan filterni eslab qolish
 
-После включения функции фильтры не сбрасываются при переходе между разделами. Когда вы возвращаетесь в раздел, система автоматически применяет последний использованный набор фильтров.
+**Oxirgi qo'llangan filterni eslab qolish** funksiyasi tizim bo‘limlarida tanlangan filtrlarni saqlab qoladi.
 
-Это помогает быстрее находить нужные данные и не настраивать фильтры повторно.
+Funksiya yoqilgandan so‘ng bo‘limlar o‘rtasida o‘tganda filtrlar bekor qilinmaydi. Siz bo‘limga qaytganingizda tizim avtomatik ravishda oxirgi ishlatilgan filtrlar to‘plamini qo‘llaydi.
 
-## Как работает функция
+Bu kerakli ma’lumotlarni tezroq topishga va filtrlarni qayta sozlamaslikka yordam beradi.
 
-- вы настраиваете фильтры в любом разделе;
-- переходите в другой раздел;
-- при возврате фильтры остаются такими же, как были ранее.
+## Funksiya qanday ishlaydi
 
-Фильтры сохраняются отдельно для каждого раздела.
+- siz istalgan bo‘limda filtrlarni sozlaysiz;
+- boshqa bo‘limga o‘tasiz;
+- qaytganingizda filtrlar avvalgidek saqlanib qoladi.
 
-:::warning Важно
+Filtrlar har bir bo‘lim uchun alohida saqlanadi.
 
-Функция не применяется к отчетам. Фильтры в отчетах не сохраняются и сбрасываются при повторном открытии.
+:::warning Muhim
+
+Ushbu funksiya hisobotlarga tatbiq etilmaydi. Hisobotlardagi filtrlar saqlanmaydi va qayta ochilganda bekor qilinadi.
 :::
 
-## Когда полезно использовать функцию
+## Funksiya qachon foydali
 
-Функция особенно полезна, если:
+Ushbu funksiya ayniqsa quyidagi holatlarda foydali:
 
-- вы регулярно работаете с одними и теми же фильтрами;
-- в системе большой объем данных;
-- важно быстро возвращаться к нужной выборке;
-- сотрудники часто переключаются между разделами;
-- требуется экономить время при работе с документами и справочниками.
+- siz muntazam ravishda bir xil filtrlar bilan ishlasangiz;
+- tizimda ma’lumotlar hajmi katta bo‘lsa;
+- kerakli tanlovga tez qaytish muhim bo‘lsa;
+- xodimlar bo‘limlar o‘rtasida tez-tez almashib ishlasa;
+- hujjatlar va ma’lumotnomalar bilan ishlashda vaqtni tejash talab qilinsa.
 
-## Как включить функцию
+## Funksiyani qanday yoqish mumkin
 
-1. Откройте **Настройки** на левой панели.  
-2. Перейдите в раздел **Настройки организации**.  
-3. Откройте вкладку **Функционал**.  
-4. Найдите параметр **Запоминать последний примененный фильтр** и нажмите на иконку **карандаша**.  
-5. Выберите значение **Да**.  
-6. Нажмите на **галочку**, чтобы сохранить изменения.
+1. Chap panelda **Sozlamalar** bo‘limiga o‘ting.
+2. Sozlamalarda **Korxona Sozlamalari** bo‘limini oching.
+3. **Funksional** bo‘limiga o‘ting.
+4. **Hujjatlarni faqat asosiy o'lchov birligida yaratish** parametrini toping va o‘ng tomondagi **qalam** belgisini bosing.
+5. **Ha** variantini tanlang.
+6. O‘zgarishlarni saqlash uchun **ko‘k belgi (✓)** tugmasini bosing.
