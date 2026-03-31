@@ -21,5 +21,9 @@
   "previous": {
     "title": "Фабрика",
     "permalink": "/uz/docs/functionality/factory/"
+  },
+  "next": {
+    "title": "Сборка с техкартой",
+    "permalink": "/uz/docs/functionality/factory/template-assembly"
   }
 }

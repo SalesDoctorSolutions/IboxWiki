@@ -291,6 +291,7 @@ module.exports = {
       items: [    
         'functionality/factory/factory',
         'functionality/factory/assembly-templates',
+        'functionality/factory/template-assembly',
 
       ],
       },

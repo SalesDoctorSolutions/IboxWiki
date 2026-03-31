@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/factory/template-assembly",
+              "path": "/uz/docs/functionality/factory/template-assembly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/finance/multi-currency",
               "path": "/uz/docs/functionality/finance/multi-currency",
               "sidebar": "tutorialSidebar"
