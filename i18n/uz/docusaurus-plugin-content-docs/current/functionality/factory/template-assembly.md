@@ -1,76 +1,79 @@
 ---
 id: template-assembly
-title: Сборка с техкартой
-sidebar_label: Сборка с техкартой
+title: Texnologiya andazasi bo‘yicha yig‘ish
+sidebar_label: Texnologiya andazasi bo‘yicha yig‘ish
 sidebar_position: 3
 ---
 
-## Перед началом работы
+# Texnologiya andazasi bo‘yicha yig‘ish
 
-Убедитесь, что:
+## Ishni boshlashdan oldin
 
-- Техкарта создана — например, Сухая строительная смесь М150  
-- Все материалы из техкарты есть на складе   
+Quyidagilarga ishonch hosil qiling:
 
-## Как создать сборку по техкарте
+- Texnologiya andazasi yaratilgan — masalan, **M150 quruq qurilish aralashmasi**;  
+- Texnologiya andazasidagi barcha materiallar omborda mavjud.  
 
-1. Откройте раздел **Фабрика → Сборки**
-2. Нажмите **Сборка**
-3. В поле **Техкарта** выберите нужную — например, Сухая строительная смесь М150  
+## Texnologiya andazasi bo‘yicha yig‘ishni qanday yaratish mumkin
 
-После выбора техкарты система автоматически заполнит состав: сырье, нормы и готовую продукцию.
+1. **Fabrika → Yig‘ishlar** bo‘limini oching.  
+2. **Yig‘ish** tugmasini bosing.  
+3. **Texnologiya andazasi** maydonida keraklisini tanlang — masalan, **M150 quruq qurilish aralashmasi**.  
 
-4. Укажите **Объем сборки**  
-5. Выберите склады:
-   - **Склад готовой продукции**
-   - **Склад сырья**
+Texnologiya andazasi tanlangandan so‘ng tizim tarkibni avtomatik to‘ldiradi: xom ahyo, me’yorlar va tayyor mahsulot.
 
-6. Проверьте данные:
+4. **Ishlab chiqarish hajmi**ni ko‘rsating.  
+5. Omborlarni tanlang:
+   - **Tayyor mahsulot ombori**
+   - **Xom ahyo ombori**
 
-   - В блоке **Готовая продукция** — название, количество, доля себестоимости  
-   - В блоке **Сырье** — материалы и нормы расхода  
+6. Ma’lumotlarni tekshiring:
 
-7. Нажмите **Сохранить**
+   - **Tayyor mahsulot** blokida — nomi, miqdori, tannarx ulushi  
+   - **Xom ahyo** blokida — materiallar va sarf me’yorlari  
+
+7. **Saqlash** tugmasini bosing.  
 
 ---
 
-:::warning Важно
-Не изменяйте количество вручную в блоке **Готовая продукция**.
+:::warning Muhim
+**Tayyor mahsulot** blokida miqdorni qo‘lda o‘zgartirmang.
 
-В этом случае:
-- Сырье спишется некорректно  
-- Себестоимость будет занижена  
-- Отчеты покажут неверные данные  
+Aks holda:
+- xom ahyo noto‘g‘ri hisobdan chiqariladi;  
+- tannarx past hisoblanadi;  
+- hisobotlarda noto‘g‘ri ma’lumotlar ko‘rsatiladi.  
 :::
 
 ---
 
-## Результат
+## Natija
 
-Система создаст документ сборки:
+Tizim yig‘ish hujjatini yaratadi:
 
-- Спишет материалы со склада сырья  
-- Оприходует готовую продукцию на выбранный склад  
-- Рассчитает себестоимость на основе техкарты  
+- materiallarni xom ahyo omboridan hisobdan chiqaradi;  
+- tayyor mahsulotni tanlangan omborga kirim qiladi;  
+- tannarxni Texnologiya andazasi asosida hisoblaydi.  
 
 ---
 
-## Объем сборки: как изменить количество продукции
+## Ishlab chiqarish hajmi: mahsulot miqdorini qanday o‘zgartirish mumkin
 
-Поле **Объем сборки** задает, во сколько раз увеличить или уменьшить выпуск продукции по техкарте.
+**Ishlab chiqarish hajmi** maydoni Texnologiya andazasi bo‘yicha mahsulot ishlab chiqarish hajmini necha marta oshirish yoki kamaytirishni belgilaydi.
 
-Система автоматически:
-- Пересчитывает количество готовой продукции  
-- Масштабирует расход сырья  
-- Рассчитывает себестоимость пропорционально  
+Tizim avtomatik ravishda:
 
-Например, если в техкарте указан 1 набор, а вы задаете объем сборки = 2,  
-система создаст 2 набора и спишет в 2 раза больше материалов.
+- tayyor mahsulot miqdorini qayta hisoblaydi;  
+- xom ahyo sarfini mos ravishda o‘zgartiradi;  
+- tannarxni proporsional ravishda hisoblaydi.  
 
-### Как правильно изменить объем
+Masalan, agar Texnologiya andazasida **1 to‘plam** ko‘rsatilgan bo‘lsa va siz **Ishlab chiqarish hajmi = 2** deb kiritsangiz,  
+tizim **2 ta to‘plam** yaratadi va **2 baravar ko‘p material** hisobdan chiqaradi.
 
-1. Откройте раздел **Фабрика → Сборки**
-2. Выберите техкарту
-3. Укажите значение в поле **Объем сборки**
-4. Проверьте, что данные в блоках **Готовая продукция** и **Сырье** пересчитались автоматически
-5. Нажмите **Сохранить**
+### Hajmni to‘g‘ri o‘zgartirish tartibi
+
+1. **Fabrika → Yig‘ishlar** bo‘limini oching.  
+2. Texnologiya andazasini tanlang.  
+3. **Ishlab chiqarish hajmi** maydoniga kerakli qiymatni kiriting.  
+4. **Tayyor mahsulot** va **Xom ahyo** bloklaridagi ma’lumotlar avtomatik qayta hisoblanganini tekshiring.  
+5. **Saqlash** tugmasini bosing.  
