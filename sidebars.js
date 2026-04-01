@@ -296,6 +296,14 @@ module.exports = {
         'functionality/factory/cost-share',
       ],
       },
+      {
+      type: 'category',
+      label: '5.8. CRM',
+      items: [    
+        'functionality/crm/deals',
+
+      ],
+      },
       ],
     },
   ],

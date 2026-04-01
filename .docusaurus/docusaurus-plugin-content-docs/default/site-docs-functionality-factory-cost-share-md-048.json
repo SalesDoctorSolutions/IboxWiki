@@ -21,5 +21,9 @@
   "previous": {
     "title": "Сборка без техкарты",
     "permalink": "/docs/functionality/factory/manual-assembly"
+  },
+  "next": {
+    "title": "Сделки",
+    "permalink": "/docs/functionality/crm/deals"
   }
 }

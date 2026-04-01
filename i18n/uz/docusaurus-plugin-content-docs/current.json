@@ -118,5 +118,9 @@
   "sidebar.tutorialSidebar.category.5.7. Фабрика": {
     "message": "5.7. Fabrika",
     "description": "The label for category 5.7. Фабрика in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5.8. CRM": {
+    "message": "5.8. CRM",
+    "description": "The label for category 5.8. CRM in sidebar tutorialSidebar"
   }
 }

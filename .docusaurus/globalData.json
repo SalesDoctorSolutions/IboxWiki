@@ -11,6 +11,11 @@
           "mainDocId": "overview/product-overview",
           "docs": [
             {
+              "id": "functionality/crm/deals",
+              "path": "/uz/docs/functionality/crm/deals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/factory/assembly-templates",
               "path": "/uz/docs/functionality/factory/assembly-templates",
               "sidebar": "tutorialSidebar"

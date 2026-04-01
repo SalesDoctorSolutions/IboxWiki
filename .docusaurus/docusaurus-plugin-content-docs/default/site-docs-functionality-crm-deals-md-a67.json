@@ -1,0 +1,25 @@
+{
+  "id": "functionality/crm/deals",
+  "title": "Сделки",
+  "description": "Раздел Сделки помогает управлять продажами и контролировать работу с клиентами на всех этапах воронки.",
+  "source": "@site/docs/functionality/crm/deals.md",
+  "sourceDirName": "functionality/crm",
+  "slug": "/functionality/crm/deals",
+  "permalink": "/uz/docs/functionality/crm/deals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "deals",
+    "title": "Сделки",
+    "sidebar_label": "Сделки",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tannarxni taqsimlash",
+    "permalink": "/uz/docs/functionality/factory/cost-share"
+  }
+}
