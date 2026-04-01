@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/factory/cost-share",
+              "path": "/uz/docs/functionality/factory/cost-share",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/factory/factory",
               "path": "/uz/docs/functionality/factory/",
               "sidebar": "tutorialSidebar"

@@ -293,7 +293,7 @@ module.exports = {
         'functionality/factory/assembly-templates',
         'functionality/factory/template-assembly',
         'functionality/factory/manual-assembly',
-
+        'functionality/factory/cost-share',
       ],
       },
       ],

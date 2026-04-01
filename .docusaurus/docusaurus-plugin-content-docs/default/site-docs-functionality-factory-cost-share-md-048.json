@@ -1,0 +1,25 @@
+{
+  "id": "functionality/factory/cost-share",
+  "title": "Распределение себестоимости",
+  "description": "Распределение себестоимости сырья",
+  "source": "@site/docs/functionality/factory/cost-share.md",
+  "sourceDirName": "functionality/factory",
+  "slug": "/functionality/factory/cost-share",
+  "permalink": "/uz/docs/functionality/factory/cost-share",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "cost-share",
+    "title": "Распределение себестоимости",
+    "sidebar_label": "Распределение себестоимости",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сборка без техкарты",
+    "permalink": "/uz/docs/functionality/factory/manual-assembly"
+  }
+}
