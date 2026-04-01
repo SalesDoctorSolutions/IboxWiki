@@ -1,85 +1,100 @@
 ---
 id: cost-share
-title: Распределение себестоимости
-sidebar_label: Распределение себестоимости
+title: Tannarxni taqsimlash
+sidebar_label: Tannarxni taqsimlash
 sidebar_position: 5
 ---
 
-## Распределение себестоимости сырья
+# Tannarxni taqsimlash
 
-При сборке в модуле **Фабрика** система рассчитывает себестоимость готовой продукции на основе стоимости сырья.
+## Xom ashyo tannarxini taqsimlash
 
-Если в сборке несколько готовых товаров, система по умолчанию делит себестоимость поровну между ними.
+**Fabrika** modulida yig‘ish jarayonida tizim tayyor mahsulot tannarxini xom ashyo qiymati asosida hisoblaydi.
 
-Если продукты отличаются по объему или ценности, задайте долю себестоимости вручную — в процентах.
+Agar yig‘ishda bir nechta tayyor mahsulot bo‘lsa, tizim sukut bo‘yicha tannarxni mahsulot miqdoriga mutanosib ravishda taqsimlaydi.
+
+Agar mahsulotlar qiymati bo‘yicha farq qilsa, tannarx ulushini foizlarda qo‘lda belgilang.
 
 ---
 
-## Когда задавать доли себестоимости
+## Qachon tannarx ulushlarini ko‘rsatish kerak
 
-Укажите доли, если:
+Quyidagi holatlarda ulushlarni ko‘rsating:
 
-- Из одного сырья получается несколько продуктов  
-- Продукты отличаются по количеству или ценности  
+- bir xil xom ashyodan bir nechta mahsulot olinadigan bo‘lsa;  
+- mahsulotlar turli qiymatga ega bo‘lsa;  
+- har bir mahsulot tannarxini boshqarish talab qilinsa.  
 
-Если готовый продукт один, не заполняйте поле **Доля себестоимости** — система автоматически установит 100 %.
+Agar tayyor mahsulot bitta bo‘lsa, **Tannarx ulushi** maydonini to‘ldirmang — tizim avtomatik ravishda **100 %** belgilaydi.
 
-:::info Информация
-- Если доли не заданы — система распределяет себестоимость поровну  
-- Если доли указаны — система использует их вместо автоматического расчета  
-- Сумма долей должна быть равна 100 %  
+:::info Ma’lumot
+- Agar ulushlar ko‘rsatilmagan bo‘lsa — tannarx mahsulot miqdoriga qarab taqsimlanadi.  
+- Agar ulushlar ko‘rsatilgan bo‘lsa — tizim avtomatik hisob o‘rniga shu qiymatlardan foydalanadi.  
+- Ulushlar yig‘indisi **100 %** bo‘lishi kerak.  
 :::
 
 ---
 
-## Пример: сухая смесь и цементный раствор
+## Misol: beton va trotuar plitalari
 
-Из одной партии цементной смеси получают:
+Bir partiya xom ashyodan quyidagilar olinadi:
 
-- Сухая смесь М150 — 30 мешков  
-- Цементный раствор — 20 мешков  
+- **M200 beton** — 1 m³  
+- **Trotuar plitalari** — 100 dona  
 
-Эти продукты отличаются по назначению и ценности, поэтому себестоимость нужно распределить не поровну.
+Xom ashyoning umumiy tannarxi — **1 000**  
+
+Agar ulushlar ko‘rsatilmasa, tizim tannarxni mahsulot miqdoriga qarab taqsimlaydi.  
+Bu holda tannarxning katta qismi trotuar plitalariga to‘g‘ri keladi, chunki ularning soni ko‘proq.
+
+Lekin beton va plitalar qiymati bo‘yicha farq qiladi, shuning uchun taqsimotni qo‘lda belgilash kerak.
+
+Masalan:
+
+- **M200 beton** — 70 %  
+- **Trotuar plitalari** — 30 %  
+
+Bunday taqsimot mahsulotlarning haqiqiy qiymatini to‘g‘riroq aks ettiradi.
 
 ---
 
-## Как указать доли себестоимости
+## Tannarx ulushlarini qanday ko‘rsatish mumkin
 
-1. Откройте раздел **Фабрика → Сборки**
-2. Нажмите **Сборка**
+1. **Fabrika → Yig‘ishlar** bo‘limini oching.  
+2. **Yig‘ish** tugmasini bosing.  
 
-3. В блоке **Готовая продукция** добавьте товары:
+3. **Tayyor mahsulot** blokida mahsulotlarni qo‘shing:
 
-- Сухая смесь М150 — 30 мешков  
-- Цементный раствор — 20 мешков  
+- **M200 beton** — 1 m³  
+- **Trotuar plitalari** — 100 dona  
 
-4. В колонке **Доля себестоимости** укажите:
+4. **Tannarx ulushi** ustunida quyidagilarni ko‘rsating:
 
-- Сухая смесь М150 — 60 %  
-- Цементный раствор — 40 %  
+- **M200 beton** — 70 %  
+- **Trotuar plitalari** — 30 %  
 
-5. В блоке **Сырье** добавьте материал:
+5. **Xom ashyo** blokida materiallarni qo‘shing:
 
-- Цементная смесь — 50 мешков  
+- sement, qum, shag‘al — me’yor bo‘yicha  
 
-6. Проверьте склады списания и поступления
+6. Tayyor mahsulot va xom ashyo omborlarini tekshiring.  
 
-7. Нажмите **Сохранить**
+7. **Saqlash** tugmasini bosing.  
 
-:::tip Совет
-Задайте доли себестоимости в техкарте, если используете один и тот же состав регулярно.
+:::tip Maslahat
+Agar siz bir xil tarkibdan muntazam foydalansangiz, tannarx ulushlarini texnologiya andazalarda oldindan belgilang.
 
-Это позволит не вводить значения вручную при каждой сборке.
+Bu har safar yig‘ish paytida qiymatlarni qo‘lda kiritmaslikka yordam beradi.
 :::
 
 ---
 
-## Как система рассчитывает себестоимость
+## Tizim tannarxni qanday hisoblaydi
 
-Система выполняет расчет автоматически:
+Tizim hisob-kitobni avtomatik bajaradi:
 
-- Суммирует стоимость всего сырья  
-- Распределяет сумму по долям  
-- Делит стоимость каждого продукта на его количество  
+- barcha xom ashyo qiymatini jamlaydi;  
+- umumiy summani ulushlar bo‘yicha yoki mahsulot miqdoriga qarab taqsimlaydi;  
+- har bir mahsulot qiymatini uning miqdoriga bo‘ladi.  
 
-В результате система рассчитывает себестоимость каждой позиции отдельно.
+Natijada har bir pozitsiya o‘zining bir birlik uchun tannarxiga ega bo‘ladi.
