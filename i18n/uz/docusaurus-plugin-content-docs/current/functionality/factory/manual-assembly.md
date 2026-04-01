@@ -1,89 +1,91 @@
 ---
 id: manual-assembly
-title: Сборка без техкарты
-sidebar_label: Сборка без техкарты
+title: Texnologiya andazasiz yig‘ish
+sidebar_label: Texnologiya andazasiz yig‘ish
 sidebar_position: 4
 ---
 
-## Когда использовать ручную сборку
+# Texnologiya andazasiz yig‘ish
 
-Используйте ручную сборку, если:
+## Qo‘lda yig‘ishni qachon ishlatish kerak
 
-- Выполняете разовую операцию без шаблона — например, формируете комплект стройматериалов под заказ  
-- Состав и количество материалов меняются каждый раз  
-- Техкарта еще не создана  
+Quyidagi holatlarda qo‘lda yig‘ishdan foydalaning:
 
-Например, нужно собрать комплект для ремонта, который включает:
+- shablonsiz bir martalik operatsiyani bajarayotgan bo‘lsangiz — masalan, buyurtma asosida qurilish xom ashyolari to‘plamini shakllantirsangiz;  
+- xom ashyolar tarkibi va miqdori har safar o‘zgarib tursa;  
+- texnologiya andazasi hali yaratilmagan bo‘lsa.  
 
-- **Готовая продукция**:
-  - Набор для отделки стен  
-- **Сырье**:
-  - Гипсовая шпаклевка  
-  - Грунтовка  
-  - Малярная сетка  
+Masalan, quyidagi tarkibdagi ta’mirlash to‘plamini yig‘ish kerak bo‘lsa:
 
-:::warning Важно
-Все материалы должны находиться на одном складе.
+- **Tayyor mahsulot**:
+  - devor pardozlash to‘plami  
+- **Xom ashyo**:
+  - gipsli shpaklyovka  
+  - gruntovka  
+  - bo‘yoqchilik to‘ri  
 
-Если часть товаров находится на другом складе — переместите их заранее.
+:::warning Muhim
+Barcha xom ashyolar bitta omborda bo‘lishi kerak.
+
+Agar mahsulotlarning bir qismi boshqa omborda bo‘lsa — ularni oldindan ko‘chiring.
 :::
 
-## Как создать сборку вручную
+## Qo‘lda yig‘ishni qanday yaratish mumkin
 
-1. Откройте раздел **Фабрика → Сборки**
-2. Нажмите **Сборка**
+1. **Fabrika → Yig‘ishlar** bo‘limini oching.  
+2. **Yig‘ish** tugmasini bosing.  
 
-3. Укажите склады:
+3. Omborlarni tanlang:
 
-- **Склад сырья** — откуда спишутся материалы  
-- **Склад готовой продукции** — куда поступит комплект  
+- **Xom ashyo ombori** — xom ashyolar qayerdan hisobdan chiqariladi;  
+- **Tayyor mahsulot ombori** — tayyor to‘plam qayerga kirim qilinadi.  
 
-4. В блоке **Готовая продукция**:
+4. **Tayyor mahsulot** blokida:
 
-- Выберите товар — например, Набор для отделки стен  
-- Укажите количество — например, 10  
+- mahsulotni tanlang — masalan, **Devor pardozlash to‘plami**;  
+- miqdorni ko‘rsating — masalan, **10**.  
 
-5. В блоке **Сырье** добавьте материалы:
+5. **Xom ashyo** blokida xom ashyolarni qo‘shing:
 
-- Гипсовая шпаклевка — 10 мешков  
-- Грунтовка — 10 канистр  
-- Малярная сетка — 10 рулонов  
+- gipsli shpaklyovka — **10 qop**;  
+- gruntovka — **10 kanistra**;  
+- bo‘yoqchilik to‘ri — **10 rulon**.  
 
-Проверьте, что все материалы есть на выбранном складе.
+Barcha xom ashyolar tanlangan omborda mavjudligini tekshiring.
 
-6. Нажмите **Сохранить**
+6. **Saqlash** tugmasini bosing.  
 
-:::info Информация
-Поле **Объем сборки** в ручной сборке не используется.
+:::info Ma’lumot
+Qo‘lda yig‘ishda **Yig‘ish hajmi** maydoni ishlatilmaydi.
 
-Указывайте количество напрямую в блоках **Готовая продукция** и **Сырье**.
+Miqdorni to‘g‘ridan-to‘g‘ri **Tayyor mahsulot** va **Xom ashyo** bloklarida ko‘rsating.
 :::
 
-## Результат
+## Natija
 
-После сохранения:
+Saqlangandan so‘ng:
 
-- Система спишет материалы со склада сырья  
-- Оприходует готовый комплект на склад  
-- Рассчитает себестоимость на основе использованных материалов  
+- tizim materiallarni xom ashyo omboridan hisobdan chiqaradi;  
+- tayyor to‘plamni tayyor mahsulot omboriga kirim qiladi;  
+- ishlatilgan xom ashyolar asosida tannarxni hisoblaydi.  
 
-:::info Информация
-Себестоимость  готовой продукции рассчитывается автоматически на основе общей себестоимости сырья. При необходимости заполните долю себестоимости для готовой продукции. 
+:::info Ma’lumot
+Tayyor mahsulot tannarxi xom ashyoning umumiy tannarxi asosida avtomatik hisoblanadi. Zarur bo‘lsa, tayyor mahsulot uchun tannarx ulushini ko‘rsating.
 :::
 
 ---
 
-## Разница между ручной сборкой и сборкой по техкарте
+## Qo‘lda yig‘ish va Texnologiya andazasi bo‘yicha yig‘ish o‘rtasidagi farq
 
-| Параметр | Ручная сборка | Сборка по техкарте |
-|----------|----------------|-------------------|
-| **Создание** | Заполняете вручную каждый раз | Используется готовый шаблон |
-| **Когда использовать** | Разовые операции | Регулярное производство |
-| **Гибкость** | Любой состав и количество | Фиксированные нормы |
-| **Пример** | Комплект для ремонта (разный состав) | Бетонная смесь М200 (стабильный состав) |
+| Parametr | Qo‘lda yig‘ish | Texnologiya andazasi bo‘yicha yig‘ish |
+|----------|----------------|-----------------------------------|
+| **Yaratish** | Har safar qo‘lda to‘ldiriladi | Tayyor shablon ishlatiladi |
+| **Qachon ishlatiladi** | Bir martalik operatsiyalar uchun | Muntazam ishlab chiqarish uchun |
+| **Moslashuvchanlik** | Istalgan tarkib va miqdor | Belgilangan me’yorlar |
+| **Misol** | Ta’mirlash to‘plami (tarkibi o‘zgaradi) | M200 beton aralashmasi (barqaror tarkib) |
 
-:::tip
-Если вы регулярно собираете одинаковые комплекты — создайте техкарту.
+:::tip Maslahat
+Agar siz bir xil to‘plamlarni muntazam yig‘sangiz — Texnologiya andazasi yarating.
 
-Система будет автоматически подставлять материалы, нормы и рассчитывать себестоимость.
+Tizim xom ashyolar, me’yorlar va tannarxni avtomatik hisoblab beradi.
 :::
