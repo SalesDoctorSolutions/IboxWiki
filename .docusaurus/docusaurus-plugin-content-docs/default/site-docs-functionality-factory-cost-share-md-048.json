@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/factory/cost-share.md",
   "sourceDirName": "functionality/factory",
   "slug": "/functionality/factory/cost-share",
-  "permalink": "/uz/docs/functionality/factory/cost-share",
+  "permalink": "/docs/functionality/factory/cost-share",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Сборка без техкарты",
-    "permalink": "/uz/docs/functionality/factory/manual-assembly"
+    "permalink": "/docs/functionality/factory/manual-assembly"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/factory/factory.md",
   "sourceDirName": "functionality/factory",
   "slug": "/functionality/factory/",
-  "permalink": "/uz/docs/functionality/factory/",
+  "permalink": "/docs/functionality/factory/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Belgilardan foydalanish",
-    "permalink": "/uz/docs/functionality/interface/tags"
+    "title": "Использовать метки",
+    "permalink": "/docs/functionality/interface/tags"
   },
   "next": {
     "title": "Техкарта",
-    "permalink": "/uz/docs/functionality/factory/assembly-templates"
+    "permalink": "/docs/functionality/factory/assembly-templates"
   }
 }

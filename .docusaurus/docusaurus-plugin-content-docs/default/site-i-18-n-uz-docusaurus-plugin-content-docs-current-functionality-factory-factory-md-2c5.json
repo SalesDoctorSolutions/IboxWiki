@@ -1,0 +1,29 @@
+{
+  "id": "functionality/factory/factory",
+  "title": "Fabrika",
+  "description": "Fabrika moduli xomashyodan mahsulot ishlab chiqarish, tannarxni hisoblash va ishlab chiqarish operatsiyalarini boshqarish imkonini beradi.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/functionality/factory/factory.md",
+  "sourceDirName": "functionality/factory",
+  "slug": "/functionality/factory/",
+  "permalink": "/uz/docs/functionality/factory/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "factory",
+    "title": "Fabrika",
+    "sidebar_label": "Fabrika",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Belgilardan foydalanish",
+    "permalink": "/uz/docs/functionality/interface/tags"
+  },
+  "next": {
+    "title": "Техкарта",
+    "permalink": "/uz/docs/functionality/factory/assembly-templates"
+  }
+}

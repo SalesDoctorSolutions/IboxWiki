@@ -59,43 +59,43 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'c90'),
+    component: ComponentCreator('/uz/docs', 'c3f'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '351'),
+        component: ComponentCreator('/uz/docs', '52c'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '8fd'),
+            component: ComponentCreator('/uz/docs', '764'),
             routes: [
               {
                 path: '/uz/docs/functionality/factory/',
-                component: ComponentCreator('/uz/docs/functionality/factory/', '82e'),
+                component: ComponentCreator('/uz/docs/functionality/factory/', 'b45'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/factory/assembly-templates',
-                component: ComponentCreator('/uz/docs/functionality/factory/assembly-templates', '47c'),
+                component: ComponentCreator('/uz/docs/functionality/factory/assembly-templates', '042'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/factory/cost-share',
-                component: ComponentCreator('/uz/docs/functionality/factory/cost-share', '455'),
+                component: ComponentCreator('/uz/docs/functionality/factory/cost-share', '50a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/factory/manual-assembly',
-                component: ComponentCreator('/uz/docs/functionality/factory/manual-assembly', '30a'),
+                component: ComponentCreator('/uz/docs/functionality/factory/manual-assembly', 'e52'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/factory/template-assembly',
-                component: ComponentCreator('/uz/docs/functionality/factory/template-assembly', 'c8d'),
+                component: ComponentCreator('/uz/docs/functionality/factory/template-assembly', 'c88'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

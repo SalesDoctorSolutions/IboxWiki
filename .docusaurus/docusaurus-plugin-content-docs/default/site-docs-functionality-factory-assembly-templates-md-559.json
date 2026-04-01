@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/factory/assembly-templates.md",
   "sourceDirName": "functionality/factory",
   "slug": "/functionality/factory/assembly-templates",
-  "permalink": "/uz/docs/functionality/factory/assembly-templates",
+  "permalink": "/docs/functionality/factory/assembly-templates",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Фабрика",
-    "permalink": "/uz/docs/functionality/factory/"
+    "permalink": "/docs/functionality/factory/"
   },
   "next": {
     "title": "Сборка с техкартой",
-    "permalink": "/uz/docs/functionality/factory/template-assembly"
+    "permalink": "/docs/functionality/factory/template-assembly"
   }
 }
