@@ -301,7 +301,7 @@ module.exports = {
       label: '5.8. CRM',
       items: [    
         'functionality/crm/deals',
-
+        'functionality/crm/tasks',
       ],
       },
       ],
