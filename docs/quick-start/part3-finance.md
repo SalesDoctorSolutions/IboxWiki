@@ -2,7 +2,7 @@
 id: part3-finance
 title: "Часть 3. Клиенты, поставщики и балансы"
 sidebar_label: "Часть 3: Клиенты, поставщики и балансы"
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Часть 3. Клиенты, поставщики и балансы

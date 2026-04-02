@@ -2,7 +2,7 @@
 id: part2-products
 title: "Часть 2. Товары, цены и остатки"
 sidebar_label: "Часть 2: Товары, цены и остатки"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Часть 2. Товары, цены и остатки

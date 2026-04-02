@@ -2,7 +2,7 @@
 id: part1-setup
 title: "Часть 1. Настройка"
 sidebar_label: "Часть 1: Настройка"
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Часть 1. Настройка
 ## Настройка рабочего пространства
