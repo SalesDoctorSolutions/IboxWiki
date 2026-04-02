@@ -1,104 +1,104 @@
 ---
 id: deals
-title: Сделки
-sidebar_label: Сделки
+title: Bitimlar
+sidebar_label: Bitimlar
 sidebar_position: 2
 ---
 
-Раздел **Сделки** помогает управлять продажами и контролировать работу с клиентами на всех этапах воронки.
+**Bitimlar** bo‘limi savdolarni boshqarish va mijozlar bilan ishlashni voronkaning barcha bosqichlarida nazorat qilishga yordam beradi.
 
-Сделка — это потенциальная продажа, которая проходит через последовательные этапы: от первого контакта до завершения.
+Bitim — bu birinchi aloqadan yakunlashgacha ketma-ket bosqichlardan o‘tadigan potensial savdo.
 
-## Что содержит сделка
+## Bitim nimalarni o‘z ichiga oladi
 
-В сделке указываются:
+Bitimda quyidagilar ko‘rsatiladi:
 
-- клиент;
-- ответственный сотрудник;
-- ориентировочная сумма и валюта;
-- название сделки;
-- текущий этап;
-- история взаимодействий.
+- mijoz;
+- mas’ul shaxs;
+- bitimning taxminiy summa va valyutasi;
+- bitim nomi;
+- bitim bosqichi;
+- o‘zaro aloqalar tarixi.
 
 ---
 
-:::info Информация
-Сделки отображаются в виде воронки — в колонках по этапам.
+:::info Ma’lumot
+Bitimlar voronka ko‘rinishida — bosqichlar bo‘yicha ustunlarda aks ettiriladi.
 
-Каждый этап — это отдельная колонка. Вы можете настраивать этапы под свои процессы.
+Har bir bosqich — bu alohida ustun. Siz bosqichlarni o‘z jarayonlaringizga moslab sozlashingiz mumkin.
 :::
 
 ---
 
-## Когда полезно использовать сделки
+## Qachon bitimlardan foydalanish foydali
 
-Раздел особенно полезен, если:
+Bo‘lim ayniqsa quyidagi holatlarda foydali:
 
-- вы ведете продажи по этапам;
-- нужно контролировать работу менеджеров;
-- важно отслеживать статус каждой сделки;
-- требуется фиксировать взаимодействие с клиентами;
-- вы анализируете конверсию и эффективность продаж.
+- savdolarni bosqichlar bo‘yicha yuritsangiz;
+- menejerlar ishini nazorat qilish kerak bo‘lsa;
+- har bir bitim holatini kuzatib borish muhim bo‘lsa;
+- mijoz bilan o‘zaro aloqalarni qayd etish talab qilinsa;
+- konversiya va savdo samaradorligini tahlil qilsangiz.
 
-## Как создать сделку
+## Bitimni qanday yaratish
 
-1. Нажмите **Плюс Сделка**.  
-2. Заполните данные:
-   - выберите клиента;  
-   - укажите ответственного сотрудника;  
-   - укажите сумму и валюту;  
-   - введите название сделки;  
-   - выберите этап.  
-3. Нажмите **Сохранить**.
+1. **Plyus Bitim** tugmasini bosing.  
+2. Ma’lumotlarni to‘ldiring:
+   - mijozni tanlang;  
+   - mas’ul shaxsni ko‘rsating;  
+   - bitimning taxminiy summasi va valyutasini kiriting;  
+   - bitim nomini kiriting;  
+   - bosqichni tanlang.  
+3. **Saqlash** tugmasini bosing.
 
-Сделка появится в соответствующей колонке воронки.
+Bitim voronkaning mos ustunida paydo bo‘ladi.
 
-## Работа со сделкой
+## Bitim bilan ishlash
 
-Чтобы открыть сделку, нажмите на ее карточку.
+Bitimni ochish uchun uning kartasini bosing.
 
-Внутри сделки доступны следующие вкладки:
+Bitim ichida quyidagi ichki bo‘limlar mavjud:
 
-- **Заметки** — добавляйте заметки и прикрепляйте файлы. Все записи сохраняются в истории заметок;
-- **Задачи** — создавайте и отслеживайте задачи по сделке;
-- **Документы** — создавайте связанные документы, например, заказы и отгрузки.
+- **Qaydlar** — qaydlar qo‘shing va fayllarni biriktiring. Barcha yozuvlar qaydlar tarixida saqlanadi;
+- **Vazifalar** — bitim bo‘yicha vazifalar yarating va kuzatib boring;
+- **Hujjatlar** — bog‘liq hujjatlarni yarating, masalan, buyurtmalar va sotuvlar.
 
-Это позволяет вести всю работу по сделке в одном месте.
+Bu bitim bo‘yicha barcha ishlarni bitta joyda yuritishga yordam beradi.
 
 ---
 
-:::tip Совет
-Регулярно обновляйте этап сделки и фиксируйте взаимодействия с клиентом — это помогает контролировать процесс и повышать конверсию.
+:::tip Maslahat
+Bitim bosqichini muntazam yangilab boring va mijoz bilan o‘zaro aloqalarni qayd eting — bu jarayonni nazorat qilish va konversiyani oshirishga yordam beradi.
 :::
 
 ---
 
-:::info Информация
-Чтобы изменить этап сделки, перетащите карточку в нужную колонку или измените в карточке сделки.
+:::info Ma’lumot
+Bitim bosqichini o‘zgartirish uchun kartani kerakli ustunga sudrab o‘tkazing yoki bitim kartasi ichida bosqichni o‘zgartiring.
 :::
 
 ---
 
-## Статусы сделок
+## Bitim statuslari
 
-Статусы определяют этапы воронки и отображаются в виде колонок.
+Statuslar voronka bosqichlarini belgilaydi va ustunlar ko‘rinishida aks ettiriladi.
 
-### Как создать статус
+### Statusni qanday qo'shish
 
-1. Откройте **CRM → Сделки**.  
-2. Нажмите **Плюс Сделка**.  
-3. В поле **Статус** выберите **Создать**.  
-4. Укажите:
-   - название статуса;  
-   - тип — в процессе или завершен.  
-5. Нажмите **Сохранить**.
+1. **CRM → Bitimlar** bo‘limini oching.  
+2. **Plyus Bitim** tugmasini bosing.  
+3. **Status** maydonida **Qo'shish** ni tanlang.  
+4. Quyidagilarni ko‘rsating:
+   - status nomi;  
+   - turi — jarayonda yoki yakunlangan.  
+5. **Saqlash** tugmasini bosing.
 
-### Как редактировать или удалить статус
+### Statusni qanday tahrirlash yoki o‘chirish
 
-1. Откройте **CRM → Сделки**.  
-2. Нажмите **Плюс Сделка**.  
-3. В поле **Статус** нажмите на иконку **шестеренки**.  
-4. Выберите статус и выполните действие:
-   - нажмите **карандаш**, чтобы изменить;
-   - нажмите **корзину**, чтобы удалить.  
-5. Сохраните изменения или подтвердите удаление.
+1. **CRM → Bitimlar** bo‘limini oching.  
+2. **Plyus Bitim** tugmasini bosing.  
+3. **Status** maydonida **sozlamalar** belgisini bosing.  
+4. Statusni tanlang va amalni bajaring:
+   - o‘zgartirish uchun **qalam** belgisini bosing;
+   - o‘chirish uchun **savat** belgisini bosing.  
+5. O‘zgarishlarni saqlang yoki o‘chirishni tasdiqlang.
