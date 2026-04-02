@@ -23,13 +23,17 @@ Hisobot mijozlar bilan savdo munosabatlarini tahlil qilish va sotuv hajmidagi o�
 
 ## Ma’lumotlarni qanday talqin qilish kerak
 
-Jadvaldagi qiymatlar foizlarda ko‘rsatiladi.
+Hisobotdagi barcha qiymatlar foizlarda ko‘rsatiladi.
 
-- **100%** — mijoz bo‘yicha eng katta sotuv summasi bo‘lgan oy. Bu savdo munosabatlarining eng yuqori nuqtasi.
-- Qolgan oylar shu maksimal qiymatga nisbatan foizlarda hisoblanadi.
-- **0%** — bu oyda mijoz xarid qilmagan.
+- **100%** — mijoz bo‘yicha eng yuqori savdo hajmi bo‘lgan oy (faollik cho‘qqisi);  
+- **0%** — eng past savdo hajmi bo‘lgan oy;  
+- qolgan qiymatlar minimal va maksimal ko‘rsatkichlar orasidagi nisbiy savdo darajasini ko‘rsatadi.
 
-Agar **0%** qiymati ketma-ket bir necha oy davom etsa, bu mijozning ketishini ko‘rsatishi mumkin.
+Soddaroq aytganda, tizim har bir oyni mijozning eng past va eng yuqori oy ko‘rsatkichlari bilan taqqoslaydi va joriy oy maksimal qiymatga qanchalik yaqinligini ko‘rsatadi.
+
+:::info Ma’lumot
+Agar **0%** qiymati bir necha oy davomida ketma-ket saqlanib qolsa, bu faollik pasayganini yoki mijoz yo‘qotilganini ko‘rsatishi mumkin.
+:::
 
 ## Qaytishlarni hisobga olish
 
