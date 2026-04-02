@@ -1,87 +1,87 @@
 ---
 id: tasks
-title: Задачи
-sidebar_label: Задачи
+title: Vazifalar
+sidebar_label: Vazifalar
 sidebar_position: 3
 ---
 
-Раздел **Задачи** помогает планировать работу сотрудников и контролировать выполнение задач.
+**Vazifalar** bo‘limi xodimlar ishini rejalashtirish va vazifalarning bajarilishini nazorat qilishga yordam beradi.
 
-Используйте задачи, чтобы управлять действиями команды и не пропускать важные этапы работы с клиентами.
+Vazifalardan jamoa harakatlarini boshqarish va mijozlar bilan ishlashdagi muhim bosqichlarni o‘tkazib yubormaslik uchun foydalaning.
 
-## Что можно делать
+## Nimalar qilish mumkin
 
-В разделе вы можете:
+Bo‘limda siz quyidagilarni qilishingiz mumkin:
 
-- создавать задачи для себя и других сотрудников;
-- назначать исполнителей;
-- устанавливать сроки выполнения;
-- задавать тип и приоритет задачи;
-- прикреплять файлы;
-- отслеживать статус выполнения.
+- o‘zingiz va boshqa xodimlar uchun vazifalar yaratish;
+- bajaruvchilarni tayinlash;
+- bajarish muddatlarini belgilash;
+- vazifa turi va ustuvorligini belgilash;
+- fayllarni biriktirish;
+- bajarilish holatini kuzatish.
 
-## Как создать задачу
+## Vazifani qanday yaratish
 
-1. Откройте **CRM → Задачи**.  
-2. Нажмите **Добавить задачу**.  
-3. Заполните данные:
-   - описание задачи;  
-   - срок выполнения;  
-   - исполнитель;  
-   - тип задачи;  
-   - клиент;  
-   - прикрепите файлы при необходимости.  
-4. Нажмите **Сохранить**.
+1. **CRM → Vazifalar** bo‘limini oching.  
+2. **Vazifa qo‘shish** tugmasini bosing.  
+3. Ma’lumotlarni to‘ldiring:
+   - vazifa matni;  
+   - bajarish muddati;  
+   - bajaruvchi;  
+   - vazifa turi;  
+   - mijoz;  
+   - zarur bo‘lsa, fayllarni biriktiring.  
+4. **Saqlash** tugmasini bosing.
 
-## Как отображаются задачи
+## Vazifalar qanday ko‘rsatiladi
 
-После создания задачи автоматически распределяются по блокам:
+Vazifalar yaratilgandan so‘ng avtomatik ravishda quyidagi bloklarga taqsimlanadi:
 
-- **На сегодня** — задачи с текущей датой;
-- **На завтра**;
-- **На этой неделе**;
-- **На следующей неделе**;
-- **На будущее** — задачи с более поздним сроком;
-- **Просроченные** — если срок выполнения истек;
-- **Выполненные** — завершенные задачи.
+- **Bugungi** — joriy sanali vazifalar;
+- **Ertagi**;
+- **Shu haftadagi**;
+- **Keyingi haftadagi**;
+- **Kelajakdagi** — keyinroq muddatga belgilangan vazifalar;
+- **Muddati o‘tgan** — agar bajarish muddati tugagan bo‘lsa;
+- **Bajarilgan** — yakunlangan vazifalar.
 
-## Как работать с задачами в сделке
+## Bitim ichida vazifalar bilan ishlash
 
-Вы можете создавать задачи прямо из сделки:
+Siz vazifalarni to‘g‘ridan to‘g‘ri bitim ichidan yaratishingiz mumkin:
 
-1. Откройте **CRM → Сделки**.  
-2. Выберите нужную сделку.  
-3. Перейдите во вкладку **Задачи**.  
-4. Создайте новую задачу.
+1. **CRM → Bitimlar** bo‘limini oching.  
+2. Kerakli bitimni tanlang.  
+3. **Vazifalar** ichki bo‘limiga o‘ting.  
+4. Yangi vazifa yarating.
 
-Это помогает связать задачи с конкретной сделкой и контролировать процесс.
+Bu vazifalarni aniq bitim bilan bog‘lash va jarayonni nazorat qilishga yordam beradi.
 
-## Как найти задачу
+## Vazifani qanday topish
 
-1. Откройте **CRM → Задачи**.  
-2. Используйте фильтры в верхней части экрана:
-   - **Исполнитель** — задачи конкретного сотрудника;  
-   - **Тип задачи** — например, звонок или встреча;  
-   - **Статус** — например, в ожидании или выполнена.  
+1. **CRM → Vazifalar** bo‘limini oching.  
+2. Ekranning yuqori qismidagi filtrlardan foydalaning:
+   - **Bajaruvchi** — aniq xodimning vazifalari;  
+   - **Vazifa turi** — masalan, qo‘ng‘iroq yoki uchrashuv;  
+   - **Status** — masalan, kutilmoqda yoki bajarilgan.  
 
-## Типы задач
+## Vazifa turlari
 
-Типы задач помогают классифицировать задачи — например, звонок, встреча или письмо.
+Vazifa turlari vazifalarni tasniflashga yordam beradi — masalan, qo‘ng‘iroq, uchrashuv yoki xat.
 
-### Как создать тип задачи
+### Vazifa turini qanday qo'shish
 
-1. Откройте **CRM → Задачи**.  
-2. Нажмите **Добавить задачу**.  
-3. В поле **Тип задачи** выберите **Создать**.  
-4. Укажите название и цвет.  
-5. Нажмите **Сохранить**.
+1. **CRM → Vazifalar** bo‘limini oching.  
+2. **Vazifa qo‘shish** tugmasini bosing.  
+3. **Vazifa turi** maydonida **Qo'shish** ni tanlang.  
+4. Nomi va rangini ko‘rsating.  
+5. **Saqlash** tugmasini bosing.
 
-### Как редактировать или удалить тип задачи
+### Vazifa turini qanday tahrirlash yoki o‘chirish
 
-1. Откройте **CRM → Задачи**.  
-2. Нажмите **Добавить задачу**.  
-3. В поле **Тип задачи** нажмите на иконку **шестеренки**.  
-4. Выберите тип задачи и выполните действие:
-   - нажмите **карандаш**, чтобы изменить;
-   - нажмите **корзину**, чтобы удалить.  
-5. Сохраните изменения или подтвердите удаление.
+1. **CRM → Vazifalar** bo‘limini oching.  
+2. **Vazifa qo‘shish** tugmasini bosing.  
+3. **Vazifa turi** maydonida **sozlama** belgisini bosing.  
+4. Vazifa turini tanlang va amalni bajaring:
+   - o‘zgartirish uchun **qalam** belgisini bosing;
+   - o‘chirish uchun **savat** belgisini bosing.  
+5. O‘zgarishlarni saqlang yoki o‘chirishni tasdiqlang.

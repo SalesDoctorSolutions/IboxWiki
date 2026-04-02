@@ -97,7 +97,7 @@ Statuslar voronka bosqichlarini belgilaydi va ustunlar ko‘rinishida aks ettiri
 
 1. **CRM → Bitimlar** bo‘limini oching.  
 2. **Plyus Bitim** tugmasini bosing.  
-3. **Status** maydonida **sozlamalar** belgisini bosing.  
+3. **Status** maydonida **sozlama** belgisini bosing.  
 4. Statusni tanlang va amalni bajaring:
    - o‘zgartirish uchun **qalam** belgisini bosing;
    - o‘chirish uchun **savat** belgisini bosing.  
