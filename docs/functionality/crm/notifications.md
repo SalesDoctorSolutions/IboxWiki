@@ -1,69 +1,69 @@
 ---
 id: notifications
-title: Bildirishnomalarni sozlash
-sidebar_label: Bildirishnomalarni sozlash
+title: Настройка уведомлений
+sidebar_label: Настройка уведомлений
 sidebar_position: 4
 ---
 
-Sozlamalardagi **Telegram-bot** bo‘limi CRM’dagi vazifalar bo‘yicha Telegram orqali bildirishnomalar olish imkonini beradi.
+Раздел **Телеграм бот** в настройках позволяет получать уведомления по задачам в CRM через Telegram.
 
-Siz quyidagilarni sozlashingiz mumkin:
+Вы можете настроить:
 
-- vazifalar yaratilgani haqida bildirishnomalar;
-- bajarish muddatlari bo‘yicha eslatmalar;
-- bildirishnomalarni xodimlar, mijozlar va vazifa turlari bo‘yicha filtrlash.
+- уведомления о создании задач;
+- напоминания о сроках выполнения;
+- фильтрацию уведомлений по сотрудникам, клиентам и типам задач.
 
-Bu muhim vazifalarni o‘tkazib yubormaslik va jamoa ishini nazorat qilishga yordam beradi.
+Это помогает не пропускать важные задачи и контролировать работу команды.
 
-:::warning Muhim
+:::warning Важно
 
-Bildirishnomalarni sozlashdan oldin xodimlar uchun Telegram-botni ulang.
+Перед настройкой уведомлений подключите Telegram-бота для сотрудников.
 
-Agar bot sozlanmagan bo‘lsa, avval [yo‘riqnoma](/knowledge/organization-settings/telegram-employee-bot.md) bo‘yicha sozlashni bajaring.
+Если бот не настроен, сначала выполните настройку по [инструкции](/knowledge/organization-settings/telegram-employee-bot.md)
 :::
 
-## Vazifalar yaratilgani haqida bildirishnomalar
+## Уведомления о создании задач
 
-Yangi vazifalar yaratilganda Telegram guruhlariga avtomatik bildirishnoma yuborilishini sozlashingiz mumkin.
+Вы можете настроить автоматическую отправку уведомлений в Telegram-группы при создании новых задач.
 
-### Qanday sozlash kerak
+### Как настроить
 
-1. **Sozlamalar** bo‘limini oching.  
-2. Sozlamalardagi **Telegram-bot** bo‘limiga o‘ting.  
-3. Menedjerlar uchun bot sozlamalarini oching.  
-4. **Vazifalar** ichki bo‘limiga o‘ting.  
-5. Bildirishnomalarni yoqing.  
-6. Shartlarni sozlang:
-   - mas’ul shaxs;  
-   - mijoz;  
-   - vazifa turi;  
-   - vazifa statusi;  
-   - bildirishnoma yuboriladigan Telegram guruhlari.  
-7. Zarur bo‘lsa, qo‘shimcha shartlarni qo‘shing.  
-8. **Saqlash** tugmasini bosing.
+1. Откройте **Настройки**.  
+2. Перейдите в раздел **Telegram-бот** в настройках организации.  
+3. Откройте настройки бота для сотрудников.  
+4. Перейдите на вкладку **Задачи**.  
+5. Включите уведомления.  
+6. Настройте условия:
+   - ответственный сотрудник;  
+   - клиент;  
+   - тип задачи;  
+   - статус задачи;  
+   - Telegram-группы для отправки уведомлений.  
+7. При необходимости добавьте дополнительные условия.  
+8. Нажмите **Сохранить**.
 
-## Bajarish muddatlari bo‘yicha eslatmalar
+## Напоминания о сроках выполнения
 
-Siz vazifalarning bajarish muddatlari bo‘yicha eslatmalarni sozlashingiz mumkin.
+Вы можете настроить напоминания о сроках выполнения задач.
 
-Tizim belgilangan shartlarga qarab Telegram guruhlariga bildirishnomalar yuboradi.
+Система будет отправлять уведомления в Telegram-группы в зависимости от заданных условий.
 
-### Qanday sozlash kerak
+### Как настроить
 
-1. **Sozlamalar** bo‘limini oching.  
-2. **Telegram-bot** bo‘limiga o‘ting.  
-3. Xodimlar uchun bot sozlamalarini oching.  
-4. **Vazifani bajarish muddati** ichki bo‘limiga o‘ting.  
-5. Bildirishnomalarni yoqing.  
-6. Shartlarni sozlang:
-   - mas’ul shaxs;  
-   - mijoz;  
-   - qachon bildirishnoma yuborilsin:
-     - vazifa bajarilish kuni;
-     - muddatdan bir necha kun oldin (10 kungacha);  
-   - vazifa turi;  
-   - yuborish uchun Telegram guruhlari.  
-7. Zarur bo‘lsa, qo‘shimcha shartlarni qo‘shing.  
-8. **Saqlash** tugmasini bosing.
+1. Откройте **Настройки**.  
+2. Перейдите в раздел **Telegram-бот**.  
+3. Откройте настройки бота для сотрудников.  
+4. Перейдите на вкладку **Срок выполнения задачи**.  
+5. Включите уведомления.  
+6. Настройте условия:
+   - ответственный сотрудник;  
+   - клиент;  
+   - когда отправлять уведомление:
+     - в день срока;
+     - за несколько дней до срока (до 10 дней);  
+   - тип задачи;  
+   - Telegram-группы для отправки.  
+7. При необходимости добавьте дополнительные условия.  
+8. Нажмите **Сохранить**.
 
-Bildirishnomalar xodimlarga vazifalarni o‘z vaqtida bajarish va muddatlarni o‘tkazib yubormaslikka yordam beradi.
+Уведомления помогут сотрудникам вовремя выполнять задачи и не пропускать дедлайны.
