@@ -1,0 +1,29 @@
+{
+  "id": "functionality/crm/crm",
+  "title": "Обзор CRM-модуля",
+  "description": "Модуль CRM помогает управлять продажами, контролировать работу с клиентами и координировать задачи сотрудников.",
+  "source": "@site/docs/functionality/crm/crm.md",
+  "sourceDirName": "functionality/crm",
+  "slug": "/functionality/crm/",
+  "permalink": "/uz/docs/functionality/crm/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "crm",
+    "title": "Обзор CRM-модуля",
+    "sidebar_label": "Обзор CRM-модуля",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tannarxni taqsimlash",
+    "permalink": "/uz/docs/functionality/factory/cost-share"
+  },
+  "next": {
+    "title": "Сделки",
+    "permalink": "/uz/docs/functionality/crm/deals"
+  }
+}

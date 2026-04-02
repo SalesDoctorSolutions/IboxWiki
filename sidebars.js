@@ -300,6 +300,7 @@ module.exports = {
       type: 'category',
       label: '5.8. CRM',
       items: [    
+        'functionality/crm/crm',
         'functionality/crm/deals',
         'functionality/crm/tasks',
         'functionality/crm/notifications',  

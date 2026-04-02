@@ -11,6 +11,11 @@
           "mainDocId": "overview/product-overview",
           "docs": [
             {
+              "id": "functionality/crm/crm",
+              "path": "/uz/docs/functionality/crm/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/crm/deals",
               "path": "/uz/docs/functionality/crm/deals",
               "sidebar": "tutorialSidebar"

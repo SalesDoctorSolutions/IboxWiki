@@ -59,16 +59,22 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '297'),
+    component: ComponentCreator('/uz/docs', '45e'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '8b3'),
+        component: ComponentCreator('/uz/docs', '407'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '22c'),
+            component: ComponentCreator('/uz/docs', '2b7'),
             routes: [
+              {
+                path: '/uz/docs/functionality/crm/',
+                component: ComponentCreator('/uz/docs/functionality/crm/', '5f0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/uz/docs/functionality/crm/deals',
                 component: ComponentCreator('/uz/docs/functionality/crm/deals', 'd50'),

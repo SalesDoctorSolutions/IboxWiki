@@ -514,6 +514,9 @@
     "c8343671": [
       8780
     ],
+    "cb51fc67": [
+      2030
+    ],
     "ccc49370": [
       482,
       1137,
@@ -668,9 +671,9 @@
     "457": {
       "js": [
         {
-          "file": "assets/js/a67810e6.494e991b.js",
-          "hash": "9213eeea54f29c7a",
-          "publicPath": "/uz/assets/js/a67810e6.494e991b.js"
+          "file": "assets/js/a67810e6.5a478c09.js",
+          "hash": "bcfa5d696ed5388c",
+          "publicPath": "/uz/assets/js/a67810e6.5a478c09.js"
         }
       ]
     },
@@ -1049,6 +1052,15 @@
           "file": "assets/js/f77a9dc6.9dc5af27.js",
           "hash": "e992ddeebae9551c",
           "publicPath": "/uz/assets/js/f77a9dc6.9dc5af27.js"
+        }
+      ]
+    },
+    "2030": {
+      "js": [
+        {
+          "file": "assets/js/cb51fc67.2d139dc1.js",
+          "hash": "b5756a2198b69d3d",
+          "publicPath": "/uz/assets/js/cb51fc67.2d139dc1.js"
         }
       ]
     },
@@ -1505,9 +1517,9 @@
     "4809": {
       "js": [
         {
-          "file": "assets/js/4809.f9e50faf.js",
-          "hash": "744c215c9d775ee9",
-          "publicPath": "/uz/assets/js/4809.f9e50faf.js"
+          "file": "assets/js/4809.106c456d.js",
+          "hash": "d95151b5be270296",
+          "publicPath": "/uz/assets/js/4809.106c456d.js"
         }
       ]
     },
@@ -1631,9 +1643,9 @@
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.69773290.js",
-          "hash": "e8fbf864c213ff25",
-          "publicPath": "/uz/assets/js/runtime~main.69773290.js"
+          "file": "assets/js/runtime~main.cf7bf623.js",
+          "hash": "b4d4a253e9cc06df",
+          "publicPath": "/uz/assets/js/runtime~main.cf7bf623.js"
         }
       ]
     },
@@ -1996,9 +2008,9 @@
     "8061": {
       "js": [
         {
-          "file": "assets/js/43315e98.5d2bea65.js",
-          "hash": "8699a4c281b4ccdc",
-          "publicPath": "/uz/assets/js/43315e98.5d2bea65.js"
+          "file": "assets/js/43315e98.67783f67.js",
+          "hash": "771755fac38ad072",
+          "publicPath": "/uz/assets/js/43315e98.67783f67.js"
         }
       ]
     },
@@ -2104,18 +2116,18 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.dfb97447.js",
-          "hash": "5d06660698a4e6df",
-          "publicPath": "/uz/assets/js/main.dfb97447.js"
+          "file": "assets/js/main.1a651e71.js",
+          "hash": "8d01ee5518b9b89f",
+          "publicPath": "/uz/assets/js/main.1a651e71.js"
         }
       ]
     },
     "8798": {
       "js": [
         {
-          "file": "assets/js/b2cf732b.1f2d01f9.js",
-          "hash": "baf3dd301d7f71ca",
-          "publicPath": "/uz/assets/js/b2cf732b.1f2d01f9.js"
+          "file": "assets/js/b2cf732b.bc770645.js",
+          "hash": "55fbe39d4bc412c6",
+          "publicPath": "/uz/assets/js/b2cf732b.bc770645.js"
         }
       ]
     },
