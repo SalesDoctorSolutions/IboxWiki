@@ -59,37 +59,37 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '45e'),
+    component: ComponentCreator('/uz/docs', '513'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '407'),
+        component: ComponentCreator('/uz/docs', '284'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '2b7'),
+            component: ComponentCreator('/uz/docs', 'b02'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
-                component: ComponentCreator('/uz/docs/functionality/crm/', '5f0'),
+                component: ComponentCreator('/uz/docs/functionality/crm/', 'f12'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/crm/deals',
-                component: ComponentCreator('/uz/docs/functionality/crm/deals', 'd50'),
+                component: ComponentCreator('/uz/docs/functionality/crm/deals', '588'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/crm/notifications',
-                component: ComponentCreator('/uz/docs/functionality/crm/notifications', '167'),
+                component: ComponentCreator('/uz/docs/functionality/crm/notifications', 'a9d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/functionality/crm/tasks',
-                component: ComponentCreator('/uz/docs/functionality/crm/tasks', '804'),
+                component: ComponentCreator('/uz/docs/functionality/crm/tasks', 'f5b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

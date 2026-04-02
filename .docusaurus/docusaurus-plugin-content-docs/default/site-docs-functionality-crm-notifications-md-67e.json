@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/crm/notifications.md",
   "sourceDirName": "functionality/crm",
   "slug": "/functionality/crm/notifications",
-  "permalink": "/uz/docs/functionality/crm/notifications",
+  "permalink": "/docs/functionality/crm/notifications",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Задачи",
-    "permalink": "/uz/docs/functionality/crm/tasks"
+    "permalink": "/docs/functionality/crm/tasks"
   }
 }

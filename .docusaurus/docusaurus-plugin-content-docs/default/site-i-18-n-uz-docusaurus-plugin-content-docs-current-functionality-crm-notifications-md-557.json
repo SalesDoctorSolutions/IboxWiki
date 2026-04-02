@@ -1,0 +1,25 @@
+{
+  "id": "functionality/crm/notifications",
+  "title": "Настройка уведомлений",
+  "description": "Раздел Настройка уведомлений позволяет получать уведомления по задачам в CRM через Telegram.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/functionality/crm/notifications.md",
+  "sourceDirName": "functionality/crm",
+  "slug": "/functionality/crm/notifications",
+  "permalink": "/uz/docs/functionality/crm/notifications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "notifications",
+    "title": "Настройка уведомлений",
+    "sidebar_label": "Настройка уведомлений",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Задачи",
+    "permalink": "/uz/docs/functionality/crm/tasks"
+  }
+}

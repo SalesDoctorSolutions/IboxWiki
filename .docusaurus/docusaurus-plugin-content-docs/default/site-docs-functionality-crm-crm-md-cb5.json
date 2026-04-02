@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/crm/crm.md",
   "sourceDirName": "functionality/crm",
   "slug": "/functionality/crm/",
-  "permalink": "/uz/docs/functionality/crm/",
+  "permalink": "/docs/functionality/crm/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tannarxni taqsimlash",
-    "permalink": "/uz/docs/functionality/factory/cost-share"
+    "title": "Распределение себестоимости",
+    "permalink": "/docs/functionality/factory/cost-share"
   },
   "next": {
     "title": "Сделки",
-    "permalink": "/uz/docs/functionality/crm/deals"
+    "permalink": "/docs/functionality/crm/deals"
   }
 }

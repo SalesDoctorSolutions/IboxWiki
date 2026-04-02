@@ -5,7 +5,7 @@
   "source": "@site/docs/functionality/crm/deals.md",
   "sourceDirName": "functionality/crm",
   "slug": "/functionality/crm/deals",
-  "permalink": "/uz/docs/functionality/crm/deals",
+  "permalink": "/docs/functionality/crm/deals",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Обзор CRM-модуля",
-    "permalink": "/uz/docs/functionality/crm/"
+    "permalink": "/docs/functionality/crm/"
   },
   "next": {
     "title": "Задачи",
-    "permalink": "/uz/docs/functionality/crm/tasks"
+    "permalink": "/docs/functionality/crm/tasks"
   }
 }
