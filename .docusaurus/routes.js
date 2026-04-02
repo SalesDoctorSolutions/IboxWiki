@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '513'),
+    component: ComponentCreator('/uz/docs', 'b75'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '284'),
+        component: ComponentCreator('/uz/docs', 'd02'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'b02'),
+            component: ComponentCreator('/uz/docs', '162'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -570,6 +570,12 @@ export default [
               {
                 path: '/uz/docs/knowledge/products/barcode',
                 component: ComponentCreator('/uz/docs/knowledge/products/barcode', '2fc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/knowledge/products/last-purchase-price',
+                component: ComponentCreator('/uz/docs/knowledge/products/last-purchase-price', '7d0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -55,6 +55,7 @@ module.exports = {
         'knowledge/products/pricelist',
         'knowledge/products/barcode',
         'knowledge/products/minimal-price',
+        'knowledge/products/last-purchase-price',
       ],
     },
     {

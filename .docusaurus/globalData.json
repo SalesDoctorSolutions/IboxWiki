@@ -431,6 +431,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/products/last-purchase-price",
+              "path": "/uz/docs/knowledge/products/last-purchase-price",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/products/minimal-price",
               "path": "/uz/docs/knowledge/products/minimal-price",
               "sidebar": "tutorialSidebar"

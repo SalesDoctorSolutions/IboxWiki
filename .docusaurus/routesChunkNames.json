@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-513": {
+  "/uz/docs-b75": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-284": {
+  "/uz/docs-d02": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-b02": {
+  "/uz/docs-162": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/crm/-f12": {
@@ -455,6 +455,10 @@
   "/uz/docs/knowledge/products/barcode-2fc": {
     "__comp": "17896441",
     "content": "01e2ccd1"
+  },
+  "/uz/docs/knowledge/products/last-purchase-price-7d0": {
+    "__comp": "17896441",
+    "content": "53934e3b"
   },
   "/uz/docs/knowledge/products/minimal-price-b12": {
     "__comp": "17896441",

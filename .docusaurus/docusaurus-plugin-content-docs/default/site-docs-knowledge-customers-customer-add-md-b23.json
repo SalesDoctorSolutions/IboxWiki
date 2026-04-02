@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Минимальная цена товара",
-    "permalink": "/docs/knowledge/products/minimal-price"
+    "title": "Последняя закупочная цена",
+    "permalink": "/docs/knowledge/products/last-purchase-price"
   },
   "next": {
     "title": "Управление клиентами",
