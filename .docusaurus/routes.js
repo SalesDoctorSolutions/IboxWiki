@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'b75'),
+    component: ComponentCreator('/uz/docs', '80c'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'd02'),
+        component: ComponentCreator('/uz/docs', '9d5'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '162'),
+            component: ComponentCreator('/uz/docs', 'ead'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -575,7 +575,7 @@ export default [
               },
               {
                 path: '/uz/docs/knowledge/products/last-purchase-price',
-                component: ComponentCreator('/uz/docs/knowledge/products/last-purchase-price', '7d0'),
+                component: ComponentCreator('/uz/docs/knowledge/products/last-purchase-price', '5a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

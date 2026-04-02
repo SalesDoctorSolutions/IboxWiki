@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge/products/last-purchase-price.md",
   "sourceDirName": "knowledge/products",
   "slug": "/knowledge/products/last-purchase-price",
-  "permalink": "/uz/docs/knowledge/products/last-purchase-price",
+  "permalink": "/docs/knowledge/products/last-purchase-price",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mahsulotning minimal narxi",
-    "permalink": "/uz/docs/knowledge/products/minimal-price"
+    "title": "Минимальная цена товара",
+    "permalink": "/docs/knowledge/products/minimal-price"
   },
   "next": {
-    "title": "Mijozlarni qo‘shish",
-    "permalink": "/uz/docs/knowledge/customers/customer-add"
+    "title": "Добавление клиентов",
+    "permalink": "/docs/knowledge/customers/customer-add"
   }
 }

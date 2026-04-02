@@ -1,0 +1,29 @@
+{
+  "id": "knowledge/products/last-purchase-price",
+  "title": "Oxirgi xarid narxi",
+  "description": "Oxirgi xarid narxi — bu mahsulot oxirgi kirim hujjatida qaysi narxda xarid qilingan bo‘lsa, o‘sha narx.",
+  "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/knowledge/products/last-purchase-price.md",
+  "sourceDirName": "knowledge/products",
+  "slug": "/knowledge/products/last-purchase-price",
+  "permalink": "/uz/docs/knowledge/products/last-purchase-price",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "last-purchase-price",
+    "title": "Oxirgi xarid narxi",
+    "sidebar_label": "Oxirgi xarid narxi",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mahsulotning minimal narxi",
+    "permalink": "/uz/docs/knowledge/products/minimal-price"
+  },
+  "next": {
+    "title": "Mijozlarni qo‘shish",
+    "permalink": "/uz/docs/knowledge/customers/customer-add"
+  }
+}
