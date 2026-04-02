@@ -302,6 +302,7 @@ module.exports = {
       items: [    
         'functionality/crm/deals',
         'functionality/crm/tasks',
+        'functionality/crm/notifications',  
       ],
       },
       ],

@@ -107,22 +107,26 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-40b": {
+  "/uz/docs-297": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-c0d": {
+  "/uz/docs-8b3": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-fa4": {
+  "/uz/docs-22c": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/crm/deals-d50": {
     "__comp": "17896441",
     "content": "a67810e6"
+  },
+  "/uz/docs/functionality/crm/notifications-167": {
+    "__comp": "17896441",
+    "content": "67ee712d"
   },
   "/uz/docs/functionality/crm/tasks-804": {
     "__comp": "17896441",

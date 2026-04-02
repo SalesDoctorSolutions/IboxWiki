@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/crm/notifications",
+              "path": "/uz/docs/functionality/crm/notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "functionality/crm/tasks",
               "path": "/uz/docs/functionality/crm/tasks",
               "sidebar": "tutorialSidebar"
