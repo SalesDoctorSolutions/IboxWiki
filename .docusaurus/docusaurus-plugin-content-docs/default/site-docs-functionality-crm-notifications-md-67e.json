@@ -1,7 +1,7 @@
 {
   "id": "functionality/crm/notifications",
-  "title": "Настройка уведомлений",
-  "description": "Раздел Настройка уведомлений позволяет получать уведомления по задачам в CRM через Telegram.",
+  "title": "Bildirishnomalarni sozlash",
+  "description": "Sozlamalardagi Telegram-bot bo‘limi CRM’dagi vazifalar bo‘yicha Telegram orqali bildirishnomalar olish imkonini beradi.",
   "source": "@site/docs/functionality/crm/notifications.md",
   "sourceDirName": "functionality/crm",
   "slug": "/functionality/crm/notifications",
@@ -13,8 +13,8 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "notifications",
-    "title": "Настройка уведомлений",
-    "sidebar_label": "Настройка уведомлений",
+    "title": "Bildirishnomalarni sozlash",
+    "sidebar_label": "Bildirishnomalarni sozlash",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
