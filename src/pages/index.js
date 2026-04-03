@@ -1,27 +1,78 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Translate, {translate} from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
 
 export default function Home() {
   return (
     <Layout
-      title="Добро пожаловать в iBox Docs"
-      description="Документация по ERP-системе iBox"
+      title={translate({
+        id: 'homepage.meta.title',
+        message: 'iBox Docs',
+      })}
+      description={translate({
+        id: 'homepage.meta.description',
+        message: 'Документация по ERP-системе iBox',
+      })}
     >
-     <main style={{ padding: '2rem', maxWidth: '700px', margin: '0 auto' }}>
-        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}><Translate>Добро пожаловать в iBox Docs!</Translate></h1>
-        <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
-          <Translate>Здесь собраны инструкции, гайды и документация по продуктам и внутренним процессам iBox.</Translate>
-        </p>
-        <ul style={{ textAlign: 'left', fontSize: '1.1rem', marginTop: '1.5rem' }}>
-          <li><Translate>🌐 веб-версия системы</Translate></li>
-          <li><Translate>📱 мобильное приложение POS</Translate></li>
-          <li><Translate>💻 POS-терминал для Windows</Translate></li>
-        </ul>
-        <p style={{ fontSize: '1.2rem', marginTop: '2rem' }}>
-          <strong><Translate>Хотите начать работу с iBox?</Translate></strong><br />
-          <Translate>Свяжитесь с нашей командой — мы подключим и поможем настроиться.</Translate>
-        </p>
+      <header className="heroBanner">
+        <div className="container">
+          <h1 className="heroTitle">
+            <Translate id="homepage.title">
+              iBox — система для автоматизации бизнеса
+            </Translate>
+          </h1>
+
+          <p className="heroSubtitle">
+            <Translate id="homepage.subtitle">
+              Полная документация по работе с ERP, POS и мобильными решениями iBox
+            </Translate>
+          </p>
+
+          <div className="heroButtons">
+            <Link
+              className="button button--lg heroButton"
+              to="/docs/overview/product-overview"
+            >
+              <Translate id="homepage.button.start">
+                Начать
+              </Translate>
+            </Link>
+          </div>
+        </div>
+      </header>
+
+      <main className="featuresSection">
+        <div className="container">
+          <div className="featuresGrid">
+            <div className="featureCard">
+              <h3><Translate id="homepage.feature.web">🌐 Веб-система</Translate></h3>
+              <p>
+                <Translate id="homepage.feature.web.desc">
+                  Управление продажами, аналитика и контроль бизнеса в одном месте
+                </Translate>
+              </p>
+            </div>
+
+            <div className="featureCard">
+              <h3><Translate id="homepage.feature.mobile">📱 Мобильный POS</Translate></h3>
+              <p>
+                <Translate id="homepage.feature.mobile.desc">
+                  Принимайте оплату и управляйте продажами прямо со смартфона
+                </Translate>
+              </p>
+            </div>
+
+            <div className="featureCard">
+              <h3><Translate id="homepage.feature.desktop">💻 POS для Windows</Translate></h3>
+              <p>
+                <Translate id="homepage.feature.desktop.desc">
+                  Надежное решение для касс и торговых точек с высокой нагрузкой
+                </Translate>
+              </p>
+            </div>
+          </div>
+        </div>
       </main>
     </Layout>
   );

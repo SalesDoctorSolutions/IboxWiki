@@ -114,3 +114,81 @@
 .menu__list {
   transition: all 0.2s ease;
 }
+
+/* HERO SECTION */
+.heroBanner {
+  padding: 6rem 2rem;
+  text-align: center;
+  color: white;
+
+  background: linear-gradient(135deg, #2f66d0, #4a7be0);
+}
+
+/* Dark mode */
+[data-theme='dark'] .heroBanner {
+  background: linear-gradient(135deg, #1f2a44, #2f66d0);
+}
+
+.heroTitle {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.heroSubtitle {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  opacity: 0.9;
+}
+
+.heroButtons {
+  margin-top: 2rem;
+}
+
+/* FEATURES SECTION */
+.featuresSection {
+  padding: 4rem 2rem;
+}
+
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.featureCard {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: var(--ifm-background-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+[data-theme='dark'] .featureCard {
+  background: #1e293b;
+}
+
+/* CTA BUTTON */
+.heroButton {
+  background: white;
+  color: #2f66d0;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 0.9rem 1.8rem;
+  transition: all 0.25s ease;
+}
+
+/* Hover (important UX feedback) */
+.heroButton:hover {
+  background: #f1f5ff;
+  transform: translateY(-2px);
+}
+
+/* Dark mode */
+[data-theme='dark'] .heroButton {
+  background: #5b8cff;
+  color: white;
+}
+
+/* Dark hover */
+[data-theme='dark'] .heroButton:hover {
+  background: #7aa4ff;
+}

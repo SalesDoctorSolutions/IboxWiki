@@ -377,5 +377,35 @@
   "theme.SearchPage.noResultsText": {
     "message": "Hujjatlar topilmadi",
     "description": "The paragraph for empty search result"
+  },
+  "homepage.subtitle": {
+    "message": "iBox ERP, POS va mobil yechimlari bo‘yicha to‘liq hujjatlar"
+  },
+  "homepage.button.start": {
+    "message": "Boshlash"
+  },
+  "homepage.feature.web": {
+    "message": "🌐 Veb tizim"
+  },
+  "homepage.feature.web.desc": {
+    "message": "Savdo, analitika va biznes nazorati bitta joyda"
+  },
+  "homepage.feature.mobile": {
+    "message": "📱 Mobil POS"
+  },
+  "homepage.feature.mobile.desc": {
+    "message": "To‘lovlarni qabul qiling va savdoni telefondan boshqaring"
+  },
+  "homepage.feature.desktop": {
+    "message": "💻 Windows POS"
+  },
+  "homepage.feature.desktop.desc": {
+    "message": "Kassalar va savdo nuqtalari uchun ishonchli yechim"
+  },
+  "homepage.meta.description": {
+    "message": "iBox ERP-tizim bo'yicha qo'llanma"
+  },
+  "homepage.title": {
+    "message": "iBox — biznesni avtomatlashtirish tizimi"
   }
 }
