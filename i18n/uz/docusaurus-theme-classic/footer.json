@@ -52,7 +52,7 @@
     "description": "The label of footer link with label=Больше Информации linking to /docs/knowledge"
   },
   "link.item.label.Телеграм Канал": {
-    "message": "Telegram KanalI",
+    "message": "Telegram Kanal",
     "description": "The label of footer link with label=Телеграм Канал linking to https://t.me/ibox_app"
   }
 }

@@ -150,7 +150,7 @@ export default {
           "title": "Jamiyat",
           "items": [
             {
-              "label": "Telegram KanalI",
+              "label": "Telegram Kanal",
               "href": "https://t.me/ibox_app"
             }
           ]

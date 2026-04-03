@@ -90,7 +90,7 @@ Agar sizda mahsulotlar ro‘yxati allaqachon mavjud bo‘lsa, uni tizimga yuklas
 
 :::warning **Muhim**  
 Excel faylidagi kategoriyalar, guruhlar, brendlar va valyutalar tizimdagi ma’lumotlar bilan mos bo‘lishi kerak.  
-Agar ular mavjud bo‘lmasa, avval **Sozlamalar → Global sozlamalar** bo‘limida qo‘shing.
+Agar ular mavjud bo‘lmasa, avval **Sozlamalar → Umumiy sozlamalar** bo‘limida qo‘shing.
 :::
 
 ### Tizimga yuklashni qanday bajarish mumkin
