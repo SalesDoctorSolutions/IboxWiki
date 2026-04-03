@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 4,
   "frontMatter": {
     "id": "part2-products",
     "title": "2-qism. Mahsulotlar, narxlar va qoldiqlar",
     "sidebar_label": "2-qism: Mahsulotlar, narxlar va qoldiqlar",
-    "sidebar_position": 3
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {

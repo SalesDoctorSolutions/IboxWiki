@@ -2,7 +2,7 @@
 id: part3-finance
 title: "3-qism. Mijozlar, ta'minotchilar va balanslar"
 sidebar_label: "3-qism: Mijozlar, ta'minotchilar va balanslar"
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # 3-qism. Mijozlar, ta'minotchilar va balanslar

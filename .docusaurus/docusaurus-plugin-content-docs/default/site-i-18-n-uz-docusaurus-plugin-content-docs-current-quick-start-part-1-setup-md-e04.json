@@ -10,17 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
     "id": "part1-setup",
     "title": "1-qism. Sozlash",
     "sidebar_label": "1-qism: Sozlash",
-    "sidebar_position": 2
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Kirish",
-    "permalink": "/uz/docs/quick-start/"
+    "title": "Obunani qanday sotib olish",
+    "permalink": "/uz/docs/quick-start/subscription"
   },
   "next": {
     "title": "2-qism: Mahsulotlar, narxlar va qoldiqlar",

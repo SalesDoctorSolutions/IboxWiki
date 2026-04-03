@@ -1,0 +1,29 @@
+{
+  "id": "quick-start/subscription",
+  "title": "Подписка в iBox",
+  "description": "Перед началом работы в iBox необходимо оформить подписку.",
+  "source": "@site/docs/quick-start/subscription.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/subscription",
+  "permalink": "/docs/quick-start/subscription",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "subscription",
+    "title": "Подписка в iBox",
+    "sidebar_label": "Как купить подписку",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Введение",
+    "permalink": "/docs/quick-start/"
+  },
+  "next": {
+    "title": "Часть 1: Настройка",
+    "permalink": "/docs/quick-start/part1-setup"
+  }
+}

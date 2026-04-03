@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
     "id": "part4-operations",
     "title": "Часть 4. Основные операции: Закупки, отгрузки и оплаты",
     "sidebar_label": "Часть 4: Закупки, отгрузки и оплаты",
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {

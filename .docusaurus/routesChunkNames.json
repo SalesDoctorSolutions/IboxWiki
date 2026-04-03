@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-80c": {
+  "/uz/docs-7e9": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-9d5": {
+  "/uz/docs-064": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-ead": {
+  "/uz/docs-22b": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/crm/-f12": {
@@ -543,6 +543,10 @@
   "/uz/docs/quick-start/part5-reports-67a": {
     "__comp": "17896441",
     "content": "96b3ec23"
+  },
+  "/uz/docs/quick-start/subscription-412": {
+    "__comp": "17896441",
+    "content": "19ea1af4"
   },
   "/uz/docs/reports/payment/cash-flow-f22": {
     "__comp": "17896441",

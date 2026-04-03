@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
     "id": "part4-operations",
     "title": "4-qism. Asosiy operatsiyalar: xaridlar, sotuvlar va to‘lovlar",
     "sidebar_label": "4-qism: Xaridlar, Sotuvlar va to‘lovlar",
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {

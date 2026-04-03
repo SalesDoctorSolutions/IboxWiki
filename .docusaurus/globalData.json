@@ -541,6 +541,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "quick-start/subscription",
+              "path": "/uz/docs/quick-start/subscription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "reports/payment/cash-flow",
               "path": "/uz/docs/reports/payment/cash-flow",
               "sidebar": "tutorialSidebar"

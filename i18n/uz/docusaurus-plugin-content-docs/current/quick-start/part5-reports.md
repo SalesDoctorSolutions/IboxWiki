@@ -2,7 +2,7 @@
 id: part5-reports
 title: "5-qism. Hisobotlar bilan ishlash"
 sidebar_label: "5-qism: Hisobotlar bilan ishlash"
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # 5-qism. Hisobotlar bilan ishlash

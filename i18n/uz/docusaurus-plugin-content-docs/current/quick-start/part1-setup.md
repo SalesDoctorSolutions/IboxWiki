@@ -2,7 +2,7 @@
 id: part1-setup
 title: "1-qism. Sozlash"
 sidebar_label: "1-qism: Sozlash"
-sidebar_position: 2
+sidebar_position: 3
 ---
 # 1-qism. Sozlash
 ## Ishchi muhitni sozlash

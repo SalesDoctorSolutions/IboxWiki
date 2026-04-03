@@ -2,7 +2,7 @@
 id: part2-products
 title: "2-qism. Mahsulotlar, narxlar va qoldiqlar"
 sidebar_label: "2-qism: Mahsulotlar, narxlar va qoldiqlar"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # 2-qism. Mahsulotlar, narxlar va qoldiqlar

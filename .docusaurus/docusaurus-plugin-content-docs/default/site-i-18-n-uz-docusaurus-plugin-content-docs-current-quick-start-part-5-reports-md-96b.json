@@ -10,12 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 7,
   "frontMatter": {
     "id": "part5-reports",
     "title": "5-qism. Hisobotlar bilan ishlash",
     "sidebar_label": "5-qism: Hisobotlar bilan ishlash",
-    "sidebar_position": 6
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '80c'),
+    component: ComponentCreator('/uz/docs', '7e9'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '9d5'),
+        component: ComponentCreator('/uz/docs', '064'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'ead'),
+            component: ComponentCreator('/uz/docs', '22b'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -702,6 +702,12 @@ export default [
               {
                 path: '/uz/docs/quick-start/part5-reports',
                 component: ComponentCreator('/uz/docs/quick-start/part5-reports', '67a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/quick-start/subscription',
+                component: ComponentCreator('/uz/docs/quick-start/subscription', '412'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -2,7 +2,7 @@
 id: part4-operations
 title: "4-qism. Asosiy operatsiyalar: xaridlar, sotuvlar va to‘lovlar"
 sidebar_label: "4-qism: Xaridlar, Sotuvlar va to‘lovlar"
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 Mahsulotlar, mijozlar va ta'minotchilar qo‘shilgach, tizimda kundalik ishlarni boshlash mumkin. Ushbu bo‘limda siz quyidagilarni o‘rganasiz:
