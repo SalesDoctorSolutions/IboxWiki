@@ -121,12 +121,13 @@
   text-align: center;
   color: white;
 
-  background: linear-gradient(135deg, #2f66d0, #4a7be0);
+  /* Light mode: solid brand blue */
+  background: #0039b7;
 }
 
-/* Dark mode */
+/* Dark mode: gradient */
 [data-theme='dark'] .heroBanner {
-  background: linear-gradient(135deg, #1f2a44, #2f66d0);
+  background: linear-gradient(135deg, #0039b7, #2563eb);
 }
 
 .heroTitle {
@@ -169,7 +170,7 @@
 /* CTA BUTTON */
 .heroButton {
   background: white;
-  color: #2f66d0;
+  color: #0039b7;
   font-weight: 600;
   border-radius: 8px;
   padding: 0.9rem 1.8rem;
