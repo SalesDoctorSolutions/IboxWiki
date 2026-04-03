@@ -1,7 +1,7 @@
 ---
 id: subscription 
 title: Подписка в iBox
-sidebar_label: Как купить подписку
+sidebar_label: Подписка и тарифы
 sidebar_position: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: subscription 
 title: iBox’da obuna
-sidebar_label: Obunani qanday sotib olish
+sidebar_label: Obuna va tariflar
 sidebar_position: 2
 ---
 
