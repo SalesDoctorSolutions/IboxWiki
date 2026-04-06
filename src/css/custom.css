@@ -7,6 +7,11 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
 
+
+
+/*---------------------------------------------------------------------------------*/
+/*----------------------------------1. GENERAL-------------------------------------*/
+/*---------------------------------------------------------------------------------*/
 :root {
   /* Primary brand color (based on logo) */
   --ifm-color-primary: #2f66d0;
@@ -54,22 +59,25 @@
   --docusaurus-highlighted-code-line-bg: rgba(91, 140, 255, 0.15);
 }
 
+/*---------------------------------------------------------------------------------*/
+/*----------------------------------2. SIDEBAR-------------------------------------*/
+/*---------------------------------------------------------------------------------*/
 /* Top-level categories */
 .menu > .menu__list > .menu__list-item > .menu__list-item-collapsible > .menu__link {
   font-weight: 700;
-  color: var(--ifm-font-color-base); /* strongest text */
+  color: var(--ifm-font-color-base); 
 }
 
 /* Second-level categories */
 .menu__list .menu__list .menu__list-item-collapsible > .menu__link {
   font-weight: 600;
-  color: rgba(0, 0, 0, 0.75); /* slightly lighter */
+  color: rgba(0, 0, 0, 0.75); 
 }
 
 /* Regular doc links */
 .menu__link {
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.6); /* soft readable */
+  color: rgba(0, 0, 0, 0.6); 
 }
 
 /* Active item */
@@ -84,7 +92,7 @@
   /* Top-level categories */
   .menu > .menu__list > .menu__list-item > .menu__list-item-collapsible > .menu__link {
     font-weight: 700;
-    color: #e6eaf2; /* strong but not pure white */
+    color: #e6eaf2;
   }
 
   /* Second-level categories */
@@ -115,6 +123,10 @@
   transition: all 0.2s ease;
 }
 
+
+/*---------------------------------------------------------------------------------*/
+/*--------------------------3. LANDING PAGE STYLES---------------------------------*/
+/*---------------------------------------------------------------------------------*/
 /* HERO SECTION */
 .heroBanner {
   padding: 6rem 2rem;
@@ -133,6 +145,19 @@
 .heroTitle {
   font-size: 3rem;
   font-weight: 700;
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.2;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .heroTitle {
+    font-size: 2rem;
+    max-width: 95%;
+  }
 }
 
 .heroSubtitle {
@@ -177,7 +202,7 @@
   transition: all 0.25s ease;
 }
 
-/* Hover (important UX feedback) */
+/* Hover */
 .heroButton:hover {
   background: #f1f5ff;
   transform: translateY(-2px);
