@@ -2,7 +2,7 @@
 id: mobile-download
 title: "Как скачать мобильное приложение iBox"
 sidebar_label: "Как скачать мобильное приложение iBox"
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Как скачать мобильное приложение iBox
@@ -17,7 +17,7 @@ sidebar_position: 1
 
 1. Перейдите в Telegram-канал:  
    https://t.me/ibox_app  
-2. Найдите файл с названием **app-release.apk**.  
+2. Найдите файл с названием **app-release-(версия).apk**.  
 3. Скачайте файл на устройство.  
 4. После завершения загрузки откройте файл и установите приложение.
 
