@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-7e9": {
+  "/uz/docs-399": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-064": {
+  "/uz/docs-5c8": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-22b": {
+  "/uz/docs-e90": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/crm/-f12": {
@@ -295,6 +295,14 @@
   "/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse-538": {
     "__comp": "17896441",
     "content": "b4a78e56"
+  },
+  "/uz/docs/integrations/api-605": {
+    "__comp": "17896441",
+    "content": "ff664563"
+  },
+  "/uz/docs/integrations/sales-doctor/b2b-074": {
+    "__comp": "17896441",
+    "content": "02729a6c"
   },
   "/uz/docs/knowledge/-008": {
     "__comp": "17896441",
@@ -515,6 +523,14 @@
   "/uz/docs/knowledge/warehouse/transfers-17c": {
     "__comp": "17896441",
     "content": "f7f37ff0"
+  },
+  "/uz/docs/mobile-pos/introduction/mobile-download-a53": {
+    "__comp": "17896441",
+    "content": "d08357a2"
+  },
+  "/uz/docs/mobile-pos/setup/settings-47c": {
+    "__comp": "17896441",
+    "content": "11754afa"
   },
   "/uz/docs/overview/product-overview-ea0": {
     "__comp": "17896441",

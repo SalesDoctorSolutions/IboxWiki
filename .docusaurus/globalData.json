@@ -231,6 +231,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "integrations/api",
+              "path": "/uz/docs/integrations/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/sales-doctor/b2b",
+              "path": "/uz/docs/integrations/sales-doctor/b2b",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/access/access",
               "path": "/uz/docs/knowledge/access/",
               "sidebar": "tutorialSidebar"
@@ -504,6 +514,14 @@
               "id": "knowledge/warehouse/transfers",
               "path": "/uz/docs/knowledge/warehouse/transfers",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mobile-pos/introduction/mobile-download",
+              "path": "/uz/docs/mobile-pos/introduction/mobile-download"
+            },
+            {
+              "id": "mobile-pos/setup/settings",
+              "path": "/uz/docs/mobile-pos/setup/settings"
             },
             {
               "id": "overview/product-overview",

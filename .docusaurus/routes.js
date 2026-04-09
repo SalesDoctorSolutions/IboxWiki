@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '7e9'),
+    component: ComponentCreator('/uz/docs', '399'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '064'),
+        component: ComponentCreator('/uz/docs', '5c8'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '22b'),
+            component: ComponentCreator('/uz/docs', 'e90'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -330,6 +330,18 @@ export default [
               {
                 path: '/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse',
                 component: ComponentCreator('/uz/docs/functionality/warehouse-logistics/shipment-by-warehouse', '538'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/integrations/api',
+                component: ComponentCreator('/uz/docs/integrations/api', '605'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/integrations/sales-doctor/b2b',
+                component: ComponentCreator('/uz/docs/integrations/sales-doctor/b2b', '074'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -662,6 +674,16 @@ export default [
                 component: ComponentCreator('/uz/docs/knowledge/warehouse/transfers', '17c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/mobile-pos/introduction/mobile-download',
+                component: ComponentCreator('/uz/docs/mobile-pos/introduction/mobile-download', 'a53'),
+                exact: true
+              },
+              {
+                path: '/uz/docs/mobile-pos/setup/settings',
+                component: ComponentCreator('/uz/docs/mobile-pos/setup/settings', '47c'),
+                exact: true
               },
               {
                 path: '/uz/docs/overview/product-overview',

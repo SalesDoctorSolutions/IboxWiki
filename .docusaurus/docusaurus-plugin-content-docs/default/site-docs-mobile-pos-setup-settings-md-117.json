@@ -1,0 +1,20 @@
+{
+  "id": "mobile-pos/setup/settings",
+  "title": "Настройки и конфигурации",
+  "description": "При первом входе в мобильное приложение iBox открывается экран Настроек.",
+  "source": "@site/docs/mobile-pos/setup/settings.md",
+  "sourceDirName": "mobile-pos/setup",
+  "slug": "/mobile-pos/setup/settings",
+  "permalink": "/uz/docs/mobile-pos/setup/settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "settings",
+    "title": "Настройки и конфигурации",
+    "sidebar_label": "Настройки и конфигурации",
+    "sidebar_position": 1
+  }
+}

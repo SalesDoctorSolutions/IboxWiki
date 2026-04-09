@@ -21,5 +21,9 @@
   "previous": {
     "title": "Vazifalar",
     "permalink": "/uz/docs/functionality/crm/tasks"
+  },
+  "next": {
+    "title": "Для интеграторов",
+    "permalink": "/uz/docs/integrations/api"
   }
 }

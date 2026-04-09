@@ -1,0 +1,20 @@
+{
+  "id": "mobile-pos/introduction/mobile-download",
+  "title": "Как скачать мобильное приложение iBox",
+  "description": "Мобильное приложение iBox позволяет работать с системой с телефона: создавать заказы, управлять товарами и работать с клиентами в любое время.",
+  "source": "@site/docs/mobile-pos/introduction/mobile-download.md",
+  "sourceDirName": "mobile-pos/introduction",
+  "slug": "/mobile-pos/introduction/mobile-download",
+  "permalink": "/uz/docs/mobile-pos/introduction/mobile-download",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "mobile-download",
+    "title": "Как скачать мобильное приложение iBox",
+    "sidebar_label": "Как скачать мобильное приложение iBox",
+    "sidebar_position": 2
+  }
+}

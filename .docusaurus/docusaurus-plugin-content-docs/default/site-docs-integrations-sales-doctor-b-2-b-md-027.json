@@ -1,0 +1,25 @@
+{
+  "id": "integrations/sales-doctor/b2b",
+  "title": "B2B Интеграция с Sales Doctor",
+  "description": "iBox поддерживает B2B-интеграцию с системой Sales Doctor.",
+  "source": "@site/docs/integrations/sales-doctor/b2b.md",
+  "sourceDirName": "integrations/sales-doctor",
+  "slug": "/integrations/sales-doctor/b2b",
+  "permalink": "/uz/docs/integrations/sales-doctor/b2b",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "b2b",
+    "title": "B2B Интеграция с Sales Doctor",
+    "sidebar_label": "B2B Интеграция с Sales Doctor",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Для интеграторов",
+    "permalink": "/uz/docs/integrations/api"
+  }
+}

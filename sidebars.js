@@ -310,5 +310,19 @@ module.exports = {
       },
       ],
     },
+    {
+      type: 'category',
+      label: '6. Интеграции',
+      items: [
+      'integrations/api',
+      {
+      type: 'category',
+      label: '6.1. Интеграция с Sales Doctor',
+      items: [    
+        'integrations/sales-doctor/b2b',
+      ],
+      },
+      ],
+    },
   ],
 };

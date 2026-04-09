@@ -1,0 +1,29 @@
+{
+  "id": "integrations/api",
+  "title": "Для интеграторов",
+  "description": "iBox предоставляет API для интеграции с внешними системами: сайтами, CRM, мобильными приложениями и другими сервисами.",
+  "source": "@site/docs/integrations/api.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/api",
+  "permalink": "/uz/docs/integrations/api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "api",
+    "title": "Для интеграторов",
+    "sidebar_label": "Для интеграторов",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bildirishnomalarni sozlash",
+    "permalink": "/uz/docs/functionality/crm/notifications"
+  },
+  "next": {
+    "title": "B2B Интеграция с Sales Doctor",
+    "permalink": "/uz/docs/integrations/sales-doctor/b2b"
+  }
+}

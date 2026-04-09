@@ -21,5 +21,9 @@
   "previous": {
     "title": "Задачи",
     "permalink": "/docs/functionality/crm/tasks"
+  },
+  "next": {
+    "title": "Для интеграторов",
+    "permalink": "/docs/integrations/api"
   }
 }
