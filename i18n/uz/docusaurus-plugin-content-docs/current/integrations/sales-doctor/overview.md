@@ -1,150 +1,150 @@
 ---
 id: overview
-title: Интеграция с Sales Doctor
-sidebar_label: Обзор
+title: Sales Doctor bilan integratsiya
+sidebar_label: Umumiy ko‘rinish
 sidebar_position: 1
 ---
 
-# Интеграция с Sales Doctor
+# Sales Doctor bilan integratsiya
 
-iBox поддерживает B2B-интеграцию с системой Sales Doctor, которая позволяет автоматически передавать данные о продажах и выстраивать сквозной процесс от учета до дистрибуции.
+iBox Sales Doctor tizimi bilan B2B integratsiyani qo‘llab-quvvatlaydi. Bu savdo ma’lumotlarini avtomatik uzatish va hisobdan tortib distribyutsiyagacha bo‘lgan yagona jarayonni yo‘lga qo‘yish imkonini beradi.
 
-В рамках интеграции:
-- **iBox** выступает как **поставщик**;
-- **Sales Doctor** — как **покупатель**.
-
----
-
-## Требования
-
-Перед началом убедитесь, что:
-
-- у вас есть доступ к iBox и Sales Doctor;
-- в обеих системах созданы товары;
-- у товаров заполнен **артикул**;
-- артикулы **совпадают** в обеих системах;
-- у вас есть права администратора.
+Integratsiya doirasida:
+- **iBox** — **ta'minotchi** sifatida ishlaydi;
+- **Sales Doctor** — **mijoz** sifatida ishlaydi.
 
 ---
 
-## Как это работает (кратко)
+## Talablar
 
-1. Вы создаете **отгрузку в iBox**  
-2. iBox отправляет данные в Sales Doctor  
-3. В Sales Doctor создается **неподтвержденное поступление**  
-4. Пользователь подтверждает документ  
+Boshlashdan oldin quyidagilarga ishonch hosil qiling:
 
-:::info Триггер интеграции
-Интеграция срабатывает **в момент сохранения отгрузки в iBox**.
+- sizda iBox va Sales Doctor tizimlariga kirish mavjud;
+- har ikkala tizimda ham mahsulotlar yaratilgan;
+- mahsulotlarda **artikul** to‘ldirilgan;
+- artikullar har ikkala tizimda **bir xil**;
+- sizda administrator huquqlari mavjud.
+
+---
+
+## Bu qanday ishlaydi (qisqacha)
+
+1. Siz **iBox’da sotuv yaratasiz**  
+2. iBox ma’lumotlarni Sales Doctor’ga yuboradi  
+3. Sales Doctor’da **tasdiqlanmagan qabul** yaratiladi  
+4. Foydalanuvchi hujjatni tasdiqlaydi  
+
+:::info Integratsiya triggeri
+Integratsiya **iBox’da sotuv «Yakunlangan» status bilan saqlangan paytda** ishga tushadi.
 :::
 
 ---
 
-## Как работает интеграция
+## Integratsiya qanday ishlaydi
 
-Передача данных происходит автоматически через API.
+Ma’lumotlar avtomatik tarzda uzatiladi.
 
-**iBox отправляет:**
-- артикул;
-- количество;
-- цену;
-- сумму.
+**iBox yuboradi:**
+- artikul;
+- miqdor;
+- narx;
+- summa.
 
 **Sales Doctor:**
-- находит товар по артикулу;
-- создает документ поступления;
-- устанавливает статус **"В ожидании"**.
+- mahsulotni artikul bo‘yicha topadi;
+- qabul hujjatini yaratadi;
+- **"Kutilmoqda"** statusini o‘rnatadi.
 
 ---
 
-## Статусы документов
+## Hujjat statuslari
 
-В Sales Doctor используются следующие статусы:
+Sales Doctor’da quyidagi statuslar ishlatiladi:
 
-- **В ожидании** — документ создан, но не подтвержден  
-- **Принят** — товар поступил на склад  
-- **Отклонен** — документ отменен  
-
----
-
-## Когда полезна интеграция
-
-Интеграция iBox и Sales Doctor позволяет разделить бизнес-процессы между системами и автоматизировать обмен данными.
-
-**iBox используется для:**
-- складского учета;
-- оптовых продаж;
-- закупок и управления остатками;
-- производства и расчета себестоимости.
-
-**Sales Doctor используется для:**
-- дистрибуции;
-- работы торговых представителей;
-- обработки заказов на точках продаж;
-- контроля полевых продаж.
+- **Kutilmoqda** — hujjat yaratilgan, ammo tasdiqlanmagan  
+- **Qabul qilingan** — mahsulot omborga qabul qilingan  
+- **Rad etilgan** — hujjat bekor qilingan  
 
 ---
 
-## Основные сценарии использования
+## Integratsiya qachon foydali
 
-### 1. Производство → дистрибуция
+iBox va Sales Doctor integratsiyasi biznes jarayonlarini tizimlar o‘rtasida taqsimlash va ma’lumot almashinuvini avtomatlashtirish imkonini beradi.
 
-- Производство ведется в iBox;  
-- Готовая продукция отгружается партнерам;  
-- В Sales Doctor автоматически создается поступление для дальнейшей дистрибуции.
+**iBox quyidagilar uchun ishlatiladi:**
+- ombor hisobi;
+- ulgurji savdo;
+- xaridlar va qoldiqlarni boshqarish;
+- ishlab chiqarish va tannarx hisoblash.
 
----
-
-### 2. Оптовые продажи → клиенты-дистрибьюторы
-
-- Вы работаете как поставщик в iBox;  
-- Ваши клиенты используют Sales Doctor;  
-- При отгрузке данные автоматически передаются;  
-- Клиенты могут сразу продавать товар без ручного ввода.
-
----
-
-### 3. Автоматизация обмена документами
-
-- устраняется ручной ввод данных;
-- снижается риск ошибок;
-- ускоряется обработка заказов;
-- повышается прозрачность учета.
+**Sales Doctor quyidagilar uchun ishlatiladi:**
+- distribyutsiya;
+- savdo vakillari bilan ishlash;
+- savdo nuqtalaridagi buyurtmalarni qayta ishlash;
+- maydon savdolarini nazorat qilish.
 
 ---
 
-## Бизнес-эффект
+## Asosiy foydalanish ssenariylari
 
-Интеграция позволяет:
+### 1. Ishlab chiqarish → distribyutsiya
 
-- сократить операционные затраты;
-- повысить точность учета;
-- ускорить логистику;
-- обеспечить прозрачность движения товаров.
-
----
-
-## Сквозной процесс
-
-1. Закупка и производство — в iBox  
-2. Формирование продукции — в iBox  
-3. Отгрузка дистрибьютору — в iBox  
-4. Автоматическое поступление — в Sales Doctor  
-5. Продажа через торговых представителей — в Sales Doctor  
+- Ishlab chiqarish iBox’da yuritiladi;  
+- Tayyor mahsulot hamkorlarga jo‘natiladi;  
+- Sales Doctor’da keyingi distribyutsiya uchun avtomatik ravishda qabul hujjati yaratiladi.
 
 ---
 
-## Ограничения
+### 2. Ulgurji savdo → distribyutor mijozlar
 
-- интеграция работает только для клиентов с привязанным токеном;
-- товары без артикула не передаются;
-- артикулы должны совпадать в обеих системах;
-- изменение отгрузки после отправки не обновляет документ автоматически.
+- Siz iBox’da ta'minotchi sifatida ishlaysiz;  
+- Sizning mijozlaringiz Sales Doctor’dan foydalanadi;  
+- Sotuv paytida ma’lumotlar avtomatik ravishda uzatiladi;  
+- Mijozlar mahsulotni qo‘lda kiritmasdan darhol sotishni boshlashi mumkin.
 
 ---
 
-## Кто инициирует интеграцию
+### 3. Hujjatlar almashinuvini avtomatlashtirish
 
-Инициатор — **iBox**.
+- ma’lumotlarni qo‘lda kiritish bartaraf etiladi;
+- xatolar xavfi kamayadi;
+- buyurtmalarni qayta ishlash tezlashadi;
+- hisobning shaffofligi oshadi.
 
-Именно iBox отправляет данные в Sales Doctor при создании отгрузки.
+---
+
+## Biznes samarasi
+
+Integratsiya quyidagilarga imkon beradi:
+
+- operatsion xarajatlarni kamaytirish;
+- hisob aniqligini oshirish;
+- logistikani tezlashtirish;
+- mahsulotlar harakati shaffofligini ta’minlash.
+
+---
+
+## Yagona jarayon
+
+1. Xarid va ishlab chiqarish — iBox’da  
+2. Mahsulotni shakllantirish — iBox’da  
+3. Distribyutorga jo‘natish — iBox’da  
+4. Avtomatik qabul — Sales Doctor’da  
+5. Savdo vakillari orqali sotish — Sales Doctor’da  
+
+---
+
+## Cheklovlar
+
+- integratsiya faqat token bog‘langan mijozlar uchun ishlaydi;
+- artikulsiz mahsulotlar uzatilmaydi;
+- artikullar har ikkala tizimda bir xil bo‘lishi kerak;
+- yuborilgandan keyin sotuv o‘zgartirilsa, hujjat avtomatik yangilanmaydi.
+
+---
+
+## Integratsiyani kim ishga tushiradi
+
+Tashabbuskor — **iBox**.
+
+Aynan iBox sotuv yaratilganda ma’lumotlarni Sales Doctor’ga yuboradi.

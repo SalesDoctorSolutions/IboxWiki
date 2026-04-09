@@ -1,7 +1,7 @@
 {
   "id": "integrations/sales-doctor/overview",
-  "title": "Интеграция с Sales Doctor",
-  "description": "iBox поддерживает B2B-интеграцию с системой Sales Doctor, которая позволяет автоматически передавать данные о продажах и выстраивать сквозной процесс от учета до дистрибуции.",
+  "title": "Sales Doctor bilan integratsiya",
+  "description": "iBox Sales Doctor tizimi bilan B2B integratsiyani qo‘llab-quvvatlaydi. Bu savdo ma’lumotlarini avtomatik uzatish va hisobdan tortib distribyutsiyagacha bo‘lgan yagona jarayonni yo‘lga qo‘yish imkonini beradi.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/integrations/sales-doctor/overview.md",
   "sourceDirName": "integrations/sales-doctor",
   "slug": "/integrations/sales-doctor/overview",
@@ -13,8 +13,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "overview",
-    "title": "Интеграция с Sales Doctor",
-    "sidebar_label": "Обзор",
+    "title": "Sales Doctor bilan integratsiya",
+    "sidebar_label": "Umumiy ko‘rinish",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
