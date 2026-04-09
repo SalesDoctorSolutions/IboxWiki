@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-d84": {
+  "/uz/docs-ef6": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-831": {
+  "/uz/docs-d13": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-5ab": {
+  "/uz/docs-a26": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/crm/-f12": {
@@ -300,9 +300,17 @@
     "__comp": "17896441",
     "content": "25fd09a3"
   },
-  "/uz/docs/integrations/sales-doctor/b2b-254": {
+  "/uz/docs/integrations/sales-doctor/overview-315": {
     "__comp": "17896441",
-    "content": "2c3657ed"
+    "content": "2f2aaaea"
+  },
+  "/uz/docs/integrations/sales-doctor/setup-362": {
+    "__comp": "17896441",
+    "content": "012ba144"
+  },
+  "/uz/docs/integrations/sales-doctor/usage-64c": {
+    "__comp": "17896441",
+    "content": "70b5be72"
   },
   "/uz/docs/knowledge/-008": {
     "__comp": "17896441",

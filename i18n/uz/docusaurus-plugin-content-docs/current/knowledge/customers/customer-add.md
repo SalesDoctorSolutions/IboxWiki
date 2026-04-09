@@ -9,7 +9,7 @@ sidebar_position: 1
 
 iBox tizimida mijozlarni qo‘lda qo‘shishingiz, Excel dan yuklashingiz yoki boshqa korxonadan biriktirishingiz mumkin.
 
-## Mijozni qo‘lda qanday qo‘shish mumkin
+## Mijozni qo‘lda qanday qo‘shish mumkin {#customer-add}
 
 1. **Mijozlar** bo‘limiga o‘ting.
 2. Yuqori o‘ng burchakdagi **plyus** tugmasini bosing.

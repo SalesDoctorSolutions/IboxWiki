@@ -1,0 +1,25 @@
+{
+  "id": "integrations/sales-doctor/usage",
+  "title": "Работа с интеграцией",
+  "description": "В этом разделе описано, как использовать интеграцию в ежедневной работе, а также как диагностировать и исправлять ошибки.",
+  "source": "@site/docs/integrations/sales-doctor/usage.md",
+  "sourceDirName": "integrations/sales-doctor",
+  "slug": "/integrations/sales-doctor/usage",
+  "permalink": "/docs/integrations/sales-doctor/usage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "usage",
+    "title": "Работа с интеграцией",
+    "sidebar_label": "Работа и ошибки",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Настройка",
+    "permalink": "/docs/integrations/sales-doctor/setup"
+  }
+}

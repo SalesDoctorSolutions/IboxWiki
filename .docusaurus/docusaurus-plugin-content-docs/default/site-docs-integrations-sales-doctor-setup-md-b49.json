@@ -1,0 +1,29 @@
+{
+  "id": "integrations/sales-doctor/setup",
+  "title": "Настройка интеграции",
+  "description": "В этом разделе описан полный процесс подключения интеграции между iBox и Sales Doctor.",
+  "source": "@site/docs/integrations/sales-doctor/setup.md",
+  "sourceDirName": "integrations/sales-doctor",
+  "slug": "/integrations/sales-doctor/setup",
+  "permalink": "/docs/integrations/sales-doctor/setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "setup",
+    "title": "Настройка интеграции",
+    "sidebar_label": "Настройка",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Обзор",
+    "permalink": "/docs/integrations/sales-doctor/overview"
+  },
+  "next": {
+    "title": "Работа и ошибки",
+    "permalink": "/docs/integrations/sales-doctor/usage"
+  }
+}

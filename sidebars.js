@@ -317,9 +317,11 @@ module.exports = {
       'integrations/api',
       {
       type: 'category',
-      label: '6.1. Интеграция с Sales Doctor',
+      label: '6.1. B2B интеграция с Sales Doctor',
       items: [    
-        'integrations/sales-doctor/b2b',
+        'integrations/sales-doctor/overview',
+        'integrations/sales-doctor/setup',
+        'integrations/sales-doctor/usage',
       ],
       },
       ],

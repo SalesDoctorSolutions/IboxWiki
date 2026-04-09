@@ -1,0 +1,29 @@
+{
+  "id": "integrations/sales-doctor/overview",
+  "title": "Интеграция с Sales Doctor",
+  "description": "iBox поддерживает B2B-интеграцию с системой Sales Doctor, которая позволяет автоматически передавать данные о продажах и выстраивать сквозной процесс от учета до дистрибуции.",
+  "source": "@site/docs/integrations/sales-doctor/overview.md",
+  "sourceDirName": "integrations/sales-doctor",
+  "slug": "/integrations/sales-doctor/overview",
+  "permalink": "/docs/integrations/sales-doctor/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "overview",
+    "title": "Интеграция с Sales Doctor",
+    "sidebar_label": "Обзор",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Для интеграторов",
+    "permalink": "/docs/integrations/api"
+  },
+  "next": {
+    "title": "Настройка",
+    "permalink": "/docs/integrations/sales-doctor/setup"
+  }
+}

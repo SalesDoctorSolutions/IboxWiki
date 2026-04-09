@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'd84'),
+    component: ComponentCreator('/uz/docs', 'ef6'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '831'),
+        component: ComponentCreator('/uz/docs', 'd13'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', '5ab'),
+            component: ComponentCreator('/uz/docs', 'a26'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -340,8 +340,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/uz/docs/integrations/sales-doctor/b2b',
-                component: ComponentCreator('/uz/docs/integrations/sales-doctor/b2b', '254'),
+                path: '/uz/docs/integrations/sales-doctor/overview',
+                component: ComponentCreator('/uz/docs/integrations/sales-doctor/overview', '315'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/integrations/sales-doctor/setup',
+                component: ComponentCreator('/uz/docs/integrations/sales-doctor/setup', '362'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/integrations/sales-doctor/usage',
+                component: ComponentCreator('/uz/docs/integrations/sales-doctor/usage', '64c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

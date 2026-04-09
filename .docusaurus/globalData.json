@@ -236,8 +236,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "integrations/sales-doctor/b2b",
-              "path": "/uz/docs/integrations/sales-doctor/b2b",
+              "id": "integrations/sales-doctor/overview",
+              "path": "/uz/docs/integrations/sales-doctor/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/sales-doctor/setup",
+              "path": "/uz/docs/integrations/sales-doctor/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/sales-doctor/usage",
+              "path": "/uz/docs/integrations/sales-doctor/usage",
               "sidebar": "tutorialSidebar"
             },
             {

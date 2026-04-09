@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="ru" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-integrations/sales-doctor/usage" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.1">
+<title data-rh="true">Работа с интеграцией | iBOX</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://help.ibox.io/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://help.ibox.io/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://help.ibox.io/docs/integrations/sales-doctor/usage"><meta data-rh="true" property="og:locale" content="ru"><meta data-rh="true" property="og:locale:alternate" content="uz"><meta data-rh="true" name="docusaurus_locale" content="ru"><meta data-rh="true" name="docsearch:language" content="ru"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Работа с интеграцией | iBOX"><meta data-rh="true" name="description" content="В этом разделе описано, как использовать интеграцию в ежедневной работе, а также как диагностировать и исправлять ошибки."><meta data-rh="true" property="og:description" content="В этом разделе описано, как использовать интеграцию в ежедневной работе, а также как диагностировать и исправлять ошибки."><link data-rh="true" rel="canonical" href="https://help.ibox.io/docs/integrations/sales-doctor/usage"><link data-rh="true" rel="alternate" href="https://help.ibox.io/docs/integrations/sales-doctor/usage" hreflang="ru"><link data-rh="true" rel="alternate" href="https://help.ibox.io/uz/docs/integrations/sales-doctor/usage" hreflang="uz"><link data-rh="true" rel="alternate" href="https://help.ibox.io/docs/integrations/sales-doctor/usage" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Работа и ошибки","item":"https://help.ibox.io/docs/integrations/sales-doctor/usage"}]}</script><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="iBOX RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="iBOX Atom Feed">
+
+
+
+
+
+<link rel="icon" href="/img/favicon.ico" media="(prefers-color-scheme: light)">
+<link rel="icon" href="/img/favicon-dark.ico" media="(prefers-color-scheme: dark)"><link rel="stylesheet" href="/assets/css/styles.a0ee57b3.css">
+<script src="/assets/js/runtime~main.caa47cb6.js" defer="defer"></script>
+<script src="/assets/js/main.388b5e6a.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t="light";var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",e||t),document.documentElement.setAttribute("data-theme-choice",e||t)}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/img/logo.svg"><link rel="preload" as="image" href="/img/logo-dark.svg"><div role="region" aria-label="Перейти к основному содержимому"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Перейти к основному содержимому</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Переключить навигационную панель" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.svg" alt="Логотип iBOX" class="themedComponent__dKv themedComponent--light_rzkv"><img src="/img/logo-dark.svg" alt="Логотип iBOX" class="themedComponent__dKv themedComponent--dark_mMAk"></div><b class="navbar__title text--truncate"></b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/docs/overview/product-overview">Руководство</a><a class="navbar__item navbar__link" href="/blog">Новости</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><div class="navbar__item dropdown dropdown--hoverable dropdown--right"><a href="#" aria-haspopup="true" aria-expanded="false" role="button" class="navbar__link"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" class="iconLanguage_nlXk"><path fill="currentColor" d="M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"></path></svg>Русский</a><ul class="dropdown__menu"><li><a href="/docs/integrations/sales-doctor/usage" target="_self" rel="noopener noreferrer" class="dropdown__link dropdown__link--active" lang="ru">Русский</a></li><li><a href="/uz/docs/integrations/sales-doctor/usage" target="_self" rel="noopener noreferrer" class="dropdown__link" lang="uz">O‘zbekcha</a></li></ul></div><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Переключение между темным и светлым режимом (сейчас используется system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><div class="navbar__search searchBarContainer_NW3z" dir="ltr"><input placeholder="Search" aria-label="Search" class="navbar__search-input searchInput_YFbd" value=""><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Прокрутка к началу" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/docs/overview/product-overview">1. Обзор продукта</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/docs/quick-start/">2. Быстрый старт</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/docs/knowledge/">3. База знаний</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/docs/reports/sales/sales-by-products">4. Отчеты</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/docs/functionality/statuses/shipments">5. Доп. функционал</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" href="/docs/integrations/api">6. Интеграции</a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/integrations/api">Для интеграторов</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" tabindex="0" href="/docs/integrations/sales-doctor/overview">6.1. B2B интеграция с Sales Doctor</a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/integrations/sales-doctor/overview">Обзор</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/integrations/sales-doctor/setup">Настройка</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/docs/integrations/sales-doctor/usage">Работа и ошибки</a></li></ul></li></ul></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Навигационная цепочка текущей страницы"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Главная страница" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">6. Интеграции</span></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">6.1. B2B интеграция с Sales Doctor</span></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Работа и ошибки</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">Содержание этой страницы</button></div><div class="theme-doc-markdown markdown"><header><h1>Работа с интеграцией Sales Doctor</h1></header>
+<p>В этом разделе описано, как использовать интеграцию в ежедневной работе, а также как диагностировать и исправлять ошибки.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="как-работает-процесс">Как работает процесс<a href="#как-работает-процесс" class="hash-link" aria-label="Прямая ссылка на Как работает процесс" title="Прямая ссылка на Как работает процесс">​</a></h2>
+<p>Интеграция работает автоматически:</p>
+<ol>
+<li>Вы создаете <strong>отгрузку в iBox</strong></li>
+<li>iBox отправляет данные в Sales Doctor</li>
+<li>В Sales Doctor создается <strong>неподтвержденное поступление</strong></li>
+<li>Пользователь подтверждает документ</li>
+</ol>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Триггер интеграции</div><div class="admonitionContent_BuS1"><p>Интеграция срабатывает <strong>в момент первого перевода отгрузки в статус «Завершен»</strong>.</p><p>После отправки данных:</p><ul>
+<li>документ помечается как отправленный;</li>
+<li>повторная отправка автоматически <strong>не выполняется</strong>;</li>
+<li>изменение отгрузки или переключение статусов <strong>не приводит к повторной отправке</strong>.</li>
+</ul></div></div>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="создание-отгрузки-в-ibox">Создание отгрузки в iBox<a href="#создание-отгрузки-в-ibox" class="hash-link" aria-label="Прямая ссылка на Создание отгрузки в iBox" title="Прямая ссылка на Создание отгрузки в iBox">​</a></h2>
+<ol>
+<li>Перейдите в <strong>Продажи → Отгрузки</strong></li>
+<li>Нажмите <strong>Плюс</strong></li>
+<li>Выберите клиента<!-- -->
+<ul>
+<li>клиент должен иметь <strong>привязанную интеграцию</strong></li>
+</ul>
+</li>
+<li>Укажите:<!-- -->
+<ul>
+<li>склад</li>
+<li>валюту</li>
+</ul>
+</li>
+<li>Добавьте товары:<!-- -->
+<ul>
+<li>количество</li>
+<li>цену</li>
+</ul>
+</li>
+<li>Нажмите <strong>Сохранить</strong></li>
+</ol>
+<p>После сохранения:</p>
+<ul>
+<li>данные автоматически отправляются в Sales Doctor;</li>
+<li>создается документ поступления со статусом <strong>&quot;В ожидании&quot;</strong>.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="подтверждение-в-sales-doctor">Подтверждение в Sales Doctor<a href="#подтверждение-в-sales-doctor" class="hash-link" aria-label="Прямая ссылка на Подтверждение в Sales Doctor" title="Прямая ссылка на Подтверждение в Sales Doctor">​</a></h2>
+<ol>
+<li>Перейдите в <strong>Склад</strong></li>
+<li>Откройте <strong>Неподтвержденные поступления</strong></li>
+<li>Откройте нужный документ</li>
+<li>Проверьте данные</li>
+<li>Выберите действие:<!-- -->
+<ul>
+<li><strong>Принять</strong> — товар поступает на склад</li>
+<li><strong>Отказать</strong> — документ отклоняется</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="статусы-и-их-значение">Статусы и их значение<a href="#статусы-и-их-значение" class="hash-link" aria-label="Прямая ссылка на Статусы и их значение" title="Прямая ссылка на Статусы и их значение">​</a></h2>
+<table><thead><tr><th>Статус</th><th>Описание</th></tr></thead><tbody><tr><td>В ожидании</td><td>документ создан, но не подтвержден</td></tr><tr><td>Принят</td><td>товар поступил на склад</td></tr><tr><td>Отклонен</td><td>документ отменен</td></tr></tbody></table>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="типовой-сценарий-работы">Типовой сценарий работы<a href="#типовой-сценарий-работы" class="hash-link" aria-label="Прямая ссылка на Типовой сценарий работы" title="Прямая ссылка на Типовой сценарий работы">​</a></h2>
+<ol>
+<li>Менеджер создает отгрузку в iBox</li>
+<li>Данные автоматически отправляются</li>
+<li>В Sales Doctor появляется поступление</li>
+<li>Ответственный сотрудник проверяет данные</li>
+<li>Подтверждает документ</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="что-важно-учитывать">Что важно учитывать<a href="#что-важно-учитывать" class="hash-link" aria-label="Прямая ссылка на Что важно учитывать" title="Прямая ссылка на Что важно учитывать">​</a></h2>
+<ul>
+<li>отгрузка должна быть создана на клиента с интеграцией;</li>
+<li>все товары должны иметь артикул;</li>
+<li>артикулы должны совпадать в обеих системах.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="диагностика-и-ошибки">Диагностика и ошибки<a href="#диагностика-и-ошибки" class="hash-link" aria-label="Прямая ссылка на Диагностика и ошибки" title="Прямая ссылка на Диагностика и ошибки">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="где-смотреть-ошибки">Где смотреть ошибки<a href="#где-смотреть-ошибки" class="hash-link" aria-label="Прямая ссылка на Где смотреть ошибки" title="Прямая ссылка на Где смотреть ошибки">​</a></h3>
+<ol>
+<li>В iBox откройте <strong>Продажи → Отгрузки</strong></li>
+<li>Откройте нужный документ</li>
+<li>Перейдите во вкладку <strong>Логи</strong></li>
+</ol>
+<p>Если есть ошибка:</p>
+<ul>
+<li>в колонке <strong>Статус</strong> будет указано <em>Ошибка</em>;</li>
+<li>в колонке <strong>Информация</strong> — причина.</li>
+</ul>
+<p>Нажмите на сообщение, чтобы увидеть детали.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="частые-проблемы-и-решения">Частые проблемы и решения<a href="#частые-проблемы-и-решения" class="hash-link" aria-label="Прямая ссылка на Частые проблемы и решения" title="Прямая ссылка на Частые проблемы и решения">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-поступление-не-появилось">❌ Поступление не появилось<a href="#-поступление-не-появилось" class="hash-link" aria-label="Прямая ссылка на ❌ Поступление не появилось" title="Прямая ссылка на ❌ Поступление не появилось">​</a></h3>
+<p>Причины:</p>
+<ul>
+<li>клиент не привязан к интеграции;</li>
+<li>токен отсутствует или неверный;</li>
+<li>интеграция выключена;</li>
+<li>ошибка при отправке.</li>
+</ul>
+<p>Решение:</p>
+<ul>
+<li>проверьте настройки интеграции;</li>
+<li>проверьте токен;</li>
+<li>откройте логи и найдите ошибку.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-товары-не-найдены">❌ Товары не найдены<a href="#-товары-не-найдены" class="hash-link" aria-label="Прямая ссылка на ❌ Товары не найдены" title="Прямая ссылка на ❌ Товары не найдены">​</a></h3>
+<p>Причины:</p>
+<ul>
+<li>отсутствует артикул;</li>
+<li>артикулы не совпадают.</li>
+</ul>
+<p>Решение:</p>
+<ul>
+<li>проверьте артикулы в обеих системах;</li>
+<li>исправьте данные;</li>
+<li>выполните повторную отправку.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-неверные-суммы-или-цены">❌ Неверные суммы или цены<a href="#-неверные-суммы-или-цены" class="hash-link" aria-label="Прямая ссылка на ❌ Неверные суммы или цены" title="Прямая ссылка на ❌ Неверные суммы или цены">​</a></h3>
+<p>Причины:</p>
+<ul>
+<li>выбран неправильный тип цены в Sales Doctor;</li>
+<li>ошибка в данных отгрузки.</li>
+</ul>
+<p>Решение:</p>
+<ul>
+<li>проверьте настройки цены;</li>
+<li>проверьте данные документа.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="повторная-отправка-документа">Повторная отправка документа<a href="#повторная-отправка-документа" class="hash-link" aria-label="Прямая ссылка на Повторная отправка документа" title="Прямая ссылка на Повторная отправка документа">​</a></h2>
+<p>Если произошла ошибка:</p>
+<ol>
+<li>Исправьте данные:<!-- -->
+<ul>
+<li>артикулы</li>
+<li>цену</li>
+<li>количество</li>
+</ul>
+</li>
+<li>Сохраните документ</li>
+<li>Нажмите кнопку <strong>повторной отправки (🔄)</strong></li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контроль-интеграции">Контроль интеграции<a href="#контроль-интеграции" class="hash-link" aria-label="Прямая ссылка на Контроль интеграции" title="Прямая ссылка на Контроль интеграции">​</a></h2>
+<p>Рекомендуется:</p>
+<ul>
+<li>регулярно проверять логи;</li>
+<li>отслеживать неподтвержденные поступления;</li>
+<li>назначить ответственного сотрудника.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="лучшие-практики">Лучшие практики<a href="#лучшие-практики" class="hash-link" aria-label="Прямая ссылка на Лучшие практики" title="Прямая ссылка на Лучшие практики">​</a></h2>
+<ul>
+<li>используйте уникальные артикулы;</li>
+<li>не редактируйте документы после отправки;</li>
+<li>тестируйте изменения перед использованием;</li>
+<li>контролируйте ошибки через логи.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="когда-обращаться-в-поддержку">Когда обращаться в поддержку<a href="#когда-обращаться-в-поддержку" class="hash-link" aria-label="Прямая ссылка на Когда обращаться в поддержку" title="Прямая ссылка на Когда обращаться в поддержку">​</a></h2>
+<p>Обратитесь в поддержку, если:</p>
+<ul>
+<li>ошибка не понятна;</li>
+<li>данные не отправляются без причины;</li>
+<li>возникают постоянные дубли;</li>
+<li>интеграция работает нестабильно.</li>
+</ul>
+<hr>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Совет</div><div class="admonitionContent_BuS1"><p>Если вы еще не настроили интеграцию, перейдите к разделу<br>
+<!-- -->👉 <a href="/docs/integrations/sales-doctor/setup">Настройка интеграции</a></p></div></div></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Страница документа"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/integrations/sales-doctor/setup"><div class="pagination-nav__sublabel">Предыдущая страница</div><div class="pagination-nav__label">Настройка</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#как-работает-процесс" class="table-of-contents__link toc-highlight">Как работает процесс</a></li><li><a href="#создание-отгрузки-в-ibox" class="table-of-contents__link toc-highlight">Создание отгрузки в iBox</a></li><li><a href="#подтверждение-в-sales-doctor" class="table-of-contents__link toc-highlight">Подтверждение в Sales Doctor</a></li><li><a href="#статусы-и-их-значение" class="table-of-contents__link toc-highlight">Статусы и их значение</a></li><li><a href="#типовой-сценарий-работы" class="table-of-contents__link toc-highlight">Типовой сценарий работы</a></li><li><a href="#что-важно-учитывать" class="table-of-contents__link toc-highlight">Что важно учитывать</a></li><li><a href="#диагностика-и-ошибки" class="table-of-contents__link toc-highlight">Диагностика и ошибки</a><ul><li><a href="#где-смотреть-ошибки" class="table-of-contents__link toc-highlight">Где смотреть ошибки</a></li></ul></li><li><a href="#частые-проблемы-и-решения" class="table-of-contents__link toc-highlight">Частые проблемы и решения</a><ul><li><a href="#-поступление-не-появилось" class="table-of-contents__link toc-highlight">❌ Поступление не появилось</a></li><li><a href="#-товары-не-найдены" class="table-of-contents__link toc-highlight">❌ Товары не найдены</a></li><li><a href="#-неверные-суммы-или-цены" class="table-of-contents__link toc-highlight">❌ Неверные суммы или цены</a></li></ul></li><li><a href="#повторная-отправка-документа" class="table-of-contents__link toc-highlight">Повторная отправка документа</a></li><li><a href="#контроль-интеграции" class="table-of-contents__link toc-highlight">Контроль интеграции</a></li><li><a href="#лучшие-практики" class="table-of-contents__link toc-highlight">Лучшие практики</a></li><li><a href="#когда-обращаться-в-поддержку" class="table-of-contents__link toc-highlight">Когда обращаться в поддержку</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Документация</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/knowledge">Больше Информации</a></li></ul></div><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Сообщество</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://t.me/ibox_app" target="_blank" rel="noopener noreferrer" class="footer__link-item">Телеграм Канал<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a></li></ul></div><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Дополнительно</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/blog">Блог</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 iBox.</div></div></div></footer></div>
+</body>
+</html>
