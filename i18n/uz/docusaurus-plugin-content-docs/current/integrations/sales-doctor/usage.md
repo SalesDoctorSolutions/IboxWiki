@@ -1,205 +1,205 @@
 ---
 id: usage
-title: Работа с интеграцией
-sidebar_label: Работа и ошибки
+title: Integratsiya bilan ishlash
+sidebar_label: Ishlash va xatolar
 sidebar_position: 3
 ---
 
-# Работа с интеграцией Sales Doctor
+# Sales Doctor integratsiyasi bilan ishlash
 
-В этом разделе описано, как использовать интеграцию в ежедневной работе, а также как диагностировать и исправлять ошибки.
+Ushbu bo‘limda integratsiyadan kundalik ish jarayonida qanday foydalanish, shuningdek xatolarni qanday aniqlash va tuzatish tushuntiriladi.
 
 ---
 
-## Как работает процесс
+## Jarayon qanday ishlaydi
 
-Интеграция работает автоматически:
+Integratsiya avtomatik ishlaydi:
 
-1. Вы создаете **отгрузку в iBox**  
-2. iBox отправляет данные в Sales Doctor  
-3. В Sales Doctor создается **неподтвержденное поступление**  
-4. Пользователь подтверждает документ  
+1. Siz **iBox’da sotuv yaratasiz**
+2. iBox ma’lumotlarni Sales Doctor’ga yuboradi
+3. Sales Doctor’da **tasdiqlanmagan kirim hujjati** yaratiladi
+4. Foydalanuvchi hujjatni tasdiqlaydi
 
-:::info Триггер интеграции
-Интеграция срабатывает **в момент первого перевода отгрузки в статус «Завершен»**.
+:::info Integratsiya ishga tushish sharti
+Integratsiya **sotuv birinchi marta “Yakunlangan” statusiga o‘tkazilganda** ishga tushadi.
 
-После отправки данных:
-- документ помечается как отправленный;
-- повторная отправка автоматически **не выполняется**;
-- изменение отгрузки или переключение статусов **не приводит к повторной отправке**.
+Ma’lumotlar yuborilgandan so‘ng:
+- hujjat yuborilgan deb belgilanadi;
+- qayta yuborish avtomatik ravishda **amalga oshirilmaydi**;
+- sotuvni o‘zgartirish yoki statuslarni almashtirish **qayta yuborishga olib kelmaydi**.
 :::
 
 ---
 
-## Создание отгрузки в iBox
+## iBox’da sotuv yaratish
 
-1. Перейдите в **Продажи → Отгрузки**  
-2. Нажмите **Плюс**  
-3. Выберите клиента  
-   - клиент должен иметь **привязанную интеграцию**  
-4. Укажите:
-   - склад  
-   - валюту  
-5. Добавьте товары:
-   - количество  
-   - цену  
-6. Нажмите **Сохранить**
+1. **Sotuvlar → Sotuvlar** bo‘limiga o‘ting
+2. **Plyus** tugmasini bosing
+3. Mijozni tanlang
+   - mijozga **integratsiya biriktirilgan bo‘lishi kerak**
+4. Quyidagilarni ko‘rsating:
+   - ombor
+   - valyuta
+5. Mahsulotlarni qo‘shing:
+   - miqdor
+   - narx
+6. **Saqlash** tugmasini bosing
 
-После сохранения:
+Saqlangandan so‘ng:
 
-- данные автоматически отправляются в Sales Doctor;
-- создается документ поступления со статусом **"В ожидании"**.
-
----
-
-## Подтверждение в Sales Doctor
-
-1. Перейдите в **Склад**  
-2. Откройте **Неподтвержденные поступления**  
-3. Откройте нужный документ  
-4. Проверьте данные  
-5. Выберите действие:
-   - **Принять** — товар поступает на склад  
-   - **Отказать** — документ отклоняется  
+- ma’lumotlar avtomatik ravishda Sales Doctor’ga yuboriladi;
+- **"Kutilmoqda"** statusidagi kirim hujjati yaratiladi.
 
 ---
 
-## Статусы и их значение
+## Sales Doctor’da tasdiqlash
 
-| Статус        | Описание                              |
-|--------------|----------------------------------------|
-| В ожидании   | документ создан, но не подтвержден     |
-| Принят       | товар поступил на склад                |
-| Отклонен     | документ отменен                       |
-
----
-
-## Типовой сценарий работы
-
-1. Менеджер создает отгрузку в iBox  
-2. Данные автоматически отправляются  
-3. В Sales Doctor появляется поступление  
-4. Ответственный сотрудник проверяет данные  
-5. Подтверждает документ  
+1. **Ombor** bo‘limiga o‘ting
+2. **Tasdiqlanmagan kirimlar** bo‘limini oching
+3. Kerakli hujjatni oching
+4. Ma’lumotlarni tekshiring
+5. Amalni tanlang:
+   - **Qabul qilish** — mahsulot omborga qabul qilinadi
+   - **Rad etish** — hujjat bekor qilinadi
 
 ---
 
-## Что важно учитывать
+## Statuslar va ularning ma’nosi
 
-- отгрузка должна быть создана на клиента с интеграцией;
-- все товары должны иметь артикул;
-- артикулы должны совпадать в обеих системах.
-
----
-
-## Диагностика и ошибки
-
-### Где смотреть ошибки
-
-1. В iBox откройте **Продажи → Отгрузки**  
-2. Откройте нужный документ  
-3. Перейдите во вкладку **Логи**
-
-Если есть ошибка:
-- в колонке **Статус** будет указано *Ошибка*;
-- в колонке **Информация** — причина.
-
-Нажмите на сообщение, чтобы увидеть детали.
+| Status        | Tavsif                                 |
+|--------------|-----------------------------------------|
+| Kutilmoqda   | hujjat yaratilgan, lekin tasdiqlanmagan |
+| Qabul qilindi| mahsulot omborga qabul qilindi             |
+| Rad etildi   | hujjat bekor qilindi                    |
 
 ---
 
-## Частые проблемы и решения
+## Odatiy ish ssenariysi
 
-### ❌ Поступление не появилось
-
-Причины:
-
-- клиент не привязан к интеграции;
-- токен отсутствует или неверный;
-- интеграция выключена;
-- ошибка при отправке.
-
-Решение:
-
-- проверьте настройки интеграции;
-- проверьте токен;
-- откройте логи и найдите ошибку.
+1. Menejer iBox’da sotuv yaratadi
+2. Ma’lumotlar avtomatik ravishda yuboriladi
+3. Sales Doctor’da kirim paydo bo‘ladi
+4. Mas’ul xodim ma’lumotlarni tekshiradi
+5. Hujjatni tasdiqlaydi
 
 ---
 
-### ❌ Товары не найдены
+## Muhim jihatlar
 
-Причины:
-
-- отсутствует артикул;
-- артикулы не совпадают.
-
-Решение:
-
-- проверьте артикулы в обеих системах;
-- исправьте данные;
-- выполните повторную отправку.
+- sotuv integratsiya ulangan mijoz uchun yaratilgan bo‘lishi kerak;
+- barcha mahsulotlarda artikul bo‘lishi kerak;
+- artikullar har ikki tizimda bir xil bo‘lishi kerak.
 
 ---
 
-### ❌ Неверные суммы или цены
+## Diagnostika va xatolar
 
-Причины:
+### Xatolarni qayerdan ko‘rish mumkin
 
-- выбран неправильный тип цены в Sales Doctor;
-- ошибка в данных отгрузки.
+1. iBox’da **Sotuvlar → Sotuvlar** bo‘limini oching
+2. Kerakli hujjatni oching
+3. **Loglar** yorlig‘iga o‘ting
 
-Решение:
+Agar xato bo‘lsa:
+- **Status** ustunida *Xato* deb ko‘rsatiladi;
+- **Ma’lumot** ustunida esa sabab ko‘rsatiladi.
 
-- проверьте настройки цены;
-- проверьте данные документа.
-
----
-
-## Повторная отправка документа
-
-Если произошла ошибка:
-
-1. Исправьте данные:
-   - артикулы  
-   - цену  
-   - количество  
-2. Сохраните документ  
-3. Нажмите кнопку **повторной отправки (🔄)**  
+Batafsil ma’lumotni ko‘rish uchun xabar ustiga bosing.
 
 ---
 
-## Контроль интеграции
+## Tez-tez uchraydigan muammolar va yechimlar
 
-Рекомендуется:
+### ❌ Kirim hujjati paydo bo‘lmadi
 
-- регулярно проверять логи;
-- отслеживать неподтвержденные поступления;
-- назначить ответственного сотрудника.
+Sabablari:
 
----
+- mijoz integratsiyaga ulanmagan;
+- token yo‘q yoki noto‘g‘ri;
+- integratsiya o‘chirilgan;
+- yuborishda xatolik yuz bergan.
 
-## Лучшие практики
+Yechim:
 
-- используйте уникальные артикулы;
-- не редактируйте документы после отправки;
-- тестируйте изменения перед использованием;
-- контролируйте ошибки через логи.
-
----
-
-## Когда обращаться в поддержку
-
-Обратитесь в поддержку, если:
-
-- ошибка не понятна;
-- данные не отправляются без причины;
-- возникают постоянные дубли;
-- интеграция работает нестабильно.
+- integratsiya sozlamalarini tekshiring;
+- tokenni tekshiring;
+- loglarni ochib, xatoni toping.
 
 ---
 
-:::tip Совет
-Если вы еще не настроили интеграцию, перейдите к разделу  
-👉 [Настройка интеграции](./setup)
+### ❌ mahsulotlar topilmadi
+
+Sabablari:
+
+- artikul mavjud emas;
+- artikullar mos kelmaydi.
+
+Yechim:
+
+- har ikki tizimdagi artikullarni tekshiring;
+- ma’lumotlarni to‘g‘rilang;
+- qayta yuborishni amalga oshiring.
+
+---
+
+### ❌ Noto‘g‘ri summalar yoki narxlar
+
+Sabablari:
+
+- Sales Doctor’da noto‘g‘ri narx turi tanlangan;
+- sotuv ma’lumotlarida xatolik bor.
+
+Yechim:
+
+- narx sozlamalarini tekshiring;
+- hujjat ma’lumotlarini tekshiring.
+
+---
+
+## Hujjatni qayta yuborish
+
+Agar xatolik yuz bersa:
+
+1. Ma’lumotlarni tuzating:
+   - artikullar
+   - narx
+   - miqdor
+2. Hujjatni saqlang
+3. **Qayta yuborish (🔄)** tugmasini bosing
+
+---
+
+## Integratsiyani nazorat qilish
+
+Tavsiya etiladi:
+
+- loglarni muntazam tekshirib borish;
+- tasdiqlanmagan kirimlarni kuzatib borish;
+- mas’ul xodim tayinlash.
+
+---
+
+## Eng yaxshi amaliyotlar
+
+- noyob artikullardan foydalaning;
+- yuborilgandan keyin hujjatlarni tahrirlamang;
+- o‘zgarishlarni ishlatishdan oldin test qiling;
+- xatolarni loglar orqali nazorat qiling.
+
+---
+
+## Qachon qo‘llab-quvvatlash xizmatiga murojaat qilish kerak
+
+Quyidagi holatlarda qo‘llab-quvvatlash xizmatiga murojaat qiling:
+
+- xatolik tushunarsiz bo‘lsa;
+- ma’lumotlar sababsiz yuborilmasa;
+- doimiy dublikatlar paydo bo‘lsa;
+- integratsiya beqaror ishlasa.
+
+---
+
+:::tip Maslahat
+Agar siz hali integratsiyani sozlamagan bo‘lsangiz, quyidagi bo‘limga o‘ting  
+👉 [Integratsiyani sozlash](./setup)
 :::
