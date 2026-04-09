@@ -1,135 +1,135 @@
 ---
 id: setup
-title: Настройка интеграции
-sidebar_label: Настройка
+title: Integratsiyani sozlash
+sidebar_label: Sozlash
 sidebar_position: 2
 ---
 
-# Настройка интеграции с Sales Doctor
+# Sales Doctor bilan integratsiyani sozlash
 
-В этом разделе описан полный процесс подключения интеграции между iBox и Sales Doctor.
+Ushbu bo‘limda iBox va Sales Doctor o‘rtasidagi integratsiyani ulashning to‘liq jarayoni bayon qilingan.
 
 ---
 
-## Требования
+## Talablar
 
-Перед началом убедитесь, что:
+Boshlashdan oldin quyidagilarga ishonch hosil qiling:
 
-- у вас есть доступ к iBox и Sales Doctor;
-- у вас есть права администратора;
-- в обеих системах созданы товары;
-- у товаров заполнен **артикул**;
-- артикулы **совпадают** в обеих системах.
+- sizda iBox va Sales Doctor tizimlariga kirish mavjud;
+- sizda administrator huquqlari mavjud;
+- har ikkala tizimda ham mahsulotlar yaratilgan;
+- mahsulotlarda **artikul** to‘ldirilgan;
+- artikullar har ikkala tizimda **bir xil**.
 
-:::warning Важно
-Артикул — это основной идентификатор товара.  
-Если артикулы не совпадают, товары не будут сопоставлены.
+:::warning Muhim
+Artikul — mahsulotning asosiy identifikatori.  
+Agar artikullar mos kelmasa, mahsulotlar bir-biriga bog‘lanmaydi.
 :::
 
 ---
 
-## Общая схема подключения
+## Ulanishning umumiy sxemasi
 
-Интеграция настраивается в два этапа:
+Integratsiya ikki bosqichda sozlanadi:
 
-1. В **Sales Doctor**:
-   - включается интеграция;
-   - создается поставщик (iBox);
-   - генерируется токен.
+1. **Sales Doctor** tizimida:
+   - integratsiya yoqiladi;
+   - ta'minotchi (iBox) yaratiladi;
+   - token yaratiladi.
 
-2. В **iBox**:
-   - включается интеграция;
-   - создается клиент;
-   - привязывается токен.
-
----
-
-## Шаг 1. Настройка в Sales Doctor
-
-### 1.1 Включение интеграции
-
-1. Перейдите в **Настройки**  
-2. Откройте раздел **27. Интеграция**  
-3. В блоке **iBox** нажмите **Интеграция**  
-4. Укажите:
-   - склад поступления;
-   - тип цены  
-5. Нажмите **Сохранить**
+2. **iBox** tizimida:
+   - integratsiya yoqiladi;
+   - mijoz yaratiladi;
+   - token bog‘lanadi.
 
 ---
 
-### 1.2 Добавление поставщика (iBox)
+## 1-qadam. Sales Doctor’da sozlash
 
-1. Откройте модуль **Касса**  
-2. Перейдите в раздел **Поставщики**  
-3. Нажмите **Добавить**  
-4. Заполните:
-   - название  
-   - телефон  
-   - адрес  
-5. В поле **Тип системы** выберите **iBox**  
-6. Нажмите **Сохранить**
+### 1.1 Integratsiyani yoqish
 
-После создания поставщика:
-
-- в таблице появится **токен поставщика**;
-- скопируйте его — он потребуется для настройки в iBox.
+1. **Sozlamalar** bo‘limiga o‘ting  
+2. **27. Integratsiya** bo‘limini oching  
+3. **iBox** blokida **Integratsiya** tugmasini bosing  
+4. Quyidagilarni ko‘rsating:
+   - qabul ombori;
+   - narx turi  
+5. **Saqlash** tugmasini bosing
 
 ---
 
-## Шаг 2. Настройка в iBox
+### 1.2 Ta'minotchini qo‘shish (iBox)
 
-### 2.1 Включение интеграции
+1. **Kassa** modulini oching  
+2. **Ta'minotchilar** bo‘limiga o‘ting  
+3. **Qo‘shish** tugmasini bosing  
+4. Quyidagilarni to‘ldiring:
+   - nomi  
+   - telefon  
+   - manzil  
+5. **Tizim turi** maydonida **iBox** ni tanlang  
+6. **Saqlash** tugmasini bosing
 
-1. Перейдите в **Настройки**  
-2. Откройте раздел **Интеграции**  
-3. Найдите **Sales Doctor**  
-4. Нажмите **⚙️ (шестеренка)**  
-5. Выберите опцию **Сделать активным**
+Ta'minotchi yaratilgandan so‘ng:
 
----
-
-### 2.2 Создание и настройка клиента
-
-1. [Создайте клиента](/knowledge/customers/customer-add.md#customer-add) в iBox  
-2. Откройте карточку клиента  
-3. Перейдите в раздел **Интеграции**  
-4. Нажмите **Плюс**  
-5. Вставьте **токен поставщика** из Sales Doctor  
-6. Нажмите **Сохранить**
+- jadvalda **ta'minotchi tokeni** paydo bo‘ladi;
+- uni nusxalab oling — u iBox’da sozlash uchun kerak bo‘ladi.
 
 ---
 
-## Проверка настройки
+## 2-qadam. iBox’da sozlash
 
-После завершения настройки рекомендуется выполнить тест:
+### 2.1 Integratsiyani yoqish
 
-1. Создайте тестовую отгрузку в iBox  
-2. Убедитесь, что:
-   - выбран клиент с привязанным токеном  
-   - у товаров есть артикулы  
-3. Проверьте, появился ли документ в Sales Doctor  
-
----
-
-## Ограничения настройки
-
-- один токен привязывается к одному клиенту;
-- интеграция работает только для клиентов с токеном;
-- изменение токена требует повторной настройки.
+1. **Sozlamalar** bo‘limiga o‘ting  
+2. **Integratsiyalar** bo‘limini oching  
+3. **Sales Doctor** ni toping  
+4. **⚙️ (sozlamalar)** tugmasini bosing  
+5. **Faol qilish** opsiyasini tanlang
 
 ---
 
-## Рекомендации
+### 2.2 Mijozni yaratish va sozlash
 
-- используйте единый формат артикулов;
-- сначала настройте интеграцию на тестовых данных;
-- проверьте работу на одном клиенте перед масштабированием;
-- храните токены в безопасном месте.
+1. iBox’da [mijoz yarating](/knowledge/customers/customer-add.md#customer-add)  
+2. Mijoz kartasini oching  
+3. **Integratsiyalar** bo‘limiga o‘ting  
+4. **Plus** tugmasini bosing  
+5. Sales Doctor’dan olingan **ta'minotchi tokeni**ni kiriting  
+6. **Saqlash** tugmasini bosing
 
 ---
 
-:::tip Совет
-После успешной настройки перейдите к разделу  
-👉 [Работа с интеграцией](./usage)
+## Sozlamani tekshirish
+
+Sozlash tugagandan so‘ng test o‘tkazish tavsiya etiladi:
+
+1. iBox’da test sotuvni yarating  
+2. Quyidagilarga ishonch hosil qiling:
+   - token bog‘langan mijoz tanlangan  
+   - mahsulotlarda artikullar mavjud  
+3. Sales Doctor’da hujjat paydo bo‘lganini tekshiring  
+
+---
+
+## Sozlashdagi cheklovlar
+
+- bitta token bitta mijozga bog‘lanadi;
+- integratsiya faqat token bog‘langan mijozlar uchun ishlaydi;
+- token o‘zgartirilsa, qayta sozlash talab etiladi.
+
+---
+
+## Tavsiyalar
+
+- artikullar uchun yagona formatdan foydalaning;
+- avval integratsiyani test ma’lumotlarida sozlang;
+- kengaytirishdan oldin bitta mijozda ishlashini tekshiring;
+- tokenlarni xavfsiz joyda saqlang.
+
+---
+
+:::tip Maslahat
+Sozlash muvaffaqiyatli yakunlangandan so‘ng quyidagi bo‘limga o‘ting  
+👉 [Integratsiya bilan ishlash](./usage)
 :::

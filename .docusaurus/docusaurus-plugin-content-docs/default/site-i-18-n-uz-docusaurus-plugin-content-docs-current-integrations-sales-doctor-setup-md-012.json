@@ -1,7 +1,7 @@
 {
   "id": "integrations/sales-doctor/setup",
-  "title": "Настройка интеграции",
-  "description": "В этом разделе описан полный процесс подключения интеграции между iBox и Sales Doctor.",
+  "title": "Integratsiyani sozlash",
+  "description": "Ushbu bo‘limda iBox va Sales Doctor o‘rtasidagi integratsiyani ulashning to‘liq jarayoni bayon qilingan.",
   "source": "@site/i18n/uz/docusaurus-plugin-content-docs/current/integrations/sales-doctor/setup.md",
   "sourceDirName": "integrations/sales-doctor",
   "slug": "/integrations/sales-doctor/setup",
@@ -13,8 +13,8 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "id": "setup",
-    "title": "Настройка интеграции",
-    "sidebar_label": "Настройка",
+    "title": "Integratsiyani sozlash",
+    "sidebar_label": "Sozlash",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
