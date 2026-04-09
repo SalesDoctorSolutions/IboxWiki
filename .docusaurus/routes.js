@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', '399'),
+    component: ComponentCreator('/uz/docs', 'd84'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', '5c8'),
+        component: ComponentCreator('/uz/docs', '831'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'e90'),
+            component: ComponentCreator('/uz/docs', '5ab'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -335,13 +335,13 @@ export default [
               },
               {
                 path: '/uz/docs/integrations/api',
-                component: ComponentCreator('/uz/docs/integrations/api', '605'),
+                component: ComponentCreator('/uz/docs/integrations/api', 'f12'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/uz/docs/integrations/sales-doctor/b2b',
-                component: ComponentCreator('/uz/docs/integrations/sales-doctor/b2b', '074'),
+                component: ComponentCreator('/uz/docs/integrations/sales-doctor/b2b', '254'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

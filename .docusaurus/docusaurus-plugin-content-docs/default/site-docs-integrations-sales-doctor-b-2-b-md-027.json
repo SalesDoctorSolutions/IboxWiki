@@ -5,7 +5,7 @@
   "source": "@site/docs/integrations/sales-doctor/b2b.md",
   "sourceDirName": "integrations/sales-doctor",
   "slug": "/integrations/sales-doctor/b2b",
-  "permalink": "/uz/docs/integrations/sales-doctor/b2b",
+  "permalink": "/docs/integrations/sales-doctor/b2b",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Для интеграторов",
-    "permalink": "/uz/docs/integrations/api"
+    "permalink": "/docs/integrations/api"
   }
 }

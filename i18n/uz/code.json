@@ -407,5 +407,8 @@
   },
   "homepage.title": {
     "message": "iBox — biznesni avtomatlashtirish tizimi"
+  },
+  "homepage.meta.title": {
+    "message": "iBox Docs"
   }
 }

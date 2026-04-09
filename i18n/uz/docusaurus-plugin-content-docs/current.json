@@ -122,5 +122,13 @@
   "sidebar.tutorialSidebar.category.5.8. CRM": {
     "message": "5.8. CRM",
     "description": "The label for category 5.8. CRM in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.6. Интеграции": {
+    "message": "6. Integratsiyalar",
+    "description": "The label for category 6. Интеграции in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.6.1. Интеграция с Sales Doctor": {
+    "message": "6.1. Sales Doctor bilan integratsiya",
+    "description": "The label for category 6.1. Интеграция с Sales Doctor in sidebar tutorialSidebar"
   }
 }
