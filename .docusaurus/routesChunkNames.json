@@ -107,17 +107,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/uz/docs-ef6": {
+  "/uz/docs-d26": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/uz/docs-d13": {
+  "/uz/docs-af4": {
     "__comp": "a7bd4aaa",
     "__props": "43315e98"
   },
-  "/uz/docs-a26": {
+  "/uz/docs-f5e": {
     "__comp": "a94703ab"
   },
   "/uz/docs/functionality/crm/-f12": {
@@ -171,6 +171,10 @@
   "/uz/docs/functionality/finance/vat-9f6": {
     "__comp": "17896441",
     "content": "5609b41f"
+  },
+  "/uz/docs/functionality/installments/-cec": {
+    "__comp": "17896441",
+    "content": "6d55f43f"
   },
   "/uz/docs/functionality/interface/base-unit-3dd": {
     "__comp": "17896441",

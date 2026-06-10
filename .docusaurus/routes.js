@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/uz/docs',
-    component: ComponentCreator('/uz/docs', 'ef6'),
+    component: ComponentCreator('/uz/docs', 'd26'),
     routes: [
       {
         path: '/uz/docs',
-        component: ComponentCreator('/uz/docs', 'd13'),
+        component: ComponentCreator('/uz/docs', 'af4'),
         routes: [
           {
             path: '/uz/docs',
-            component: ComponentCreator('/uz/docs', 'a26'),
+            component: ComponentCreator('/uz/docs', 'f5e'),
             routes: [
               {
                 path: '/uz/docs/functionality/crm/',
@@ -146,6 +146,11 @@ export default [
                 component: ComponentCreator('/uz/docs/functionality/finance/vat', '9f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/uz/docs/functionality/installments/',
+                component: ComponentCreator('/uz/docs/functionality/installments/', 'cec'),
+                exact: true
               },
               {
                 path: '/uz/docs/functionality/interface/base-unit',

@@ -76,6 +76,10 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "functionality/installments/installments",
+              "path": "/uz/docs/functionality/installments/"
+            },
+            {
               "id": "functionality/interface/base-unit",
               "path": "/uz/docs/functionality/interface/base-unit",
               "sidebar": "tutorialSidebar"

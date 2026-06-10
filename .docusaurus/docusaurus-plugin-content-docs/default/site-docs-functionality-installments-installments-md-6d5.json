@@ -1,0 +1,20 @@
+{
+  "id": "functionality/installments/installments",
+  "title": "Рассрочка",
+  "description": "",
+  "source": "@site/docs/functionality/installments/installments.md",
+  "sourceDirName": "functionality/installments",
+  "slug": "/functionality/installments/",
+  "permalink": "/uz/docs/functionality/installments/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "installments",
+    "title": "Рассрочка",
+    "sidebar_label": "Рассрочка",
+    "sidebar_position": 1
+  }
+}

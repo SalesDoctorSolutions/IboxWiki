@@ -49,31 +49,22 @@ Tizim turli biznes turlari uchun mos keladigan bir nechta tariflarni taklif qila
 
 - **Solo**
   - 1 foydalanuvchi  
-  - 2 tagacha kassa  
   - 1 ombor  
 
 - **Standard**
   - 3 tagacha foydalanuvchi  
-  - 1 ta korxona  
-  - 3 tagacha kassa  
+  - 1 ta korxona   
   - 3 tagacha ombor  
 
 - **Pro**
   - 6 tagacha foydalanuvchi  
   - 2 tagacha korxona  
-  - 10 tagacha kassa  
   - 6 tagacha ombor  
 
 - **Business**
   - 10 tagacha foydalanuvchi  
-  - 4 tagacha korxona  
-  - kassalar soni cheklanmagan  
-  - 12 tagacha ombor  
-
-:::warning Muhim
-Cheklovlar **2026-yil 1-maydan** kuchga kiradi.  
-Shu vaqtgacha faqat foydalanuvchilar soni bo‘yicha cheklov amal qiladi, funksionallik esa cheklovsiz mavjud bo‘ladi.
-:::
+  - 10 tagacha korxona  
+  - 6 tagacha ombor  
 
 ---
 
@@ -85,7 +76,7 @@ Shu vaqtgacha faqat foydalanuvchilar soni bo‘yicha cheklov amal qiladi, funksi
 3. Mos tarifni tanlang.  
 4. Ochilgan oynada:
    - kerak bo‘lsa foydalanuvchilarni qo‘shing;  
-   - **Telegram-bot**ni yoqing (belgilash katagiga belgi qo‘ying).  
+   - kerakli modullarni qo'sing 
 5. To‘lov usulini tanlang — **Click** yoki **Payme**.  
 6. **To‘lov kiritish** tugmasini bosing.
 
